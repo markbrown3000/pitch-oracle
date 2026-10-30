@@ -39,6 +39,9 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 16px;margin-bottom:14px}
 h1{font-family:var(--display);font-weight:800;font-size:clamp(34px,7vw,52px);line-height:.9;letter-spacing:.01em;text-transform:uppercase;margin:0;text-wrap:balance}
 h1 span{color:var(--accent)}
+.swarn{grid-column:1/-1;background:var(--warn-bg);color:var(--ink);border:1px solid var(--warn);border-radius:10px;padding:10px 12px;margin-top:8px;font-size:13.5px;max-width:60ch}
+.swarn p{margin:0 0 8px}
+.swarn-act{display:flex;gap:8px;flex-wrap:wrap}
 .rota{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 20px;background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:12px;padding:14px 16px;margin:0 0 16px;box-shadow:var(--shadow)}
 .rota-name{font-family:var(--display);font-weight:800;font-size:40px;line-height:1;text-transform:uppercase;color:var(--accent);margin-top:4px}
 .rota-sub{font-size:13.5px;color:var(--muted);margin-top:4px}
@@ -263,7 +266,7 @@ const isFavTeam=(code,abbr)=>FAVS.teams.includes(code+":"+abbr);
 const isFavLeague=code=>FAVS.leagues.includes(code);
 const isFavMatch=(code,h,a)=>isFavLeague(code)||isFavTeam(code,h)||isFavTeam(code,a);
 function toggleFav(kind,key){const L=FAVS[kind];const i=L.indexOf(key);if(i>=0)L.splice(i,1);else L.push(key);saveFavs();render();if(typeof scheduleNotifications==="function")try{scheduleNotifications()}catch(e){}}
-const state={leagues:{},group:"all",tab:"all",open:null,why:{},f:{dFrom:"",dTo:"",tFrom:"",tTo:"",strength:""},q:""};
+const state={leagues:{},group:"all",tab:"all",open:null,why:{},f:{dFrom:"",dTo:"",tFrom:"",tTo:"",strength:"strong"},q:"",askStrength:null};
 let sample=null;
 
 /* MODEL-START (shared with the scheduled refresh: keep self-contained, no DOM) */
@@ -466,8 +469,20 @@ function renderFilters(){
   mk(document.getElementById("dayPresets"),dayPresets(),"dFrom","dTo");
   mk(document.getElementById("timePresets"),TIME_PRESETS,"tFrom","tTo");
   const sb=document.getElementById("strengthPresets");sb.replaceChildren();
-  [["All picks",""],["Strong only","strong"],["Strong and lean","lean"]].forEach(([n,v])=>{const bt=el("button",null,n);bt.type="button";bt.setAttribute("aria-pressed",String((F.strength||"")===v));bt.onclick=()=>{F.strength=v;saveF();render()};sb.append(bt)});
-  document.getElementById("clearF").hidden=!(F.dFrom||F.dTo||F.tFrom||F.tTo||F.strength||state.q);
+  [["All picks",""],["Strong only","strong"],["Strong and lean","lean"]].forEach(([n,v])=>{const bt=el("button",null,n);bt.type="button";bt.setAttribute("aria-pressed",String((F.strength||"")===v));
+    bt.onclick=()=>{if(F.strength==="strong"&&v!=="strong"){state.askStrength=v;render();return}state.askStrength=null;F.strength=v;saveF();render()};sb.append(bt)});
+  // warning before showing weaker picks
+  let warn=document.getElementById("strengthWarn");if(warn)warn.remove();
+  if(state.askStrength!=null){
+    warn=el("div","swarn");warn.id="strengthWarn";warn.setAttribute("role","alert");
+    warn.append(el("p",null,state.askStrength==="lean"
+      ?"Heads up: lean picks (45–60%) are much less reliable than strong ones. In this season's replay they were right only about half the time, against about 3 in 4 for strong picks. Show them anyway?"
+      :"Heads up: this adds lean and toss-up picks, which are much less reliable. In this season's replay lean picks were right about half the time and toss-ups only about 4 in 10, against about 3 in 4 for strong picks. Show them anyway?"));
+    const yes=el("button","btn","Show them");yes.type="button";yes.onclick=()=>{F.strength=state.askStrength;state.askStrength=null;saveF();render()};
+    const no=el("button","btn ghost","Keep strong only");no.type="button";no.onclick=()=>{state.askStrength=null;render()};
+    const row=el("div","swarn-act");row.append(yes,no);warn.append(row);sb.after(warn);
+  }
+  document.getElementById("clearF").hidden=!(F.dFrom||F.dTo||F.tFrom||F.tTo||F.strength!=="strong"||state.q);
   const tq=document.getElementById("teamQ");if(document.activeElement!==tq&&tq.value!==state.q)tq.value=state.q;
   const dl=document.getElementById("teamList");const names=[...new Set(Object.values(state.leagues).flatMap(l=>(l.standings||[]).map(s=>s.team)))].sort();
   if(dl.childElementCount!==names.length){dl.replaceChildren(...names.map(n=>{const o=document.createElement("option");o.value=n;return o}))}
@@ -787,7 +802,8 @@ function renderRecord(){
   const done=all.filter(x=>x.result&&["H","X","A"].includes(x.result.outcome));
   const pending=all.length-done.length;
   body.replaceChildren();
-  if(filtered)body.append(el("p","rec-note filt","Showing only picks that match your league, team and filter choices. Clear them to see the full record."));
+  if(filtered){const F=state.f,onlyStrong=F.strength==="strong"&&!(state.q||F.dFrom||F.dTo||F.tFrom||F.tTo||state.tab!=="all"||state.group!=="all");
+    body.append(el("p","rec-note filt",onlyStrong?"Showing strong picks only (60%+). Choose All picks under Pick strength to see the full record.":"Showing only picks that match your league, team and filter choices. Clear them to see the full record."))}
   if(bt.length)body.append(backtestBlock(bt,filtered));
   else if(filtered)body.append(el("div","empty","No replayed matches match these filters. Kick-off time filters only apply to live picks, because the replay doesn't store kick-off times."));
   if(!done.length){
@@ -1234,8 +1250,9 @@ async function loadData(byUser){
 /* ---------- boot ---------- */
 try{const t=JSON.parse(localStorage.getItem("b5tab")||"null");if(t&&t.g){state.group=t.g;state.tab=t.t||"all"}}catch(e){}
 try{const f=JSON.parse(localStorage.getItem("b5f")||"null");if(f)Object.assign(state.f,f)}catch(e){}
+state.f.strength="strong";   // each visit starts on Strong only
 ["dFrom","dTo","tFrom","tTo"].forEach(k=>document.getElementById(k).addEventListener("change",e=>{state.f[k]=e.target.value;if(k==="dFrom"&&state.f.dTo&&state.f.dTo<state.f.dFrom)state.f.dTo=state.f.dFrom;saveF();render()}));
-document.getElementById("clearF").onclick=()=>{state.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:""};state.q="";saveF();render()};
+document.getElementById("clearF").onclick=()=>{state.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:"strong"};state.q="";state.askStrength=null;saveF();render()};
 document.getElementById("teamQ").addEventListener("input",e=>{state.q=e.target.value;state.open=null;render()});
 render();renderNext();setupRefresh();
 loadData(false);
