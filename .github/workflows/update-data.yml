@@ -1,0 +1,28 @@
+# Downloads the latest football-data.co.uk files into data/ so the web page can read them.
+# Runs every 3 hours, and whenever you press "Run workflow" on the Actions tab.
+name: Update football data
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download files
+        run: |
+          mkdir -p data
+          UA="Mozilla/5.0 (PitchOracle data mirror)"
+          curl -fsSL -A "$UA" -o data/all-euro-data-2026-2027.xlsx https://www.football-data.co.uk/mmz4281/2627/all-euro-data-2026-2027.xlsx
+          curl -fsSL -A "$UA" -o data/fixtures.csv https://www.football-data.co.uk/fixtures.csv
+          curl -fsSL -A "$UA" -o data/Latest_Results.csv https://www.football-data.co.uk/mmz4281/2627/Latest_Results.csv || true
+          ls -la data
+      - name: Save if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Update football data" && git push)
