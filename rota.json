@@ -1,5 +1,11 @@
 {
-  "order": ["Chris", "Mark", "Paddy"],
+  "order": [
+    "Chris",
+    "Mark",
+    "Paddy"
+  ],
   "start": "2026-10-30",
-  "overrides": []
+  "overrides": [
+    "2026-10-30"
+  ]
 }
