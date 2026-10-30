@@ -1,0 +1,46 @@
+# Applies the "Didn't do last week" / "Undo" buttons on the Pitch Oracle page.
+# The button opens a GitHub issue with one of those titles; this job updates rota.json and closes the issue.
+name: Rota
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+jobs:
+  rota:
+    if: github.event.issue.title == 'Didn''t do last week' || github.event.issue.title == 'Undo didn''t do last week'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update rota.json
+        env:
+          TITLE: ${{ github.event.issue.title }}
+        run: |
+          python3 - <<'PY'
+          import json, os, datetime, zoneinfo
+          path = "rota.json"
+          try:
+              r = json.load(open(path))
+          except FileNotFoundError:
+              r = {"order": ["Chris", "Mark", "Paddy"], "start": "2026-10-30", "overrides": []}
+          today = datetime.datetime.now(zoneinfo.ZoneInfo("Europe/London")).date().isoformat()
+          ov = r.setdefault("overrides", [])
+          if os.environ["TITLE"].startswith("Undo"):
+              if ov: ov.pop()
+          else:
+              ov.append(today)
+          json.dump(r, open(path, "w"), indent=2)
+          print(json.dumps(r))
+          PY
+      - name: Save
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add rota.json
+          git diff --cached --quiet || git commit -m "Rota: ${{ github.event.issue.title }}"
+          git pull --rebase && git push
+      - name: Close the issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }} --comment "Done. The rota on the page updates in a minute or two."
