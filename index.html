@@ -39,6 +39,11 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 16px;margin-bottom:14px}
 h1{font-family:var(--display);font-weight:800;font-size:clamp(34px,7vw,52px);line-height:.9;letter-spacing:.01em;text-transform:uppercase;margin:0;text-wrap:balance}
 h1 span{color:var(--accent)}
+.rota{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 20px;background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:12px;padding:14px 16px;margin:0 0 16px;box-shadow:var(--shadow)}
+.rota-name{font-family:var(--display);font-weight:800;font-size:40px;line-height:1;text-transform:uppercase;color:var(--accent);margin-top:4px}
+.rota-sub{font-size:13.5px;color:var(--muted);margin-top:4px}
+.rota-act{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.rota-act .note{font-size:12.5px;color:var(--muted);max-width:32ch}
 .tagline{font-family:var(--mono);font-size:12.5px;color:var(--muted);letter-spacing:.04em;margin-top:6px}
 .asof{font-family:var(--mono);font-size:12px;color:var(--muted)}
 .tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);display:flex;gap:6px;overflow-x:auto;padding-block:8px;margin-bottom:14px;border-bottom:1px solid var(--line);scrollbar-width:none}
@@ -84,6 +89,7 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .recent .txt{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .btblock{display:grid;gap:10px;margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid var(--line)}
 .rec-note{font-size:13.5px;color:var(--muted);margin-top:10px;max-width:68ch}
+.rec-note.filt{color:var(--accent-ink);background:var(--warn-bg);border-radius:8px;padding:8px 12px;margin:0 0 12px}
 .search{flex-basis:100%}
 .search input{width:100%;max-width:420px;font-family:var(--body);font-size:15px;padding:9px 11px}
 .teams mark{background:var(--warn-bg);color:inherit;border-radius:3px;padding:0 2px}
@@ -174,6 +180,14 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
       </div>
     </div>
   </header>
+  <section class="rota" id="rota" aria-live="polite">
+    <div class="rota-main">
+      <div class="label">This week's turn</div>
+      <div class="rota-name" id="rotaName">…</div>
+      <div class="rota-sub" id="rotaSub"></div>
+    </div>
+    <div class="rota-act" id="rotaAct"></div>
+  </section>
   <nav class="tabs" id="groups" aria-label="League group"></nav>
   <div class="chips" id="tabs" aria-label="Competition"></div>
   <section class="filters" aria-label="Filter fixtures">
@@ -490,6 +504,30 @@ function allMatches(){
   }).sort((x,y)=>x.start-y.start);
 }
 
+/* ---------- whose turn (rota) ---------- */
+// Changes every Friday (UK). Each "didn't do last week" sends the turn back one person from that week on.
+const ROTA_DEFAULT={order:["Chris","Mark","Paddy"],start:"2026-10-30",overrides:[]};
+let ROTA=ROTA_DEFAULT, rotaSave=null, rotaNote="";
+const fridayOf=key=>{const d=new Date(key+"T12:00:00Z");return addDays(key,-((d.getUTCDay()+2)%7))};
+function rotaAt(key){
+  const r=ROTA, n=r.order.length; const wk=Math.round((Date.parse(fridayOf(key))-Date.parse(r.start))/(7*864e5));
+  const back=(r.overrides||[]).filter(d=>d<=key).length;
+  return r.order[(((wk-back)%n)+n)%n];
+}
+function renderRota(){
+  const today=keyFmt.format(new Date()),fri=fridayOf(today),nextFri=addDays(fri,7);
+  document.getElementById("rotaName").textContent=rotaAt(today);
+  document.getElementById("rotaSub").textContent=`Since ${shortDay.format(new Date(fri+"T12:00:00Z"))} · next: ${rotaAt(nextFri)} from ${shortDay.format(new Date(nextFri+"T12:00:00Z"))}`;
+  const act=document.getElementById("rotaAct");act.replaceChildren();
+  if(!rotaSave)return;
+  const ov=ROTA.overrides||[],lastThisWeek=ov.length&&ov[ov.length-1]>=fri;
+  const prev=ROTA.order[(ROTA.order.indexOf(rotaAt(today))-1+ROTA.order.length)%ROTA.order.length];
+  const b=el("button","btn ghost","Didn't do last week");b.type="button";b.title=`Hands this week back to ${prev}`;
+  b.onclick=()=>rotaSave({...ROTA,overrides:[...ov,today]},"skip");act.append(b);
+  if(lastThisWeek){const u=el("button","clear","Undo");u.type="button";u.onclick=()=>rotaSave({...ROTA,overrides:ov.slice(0,-1)},"undo");act.append(u)}
+  if(rotaNote)act.append(el("span","note",rotaNote));
+}
+
 /* ---------- render ---------- */
 function groupCodes(){
   if(state.group==="fav")return LEAGUE_ORDER.filter(c=>isFavLeague(c)||FAVS.teams.some(t=>t.startsWith(c+":")));
@@ -513,7 +551,8 @@ function pickLabel(m){
   const {p}=m; const name=p.pick==="H"?m.h.team:p.pick==="A"?m.a.team:"Draw";
   return {code:p.pick==="X"?"X":p.pick==="H"?"1":"2",name,strong:p.conf>=.6&&p.pick!=="X",word:p.conf>=.6?"Strong":p.conf>=.45?"Lean":"Toss-up"};
 }
-function render(){
+function render(){renderRota();renderMain();renderRecord()}
+function renderMain(){
   renderTabs();renderFilters();
   const ms=allMatches();
   document.getElementById("fsum").textContent=filterSummary(ms.length);
@@ -524,7 +563,7 @@ function render(){
   const main=document.getElementById("fixtures");
   main.replaceChildren();
   if(!ms.length){
-    if(state.group==="fav"&&!state.q){main.append(el("div","empty",FAVS.teams.length||FAVS.leagues.length?"No upcoming matches for your favourites in this window.":"No favourites yet. Open any match and tap ☆ Follow to add a team or league."));document.getElementById("bankersWrap").hidden=true;renderResults();return}
+    if(state.group==="fav"&&!state.q){main.append(el("div","empty",FAVS.teams.length||FAVS.leagues.length?"No upcoming matches for your favourites in this window.":"No favourites yet. Open any match and tap ☆ Follow to add a team or league."));document.getElementById("bankersWrap").hidden=true;return}
     main.append(el("div","empty",!Object.keys(state.leagues).length?"Upcoming fixtures will appear here once the latest data loads.":filtered?(state.q?`No upcoming match for a team matching "${state.q}" with these filters. Check the spelling, or clear the other filters.`:state.f.strength?"No picks this strong match these filters. Try \"Strong and lean\", widen the dates or times, or clear the filters.":"No matches kick off in this window. Widen the dates or times, or clear the filters."):"No upcoming fixtures in this data. Ask Claude to refresh the fixtures."));
     document.getElementById("bankersWrap").hidden=true; return;
   }
@@ -546,19 +585,41 @@ function render(){
     h2.append(el("small",null,list.length+(list.length===1?" match":" matches"))); sec.append(h2);
     const box=el("div","list"); list.forEach(m=>box.append(matchEl(m))); sec.append(box); main.append(sec);
   });
-  renderResults();
 }
 /* ---------- recent results of saved picks ---------- */
+/* ---------- the same filters, applied to saved picks ---------- */
+function filtersOn(){const F=state.f;return !!(state.q||F.dFrom||F.dTo||F.tFrom||F.tTo||F.strength||state.tab!=="all"||state.group!=="all")}
+function pickInfo(x,id){ // home/away codes, names, date and time for a saved pick (replay picks keep these in their id)
+  let h=x.home,a=x.away,hn=x.homeName,an=x.awayName,date=x.start?keyFmt.format(new Date(x.start)):null,time=x.start&&!x.backtest?hmFmt(new Date(x.start)):null;
+  if(x.backtest&&id){const p=id.split(":");date=p[2];const [hh,aa]=(p[3]||"").split("-");h=h||hh;a=a||aa}
+  if(!hn||!an){const st=(state.leagues[x.league]||{}).standings||[];const nm=c=>(st.find(s=>s.abbr===c)||{}).team||c;hn=hn||nm(h);an=an||nm(a)}
+  return {h,a,hn,an,date,time};
+}
+function pickKeep(x,id){
+  const code=x.league,F=state.f,i=pickInfo(x,id);
+  if(!state.q&&!(state.tab!=="all"?state.tab===code:groupCodes().includes(code)))return false;
+  if(state.group==="fav"&&!state.q&&!isFavMatch(code,i.h,i.a))return false;
+  if(state.q){const q=fold(state.q);if(!fold(i.hn).includes(q)&&!fold(i.an).includes(q))return false}
+  if(F.dFrom&&i.date&&i.date<F.dFrom)return false;
+  if(F.dTo&&i.date&&i.date>F.dTo)return false;
+  if((F.tFrom||F.tTo)){if(!i.time)return false;if(F.tFrom&&i.time<F.tFrom)return false;if(F.tTo&&i.time>F.tTo)return false}
+  if(F.strength==="strong"&&!(x.conf>=.6&&x.pick!=="X"))return false;
+  if(F.strength==="lean"&&!(x.conf>=.45))return false;
+  return true;
+}
+function keptPicks(){return Object.entries(state.preds||{}).filter(([id,x])=>pickKeep(x,id)).map(([id,x])=>({...x,_id:id}))}
 function renderResults(){
   const box=document.getElementById("results");if(!box)return;
   const now=Date.now(),since=now-8*864e5;
-  const codes=state.tab!=="all"?[state.tab]:groupCodes();
-  const list=Object.values(state.preds||{}).filter(x=>!x.backtest&&x.result&&["H","X","A"].includes(x.result.outcome)&&codes.includes(x.league)
-    &&new Date(x.start).getTime()>=since&&(state.group!=="fav"||isFavMatch(x.league,x.home,x.away)));
-  if(!list.length){box.hidden=true;return}
+  const dated=!!(state.f.dFrom||state.f.dTo);   // with a date filter, show that window instead of the last 8 days
+  const list=keptPicks().filter(x=>!x.backtest&&x.result&&["H","X","A"].includes(x.result.outcome)&&(dated||new Date(x.start).getTime()>=since));
+  box.querySelector("h3").textContent=dated?"Results in these dates":"Recent results";
+  if(!list.length){
+    if(!filtersOn()){box.hidden=true;return}
+    box.hidden=false;document.getElementById("rsum").textContent=dated?"No scored picks match these filters in these dates yet.":"No scored picks in the last 8 days match these filters.";document.getElementById("rdays").replaceChildren();return}
   box.hidden=false;
   const hit=list.filter(x=>x.pick===x.result.outcome).length,strong=list.filter(x=>x.conf>=.6&&x.pick!=="X"),sh=strong.filter(x=>x.pick===x.result.outcome).length;
-  document.getElementById("rsum").textContent=`Last 8 days: ${hit} of ${list.length} picks right (${pct(hit/list.length)})`+(strong.length?` · strong picks ${sh} of ${strong.length}`:"");
+  document.getElementById("rsum").textContent=`${dated?"These dates":"Last 8 days"}${filtersOn()?" (filtered)":""}: ${hit} of ${list.length} picks right (${pct(hit/list.length)})`+(strong.length?` · strong picks ${sh} of ${strong.length}`:"");
   const byDay=new Map();list.sort((p,q)=>q.start.localeCompare(p.start)).forEach(x=>{const k=keyFmt.format(new Date(x.start));if(!byDay.has(k))byDay.set(k,[]);byDay.get(k).push(x)});
   const days=document.getElementById("rdays");days.replaceChildren();let first=true;
   byDay.forEach(items=>{
@@ -687,13 +748,13 @@ function scoreSet(list){
     brier+=(x.H-(o==="H"?1:0))**2+(x.D-(o==="X"?1:0))**2+(x.A-(o==="A"?1:0))**2;});
   return {n,hit,rate:n?hit/n:0,brier:n?brier/n:0,conf:n?conf/n:0};
 }
-function backtestBlock(bt){
+function backtestBlock(bt,filtered){
   const S=scoreSet(bt);const wrap=el("div","btblock");
   wrap.append(el("div","label","Tested on this season's earlier matches"));
-  wrap.append(el("p","rec-note",`Replaying all ${S.n.toLocaleString("en-GB")} matches played so far this season, predicting each round using only the results and the bookmaker odds available before it, then scoring the picks against what happened. Guessing would score a Brier of 0.667; always picking the home team would be right ${pct(bt.filter(x=>x.result.outcome==="H").length/S.n)} of the time.`));
+  wrap.append(el("p","rec-note",`${filtered?`Replaying the ${S.n.toLocaleString("en-GB")} matches this season that match your filters,`:`Replaying all ${S.n.toLocaleString("en-GB")} matches played so far this season,`} predicting each round using only the results and the bookmaker odds available before it, then scoring the picks against what happened. Guessing would score a Brier of 0.667; always picking the home team would be right ${pct(bt.filter(x=>x.result.outcome==="H").length/S.n)} of the time.`));
   const top=el("div","rec-top");
   const tile=(k,v,sub)=>{const t=el("div","stat");t.append(el("div","label",k),el("div","v",v));if(sub)t.append(el("div","sub",sub));top.append(t)};
-  tile("Matches replayed",S.n.toLocaleString("en-GB"),"all "+new Set(bt.map(x=>x.league)).size+" leagues, August to October");
+  tile("Matches replayed",S.n.toLocaleString("en-GB"),(filtered?"":"all ")+new Set(bt.map(x=>x.league)).size+" league"+(new Set(bt.map(x=>x.league)).size>1?"s":"")+", August to October");
   tile("Picks correct",pct(S.rate),S.hit+" of "+S.n);
   tile("Average confidence",pct(S.conf),"close to the hit rate means well calibrated");
   tile("Brier score",S.brier.toFixed(3),"lower is better; guessing scores 0.667");
@@ -720,17 +781,19 @@ function tuningNote(){
 function renderRecord(){
   renderResults();
   const body=document.getElementById("recBody");
-  const everything=Object.values(state.preds||{});
+  const everything=keptPicks(),filtered=filtersOn();
   const bt=everything.filter(x=>x.backtest&&x.result);
   const all=everything.filter(x=>!x.backtest);
   const done=all.filter(x=>x.result&&["H","X","A"].includes(x.result.outcome));
   const pending=all.length-done.length;
   body.replaceChildren();
-  if(bt.length)body.append(backtestBlock(bt));
+  if(filtered)body.append(el("p","rec-note filt","Showing only picks that match your league, team and filter choices. Clear them to see the full record."));
+  if(bt.length)body.append(backtestBlock(bt,filtered));
+  else if(filtered)body.append(el("div","empty","No replayed matches match these filters. Kick-off time filters only apply to live picks, because the replay doesn't store kick-off times."));
   if(!done.length){
     body.append(el("p","rec-note",tuningNote()));
     const lab=el("div","label","Live picks");lab.style.marginTop="18px";body.append(lab);
-    body.append(el("div","empty",all.length?`${all.length} picks saved so far. They get scored once results come in, starting with the next refresh after this weekend's matches.`:"Every pick is saved before kick-off and scored once the result is in. The first scores appear after this weekend's matches."));
+    body.append(el("div","empty",filtered&&!all.length?"No live picks match these filters yet.":all.length?`${all.length} picks saved so far. They get scored once results come in, starting with the next refresh after this weekend's matches.`:"Every pick is saved before kick-off and scored once the result is in. The first scores appear after this weekend's matches."));
     return;
   }
   const S=scoreSet(done);
@@ -1100,6 +1163,25 @@ function setupNotifToggle(){
   box.insertBefore(b,document.getElementById("refreshMsg"));
 }
 
+/* rota: shared through rota.json in the GitHub repo; the button opens a GitHub issue that a GitHub job applies */
+const ON_GH=location.hostname.endsWith("github.io");
+const ROTA_URL=ON_GH?"rota.json":"https://markbrown3000.github.io/pitch-oracle/rota.json";
+async function loadRota(){
+  try{const r=await fetch(ROTA_URL+"?t="+Date.now(),{cache:"no-store"});
+    if(r.ok){const x=await r.json();if(x&&Array.isArray(x.order)){ROTA={...ROTA_DEFAULT,...x};try{localStorage.setItem("predictorRota",JSON.stringify(ROTA))}catch(e){}}}
+    else if(r.status===404)ROTA=ROTA_DEFAULT;
+  }catch(e){try{const c=JSON.parse(localStorage.getItem("predictorRota")||"null");if(c&&Array.isArray(c.order))ROTA=c}catch(e2){}}
+  renderRota();
+}
+if(ON_GH){
+  const owner=location.hostname.split(".")[0],repo=location.pathname.split("/").filter(Boolean)[0]||"";
+  rotaSave=(next,kind)=>{
+    const title=kind==="undo"?"Undo didn't do last week":"Didn't do last week";
+    window.open(`https://github.com/${owner}/${repo}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent("Press Create (or Submit new issue). The rota updates for everyone a minute or two later.")}`,"_blank");
+    rotaNote="Submit the GitHub issue that just opened. The rota changes for everyone a minute or two later.";renderRota();
+  };
+}
+loadRota();
 const FD_MIN_GAP=20*60e3;                      // check football-data.co.uk at most every 20 minutes unless asked
 let current=null,busy=false;
 function store(d){try{localStorage.setItem("predictorData",JSON.stringify(d))}catch(e){
@@ -1157,6 +1239,6 @@ document.getElementById("clearF").onclick=()=>{state.f={dFrom:"",dTo:"",tFrom:""
 document.getElementById("teamQ").addEventListener("input",e=>{state.q=e.target.value;state.open=null;render()});
 render();renderNext();setupRefresh();
 loadData(false);
-document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible")loadData(false)});
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota()}});
 </script>
 </body></html>
