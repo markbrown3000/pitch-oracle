@@ -11,19 +11,20 @@ jobs:
       - name: Probe
         run: |
           UA="Mozilla/5.0 (PitchOracle tennis)"
-          echo "=== TA atp"; curl -sSL -A "$UA" https://tennisabstract.com/reports/atp_elo_ratings.html -o atp.html; wc -c atp.html
+          echo "=== TA html"; curl -sSL -A "$UA" https://tennisabstract.com/reports/atp_elo_ratings.html | head -c 5500
+          echo; echo "=== poly tennis events titles"
+          curl -sS "https://gamma-api.polymarket.com/events?tag_slug=tennis&closed=false&limit=100" | python3 -c "import json,sys;d=json.load(sys.stdin);[print(e.get('slug'),'|',e.get('title'),'|',e.get('seriesSlug'),'|',[t.get('slug') for t in e.get('tags',[])][:6]) for e in d[:40]]"
+          echo "=== poly series atp"
+          curl -sS "https://gamma-api.polymarket.com/series?slug=atp" | head -c 1500; echo
+          curl -sS "https://gamma-api.polymarket.com/events?series_slug=atp&closed=false&limit=3" | head -c 2500; echo
+          echo "=== poly page next data"
+          curl -sSL -A "$UA" https://polymarket.com/sports/atp/games -o pa.html; wc -c pa.html
           python3 - <<'PY'
-          import re
-          h=open('atp.html',encoding='utf-8',errors='replace').read()
-          i=h.find('<table'); print(h[i:i+2500]); print('...'); m=re.search(r'last update[^<]{0,80}',h,re.I); print('UPDATE:',m and m.group(0))
+          import re,json
+          h=open('pa.html',encoding='utf-8',errors='replace').read()
+          m=re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>',h,re.S)
+          print('next data', bool(m))
+          if m:
+              s=m.group(1); i=s.find('"outcomePrices"'); print(s[max(0,i-3000):i+800])
+              print('slugs',sorted(set(re.findall(r'"slug":"((?:atp|wta)-[a-z0-9-]+)"',s)))[:20])
           PY
-          echo "=== kalshi events"
-          curl -sS "https://api.elections.kalshi.com/trade-api/v2/events?series_ticker=KXATPMATCH&status=open&with_nested_markets=true&limit=2" | python3 -c "import json,sys;d=json.load(sys.stdin);print(json.dumps(d,indent=1)[:5000])"
-          echo "=== kalshi settled"
-          curl -sS "https://api.elections.kalshi.com/trade-api/v2/markets?series_ticker=KXWTAMATCH&status=settled&limit=2" | python3 -c "import json,sys;d=json.load(sys.stdin);print(json.dumps(d,indent=1)[:3000])"
-          echo "=== poly sports"
-          curl -sS "https://gamma-api.polymarket.com/sports" | python3 -c "import json,sys;d=json.load(sys.stdin);print([x for x in d if any(k in json.dumps(x).lower() for k in ('atp','wta','tennis'))][:6])"
-          echo "=== poly events atp"
-          curl -sS "https://gamma-api.polymarket.com/events?tag_slug=atp&closed=false&limit=2" | python3 -c "import json,sys;d=json.load(sys.stdin);print(json.dumps(d,indent=1)[:6000])"
-          echo "=== poly closed wta"
-          curl -sS "https://gamma-api.polymarket.com/events?tag_slug=wta&closed=true&limit=1&order=endDate&ascending=false" | python3 -c "import json,sys;d=json.load(sys.stdin);print(json.dumps(d,indent=1)[:3000])"
