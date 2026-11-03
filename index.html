@@ -273,7 +273,7 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
   <div id="tnView" hidden>
     <div class="tn-status">
       <div class="asof" id="tnAsof">Loading tennis…</div>
-      <div class="asof">Refreshes itself every day at 7:47am and 7:47pm</div>
+      <div class="asof">Refreshes itself four times a day: 7:47am, 11:47am, 3:47pm and 7:47pm</div>
       <div class="refresh" id="tnRefreshBox" hidden>
         <button class="btn ghost" id="tnRefreshBtn" type="button">Refresh now</button>
         <span class="confirm" id="tnRefreshConfirm" hidden>Pull today's matches and ratings now? <button class="btn" id="tnRefreshYes" type="button">Yes, refresh</button> <button class="clear" id="tnRefreshNo" type="button">Cancel</button></span>
@@ -302,7 +302,7 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
     <section class="method">
       <h3>How the numbers work</h3>
       <p>Every pick starts from each player's Elo rating from Tennis Abstract, built from every tour and Challenger result: beating a top player lifts it more than beating someone ranked 200th. There's a separate rating for hard courts, clay and grass, each mixed with the overall one, and between Tennis Abstract's weekly updates each result nudges both players' ratings a little. A 100-point gap is about 64%, 200 about 76%. Men's Grand Slam matches are best of five, which helps the better player, so those chances are stretched.</p>
-      <p>Where there's a betting market (ATP and WTA tour matches, from Kalshi), it's blended in and counts for most of the pick. Replaying every ATP and WTA tour match of 2024, 2025 and 2026 (about 15,000 matches) showed why: the market's favourite won 68–69% of the time, against 65–66% for ratings alone, because the market already knows about injuries, illness and withdrawals. The replay also set three smaller adjustments: indoor hard courts weigh each player's indoor record; playing more matches in the last week is a small plus (it usually means good form, not tiredness); and coming back from a break of six weeks or more is a small minus. Without a market, as in most Challenger and WTA 125 matches, a games-won rating also counts a little for the men: winning 6–1 6–2 says more than 7–6 7–6.</p>
+      <p>Where there's a betting market it's blended in and counts for most of the pick. Prices come from two prediction markets, Kalshi and Polymarket, averaged when both price a match; Polymarket also covers most Challenger and WTA 125 matches. Prices are re-read four times a day, so most picks are set within a few hours of the start, when prices are sharpest. Replaying every ATP and WTA tour match of 2024, 2025 and 2026 (about 15,000 matches) showed why: the market's favourite won 68–69% of the time, against 65–66% for ratings alone, because the market already knows about injuries, illness and withdrawals. The replay also set three smaller adjustments: indoor hard courts weigh each player's indoor record; playing more matches in the last week is a small plus (it usually means good form, not tiredness); and coming back from a break of six weeks or more is a small minus. Without a market, a games-won rating also counts a little for the men: winning 6–1 6–2 says more than 7–6 7–6.</p>
       <p>The replay's 2026 test showed the numbers are honest: matches picked at 70–80% were won 75–77% of the time. A pick is marked strong at 75% or more. The track record also shows how the market alone and the ratings alone would have done on the same picks. Only singles are shown, and only when both players have a rating (roughly the top 330 men and women). For fun, not for staking money.</p>
     </section>
   </div>
@@ -1374,7 +1374,7 @@ function tnRow(p){
   wrap.append(row);
   if(tn.open===p.id){
     const d=el("div","detail"),st=el("div","stats");
-    [["Market",p.pm!=null?Math.round(p.pm)+"–"+Math.round(100-p.pm):"none"],["Ratings alone",p.pe!=null?Math.round(p.pe)+"–"+Math.round(100-p.pe):"–"],["Surface",(SURF_NAME[p.s]||p.s).replace(/^./,c=>c.toUpperCase())+", best of "+p.bo],["Starts",shortDay.format(new Date(p.start))+", "+hmFmt(new Date(p.start))]]
+    [["Market"+((p.msrc||[]).length>1?"s (avg of 2)":""),p.pm!=null?Math.round(p.pm)+"–"+Math.round(100-p.pm):"none"],["Ratings alone",p.pe!=null?Math.round(p.pe)+"–"+Math.round(100-p.pe):"–"],["Surface",(SURF_NAME[p.s]||p.s).replace(/^./,c=>c.toUpperCase())+", best of "+p.bo],["Starts",shortDay.format(new Date(p.start))+", "+hmFmt(new Date(p.start))]]
       .forEach(([l,v])=>{const s=el("div","stat");s.append(el("div","label",l),el("div","v",v));st.append(s)});
     const act=el("div","actions");[p.a,p.b].forEach(n=>{const b=el("button","btn fav"+(tnIsFav(n)?" on":""),(tnIsFav(n)?"★ Following ":"☆ Follow ")+n);b.type="button";b.onclick=e=>{e.stopPropagation();tnToggleFav(n)};act.append(b)});
     const lv=tnLive(p);
@@ -1388,7 +1388,7 @@ function renderTennis(){
   TN_TOURS.forEach(([k,n])=>{const b=el("button",null,n);b.type="button";b.setAttribute("aria-pressed",String(tn.tour===k));b.onclick=()=>{tn.tour=k;tn.open=null;try{localStorage.setItem("tnTour",k)}catch(e){}renderTennis()};tours.append(b)});
   const main=document.getElementById("tnMain");main.replaceChildren();
   const asof=document.getElementById("tnAsof");
-  if(!D){asof.textContent=tn.msg;main.append(el("div","empty","Tennis picks appear here after the first refresh. Matches are added the evening before and the morning of each day's play."));document.getElementById("tnBankWrap").hidden=true;document.getElementById("tnResults").hidden=true;renderTnRecord();return}
+  if(!D){asof.textContent=tn.msg;main.append(el("div","empty","Tennis picks appear here after the first refresh. Matches are added through the day, four times a day."));document.getElementById("tnBankWrap").hidden=true;document.getElementById("tnResults").hidden=true;renderTnRecord();return}
   asof.textContent=`Picks as of ${dayFmt.format(new Date(D.updated))}, ${timeFmt.format(new Date(D.updated))}`+(D.eloAsof?` · player ratings from ${shortDay.format(new Date(D.eloAsof+"T12:00:00Z"))}`:"");
   const all=Object.entries(D.picks||{}).map(([id,p])=>({id,...p})).filter(p=>p.pa!=null&&tnInTour(p));
   const open=all.filter(p=>p.res==null).sort((x,y)=>x.start.localeCompare(y.start));
@@ -1403,8 +1403,8 @@ function renderTennis(){
     const n=Object.keys(D.picks||{}).length;
     const off=(()=>{const d=new Date(),m=d.getMonth(),dd=d.getDate();return (m===10&&dd>=24)||m===11})();
     main.append(el("div","empty",off?"The tennis season is over for the year. The new one starts with the United Cup, Brisbane and Auckland around New Year, and picks will appear here again then."
-      :n?"No matches waiting on this tour right now. Today's and tomorrow's matches are added each morning and evening."
-      :"No upcoming matches loaded yet. Today's and tomorrow's matches are added each morning and evening; if you've just tapped Refresh now, give it about ten minutes."));
+      :n?"No matches waiting on this tour right now. Today's and tomorrow's matches are added four times a day."
+      :"No upcoming matches loaded yet. Today's and tomorrow's matches are added four times a day; if you've just tapped Refresh now, give it about ten minutes."));
   }
   const byDay={};open.forEach(p=>{const k=keyFmt.format(new Date(p.start));(byDay[k]=byDay[k]||[]).push(p)});
   Object.keys(byDay).sort().forEach(k=>{
