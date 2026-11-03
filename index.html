@@ -281,6 +281,28 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
       </div>
     </div>
     <nav class="tabs" id="tnTours" aria-label="Tour"></nav>
+    <section class="filters" aria-label="Filter matches">
+      <div class="fgroup search">
+        <label class="label" for="tnQ">Find a player</label>
+        <div class="frow"><input type="search" id="tnQ" placeholder="e.g. Draper, Raducanu, Sinner" autocomplete="off" list="tnPlayerList"><datalist id="tnPlayerList"></datalist></div>
+      </div>
+      <div class="fgroup">
+        <div class="label">Dates</div>
+        <div class="frow"><input type="date" id="tnDFrom" aria-label="From date"><span class="to">to</span><input type="date" id="tnDTo" aria-label="To date"></div>
+        <div class="seg" id="tnDayPresets"></div>
+      </div>
+      <div class="fgroup">
+        <div class="label">Start time (UK)</div>
+        <div class="frow"><input type="time" id="tnTFrom" aria-label="From time"><span class="to">to</span><input type="time" id="tnTTo" aria-label="To time"></div>
+        <div class="seg" id="tnTimePresets"></div>
+      </div>
+      <div class="fgroup">
+        <div class="label">Pick strength</div>
+        <div class="seg" id="tnStrength"></div>
+      </div>
+      <button class="clear" id="tnClearF" type="button">Clear filters</button>
+      <div class="fsum" id="tnFsum"></div>
+    </section>
     <section id="tnBankWrap" hidden>
       <div class="label">Strongest picks coming up</div>
       <div class="bankers" id="tnBankers"></div>
@@ -1314,6 +1336,42 @@ const TN_TOURS=[["all","All tours"],["fav","★ Favourites"],["atp","ATP"],["wta
 let TN_FAVS=[];try{const f=JSON.parse(localStorage.getItem("tnFavs")||"[]");if(Array.isArray(f))TN_FAVS=f}catch(e){}
 const tnIsFav=n=>TN_FAVS.includes(n);
 function tnToggleFav(n){const i=TN_FAVS.indexOf(n);if(i>=0)TN_FAVS.splice(i,1);else TN_FAVS.push(n);try{localStorage.setItem("tnFavs",JSON.stringify(TN_FAVS))}catch(e){}renderTennis()}
+/* ---------- tennis filters ---------- */
+const tnSaveF=()=>{tn.open=null;try{localStorage.setItem("tnF",JSON.stringify(tn.f))}catch(e){}};
+const TN_STRENGTH=[["All picks",""],["Strong (75%+)","strong"],["Strong and lean (60%+)","lean"]];
+const tnConf=p=>Math.max(p.pa,100-p.pa);
+function tnKeep(p,{dates=true,times=true,strength=true}={}){
+  const F=tn.f,d=new Date(p.start),dk=keyFmt.format(d),tk=hmFmt(d);
+  if(tn.q){const q=fold(tn.q);if(!fold(p.a).includes(q)&&!fold(p.b).includes(q))return false}
+  if(dates&&F.dFrom&&dk<F.dFrom)return false;
+  if(dates&&F.dTo&&dk>F.dTo)return false;
+  if(times&&F.tFrom&&tk<F.tFrom)return false;
+  if(times&&F.tTo&&tk>F.tTo)return false;
+  if(strength&&F.strength==="strong"&&tnConf(p)<75)return false;
+  if(strength&&F.strength==="lean"&&tnConf(p)<60)return false;
+  return true;
+}
+const tnFiltersOn=()=>!!(tn.q||tn.f.dFrom||tn.f.dTo||tn.f.tFrom||tn.f.tTo||tn.f.strength);
+function tnFilterSummary(n){
+  const F=tn.f,parts=[];
+  if(tn.q)parts.push(`players matching "${tn.q}"`);
+  if(F.dFrom||F.dTo){const a=F.dFrom?shortDay.format(new Date(F.dFrom+"T12:00:00Z")):"",b=F.dTo?shortDay.format(new Date(F.dTo+"T12:00:00Z")):"";parts.push(a&&b?(a===b?a:a+" to "+b):a?"from "+a:"until "+b)}
+  if(F.tFrom||F.tTo)parts.push(F.tFrom&&F.tTo?"starting "+fmtTime(F.tFrom)+" – "+fmtTime(F.tTo):F.tFrom?"starting after "+fmtTime(F.tFrom):"starting before "+fmtTime(F.tTo));
+  if(F.strength)parts.push(F.strength==="strong"?"strong picks only (75%+)":"strong and lean picks (60%+)");
+  return parts.length?n+(n===1?" match":" matches")+" · "+parts.join(" · "):"";
+}
+function renderTnFilters(players){
+  const F=tn.f;
+  [["tnDFrom","dFrom"],["tnDTo","dTo"],["tnTFrom","tFrom"],["tnTTo","tTo"]].forEach(([id,k])=>{const i=document.getElementById(id);if(i.value!==F[k])i.value=F[k]});
+  const mk=(box,list,a,b)=>{box.replaceChildren();list.forEach(([n,x,y])=>{const bt=el("button",null,n);bt.type="button";bt.setAttribute("aria-pressed",String(F[a]===x&&F[b]===y));bt.onclick=()=>{F[a]=x;F[b]=y;tnSaveF();renderTennis()};box.append(bt)})};
+  mk(document.getElementById("tnDayPresets"),dayPresets(),"dFrom","dTo");
+  mk(document.getElementById("tnTimePresets"),TIME_PRESETS,"tFrom","tTo");
+  const sb=document.getElementById("tnStrength");sb.replaceChildren();
+  TN_STRENGTH.forEach(([n,v])=>{const bt=el("button",null,n);bt.type="button";bt.setAttribute("aria-pressed",String((F.strength||"")===v));bt.onclick=()=>{F.strength=v;tnSaveF();renderTennis()};sb.append(bt)});
+  document.getElementById("tnClearF").hidden=!tnFiltersOn();
+  const q=document.getElementById("tnQ");if(document.activeElement!==q&&q.value!==tn.q)q.value=tn.q;
+  const dl=document.getElementById("tnPlayerList");if(dl.childElementCount!==players.length)dl.replaceChildren(...players.map(n=>{const o=document.createElement("option");o.value=n;return o}));
+}
 const tnInTour=p=>tn.tour==="all"||(tn.tour==="fav"?(tnIsFav(p.a)||tnIsFav(p.b)):p.t===tn.tour);
 /* live chance from the score at the last refresh: work out the per-game edge that gives the pre-match chance, then play out the rest */
 function tnSetP(q,a,b){const m={};const f=(x,y)=>{const k=x*20+y;if(k in m)return m[k];let v;if(x>=6&&x-y>=2)v=1;else if(y>=6&&y-x>=2)v=0;else if(x===6&&y===6)v=q;else if(x>=7||y>=7)v=x>y?1:0;else v=q*f(x+1,y)+(1-q)*f(x,y+1);return m[k]=v};return f(a,b)}
@@ -1329,6 +1387,9 @@ function tnLive(p){
 const TN_TOUR_NAME={atp:"ATP",wta:"WTA",chal:"Challenger",w125:"WTA 125"};
 const SURF_NAME={hard:"hard court",hardin:"indoor hard court",clay:"clay",grass:"grass"};
 const tn={doc:null,tour:"all",open:null,msg:"Loading tennis…"};
+tn.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:""};tn.q="";
+try{const f=JSON.parse(localStorage.getItem("tnF")||"null");if(f)Object.assign(tn.f,f)}catch(e){}
+
 try{const t=localStorage.getItem("tnTour");if(t&&TN_TOURS.some(x=>x[0]===t))tn.tour=t}catch(e){}
 let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis")sport=s}catch(e){}
 function setSport(s){sport=s;try{localStorage.setItem("poSport",s)}catch(e){}renderSport()}
@@ -1341,6 +1402,9 @@ function renderSport(){
   if(sport==="tennis")renderTennis();
 }
 document.querySelectorAll("#sport button").forEach(b=>b.onclick=()=>setSport(b.dataset.s));
+[["tnDFrom","dFrom"],["tnDTo","dTo"],["tnTFrom","tFrom"],["tnTTo","tTo"]].forEach(([id,k])=>document.getElementById(id).addEventListener("change",e=>{tn.f[k]=e.target.value;if(k==="dFrom"&&tn.f.dTo&&tn.f.dTo<tn.f.dFrom)tn.f.dTo=tn.f.dFrom;tnSaveF();renderTennis()}));
+document.getElementById("tnClearF").onclick=()=>{tn.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:""};tn.q="";tnSaveF();renderTennis()};
+document.getElementById("tnQ").addEventListener("input",e=>{tn.q=e.target.value;tn.open=null;renderTennis()});
 const tnFav=p=>p.pa>=50?{side:"A",name:p.a,conf:p.pa}:{side:"B",name:p.b,conf:100-p.pa};
 const tnWord=c=>c>=75?"Strong":c>=60?"Lean":"Toss-up";
 const tnStarted=p=>p.st==="in_progress"||(p.st!=="final"&&new Date(p.start)<=new Date());
@@ -1388,10 +1452,13 @@ function renderTennis(){
   TN_TOURS.forEach(([k,n])=>{const b=el("button",null,n);b.type="button";b.setAttribute("aria-pressed",String(tn.tour===k));b.onclick=()=>{tn.tour=k;tn.open=null;try{localStorage.setItem("tnTour",k)}catch(e){}renderTennis()};tours.append(b)});
   const main=document.getElementById("tnMain");main.replaceChildren();
   const asof=document.getElementById("tnAsof");
-  if(!D){asof.textContent=tn.msg;main.append(el("div","empty","Tennis picks appear here after the first refresh. Matches are added through the day, four times a day."));document.getElementById("tnBankWrap").hidden=true;document.getElementById("tnResults").hidden=true;renderTnRecord();return}
+  if(!D){renderTnFilters([]);asof.textContent=tn.msg;main.append(el("div","empty","Tennis picks appear here after the first refresh. Matches are added through the day, four times a day."));document.getElementById("tnBankWrap").hidden=true;document.getElementById("tnResults").hidden=true;renderTnRecord();return}
   asof.textContent=`Picks as of ${dayFmt.format(new Date(D.updated))}, ${timeFmt.format(new Date(D.updated))}`+(D.eloAsof?` · player ratings from ${shortDay.format(new Date(D.eloAsof+"T12:00:00Z"))}`:"");
-  const all=Object.entries(D.picks||{}).map(([id,p])=>({id,...p})).filter(p=>p.pa!=null&&tnInTour(p));
+  const every=Object.entries(D.picks||{}).map(([id,p])=>({id,...p})).filter(p=>p.pa!=null);
+  renderTnFilters([...new Set(every.flatMap(p=>[p.a,p.b]))].sort());
+  const all=every.filter(p=>tnInTour(p)&&tnKeep(p));
   const open=all.filter(p=>p.res==null).sort((x,y)=>x.start.localeCompare(y.start));
+  document.getElementById("tnFsum").textContent=tnFilterSummary(open.length);
   const upcoming=open.filter(p=>!tnStarted(p));
   const bw=document.getElementById("tnBankWrap"),bk=document.getElementById("tnBankers");bk.replaceChildren();
   const today=keyFmt.format(new Date()),soon=upcoming.filter(p=>keyFmt.format(new Date(p.start))<=addDays(today,1));
@@ -1402,7 +1469,8 @@ function renderTennis(){
   if(!open.length){
     const n=Object.keys(D.picks||{}).length;
     const off=(()=>{const d=new Date(),m=d.getMonth(),dd=d.getDate();return (m===10&&dd>=24)||m===11})();
-    main.append(el("div","empty",off?"The tennis season is over for the year. The new one starts with the United Cup, Brisbane and Auckland around New Year, and picks will appear here again then."
+    if(tnFiltersOn()&&!off)main.append(el("div","empty",tn.q?`No upcoming match for a player matching "${tn.q}" with these filters. Check the spelling, or clear the other filters.`:"No matches fit these filters. Widen the dates, times or pick strength, or clear the filters."));
+    else main.append(el("div","empty",off?"The tennis season is over for the year. The new one starts with the United Cup, Brisbane and Auckland around New Year, and picks will appear here again then."
       :n?"No matches waiting on this tour right now. Today's and tomorrow's matches are added four times a day."
       :"No upcoming matches loaded yet. Today's and tomorrow's matches are added four times a day; if you've just tapped Refresh now, give it about ten minutes."));
   }
@@ -1417,7 +1485,7 @@ function renderTennis(){
   const rs=document.getElementById("tnResults"),rl=document.getElementById("tnRlist");rl.replaceChildren();rs.hidden=!done.length;
   if(done.length){
     const ok=done.filter(p=>p.ok).length;
-    document.getElementById("tnRsum").textContent=`${ok} of ${done.length} picks right over the last two weeks`+(tn.tour!=="all"?` (${TN_TOUR_NAME[tn.tour]})`:"")+".";
+    document.getElementById("tnRsum").textContent=`${ok} of ${done.length} picks right `+(tnFiltersOn()?"for these filters ":"")+`over the last two weeks`+(tn.tour!=="all"?` (${TN_TOUR_NAME[tn.tour]})`:"")+".";
     done.slice(0,40).forEach(p=>{const f=tnFav(p),w=p.res==="a"?p.a:p.b,l=p.res==="a"?p.b:p.a;
       const r=el("div","rrow");r.append(el("div","ko",shortDay.format(new Date(p.start)).replace(/^\w+ /,"")));
       const t=el("div",null);t.append(el("span","sc",`${w} beat ${l}`+(p.sc?" "+p.sc:"")),el("span","pk",`Picked ${f.name} at ${Math.round(f.conf)}% · ${p.n}`));
@@ -1431,8 +1499,8 @@ function renderTnOutrights(D){
   document.getElementById("tnWhoWrap").hidden=!list.length;
   list.forEach(o=>{
     const card=el("div","who-card"),h=el("div","who-h");h.append(el("b",null,o.tournament),el("span",null,(o.round?o.round+" · ":"")+(SURF_NAME[o.surface]||o.surface)));card.append(h);
-    const ps=(tn.tour==="fav"?o.players.filter(x=>tnIsFav(x.name)):o.players).slice(0,8);
-    if(!ps.length)card.append(el("div","rec-note","None of your favourites are left in this draw."));
+    const ps=(tn.tour==="fav"?o.players.filter(x=>tnIsFav(x.name)):tn.q?o.players.filter(x=>fold(x.name).includes(fold(tn.q))):o.players).slice(0,8);
+    if(!ps.length)card.append(el("div","rec-note",tn.q&&tn.tour!=="fav"?`No player matching "${tn.q}" is left in this draw.`:"None of your favourites are left in this draw."));
     const top=Math.max(...o.players.map(x=>x.win),1);
     ps.forEach(x=>{const r=el("div","who-row");const nm=el("span","who-n");if(tnIsFav(x.name))nm.append(el("span","star","★"));nm.append(document.createTextNode(x.name));
       const bar=el("span","who-bar"),fill=el("i");fill.style.width=Math.max(2,100*x.win/top)+"%";bar.append(fill);
