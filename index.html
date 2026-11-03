@@ -167,14 +167,33 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .rrow .pk{font-size:12px;color:var(--muted);display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .rrow .res{font:600 11px/1 var(--body);letter-spacing:.06em;text-transform:uppercase;padding:4px 7px;border-radius:5px}
 .rrow .res.ok{background:var(--home);color:#fff}.rrow .res.no{background:var(--chip);color:var(--muted)}
+.sport{display:inline-flex;gap:0;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px;margin:0 0 14px}
+.sport button{font:800 18px/1 var(--display);letter-spacing:.05em;text-transform:uppercase;padding:10px 18px;border:0;border-radius:9px;background:transparent;color:var(--muted);cursor:pointer}
+.sport button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.tn-status{display:flex;flex-direction:column;gap:4px;margin:0 0 6px}
+.tn-status .refresh{justify-content:flex-start}
+.tnrow .pick{font-size:20px}
+.tnrow .pick.A{color:var(--home)}.tnrow .pick.B{color:var(--away)}
+.tnrow .pick.strong.B{color:var(--away)}
+.live{font:600 10.5px/1 var(--body);letter-spacing:.06em;text-transform:uppercase;color:#fff;background:var(--bad);border-radius:4px;padding:3px 5px;margin-left:6px;vertical-align:1px}
+.tour-tag{font-family:var(--mono);font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.day h2 .surf{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--muted);text-transform:none;letter-spacing:0}
+.rec-bands{margin-top:12px}
+.who{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px;margin:6px 0 22px}
+.who-card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;box-shadow:var(--shadow);min-width:0}
+.who-h{display:flex;justify-content:space-between;gap:8px;align-items:baseline;margin-bottom:8px}.who-h b{font-family:var(--display);font-size:19px;text-transform:uppercase;letter-spacing:.03em}
+.who-h span{font-family:var(--mono);font-size:11.5px;color:var(--muted);white-space:nowrap}
+.who-row{display:grid;grid-template-columns:minmax(0,1fr) 90px 40px;gap:8px;align-items:center;padding:3px 0;font-size:13.5px}
+.who-n{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.who-bar{height:8px;background:var(--chip);border-radius:4px;overflow:hidden}.who-bar i{display:block;height:100%;background:var(--accent)}
+.who-p{font-family:var(--mono);font-size:12.5px;text-align:right}.who-foot{font-size:11.5px;color:var(--muted);margin-top:8px}
 </style>
 </head><body>
 
 <div class="wrap">
   <header class="top">
     <h1>Pitch <span>Oracle</span></h1>
-    <div class="tagline">Match Predictor · 22 European leagues</div>
-    <div class="status">
+    <div class="tagline" id="tagline">Match Predictor · 22 European leagues</div>
+    <div class="status" id="fbStatus">
       <div class="asof" id="asof">Loading fixtures…</div>
       <div class="asof" id="next"></div>
       <div class="refresh" id="refreshBox" hidden>
@@ -183,6 +202,10 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
       </div>
     </div>
   </header>
+  <div class="sport" id="sport" role="group" aria-label="Sport">
+    <button type="button" data-s="football" aria-pressed="true">Football</button>
+    <button type="button" data-s="tennis" aria-pressed="false">Tennis</button>
+  </div>
   <section class="rota" id="rota" aria-live="polite">
     <div class="rota-main">
       <div class="label">This week's turn</div>
@@ -191,6 +214,7 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
     </div>
     <div class="rota-act" id="rotaAct"></div>
   </section>
+  <div id="fbView">
   <nav class="tabs" id="groups" aria-label="League group"></nav>
   <div class="chips" id="tabs" aria-label="Competition"></div>
   <section class="filters" aria-label="Filter fixtures">
@@ -245,6 +269,43 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
     <p>The Premier League, La Liga, Serie A, Bundesliga and Ligue 1 come from a live sports data feed. The Championship, League One, League Two, National League, Segunda División, Serie B, 2. Bundesliga and Ligue 2, plus the four Scottish divisions, the Eredivisie, Belgian Pro League, Primeira Liga, Süper Lig and Greek Super League, come from published league tables, results and fixture lists. Each match card shows the date its table is from, and a league whose table is more than a week old is marked "old table".</p>
     <p>Each match card shows the stats model and the second opinion side by side, so you can see where they disagree. Football is noisy: a 60% favourite still fails to win four times in ten. For fun, not for staking money.</p>
   </section>
+  </div>
+  <div id="tnView" hidden>
+    <div class="tn-status">
+      <div class="asof" id="tnAsof">Loading tennis…</div>
+      <div class="asof">Refreshes itself every day at 7:47am and 7:47pm</div>
+      <div class="refresh" id="tnRefreshBox" hidden>
+        <button class="btn ghost" id="tnRefreshBtn" type="button">Refresh now</button>
+        <span class="confirm" id="tnRefreshConfirm" hidden>Pull today's matches and ratings now? <button class="btn" id="tnRefreshYes" type="button">Yes, refresh</button> <button class="clear" id="tnRefreshNo" type="button">Cancel</button></span>
+        <span class="asof" id="tnRefreshMsg"></span>
+      </div>
+    </div>
+    <nav class="tabs" id="tnTours" aria-label="Tour"></nav>
+    <section id="tnBankWrap" hidden>
+      <div class="label">Strongest picks coming up</div>
+      <div class="bankers" id="tnBankers"></div>
+    </section>
+    <section id="tnWhoWrap" hidden>
+      <div class="label">Who wins</div>
+      <div class="who" id="tnWho"></div>
+    </section>
+    <main id="tnMain"></main>
+    <section class="results" id="tnResults" hidden>
+      <h3>Recent results</h3>
+      <p class="rsum" id="tnRsum"></p>
+      <div class="list" id="tnRlist"></div>
+    </section>
+    <section class="record" id="tnRecord">
+      <h3>Track record</h3>
+      <div id="tnRecBody"><div class="empty">Every pick is saved before the first serve and scored once the match finishes. The first scores appear after today's matches.</div></div>
+    </section>
+    <section class="method">
+      <h3>How the numbers work</h3>
+      <p>Every pick starts from each player's Elo rating from Tennis Abstract, built from every tour and Challenger result: beating a top player lifts it more than beating someone ranked 200th. There's a separate rating for hard courts, clay and grass, each mixed with the overall one, and between Tennis Abstract's weekly updates each result nudges both players' ratings a little. A 100-point gap is about 64%, 200 about 76%. Men's Grand Slam matches are best of five, which helps the better player, so those chances are stretched.</p>
+      <p>Where there's a betting market (ATP and WTA tour matches, from Kalshi), it's blended in and counts for most of the pick. Replaying every ATP and WTA tour match of 2024, 2025 and 2026 (about 15,000 matches) showed why: the market's favourite won 68–69% of the time, against 65–66% for ratings alone, because the market already knows about injuries, illness and withdrawals. The replay also set three smaller adjustments: indoor hard courts weigh each player's indoor record; playing more matches in the last week is a small plus (it usually means good form, not tiredness); and coming back from a break of six weeks or more is a small minus. Without a market, as in most Challenger and WTA 125 matches, a games-won rating also counts a little for the men: winning 6–1 6–2 says more than 7–6 7–6.</p>
+      <p>The replay's 2026 test showed the numbers are honest: matches picked at 70–80% were won 75–77% of the time. A pick is marked strong at 75% or more. The track record also shows how the market alone and the ratings alone would have done on the same picks. Only singles are shown, and only when both players have a rating (roughly the top 330 men and women). For fun, not for staking money.</p>
+    </section>
+  </div>
 </div>
 
 <script>window.PREDICTOR_CONFIG={dataUrl:""};
@@ -1247,6 +1308,166 @@ async function loadData(byUser){
   }finally{busy=false}
 }
 
+/* ---------- tennis ---------- */
+const TN_TRIGGER_ID="trig_019WhootCPR6Yp5AEkq623yK";
+const TN_TOURS=[["all","All tours"],["fav","★ Favourites"],["atp","ATP"],["wta","WTA"],["chal","Challenger"],["w125","WTA 125"]];
+let TN_FAVS=[];try{const f=JSON.parse(localStorage.getItem("tnFavs")||"[]");if(Array.isArray(f))TN_FAVS=f}catch(e){}
+const tnIsFav=n=>TN_FAVS.includes(n);
+function tnToggleFav(n){const i=TN_FAVS.indexOf(n);if(i>=0)TN_FAVS.splice(i,1);else TN_FAVS.push(n);try{localStorage.setItem("tnFavs",JSON.stringify(TN_FAVS))}catch(e){}renderTennis()}
+const tnInTour=p=>tn.tour==="all"||(tn.tour==="fav"?(tnIsFav(p.a)||tnIsFav(p.b)):p.t===tn.tour);
+/* live chance from the score at the last refresh: work out the per-game edge that gives the pre-match chance, then play out the rest */
+function tnSetP(q,a,b){const m={};const f=(x,y)=>{const k=x*20+y;if(k in m)return m[k];let v;if(x>=6&&x-y>=2)v=1;else if(y>=6&&y-x>=2)v=0;else if(x===6&&y===6)v=q;else if(x>=7||y>=7)v=x>y?1:0;else v=q*f(x+1,y)+(1-q)*f(x,y+1);return m[k]=v};return f(a,b)}
+function tnMatchP(q,bo,sa,sb,ga,gb){const need=bo===5?3:2,s0=tnSetP(q,0,0);const m={};const f=(x,y,first)=>{if(x>=need)return 1;if(y>=need)return 0;const k=x*10+y+(first?100:0);if(k in m)return m[k];const s=first?tnSetP(q,ga,gb):s0;return m[k]=s*f(x+1,y,false)+(1-s)*f(x,y+1,false)};return f(sa,sb,true)}
+function tnLive(p){
+  if(p.st!=="in_progress"||!p.sc||p.pa==null)return null;
+  const sets=p.sc.split(" ").map(s=>s.split("-").map(Number)).filter(s=>s.length===2&&!s.some(isNaN));
+  let sa=0,sb=0,ga=0,gb=0;
+  sets.forEach(([x,y],i)=>{const done=(Math.max(x,y)>=6&&Math.abs(x-y)>=2)||Math.max(x,y)>=7;if(done&&i<sets.length-1||done&&i===sets.length-1&&(x!==y)){if(x>y)sa++;else sb++}else{ga=x;gb=y}});
+  const bo=p.bo||3,pre=p.pa/100;let lo=0.3,hi=0.7;for(let i=0;i<40;i++){const m=(lo+hi)/2;if(tnMatchP(m,bo,0,0,0,0)<pre)lo=m;else hi=m}
+  const q=(lo+hi)/2;return Math.round(100*tnMatchP(q,bo,sa,sb,ga,gb));
+}
+const TN_TOUR_NAME={atp:"ATP",wta:"WTA",chal:"Challenger",w125:"WTA 125"};
+const SURF_NAME={hard:"hard court",hardin:"indoor hard court",clay:"clay",grass:"grass"};
+const tn={doc:null,tour:"all",open:null,msg:"Loading tennis…"};
+try{const t=localStorage.getItem("tnTour");if(t&&TN_TOURS.some(x=>x[0]===t))tn.tour=t}catch(e){}
+let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis")sport=s}catch(e){}
+function setSport(s){sport=s;try{localStorage.setItem("poSport",s)}catch(e){}renderSport()}
+function renderSport(){
+  document.querySelectorAll("#sport button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.s===sport)));
+  document.getElementById("fbView").hidden=sport!=="football";
+  document.getElementById("fbStatus").hidden=sport!=="football";
+  document.getElementById("tnView").hidden=sport!=="tennis";
+  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":"Match Predictor · 22 European leagues";
+  if(sport==="tennis")renderTennis();
+}
+document.querySelectorAll("#sport button").forEach(b=>b.onclick=()=>setSport(b.dataset.s));
+const tnFav=p=>p.pa>=50?{side:"A",name:p.a,conf:p.pa}:{side:"B",name:p.b,conf:100-p.pa};
+const tnWord=c=>c>=75?"Strong":c>=60?"Lean":"Toss-up";
+const tnStarted=p=>p.st==="in_progress"||(p.st!=="final"&&new Date(p.start)<=new Date());
+function tnWhy(p){
+  const f=tnFav(p),A=f.side==="A",u=A?p.b:p.a,sn=SURF_NAME[p.s]||p.s,side=x=>x==null?null:Math.round(A?x:100-x);
+  const fr=A?p.ra:p.rb,ur=A?p.rb:p.ra,gap=fr-ur,parts=[];
+  if(p.pm!=null)parts.push(`The betting market makes ${f.name} ${side(p.pm)}%, and the market counts most: in a replay of 2024–26 it was right more often than any rating.`);
+  parts.push(gap<15?`On ${sn} their ratings are level (${fr} v ${ur}).`:gap>0?`${f.name}'s ${sn} rating is ${gap} points higher (${fr} v ${ur}), worth ${side(p.pe)}% on its own.`:`${u}'s ${sn} rating is ${-gap} points higher (${ur} v ${fr}), so the ratings alone favour ${u} (${100-side(p.pe)}%).`);
+  if(p.pg!=null&&p.pm==null)parts.push(side(p.pg)>=50?`Games won over recent seasons also favour ${f.name} (${side(p.pg)}%).`:`Games won over recent seasons lean to ${u} (${100-side(p.pg)}%).`);
+  const fm=A?p.form:-(p.form||0);
+  if(p.form)parts.push(fm>0?`${f.name} has played ${fm} more match${fm>1?"es":""} than ${u} in the last week, which in the replay meant good form more often than tiredness.`:`${u} has played ${-fm} more match${-fm>1?"es":""} in the last week, a small plus for ${u}.`);
+  if(p.lay){const lw=(A?p.lay:-p.lay)>0?f.name:u;parts.push(`${lw} is coming back from a long break, which knocks a little off.`)}
+  if(p.s==="hardin")parts.push("Indoor hard court: each player's indoor record is weighed a little.");
+  if(p.bo===5)parts.push("Best of five sets, which gives the stronger player more time to come through.");
+  return parts.join(" ");
+}
+function tnRow(p){
+  const f=tnFav(p),strong=f.conf>=75,live=p.st==="in_progress";
+  const wrap=el("div","m"),row=el("button","row tnrow");row.type="button";row.setAttribute("aria-expanded",String(tn.open===p.id));
+  const ko=el("div","ko");ko.append(el("b",null,live?"LIVE":tnStarted(p)?"STARTED":hmFmt(new Date(p.start))));
+  if(!live&&!tnStarted(p))ko.append(document.createTextNode({atp:"ATP",wta:"WTA",chal:"CHAL",w125:"W125"}[p.t]||""));
+  const teams=el("div","teams");
+  [["A",p.a,p.ka,p.ra],["B",p.b,p.kb,p.rb]].forEach(([k,n,rk,r])=>{const d=el("div",f.side===k?"fav":null);if(tnIsFav(n))d.append(el("span","star","★"));d.append(document.createTextNode(n));if(rk)d.append(el("span","pos","#"+rk));teams.append(d)});
+  const meta=el("div","meta",p.n+(p.bo===5?" · best of 5":""));if(live&&p.sc){const lv=tnLive(p);meta.textContent+=" · "+p.sc+(lv!=null?` · now ${lv>=50?p.a:p.b} ${Math.max(lv,100-lv)}%`:"")}teams.append(meta);
+  const probs=el("div","probs"),bar=el("div","bar");
+  const sa=el("span","h",Math.round(p.pa)+"%"),sb=el("span","a",Math.round(100-p.pa)+"%");sa.style.width=p.pa+"%";sb.style.width=(100-p.pa)+"%";bar.append(sa,sb);
+  const lg=el("div","bar-legend");const sur=n=>String(n).split(" ").slice(-1)[0];lg.append(el("span",null,sur(p.a)),el("span",null,sur(p.b)));probs.append(bar,lg);
+  const pk=el("div","pick "+f.side+(strong?" strong":""));pk.append(el("b",null,Math.round(f.conf)+"%"),el("small",null,tnWord(f.conf)));
+  row.append(ko,teams,probs,pk);
+  row.onclick=()=>{tn.open=tn.open===p.id?null:p.id;renderTennis()};
+  wrap.append(row);
+  if(tn.open===p.id){
+    const d=el("div","detail"),st=el("div","stats");
+    [["Market",p.pm!=null?Math.round(p.pm)+"–"+Math.round(100-p.pm):"none"],["Ratings alone",p.pe!=null?Math.round(p.pe)+"–"+Math.round(100-p.pe):"–"],["Surface",(SURF_NAME[p.s]||p.s).replace(/^./,c=>c.toUpperCase())+", best of "+p.bo],["Starts",shortDay.format(new Date(p.start))+", "+hmFmt(new Date(p.start))]]
+      .forEach(([l,v])=>{const s=el("div","stat");s.append(el("div","label",l),el("div","v",v));st.append(s)});
+    const act=el("div","actions");[p.a,p.b].forEach(n=>{const b=el("button","btn fav"+(tnIsFav(n)?" on":""),(tnIsFav(n)?"★ Following ":"☆ Follow ")+n);b.type="button";b.onclick=e=>{e.stopPropagation();tnToggleFav(n)};act.append(b)});
+    const lv=tnLive(p);
+    d.append(st,el("div","why",tnWhy(p)+(lv!=null?` At the last refresh the score was ${p.sc}, which made it ${lv>=50?p.a:p.b} ${Math.max(lv,100-lv)}% (tap Refresh now for the latest).`:"")),act);wrap.append(d);
+  }
+  return wrap;
+}
+function renderTennis(){
+  const D=tn.doc;
+  const tours=document.getElementById("tnTours");tours.replaceChildren();
+  TN_TOURS.forEach(([k,n])=>{const b=el("button",null,n);b.type="button";b.setAttribute("aria-pressed",String(tn.tour===k));b.onclick=()=>{tn.tour=k;tn.open=null;try{localStorage.setItem("tnTour",k)}catch(e){}renderTennis()};tours.append(b)});
+  const main=document.getElementById("tnMain");main.replaceChildren();
+  const asof=document.getElementById("tnAsof");
+  if(!D){asof.textContent=tn.msg;main.append(el("div","empty","Tennis picks appear here after the first refresh. Matches are added the evening before and the morning of each day's play."));document.getElementById("tnBankWrap").hidden=true;document.getElementById("tnResults").hidden=true;renderTnRecord();return}
+  asof.textContent=`Picks as of ${dayFmt.format(new Date(D.updated))}, ${timeFmt.format(new Date(D.updated))}`+(D.eloAsof?` · player ratings from ${shortDay.format(new Date(D.eloAsof+"T12:00:00Z"))}`:"");
+  const all=Object.entries(D.picks||{}).map(([id,p])=>({id,...p})).filter(p=>p.pa!=null&&tnInTour(p));
+  const open=all.filter(p=>p.res==null).sort((x,y)=>x.start.localeCompare(y.start));
+  const upcoming=open.filter(p=>!tnStarted(p));
+  const bw=document.getElementById("tnBankWrap"),bk=document.getElementById("tnBankers");bk.replaceChildren();
+  const today=keyFmt.format(new Date()),soon=upcoming.filter(p=>keyFmt.format(new Date(p.start))<=addDays(today,1));
+  const best=[...soon].sort((x,y)=>tnFav(y).conf-tnFav(x).conf).slice(0,3);
+  bw.hidden=!best.length;
+  best.forEach(p=>{const f=tnFav(p),b=el("button","banker");b.type="button";b.append(el("div","pct",Math.round(f.conf)+"%"),el("div","who",f.name),el("div","vs","v "+(f.side==="A"?p.b:p.a)+" · "+hmFmt(new Date(p.start))));b.onclick=()=>{tn.open=p.id;renderTennis();document.getElementById("tn-"+p.id)?.scrollIntoView({block:"center"})};bk.append(b)});
+  renderTnOutrights(D);
+  if(!open.length){
+    const n=Object.keys(D.picks||{}).length;
+    const off=(()=>{const d=new Date(),m=d.getMonth(),dd=d.getDate();return (m===10&&dd>=24)||m===11})();
+    main.append(el("div","empty",off?"The tennis season is over for the year. The new one starts with the United Cup, Brisbane and Auckland around New Year, and picks will appear here again then."
+      :n?"No matches waiting on this tour right now. Today's and tomorrow's matches are added each morning and evening."
+      :"No upcoming matches loaded yet. Today's and tomorrow's matches are added each morning and evening; if you've just tapped Refresh now, give it about ten minutes."));
+  }
+  const byDay={};open.forEach(p=>{const k=keyFmt.format(new Date(p.start));(byDay[k]=byDay[k]||[]).push(p)});
+  Object.keys(byDay).sort().forEach(k=>{
+    const sec=el("section","day"),h=el("h2",null,dayFmt.format(new Date(k+"T12:00:00Z")));
+    h.append(el("small",null,byDay[k].length+(byDay[k].length===1?" match":" matches")));sec.append(h);
+    const list=el("div","list");byDay[k].forEach(p=>{const r=tnRow(p);r.id="tn-"+p.id;list.append(r)});sec.append(list);main.append(sec);
+  });
+  // recent results
+  const done=all.filter(p=>p.res!=null).sort((x,y)=>y.start.localeCompare(x.start));
+  const rs=document.getElementById("tnResults"),rl=document.getElementById("tnRlist");rl.replaceChildren();rs.hidden=!done.length;
+  if(done.length){
+    const ok=done.filter(p=>p.ok).length;
+    document.getElementById("tnRsum").textContent=`${ok} of ${done.length} picks right over the last two weeks`+(tn.tour!=="all"?` (${TN_TOUR_NAME[tn.tour]})`:"")+".";
+    done.slice(0,40).forEach(p=>{const f=tnFav(p),w=p.res==="a"?p.a:p.b,l=p.res==="a"?p.b:p.a;
+      const r=el("div","rrow");r.append(el("div","ko",shortDay.format(new Date(p.start)).replace(/^\w+ /,"")));
+      const t=el("div",null);t.append(el("span","sc",`${w} beat ${l}`+(p.sc?" "+p.sc:"")),el("span","pk",`Picked ${f.name} at ${Math.round(f.conf)}% · ${p.n}`));
+      r.append(t,el("span","res "+(p.ok?"ok":"no"),p.ok?"Right":"Wrong"));rl.append(r)});
+  }
+  renderTnRecord();
+}
+function renderTnOutrights(D){
+  const box=document.getElementById("tnWho");box.replaceChildren();
+  const list=(D.outrights||[]).filter(o=>tn.tour==="all"||tn.tour==="fav"||o.tour===tn.tour||(tn.tour==="chal"&&false));
+  document.getElementById("tnWhoWrap").hidden=!list.length;
+  list.forEach(o=>{
+    const card=el("div","who-card"),h=el("div","who-h");h.append(el("b",null,o.tournament),el("span",null,(o.round?o.round+" · ":"")+(SURF_NAME[o.surface]||o.surface)));card.append(h);
+    const ps=(tn.tour==="fav"?o.players.filter(x=>tnIsFav(x.name)):o.players).slice(0,8);
+    if(!ps.length)card.append(el("div","rec-note","None of your favourites are left in this draw."));
+    const top=Math.max(...o.players.map(x=>x.win),1);
+    ps.forEach(x=>{const r=el("div","who-row");const nm=el("span","who-n");if(tnIsFav(x.name))nm.append(el("span","star","★"));nm.append(document.createTextNode(x.name));
+      const bar=el("span","who-bar"),fill=el("i");fill.style.width=Math.max(2,100*x.win/top)+"%";bar.append(fill);
+      r.append(nm,bar,el("span","who-p",(x.win<1?"<1":Math.round(x.win))+"%"));r.title=`Reaches the final ${Math.round(x.final)}% · the semi-finals ${Math.round(x.sf)}%`;card.append(r)});
+    card.append(el("div","who-foot",`Chance of winning the title, from 20,000 play-throughs of the rest of the draw · ${shortDay.format(new Date(o.asof))}`));
+    box.append(card)});
+}
+function D_train(){return (tn.doc&&tn.doc.train)||[]}
+function renderTnRecord(){
+  const body=document.getElementById("tnRecBody"),R=tn.doc?.record;
+  if(!R||!R.all)return;
+  body.replaceChildren();
+  const top=el("div","rec-top"),pctOf=x=>x&&x.n?Math.round(100*x.ok/x.n)+"%":"–";
+  [["All picks",R.all],["ATP",R.atp],["WTA",R.wta],["Challenger + WTA 125",R.chal||R.w125?{n:(R.chal?.n||0)+(R.w125?.n||0),ok:(R.chal?.ok||0)+(R.w125?.ok||0)}:null]].forEach(([l,x])=>{
+    const s=el("div","stat");s.append(el("div","label",l),el("div","v",pctOf(x)),el("div","sub",x&&x.n?`${x.ok} of ${x.n} right`:"none yet"));top.append(s)});
+  body.append(top);
+  const tbl=el("div","tbl rec-bands"),t=el("table"),hd=el("tr");["Pick strength","Picks","Right","Hit rate"].forEach(h=>hd.append(el("th",null,h)));t.append(hd);
+  [["80","80% and up"],["70","70–80%"],["60","60–70%"],["50","50–60%"]].forEach(([k,l])=>{const x=R["band"+k];if(!x)return;const tr=el("tr");[l,x.n,x.ok,pctOf(x)].forEach(v=>tr.append(el("td",null,String(v))));t.append(tr)});
+  tbl.append(t);body.append(tbl);
+  if(R.only_mkt||R.only_elo){const c=el("div","tbl rec-bands"),t2=el("table"),h2=el("tr");["Same picks, one source","Picks","Right","Hit rate"].forEach(x=>h2.append(el("th",null,x)));t2.append(h2);
+    [["Pitch Oracle, all picks",R.all],["Market alone",R.only_mkt],["Ratings alone",R.only_elo]].forEach(([l,x])=>{if(!x)return;const tr=el("tr");[l,x.n,x.ok,pctOf(x)].forEach(v=>tr.append(el("td",null,String(v))));t2.append(tr)});c.append(t2);body.append(c)}
+  {const tr=D_train(),mk=tr.filter(r=>r[1]!=null).length,nm=tr.length-mk,T=tn.doc?.tuning||{};
+   const tuned=Object.entries(T).flatMap(([l,t])=>[t.marketN?`${l.toUpperCase()} market blend retuned on ${t.marketN} picks`:null,t.noMarketN?`${l.toUpperCase()} ratings-only blend retuned on ${t.noMarketN} picks`:null]).filter(Boolean);
+   body.append(el("p","rec-note",tuned.length?tuned.join(" · ")+". Each refresh refits the blend on scored picks, pulled towards the replay's settings so it only moves gently.":`Self-tuning starts once 500 market-priced picks (or 300 without a market) are scored on a tour: ${mk} and ${nm} so far.`))}
+  body.append(el("p","rec-note",`A well-judged model should land near its own numbers: picks made at 70–80% should come good about three times in four. The record started on 3 November 2026.`));
+}
+/* GitHub copy: tennis comes from data/tennis.json, saved into the repo by each tennis refresh */
+const TN_URL=(typeof ON_GH!=="undefined"&&ON_GH)?"data/tennis.json":"https://markbrown3000.github.io/pitch-oracle/data/tennis.json";
+async function loadTennis(){
+  try{const r=await fetch(TN_URL+"?t="+Date.now(),{cache:"no-store"});
+    if(r.ok){tn.doc=await r.json();tn.msg="";try{localStorage.setItem("tnCache",JSON.stringify(tn.doc))}catch(e){}}
+    else tn.msg=r.status===404?"Waiting for the first tennis refresh.":"Couldn't load tennis. Pull down to try again.";
+  }catch(e){try{const c=JSON.parse(localStorage.getItem("tnCache")||"null");if(c){tn.doc=c;tn.msg=""}else tn.msg="Couldn't load tennis (offline?)."}catch(e2){}}
+  if(sport==="tennis")renderTennis();
+}
 /* ---------- boot ---------- */
 try{const t=JSON.parse(localStorage.getItem("b5tab")||"null");if(t&&t.g){state.group=t.g;state.tab=t.t||"all"}}catch(e){}
 try{const f=JSON.parse(localStorage.getItem("b5f")||"null");if(f)Object.assign(state.f,f)}catch(e){}
@@ -1254,8 +1475,8 @@ state.f.strength="strong";   // each visit starts on Strong only
 ["dFrom","dTo","tFrom","tTo"].forEach(k=>document.getElementById(k).addEventListener("change",e=>{state.f[k]=e.target.value;if(k==="dFrom"&&state.f.dTo&&state.f.dTo<state.f.dFrom)state.f.dTo=state.f.dFrom;saveF();render()}));
 document.getElementById("clearF").onclick=()=>{state.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:"strong"};state.q="";state.askStrength=null;saveF();render()};
 document.getElementById("teamQ").addEventListener("input",e=>{state.q=e.target.value;state.open=null;render()});
-render();renderNext();setupRefresh();
+render();renderNext();setupRefresh();renderSport();loadTennis();
 loadData(false);
-document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota()}});
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota();loadTennis()}});
 </script>
 </body></html>
