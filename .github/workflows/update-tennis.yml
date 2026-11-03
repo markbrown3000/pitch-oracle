@@ -1,0 +1,44 @@
+# Updates the Tennis tab's data (data/tennis.json) every hour.
+# Prices and results come from Kalshi and Polymarket; the model is tools/tennis.js (the same one the Claude version runs).
+# Player ratings start from data/tennis_elo_*.csv (Tennis Abstract, saved here) and are nudged by every result.
+name: Update tennis data
+on:
+  schedule:
+    - cron: "37 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tennis
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch prices and results
+        run: python3 tools/tennis_sources.py feed.json markets.json
+      - name: Run the model
+        run: |
+          node tools/tennis.js data/tennis_elo_atp.csv data/tennis_elo_wta.csv feed.json markets.json data/tennis_state.json data/tennis_form_atp.json data/tennis_form_wta.json out
+          cp out/state.json data/tennis_state.json
+          cp out/form_atp.json data/tennis_form_atp.json
+          cp out/form_wta.json data/tennis_form_wta.json
+          python3 - <<'PY'
+          import json, datetime
+          s = json.load(open("data/tennis_state.json"))
+          now = datetime.datetime.now(datetime.timezone.utc)
+          fresh = [o for o in (s.get("outrights") or []) if (now - datetime.datetime.fromisoformat(o["asof"].replace("Z", "+00:00"))).days < 2]
+          keep = {k: s.get(k) for k in ("updated", "eloAsof", "model", "players", "picks", "record", "tuning", "train")}
+          keep["outrights"] = fresh
+          json.dump(keep, open("data/tennis.json", "w"), separators=(",", ":"))
+          PY
+      - name: Save if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add data/tennis.json data/tennis_state.json data/tennis_form_atp.json data/tennis_form_wta.json
+          git diff --cached --quiet || (git commit -m "Update tennis data" && (git push || (git pull --rebase && git push)))
