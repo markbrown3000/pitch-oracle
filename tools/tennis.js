@@ -71,11 +71,11 @@ const state = {
 
 // ---------- classification ----------
 const SLAM = /(australian open|roland garros|french open|wimbledon|us open)/i;
-const CLAY = /(roland garros|french open|monte carlo|madrid|rome|internazionali|barcelona|hamburg|buenos aires|rio de janeiro|santiago|estoril|munich|geneva|lyon|bastad|gstaad|kitzbuhel|umag|bucharest|marrakech|houston|charleston|bogota|rabat|palermo|strasbourg|parma|iasi|prague|portoroz|warsaw|lausanne|budapest|bad gastein|grado|salzburg|braunschweig|heilbronn|perugia|sassuolo|trieste|todi|genova|san marino|biella|cordenons)/i;
+const CLAY = /(roland garros|french open|monte carlo|madrid|rome|internazionali|barcelona|hamburg|buenos aires|rio de janeiro|santiago|estoril|munich|geneva|lyon|bastad|gstaad|kitzbuhel|umag|bucharest|marrakech|houston|charleston|bogota|rabat|palermo|strasbourg|parma|iasi|prague|portoroz|warsaw|lausanne|budapest|bad gastein|grado|salzburg|braunschweig|heilbronn|perugia|sassuolo|trieste|todi|genova|san marino|biella|cordenons|curitiba|sauipe|villa maria|\bcali\b|lima|guayaquil|santa cruz|tigre|campinas|florianopolis|montevideo|asuncion)/i;
 const CLAY_COUNTRY = /(argentina|brazil|chile|peru|colombia|uruguay|paraguay|bolivia|ecuador)/i;
 const GRASS = /(wimbledon|queen|london|halle|hertogenbosch|eastbourne|mallorca|newport|berlin|bad homburg|birmingham|nottingham|ilkley|surbiton|libema)/i;
 // indoor hard events (by name and month)
-const INDOOR_EV = [[/paris/i, [10, 11]], [/turin|atp finals|nitto/i, [11]], [/basel/i, [10]], [/vienna/i, [10]], [/stockholm/i, [10]], [/metz|moselle/i, [11]],
+const INDOOR_EV = [[/paris/i, [10, 11]], [/turin|atp finals|nitto/i, [11]], [/basel/i, [10, 11]], [/vienna/i, [10, 11]], [/stockholm/i, [10]], [/metz|moselle/i, [11]],
   [/antwerp|brussels/i, [10]], [/rotterdam/i, [2]], [/marseille/i, [2]], [/montpellier/i, [1, 2]], [/dallas/i, [2]], [/sofia/i, [11]], [/astana/i, [10]],
   [/linz/i, [1, 2, 10]], [/ostrava/i, [10]], [/cluj/i, [2]], [/st\.? petersburg/i, [2, 10]], [/davis cup|billie jean/i, [9, 11]], [/riyadh|wta finals/i, [11]],
   [/tokyo/i, [10]], [/jiujiang/i, []], [/athens/i, [11]], [/belgrade/i, [11]]];
@@ -401,7 +401,7 @@ const out = {
 fs.mkdirSync(outDir, { recursive: true });
 const txt = JSON.stringify(out); fs.writeFileSync(path.join(outDir, "state.json"), txt);
 for (const l of ["atp", "wta"]) fs.writeFileSync(path.join(outDir, `form_${l}.json`), JSON.stringify(FORM[l]));
-const open = Object.values(state.picks).filter(p => p.res == null).length;
+const open = Object.values(state.picks).filter(p => p.res == null).length; withMkt = Object.values(state.picks).filter(p => p.res == null && p.pm != null).length;
 console.log(`tennis: ${added} new picks, ${updated} re-priced, ${scored} scored, ${open} open (${withMkt} priced with a market), ${live} live, ${skipped} skipped (unrated), ${formUpd} results logged · record ${state.record.all ? state.record.all.ok + "/" + state.record.all.n : "0/0"} · ${Math.round(txt.length / 1024)} KB`);
 console.log("tuning: " + tuneNotes.join("; ") + (outrights.length ? " · winner chances for " + outrights.map(o => o.tournament).join(", ") : " · no draws given"));
 console.log("surfaces used (key = surface; fix wrong ones via the surfaces map; hardin = indoor hard):\n" + Object.entries(seenT).map(([k, s]) => `  ${k} = ${s}`).join("\n"));
