@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "37 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/tennis.js", "tools/tennis_sources.py", ".github/workflows/update-tennis.yml"]
 permissions:
   contents: write
 concurrency:
