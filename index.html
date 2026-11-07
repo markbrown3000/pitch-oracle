@@ -102,6 +102,10 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .banker{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;box-shadow:var(--shadow);cursor:pointer;text-align:left;font:inherit;color:inherit;min-width:0}
 .banker .pct{font-family:var(--display);font-weight:800;font-size:34px;line-height:1;color:var(--accent)}
 .banker .who{font-weight:600;margin-top:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bankcell{display:grid;gap:6px;min-width:0}
+.bankcell .logbet{justify-self:start;font-size:12.5px;padding:5px 10px}
+.banker .b365{font-family:var(--mono);font-size:12.5px;color:var(--ink);margin-top:4px}
+a.btn{text-decoration:none;display:inline-flex;align-items:center}
 .banker .vs{font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .day{margin-top:22px}
 .day h2{font-family:var(--display);font-weight:600;font-size:22px;letter-spacing:.03em;text-transform:uppercase;margin:0 0 8px;display:flex;align-items:baseline;gap:10px}
@@ -645,6 +649,33 @@ function renderTabs(){
   });
 }
 function staleDays(lg){if(!lg||!lg.asof)return 0;return Math.floor((Date.now()-new Date(lg.asof+"T12:00:00Z").getTime())/864e5)}
+/* ---------- Bet365 odds and the Bet Ledger link ---------- */
+const BET_LEDGER="https://claude.ai/artifact/JCCjAHSDJmBVtiE61KEGzV";
+const OK={H:"h",X:"d",A:"a"};
+const dec2=o=>(+o).toFixed(2);
+function b365For(m){const o=m.f.b365;return o&&o[OK[m.p.pick]]>1?o[OK[m.p.pick]]:null}
+function ledgerLink(m){
+  const L=pickLabel(m),odds=b365For(m);
+  const data={d:keyFmt.format(m.start),e:`${m.h.team} v ${m.a.team}`,s:m.p.pick==="X"?"Draw":L.name+" to win",o:odds?dec2(odds):"",m:"Match result",b:"Bet365",
+    n:`Pitch Oracle ${L.word.toLowerCase()} pick, ${pct(m.p.conf)} (${m.lg.name})`};
+  const hex=[...new TextEncoder().encode(JSON.stringify(data))].map(b=>b.toString(16).padStart(2,"0")).join("");
+  return BET_LEDGER+"#log-"+hex;
+}
+function ledgerA(m,label){const a=el("a","btn ghost logbet",label||"Log in Bet Ledger");a.href=ledgerLink(m);a.target="_blank";a.rel="noopener";a.onclick=e=>e.stopPropagation();return a}
+// what £1 on each pick would have returned at Bet365's odds (needs Bet365 prices on played matches)
+function b365Return(list){
+  let n=0,pl=0;
+  for(const x of list){
+    if(!x.result||!["H","X","A"].includes(x.result.outcome))continue;
+    const i=pickInfo(x,x._id);const L=state.leagues[x.league];if(!L||!i.date)continue;
+    const day=Date.parse(i.date+"T12:00:00Z");
+    const mt=(L.matches||[]).find(mm=>mm.home===i.h&&mm.away===i.a&&Math.abs(Date.parse(mm.date+"T12:00:00Z")-day)<=3*864e5);
+    const o=mt&&mt.b365&&mt.b365[OK[x.pick]];if(!(o>1))continue;
+    n++;pl+=x.pick===x.result.outcome?o-1:-1;
+  }
+  return {n,pl};
+}
+const sgbp=v=>(v>0?"+£":v<0?"−£":"£")+Math.abs(v).toFixed(2);
 function pickLabel(m){
   const {p}=m; const name=p.pick==="H"?m.h.team:p.pick==="A"?m.a.team:"Draw";
   return {code:p.pick==="X"?"X":p.pick==="H"?"1":"2",name,strong:p.conf>=.6&&p.pick!=="X",word:p.conf>=.6?"Strong":p.conf>=.45?"Lean":"Toss-up"};
@@ -668,11 +699,12 @@ function renderMain(){
   // bankers
   const bw=document.getElementById("bankers"); bw.replaceChildren();
   ms.filter(m=>m.p.pick!=="X").sort((x,y)=>y.p.conf-x.p.conf).slice(0,6).forEach(m=>{
-    const L=pickLabel(m); const b=el("button","banker");
+    const L=pickLabel(m); const cell=el("div","bankcell"); const b=el("button","banker"); const o=b365For(m);
     b.append(el("div","pct",pct(m.p.conf)),el("div","who",L.name+" to win"),
       el("div","vs",`${m.h.team} v ${m.a.team} · ${m.lg.short} · ${dayFmt.format(m.start).split(" ")[0].slice(0,3)} ${timeFmt.format(m.start)}`));
+    if(o)b.append(el("div","b365",`Bet365 ${dec2(o)}`));
     b.onclick=()=>{state.open=m.f.id;render();document.getElementById("m-"+cssId(m.f.id))?.scrollIntoView({block:"center",behavior:"smooth"})};
-    bw.append(b);
+    cell.append(b,ledgerA(m,"Log bet"));bw.append(cell);
   });
   document.getElementById("bankersWrap").hidden=false;
   // days
@@ -743,7 +775,7 @@ function matchEl(m){
   const ko=el("div","ko"); ko.append(el("b",null,lg.short),document.createTextNode(timeFmt.format(m.start)));
   const teams=el("div","teams");
   [[h,"H"],[a,"A"]].forEach(([t,s])=>{const d=el("div",p.pick===s?"fav":null);if(isFavTeam(lg.code,t.abbr))d.append(el("span","star","★"));if(teamHit(t)){d.append(el("mark",null,t.team))}else d.append(document.createTextNode(t.team));d.append(el("span","pos",ordinal(t.pos)));teams.append(d)});
-  teams.append(el("div","meta",`${p.top[0].s} · 3+ goals ${pct(p.o25)} · BTTS ${pct(p.btts)}`));
+  teams.append(el("div","meta",`${p.top[0].s} · 3+ goals ${pct(p.o25)} · BTTS ${pct(p.btts)}`+(b365For(m)?` · Bet365 ${dec2(b365For(m))}`:"")));
   const probs=el("div","probs"); const bar=el("div","bar");
   [["h",p.H],["d",p.D],["a",p.A]].forEach(([c,v])=>{const s=el("span",c,v>=.12?pct(v):"");s.style.width=(v*100)+"%";bar.append(s)});
   const lgd=el("div","bar-legend"); lgd.append(el("span",null,"Home"),el("span",null,"Draw"),el("span",null,"Away"));
@@ -783,6 +815,7 @@ function detailEl(m){
     cmp.append(mk("Stats model",pct(p.H),pct(p.D),pct(p.A)));
     const s=el("div");s.append(el("b",null,"Second opinion: "),document.createTextNode("no data feed or odds for this match yet"));cmp.append(s);
   }
+  if(f.b365&&f.b365.h>1){const s=el("div");s.append(el("b",null,"Bet365 odds: "),document.createTextNode(`home ${dec2(f.b365.h)}, draw ${dec2(f.b365.d)}, away ${dec2(f.b365.a)}`));cmp.append(s)}
   const SRC={same:"started from last season",down:"relegated last season",up:"promoted last season",new:"new to the league",none:"no starting rating"};
   if(h.hasGoals){const s=el("div");const r=t=>`attack ${t.att.toFixed(2)}, defence ${t.def.toFixed(2)} (${SRC[t.priorSrc]||SRC.none}${t.matchesUsed?`, ${t.matchesUsed} matches rated by opponent`:""})`;s.append(el("b",null,"Ratings (1.00 = league average, lower defence is better): "),document.createTextNode(`${h.team} ${r(h)} · ${a.team} ${r(a)}`));cmp.append(s)}
   {const s=el("div");s.append(el("b",null,"Goals: "),document.createTextNode(p.ouUsed?`expected goals and scores use the bookmakers' over/under line (${Math.round(p.ouLine)}% chance of 3+ goals)`:"no bookmaker over/under line for this match yet, so expected goals come from the stats model alone"));cmp.append(s)}
@@ -793,6 +826,7 @@ function detailEl(m){
   const why=state.why[f.id];
   if(why){const w=el("div","why"+(why.wait?" wait":""),why.text);d.append(w)}
   const act=el("div","actions");
+  act.append(ledgerA(m));
   [["teams",m.lg.code+":"+h.abbr,h.team],["teams",m.lg.code+":"+a.abbr,a.team],["leagues",m.lg.code,m.lg.name]].forEach(([kind,key,name])=>{
     const on=FAVS[kind].includes(key);const b=el("button","btn fav"+(on?" on":""),(on?"★ Following ":"☆ Follow ")+name);b.type="button";
     b.onclick=e=>{e.stopPropagation();toggleFav(kind,key)};act.append(b);
@@ -856,6 +890,7 @@ function backtestBlock(bt,filtered){
   tile("Picks correct",pct(S.rate),S.hit+" of "+S.n);
   tile("Average confidence",pct(S.conf),"close to the hit rate means well calibrated");
   tile("Brier score",S.brier.toFixed(3),"lower is better; guessing scores 0.667");
+  {const r=b365Return(bt);if(r.n)tile("£1 on each at Bet365",(r.pl>=0?"+":"")+(100*r.pl/r.n).toFixed(1)+"%",`${sgbp(r.pl)} from ${r.n} bets at Bet365's early odds`)}
   wrap.append(top);
   const bands=[["Strong (60%+)",x=>x.conf>=.6&&x.pick!=="X"],["Lean (45–60%)",x=>x.conf>=.45&&!(x.conf>=.6&&x.pick!=="X")],["Toss-up (under 45%)",x=>x.conf<.45]];
   const w=el("div","tbl");const t=el("table");const th=el("thead");const tr=el("tr");["Pick type","Matches","Correct","Expected"].forEach(h=>tr.append(el("th",null,h)));th.append(tr);t.append(th);
@@ -902,6 +937,7 @@ function renderRecord(){
   tile("Picks correct",pct(S.rate),S.hit+" of "+S.n);
   tile("Average confidence",pct(S.conf),"close to the hit rate means well calibrated");
   tile("Brier score",S.brier.toFixed(3),"lower is better; guessing scores 0.667");
+  {const r=b365Return(done);if(r.n)tile("£1 on each at Bet365",(r.pl>=0?"+":"")+(100*r.pl/r.n).toFixed(1)+"%",`${sgbp(r.pl)} from ${r.n} bets at Bet365's early odds`)}
   body.append(top);
   // by confidence band
   const bands=[["Strong (60%+)",x=>x.conf>=.6],["Lean (45–60%)",x=>x.conf>=.45&&x.conf<.6],["Toss-up (under 45%)",x=>x.conf<.45]];
@@ -1048,6 +1084,7 @@ function fdParseCSV(text){
   const h=rows[0].map(x=>x.trim());
   return rows.slice(1).map(r=>{const o={};h.forEach((k,i)=>{if(k)o[k]=(r[i]||"").trim()});return o});
 }
+const fdB365=(r,c)=>{const h=fdNum(r["B365"+c+"H"]),d=fdNum(r["B365"+c+"D"]),a=fdNum(r["B365"+c+"A"]);return h>1&&d>1&&a>1?{h,d,a}:null}; // Bet365 decimal odds (c="" early, "C" closing)
 const fdNum=x=>{const v=parseFloat(x);return isFinite(v)?v:null};
 function fdProb(h,d,a){h=fdNum(h);d=fdNum(d);a=fdNum(a);if(!(h>1&&d>1&&a>1))return null;
   const ih=1/h,id=1/d,ia=1/a,t=ih+id+ia;return {h:+(100*ih/t).toFixed(1),d:+(100*id/t).toFixed(1),a:+(100*ia/t).toFixed(1)}}
@@ -1130,6 +1167,7 @@ function fdMerge(data,resultRows,fixtureRows){
       const o=fdProb(r.AvgH||r.B365H,r.AvgD||r.B365D,r.AvgA||r.B365A);if(o)extra.odds=o;
       const c=fdProb(r.AvgCH||r.B365CH,r.AvgCD||r.B365CD,r.AvgCA||r.B365CA);if(c)extra.oddsClose=c;
       const ou=fdOU(r);if(ou!=null)extra.o25=ou;
+      {const b=fdB365(r,"");if(b)extra.b365=b;const bc=fdB365(r,"C");if(bc)extra.b365c=bc}
       if(fdNum(r.HST)!=null&&fdNum(r.AST)!=null){extra.hst=fdNum(r.HST);extra.ast=fdNum(r.AST)}
       if(fdNum(r.HxG)!=null&&fdNum(r.AxG)!=null){extra.hxg=+fdNum(r.HxG).toFixed(2);extra.axg=+fdNum(r.AxG).toFixed(2)}
       if(!x){
@@ -1159,6 +1197,7 @@ function fdMerge(data,resultRows,fixtureRows){
         else{f.feed=o;f.odds=o;f.feedSource="odds"}
       }
       if(ou!=null){f.ou=ou;stats.ou++}
+      {const b=fdB365(r,"");if(b)f.b365=b}
       stats.fixtures++;
     });
     // drop fixtures that have now been played
