@@ -234,6 +234,20 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
 .bt-store{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:16px;font-size:13px;color:var(--muted)}
 
 /* ---------- Auto bet tab ---------- */
+.at-mode{margin:0 0 14px}
+.ac-card{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--line);border-radius:12px;padding:12px 14px;box-shadow:var(--shadow)}
+.ac-card.won{border-left-color:var(--good)}.ac-card.lost{border-left-color:var(--bad)}.ac-card.next{border-left-color:var(--accent)}
+.ac-card .top{display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px 12px;align-items:baseline}
+.ac-card .top b{font:700 20px var(--display);text-transform:uppercase;letter-spacing:.03em}
+.ac-card .top .pl{font:500 16px var(--mono);font-variant-numeric:tabular-nums}
+.ac-legs{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:4px}
+.ac-legs li{display:grid;grid-template-columns:20px minmax(0,1fr) auto;gap:8px;align-items:baseline;font-size:13.5px}
+.ac-legs .mk{font-weight:700;text-align:center}
+.ac-legs .mk.y{color:var(--good)}.ac-legs .mk.n{color:var(--bad)}.ac-legs .mk.w{color:var(--muted)}
+.ac-legs .o{font:500 13px var(--mono);color:var(--muted)}
+.ac-legs small{color:var(--muted)}
+.ac-list{display:grid;gap:10px;margin-top:8px}
+
 .at-total{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px;margin:4px 0 12px}
 .at-total .big{font:600 44px/1 var(--display);font-variant-numeric:tabular-nums;letter-spacing:.01em}
 .at-total .of{color:var(--muted);font-size:14px}
@@ -346,6 +360,19 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
         </div>
       </div>
     </div>
+    <div class="seg at-mode" role="group" aria-label="Singles or accumulators" id="atMode">
+      <button type="button" data-v="single" aria-pressed="true">Single bets</button><button type="button" data-v="acca" aria-pressed="false">6-fold accas</button>
+    </div>
+    <div id="acView" hidden>
+      <div class="at-total" id="acTotal"></div>
+      <div class="rec-top" id="acTiles"></div>
+      <div class="label" style="margin-top:16px">Next acca</div>
+      <div id="acNext" style="margin:6px 0 18px"></div>
+      <section class="bt-panel bt-chart" style="margin:0 0 18px" aria-labelledby="acChartH"><h3 id="acChartH">Acca running total</h3><div id="acChart"></div></section>
+      <div class="label">Past accas</div>
+      <div class="ac-list" id="acList"></div>
+    </div>
+    <div id="atSingles">
     <div class="at-total" id="atTotal"></div>
     <div class="rec-top" id="atTiles"></div>
     <section class="bt-panel bt-chart" style="margin:14px 0" aria-labelledby="atChartH">
@@ -358,9 +385,11 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <div class="label">Bet by bet</div>
     <div class="at-list" id="atList"></div>
     <div class="frow" style="margin-top:10px"><button class="btn ghost" type="button" id="atMore" hidden>Show all bets</button></div>
+    </div>
     <section class="method">
       <h3>How the auto bets work</h3>
       <p>Each strong pick gets the same stake at Bet365's pre-match odds, taken from football-data.co.uk. A win pays the stake times the odds minus the stake; a loss loses the stake. Picks with no Bet365 price in the data, such as most cup ties, are left out. Live picks are the ones Pitch Oracle saved before kick-off; the season replay adds this season's earlier matches, picked by the model using only what was known before each match.</p>
+      <p>A 6-fold acca takes the six strongest picks of one day that have Bet365 odds, multiplies their odds together, and only pays if all six win. Days with fewer than six priced strong picks get no acca. Accas pay more when they land but lose far more often, because one wrong leg sinks the lot.</p>
       <p>Past results don't guarantee future ones, and bookmakers' margins make long-run profit hard. Free help: <a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a>.</p>
     </section>
   </div>
@@ -1745,7 +1774,7 @@ function atBets(){
     if(!x.result||!["H","X","A"].includes(x.result.outcome)){
       if(x.backtest||!L||(x.start&&Date.parse(x.start)<now-4*864e5))continue; // cup ties have no Bet365 price in the data
       const f=L&&(L.fixtures||[]).find(ff=>ff.home===i.h&&ff.away===i.a);
-      wait.push({x,i,name,lg,start:x.start,odds:f&&f.b365?f.b365[OK[x.pick]]:null});seen.set(key,1);continue;
+      wait.push({x,i,name,lg,date:x.start?keyFmt.format(new Date(x.start)):i.date,start:x.start,conf:x.conf,h:i.hn,a:i.an,odds:f&&f.b365?f.b365[OK[x.pick]]:null});seen.set(key,1);continue;
     }
     const day=Date.parse(i.date+"T12:00:00Z");
     const mt=L&&(L.matches||[]).find(mm=>mm.home===i.h&&mm.away===i.a&&Math.abs(Date.parse(mm.date+"T12:00:00Z")-day)<=3*864e5);
@@ -1758,7 +1787,73 @@ function atBets(){
   wait.sort((a,b)=>String(a.start).localeCompare(String(b.start)));
   return {done,wait,noPrice};
 }
+const ac={mode:"single"};
+try{if(localStorage.getItem("poAutoMode")==="acca")ac.mode="acca"}catch(e){}
+function acBuild(done,wait){
+  const byDay=new Map();done.forEach(b=>{if(!byDay.has(b.date))byDay.set(b.date,[]);byDay.get(b.date).push(b)});
+  const accas=[];let run=0;
+  [...byDay.keys()].sort().forEach(d=>{
+    const legs=byDay.get(d).filter(b=>b.odds>1).sort((a,b)=>b.conf-a.conf).slice(0,6);if(legs.length<6)return;
+    const odds=legs.reduce((a,b)=>a*b.odds,1),win=legs.every(b=>b.win),pl=win?at.stake*(odds-1):-at.stake;run+=pl;
+    accas.push({date:d,legs,odds,win,pl,run,hits:legs.filter(b=>b.win).length});
+  });
+  // next acca: the first upcoming day with six priced strong picks, otherwise the first day with any
+  const wd=new Map();wait.forEach(w=>{if(!wd.has(w.date))wd.set(w.date,[]);wd.get(w.date).push(w)});
+  let next=null;
+  for(const d of [...wd.keys()].sort()){const all=wd.get(d).sort((a,b)=>b.conf-a.conf),priced=all.filter(w=>w.odds>1);
+    if(priced.length>=6){next={date:d,legs:priced.slice(0,6),full:true};break}
+    if(!next&&all.length)next={date:d,legs:all.slice(0,6),full:false,priced:priced.length,count:all.length}}
+  return {accas,next};
+}
+function acRender(done,wait){
+  const {accas,next}=acBuild(done,wait),n=accas.length,won=accas.filter(a=>a.win).length,pl=n?accas[n-1].run:0,cls=pl>0?"bt-pos":pl<0?"bt-neg":"";
+  const T=document.getElementById("acTotal");T.replaceChildren();
+  if(!n)T.append(el("div","empty","No day has had six settled strong picks with Bet365 odds yet. Try \"With season replay\" above to see this season's earlier matchdays."));
+  else T.append(el("div","big "+cls,btSG(pl)),el("div","of",`running total from ${n} acca${n===1?"":"s"} of ${btG(at.stake)}, since ${btDate(accas[0].date)}`));
+  const tl=document.getElementById("acTiles");tl.replaceChildren();
+  const tile=(k,v,sub,c)=>{const t=el("div","stat"),vv=el("div","v",v);if(c)vv.classList.add(c);t.append(el("div","label",k),vv);if(sub)t.append(el("div","sub",sub));tl.append(t)};
+  if(n){
+    const avg=accas.reduce((a,b)=>a+b.odds,0)/n,near=accas.filter(a=>a.hits===5).length,best=accas.filter(a=>a.win).sort((a,b)=>b.pl-a.pl)[0];
+    tile("Accas won",`${won} of ${n}`,`${Math.round(100*won/n)}% landed`);
+    tile("Return on stake",btPct(pl/(n*at.stake)),`${btG(n*at.stake)} staked in total`,cls);
+    tile("Average odds",avg.toFixed(2),`needs ${Math.round(100/avg)}% to land to break even`);
+    tile("Lost by one leg",String(near),best?`best win: ${btSG(best.pl)} on ${btDate(best.date)}`:"no winning acca yet");
+  }
+  // next acca
+  const nx=document.getElementById("acNext");nx.replaceChildren();
+  if(!next)nx.append(el("div","empty","No upcoming strong picks yet. They appear after the next refresh."));
+  else{
+    const c=el("div","ac-card next"),top=el("div","top"),odds=next.full?next.legs.reduce((a,b)=>a*b.odds,1):null;
+    const started=next.legs.some(w=>w.start&&Date.parse(w.start)<=Date.now());
+    top.append(el("b",null,dayFmt.format(new Date(next.date+"T12:00:00Z"))+(started?" · under way":"")),el("span","pl",odds?`odds ${odds.toFixed(2)} · ${btG(at.stake)} wins ${btG(at.stake*(odds-1))}`:""));c.append(top);
+    if(started)c.append(el("p","bt-hint","Some of these have already kicked off, so this one is for watching rather than betting. It counts in the total once all six results are in."));
+    if(!next.full)c.append(el("p","bt-hint",next.count<6?`Only ${next.count} strong pick${next.count===1?"":"s"} that day so far, so no full acca yet.`:`Bet365 odds are in for ${next.priced} of these so far. The full acca odds appear once all six are priced.`));
+    const ul=el("ul","ac-legs");next.legs.forEach(w=>{const li=el("li");li.append(el("span","mk w","•"));const t=el("span",null,w.name+" to win ");t.append(el("small",null,`${w.h} v ${w.a} · ${w.lg}`+(w.start?` · ${timeFmt.format(new Date(w.start))}`:"")+` · ${pct(w.conf)}`));li.append(t,el("span","o",w.odds?dec2(w.odds):"–"));ul.append(li)});c.append(ul);
+    if(next.full&&!started){const b=el("button","btn ghost","Log this acca in Bets");b.type="button";b.style.marginTop="10px";
+      b.onclick=()=>btPrefill({d:next.date,e:`6-fold acca, ${next.legs.length} matches`,s:next.legs.map(w=>w.name).join(", "),o:odds.toFixed(2),m:"Accumulator",b:"Bet365",n:"Pitch Oracle strong-picks acca"});c.append(b)}
+    nx.append(c);
+  }
+  // chart
+  const box=document.getElementById("acChart");
+  if(n<2)box.innerHTML='<p class="bt-hint">The chart appears once two accas are settled.</p>';
+  else{const ys=[0,...accas.map(a=>a.run)],W=520,H=200,L=56,Rr=10,Tt=12,B=26;let lo=Math.min(0,...ys),hi=Math.max(0,...ys);if(hi-lo<1){hi+=1;lo-=1}
+    const r=(hi-lo)/4,pw=10**Math.floor(Math.log10(r)),mm=r/pw,step=(mm<=1?1:mm<=2?2:mm<=5?5:10)*pw;lo=Math.floor(lo/step)*step;hi=Math.ceil(hi/step)*step;
+    const x=i=>L+(W-L-Rr)*i/(ys.length-1),y=v=>Tt+(H-Tt-B)*(hi-v)/(hi-lo);
+    let g="";for(let v=lo;v<=hi+1e-9;v+=step)g+=`<line class="grid" x1="${L}" x2="${W-Rr}" y1="${y(v)}" y2="${y(v)}"/><text class="axis" x="${L-6}" y="${y(v)+4}" text-anchor="end">${v<0?"−":""}£${Math.abs(+v.toFixed(2))}</text>`;
+    const line=ys.map((v,i)=>`${i?"L":"M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(""),end=ys[ys.length-1],col=end>=0?"var(--good)":"var(--bad)";
+    box.innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Acca running total, ending at ${btSG(end)}">${g}<line x1="${L}" x2="${W-Rr}" y1="${y(0)}" y2="${y(0)}" stroke="var(--muted)" stroke-dasharray="3 3"/><path d="${line}" fill="none" stroke="${col}" stroke-width="2" stroke-linejoin="round"/><circle cx="${x(ys.length-1)}" cy="${y(end)}" r="4" fill="${col}"/><text class="axis" x="${L}" y="${H-6}">${btDate(accas[0].date)}</text><text class="axis" x="${W-Rr}" y="${H-6}" text-anchor="end">${btDate(accas[n-1].date)}</text></svg>`}
+  // past accas, newest first
+  const list=document.getElementById("acList");list.replaceChildren();
+  [...accas].reverse().forEach(a=>{const c=el("div","ac-card "+(a.win?"won":"lost")),top=el("div","top");
+    top.append(el("b",null,btDate(a.date)+(a.win?" · Won":` · Lost, ${a.hits} of 6`)),el("span","pl "+(a.win?"bt-pos":"bt-neg"),`${btSG(a.pl)} at ${a.odds.toFixed(2)} · total ${btSG(a.run)}`));c.append(top);
+    const ul=el("ul","ac-legs");a.legs.forEach(b=>{const li=el("li");li.append(el("span","mk "+(b.win?"y":"n"),b.win?"✓":"✗"));const t=el("span",null,b.name+" ");t.append(el("small",null,`${b.h} ${b.score||"v"} ${b.a} · ${b.lg}`));li.append(t,el("span","o",dec2(b.odds)));ul.append(li)});
+    c.append(ul);list.append(c)});
+  if(!n)list.append(el("div","empty","None yet."));
+}
 function atRender(){
+  document.querySelectorAll("#atMode button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===ac.mode)));
+  document.getElementById("acView").hidden=ac.mode!=="acca";document.getElementById("atSingles").hidden=ac.mode==="acca";
+  if(ac.mode==="acca"){const {done,wait}=atBets();acRender(done,wait);return}
   document.querySelectorAll("#atStake button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.v===at.stake)));
   document.querySelectorAll("#atScope button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===at.scope)));
   const {done,wait,noPrice}=atBets(),n=done.length,won=done.filter(b=>b.win).length,pl=n?done[n-1].run:0,staked=n*at.stake;
@@ -1811,6 +1906,7 @@ function atRender(){
 }
 document.querySelectorAll("#atStake button").forEach(b=>b.onclick=()=>{at.stake=+b.dataset.v;atSave();atRender()});
 document.querySelectorAll("#atScope button").forEach(b=>b.onclick=()=>{at.scope=b.dataset.v;atSave();atRender()});
+document.querySelectorAll("#atMode button").forEach(b=>b.onclick=()=>{ac.mode=b.dataset.v;try{localStorage.setItem("poAutoMode",ac.mode)}catch(e){}atRender()});
 document.getElementById("atMore").onclick=()=>{at.all=!at.all;atRender()};
 
 /* ---------- Bets tab: a bet log ----------
