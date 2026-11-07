@@ -1853,9 +1853,9 @@ function acRender(done,wait){
 function atRender(){
   document.querySelectorAll("#atMode button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===ac.mode)));
   document.getElementById("acView").hidden=ac.mode!=="acca";document.getElementById("atSingles").hidden=ac.mode==="acca";
-  if(ac.mode==="acca"){const {done,wait}=atBets();acRender(done,wait);return}
   document.querySelectorAll("#atStake button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.v===at.stake)));
   document.querySelectorAll("#atScope button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===at.scope)));
+  if(ac.mode==="acca"){const {done,wait}=atBets();acRender(done,wait);return}
   const {done,wait,noPrice}=atBets(),n=done.length,won=done.filter(b=>b.win).length,pl=n?done[n-1].run:0,staked=n*at.stake;
   const cls=pl>0?"bt-pos":pl<0?"bt-neg":"";
   const T=document.getElementById("atTotal");T.replaceChildren();
