@@ -190,6 +190,48 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
 .who-row{display:grid;grid-template-columns:minmax(0,1fr) 90px 40px;gap:8px;align-items:center;padding:3px 0;font-size:13.5px}
 .who-n{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.who-bar{height:8px;background:var(--chip);border-radius:4px;overflow:hidden}.who-bar i{display:block;height:100%;background:var(--accent)}
 .who-p{font-family:var(--mono);font-size:12.5px;text-align:right}.who-foot{font-size:11.5px;color:var(--muted);margin-top:8px}
+
+/* ---------- Bets tab ---------- */
+.bt-head{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:flex-end;justify-content:space-between;margin:0 0 14px}
+.bt-head p{margin:0;color:var(--muted);font-size:13.5px;max-width:62ch}
+.bt-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:14px;margin:14px 0}
+@media (max-width:760px){.bt-grid{grid-template-columns:minmax(0,1fr)}}
+.bt-panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px;box-shadow:var(--shadow);min-width:0}
+.bt-panel h3{font-family:var(--display);font-size:20px;text-transform:uppercase;letter-spacing:.03em;margin:0 0 10px}
+.bt-form{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px}
+.bt-f{display:grid;gap:4px;min-width:0}
+.bt-f label{font-size:11px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.bt-c6{grid-column:span 6}.bt-c3{grid-column:span 3}.bt-c2{grid-column:span 2}
+@media (max-width:520px){.bt-c2{grid-column:span 3}}
+.bt-form input,.bt-form select,.bt-limit input{width:100%;font:500 15px/1.2 var(--body);color:var(--ink);background:var(--chip);border:1px solid var(--line);border-radius:7px;padding:9px 10px;min-width:0}
+.bt-form input:focus-visible,.bt-form select:focus-visible,.bt-limit input:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.bt-check{display:flex;gap:8px;align-items:center;font-size:14px;text-transform:none!important;letter-spacing:0!important;font-weight:500!important;color:var(--ink)!important}
+.bt-check input{width:auto}
+.bt-msg{font-size:13px;min-height:1em}
+.bt-msg.err{color:var(--bad)}.bt-msg.ok{color:var(--good)}
+.bt-hint{font-size:12px;color:var(--muted);margin:0}
+.bt-from{background:var(--warn-bg);border:1px solid var(--warn);border-radius:10px;padding:10px 12px;font-size:13.5px;margin:0 0 12px}
+.bt-chart svg{display:block;width:100%;height:auto}
+.bt-chart .axis{fill:var(--muted);font:11px var(--mono)}
+.bt-chart .grid{stroke:var(--line)}
+.bt-limit{display:grid;gap:6px;margin-top:14px}
+.bt-limit .row2{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.bt-limit input{max-width:110px}
+.bt-lbar{height:8px;background:var(--chip);border-radius:6px;overflow:hidden}
+.bt-lbar i{display:block;height:100%;background:var(--accent)}
+.bt-lbar.over i{background:var(--bad)}
+.bt-slips{display:grid;gap:8px;margin-top:8px}
+.bt-slip{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 14px;align-items:center;background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--line);border-radius:10px;padding:10px 14px}
+.bt-slip.won{border-left-color:var(--good)}.bt-slip.lost{border-left-color:var(--bad)}.bt-slip.void,.bt-slip.cashed{border-left-color:var(--draw)}.bt-slip.pending{border-left-color:var(--accent)}
+.bt-slip .what{font-weight:600;overflow-wrap:anywhere}
+.bt-slip .meta{font-size:12.5px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 10px}
+.bt-slip .pl{text-align:right;font:500 16px var(--mono);font-variant-numeric:tabular-nums}
+.bt-slip .acts{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.bt-slip .acts .btn{padding:7px 10px;font-size:12px}
+.bt-tag{font:600 10.5px var(--body);letter-spacing:.07em;text-transform:uppercase;padding:2px 7px;border-radius:5px;background:var(--chip);color:var(--muted)}
+.bt-tag.good{color:var(--good)}.bt-tag.bad{color:var(--bad)}
+.bt-pos{color:var(--good)}.bt-neg{color:var(--bad)}
+.bt-store{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:16px;font-size:13px;color:var(--muted)}
 </style>
 </head><body>
 
@@ -209,6 +251,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
   <div class="sport" id="sport" role="group" aria-label="Sport">
     <button type="button" data-s="football" aria-pressed="true">Football</button>
     <button type="button" data-s="tennis" aria-pressed="false">Tennis</button>
+    <button type="button" data-s="bets" aria-pressed="false">Bets</button>
   </div>
   <section class="rota" id="rota" aria-live="polite">
     <div class="rota-main">
@@ -273,6 +316,64 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <p>The Premier League, La Liga, Serie A, Bundesliga and Ligue 1 come from a live sports data feed. The Championship, League One, League Two, National League, Segunda División, Serie B, 2. Bundesliga and Ligue 2, plus the four Scottish divisions, the Eredivisie, Belgian Pro League, Primeira Liga, Süper Lig and Greek Super League, come from published league tables, results and fixture lists. Each match card shows the date its table is from, and a league whose table is more than a week old is marked "old table".</p>
     <p>Each match card shows the stats model and the second opinion side by side, so you can see where they disagree. Football is noisy: a 60% favourite still fails to win four times in ten. For fun, not for staking money.</p>
   </section>
+  </div>
+  <div id="btView" hidden>
+    <div class="bt-head">
+      <p>Log every bet, real or on paper, and see whether you're really ahead: profit, return on stake, and how often you beat the closing odds.</p>
+      <div class="frow" style="gap:10px">
+        <div class="seg" role="group" aria-label="Which bets to count" id="btKind">
+          <button type="button" data-v="real" aria-pressed="true">Real</button><button type="button" data-v="paper" aria-pressed="false">Paper</button><button type="button" data-v="all" aria-pressed="false">All</button>
+        </div>
+        <div class="seg" role="group" aria-label="Time period" id="btPeriod">
+          <button type="button" data-v="30" aria-pressed="false">30 days</button><button type="button" data-v="90" aria-pressed="false">90 days</button><button type="button" data-v="all" aria-pressed="true">All time</button>
+        </div>
+      </div>
+    </div>
+    <div class="bt-from" id="btExample" hidden><strong>These are example bets</strong> so you can see how it works. Add your first bet and they disappear.</div>
+    <div class="rec-top" id="btTiles"></div>
+    <div class="bt-grid">
+      <section class="bt-panel" aria-labelledby="btAddH">
+        <h3 id="btAddH">Add a bet</h3>
+        <div class="bt-from" id="btFrom" hidden></div>
+        <form class="bt-form" id="btForm" novalidate>
+          <div class="bt-f bt-c2"><label for="btDate">Date</label><input id="btDate" type="date"></div>
+          <div class="bt-f bt-c2"><label for="btMarket">Bet type</label>
+            <select id="btMarket"><option>Match result</option><option>Next goal</option><option>Both teams to score</option><option>Over/under goals</option><option>Correct score</option><option>Accumulator</option><option>Tennis</option><option>Other</option></select></div>
+          <div class="bt-f bt-c2"><label for="btBook">Bookmaker</label><input id="btBook" type="text" value="Bet365" autocomplete="off"></div>
+          <div class="bt-f bt-c6"><label for="btEvent">Match or event</label><input id="btEvent" type="text" placeholder="e.g. Arsenal v Chelsea" autocomplete="off"></div>
+          <div class="bt-f bt-c6"><label for="btSel">Your pick</label><input id="btSel" type="text" placeholder="e.g. Arsenal to win" autocomplete="off"></div>
+          <div class="bt-f bt-c2"><label for="btStake">Stake (£)</label><input id="btStake" type="text" inputmode="decimal" placeholder="5"></div>
+          <div class="bt-f bt-c2"><label for="btOdds">Odds</label><input id="btOdds" type="text" placeholder="5/2 or 3.5" autocomplete="off"></div>
+          <div class="bt-f bt-c2"><label for="btClose">Closing odds</label><input id="btClose" type="text" placeholder="Optional" autocomplete="off"></div>
+          <div class="bt-f bt-c3"><label for="btResult">Result</label>
+            <select id="btResult"><option value="pending">Not settled yet</option><option value="won">Won</option><option value="lost">Lost</option><option value="void">Void (stake back)</option><option value="cashed">Cashed out</option></select></div>
+          <div class="bt-f bt-c3" id="btCashWrap" hidden><label for="btCash">Cash-out return (£)</label><input id="btCash" type="text" inputmode="decimal"></div>
+          <div class="bt-f bt-c6"><label class="bt-check" for="btPaper"><input id="btPaper" type="checkbox"> Paper bet (not real money, for testing an idea)</label></div>
+          <div class="bt-f bt-c6"><label for="btNote">Note</label><input id="btNote" type="text" placeholder="Optional, e.g. live xG 1.8 v 0.3 at 60 mins" autocomplete="off"></div>
+          <div class="bt-c6 frow" style="gap:10px">
+            <button class="btn" type="submit" id="btSave">Add bet</button>
+            <button class="btn ghost" type="button" id="btCancel" hidden>Cancel edit</button>
+            <span class="bt-msg" id="btMsg" role="status"></span>
+          </div>
+          <p class="bt-hint bt-c6">Odds can be fractional (5/2, evens) or decimal (3.5). Closing odds are the price just before kick-off; add them later with Edit.</p>
+        </form>
+      </section>
+      <section class="bt-panel bt-chart" aria-labelledby="btChartH">
+        <h3 id="btChartH">Running profit</h3>
+        <div id="btChart"></div>
+        <div class="bt-limit" id="btLimit"></div>
+      </section>
+    </div>
+    <div class="label">By bet type</div>
+    <div class="tbl" id="btMarkets" style="margin:6px 0 18px"></div>
+    <div class="label">Your bets</div>
+    <div class="bt-slips" id="btSlips"></div>
+    <div class="bt-store" id="btStore"></div>
+    <section class="method">
+      <h3>About the bet log</h3>
+      <p>Profit counts settled bets only. "Beat the closing odds" compares the odds you took with the price just before kick-off; doing that more often than not is the best sign of good betting, even through a losing run. Paper bets let you test an idea without staking anything.</p>
+      <p>Set a limit you're happy to lose. Free help and tools: <a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a> and <a href="https://www.gamcare.org.uk" target="_blank" rel="noopener">GamCare</a>.</p>
+    </section>
   </div>
   <div id="tnView" hidden>
     <div class="tn-status">
@@ -661,7 +762,7 @@ function ledgerLink(m){
   const hex=[...new TextEncoder().encode(JSON.stringify(data))].map(b=>b.toString(16).padStart(2,"0")).join("");
   return BET_LEDGER+"#log-"+hex;
 }
-function ledgerA(m,label){const a=el("a","btn ghost logbet",label||"Log in Bet Ledger");a.href=ledgerLink(m);a.target="_blank";a.rel="noopener";a.onclick=e=>e.stopPropagation();return a}
+function ledgerA(m,label){const b=el("button","btn ghost logbet",label||"Log this bet");b.type="button";b.onclick=e=>{e.stopPropagation();const L=pickLabel(m),o=b365For(m);btPrefill({d:keyFmt.format(m.start),e:`${m.h.team} v ${m.a.team}`,s:m.p.pick==="X"?"Draw":L.name+" to win",o:o?dec2(o):"",m:"Match result",b:"Bet365",n:`Pitch Oracle ${L.word.toLowerCase()} pick, ${pct(m.p.conf)} (${m.lg.name})`})};return b}
 // what £1 on each pick would have returned at Bet365's odds (needs Bet365 prices on played matches)
 function b365Return(list){
   let n=0,pl=0;
@@ -1430,14 +1531,17 @@ tn.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:""};tn.q="";
 try{const f=JSON.parse(localStorage.getItem("tnF")||"null");if(f)Object.assign(tn.f,f)}catch(e){}
 
 try{const t=localStorage.getItem("tnTour");if(t&&TN_TOURS.some(x=>x[0]===t))tn.tour=t}catch(e){}
-let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis")sport=s}catch(e){}
+let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis"||s==="bets")sport=s}catch(e){}
 function setSport(s){sport=s;try{localStorage.setItem("poSport",s)}catch(e){}renderSport()}
 function renderSport(){
   document.querySelectorAll("#sport button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.s===sport)));
   document.getElementById("fbView").hidden=sport!=="football";
   document.getElementById("fbStatus").hidden=sport!=="football";
   document.getElementById("tnView").hidden=sport!=="tennis";
-  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":"Match Predictor · 22 European leagues";
+  document.getElementById("btView").hidden=sport!=="bets";
+  document.getElementById("rota").hidden=sport==="bets";
+  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":sport==="bets"?"Your bet log":"Match Predictor · 22 European leagues";
+  if(sport==="bets")btRender();
   if(sport==="tennis")renderTennis();
 }
 document.querySelectorAll("#sport button").forEach(b=>b.onclick=()=>setSport(b.dataset.s));
@@ -1575,6 +1679,187 @@ async function loadTennis(){
   }catch(e){try{const c=JSON.parse(localStorage.getItem("tnCache")||"null");if(c){tn.doc=c;tn.msg=""}else tn.msg="Couldn't load tennis (offline?)."}catch(e2){}}
   if(sport==="tennis")renderTennis();
 }
+
+/* ---------- Bets tab: a bet log ----------
+   Saved to the viewer's own Claude account when the page runs in Claude, otherwise in this browser. */
+const BT_EXAMPLES=[
+  {id:"ex1",date:"2026-11-01",event:"Arsenal v Chelsea",selection:"Arsenal to win",market:"Match result",book:"Bet365",stake:5,odds:2.2,close:2.05,result:"won",paper:false,example:true},
+  {id:"ex2",date:"2026-11-01",event:"Leeds v Burnley",selection:"Leeds to score next (60 mins, xG 1.6 v 0.4)",market:"Next goal",book:"Bet365",stake:5,odds:1.8,close:null,result:"lost",paper:true,example:true},
+  {id:"ex3",date:"2026-11-02",event:"Celtic v Hearts",selection:"Over 2.5 goals",market:"Over/under goals",book:"Bet365",stake:4,odds:1.9,close:1.75,result:"won",paper:false,example:true},
+  {id:"ex4",date:"2026-11-04",event:"Sunderland v Hull",selection:"Draw",market:"Match result",book:"Bet365",stake:3,odds:3.4,close:3.6,result:"lost",paper:false,example:true}];
+const bt={bets:[],settings:{limit:null},kind:"real",period:"all",edit:null,confirm:null,store:"local",col:null,setDoc:null};
+try{const v=JSON.parse(localStorage.getItem("poBetsView")||"null");if(v){bt.kind=v.kind||bt.kind;bt.period=v.period||bt.period}}catch(e){}
+const btG=n=>(n<0?"−£":"£")+Math.abs(n).toFixed(2);
+const btSG=n=>(n>0?"+£":n<0?"−£":"£")+Math.abs(n).toFixed(2);
+const btPct=n=>(n>0?"+":n<0?"−":"")+Math.abs(n*100).toFixed(1)+"%";
+const btToday=()=>keyFmt.format(new Date());
+const btDate=k=>new Intl.DateTimeFormat("en-GB",{day:"numeric",month:"short",year:"2-digit"}).format(new Date(k+"T12:00:00Z"));
+function btOdds(x){x=String(x||"").trim().toLowerCase();if(!x)return null;if(/^(evs|evens|even|evn)$/.test(x))return 2;
+  const f=x.match(/^(\d+(?:\.\d+)?)\s*[\/-]\s*(\d+(?:\.\d+)?)$/);if(f){const v=1+(+f[1])/(+f[2]);return isFinite(v)&&v>1?+v.toFixed(4):null}
+  const d=parseFloat(x);return isFinite(d)&&d>1?+d.toFixed(4):null}
+const btMoney=x=>{const v=parseFloat(String(x||"").replace(/[£,\s]/g,""));return isFinite(v)&&v>=0?+v.toFixed(2):null};
+function btProfit(b){if(b.result==="won")return b.stake*(b.odds-1);if(b.result==="lost")return -b.stake;if(b.result==="void")return 0;if(b.result==="cashed")return (b.cash||0)-b.stake;return null}
+const btEx=()=>bt.bets.length===0;
+function btShown(){
+  const list=btEx()?BT_EXAMPLES:bt.bets;
+  const since=bt.period==="all"?null:addDays(btToday(),-(+bt.period));
+  return list.filter(b=>(bt.kind==="all"||(bt.kind==="paper")===!!b.paper)&&(!since||b.date>=since));
+}
+/* storage */
+function btLocalLoad(){try{const a=JSON.parse(localStorage.getItem("poBets")||"[]");bt.bets=Array.isArray(a)?a:[]}catch(e){bt.bets=[]}
+  try{bt.settings=JSON.parse(localStorage.getItem("poBetsSettings")||"null")||{limit:null}}catch(e){}}
+function btLocalSave(){try{localStorage.setItem("poBets",JSON.stringify(bt.bets));localStorage.setItem("poBetsSettings",JSON.stringify(bt.settings));return true}catch(e){return false}}
+async function btPut(b){
+  if(bt.store==="account"){const {id,...rest}=b;await bt.col.doc(id).set(rest);return}
+  const i=bt.bets.findIndex(x=>x.id===b.id);if(i>=0)bt.bets[i]=b;else bt.bets.push(b);
+  if(!btLocalSave())throw new Error("storage");btRender();
+}
+async function btDel(id){
+  if(bt.store==="account"){await bt.col.doc(id).delete();return}
+  bt.bets=bt.bets.filter(x=>x.id!==id);btLocalSave();btRender();
+}
+async function btSaveSettings(){if(bt.store==="account"){await bt.setDoc.set(bt.settings)}else btLocalSave();btRender()}
+/* render */
+function btRender(){
+  if(document.getElementById("btView").hidden)return;
+  document.querySelectorAll("#btKind button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===bt.kind)));
+  document.querySelectorAll("#btPeriod button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===bt.period)));
+  document.getElementById("btExample").hidden=!btEx();
+  const list=btShown();
+  // tiles
+  const T=document.getElementById("btTiles");T.replaceChildren();
+  const tile=(k,v,sub,cls)=>{const t=el("div","stat");const vv=el("div","v",v);if(cls)vv.classList.add(cls);t.append(el("div","label",k),vv);if(sub)t.append(el("div","sub",sub));T.append(t)};
+  const settled=list.filter(b=>b.result!=="pending"),staked=settled.reduce((a,b)=>a+b.stake,0),pl=settled.reduce((a,b)=>a+btProfit(b),0);
+  const dec=settled.filter(b=>b.result==="won"||b.result==="lost"),wins=dec.filter(b=>b.result==="won").length;
+  const wc=list.filter(b=>b.close>1),beat=wc.filter(b=>b.odds>b.close).length,pend=list.filter(b=>b.result==="pending");
+  const cls=pl>0?"bt-pos":pl<0?"bt-neg":null;
+  tile("Profit / loss",btSG(pl),`from ${settled.length} settled bet${settled.length===1?"":"s"}`+(pend.length?` · ${pend.length} waiting`:""),cls);
+  tile("Return on stake",staked?btPct(pl/staked):"–",staked?`${btG(staked)} staked`:"no settled bets yet",cls);
+  tile("Won",dec.length?`${wins} of ${dec.length}`:"–",dec.length?`${Math.round(100*wins/dec.length)}% · average odds ${(dec.reduce((a,b)=>a+b.odds,0)/dec.length).toFixed(2)}`:"");
+  tile("Beat the closing odds",wc.length?`${beat} of ${wc.length}`:"–",wc.length?`${Math.round(100*beat/wc.length)}% of bets with closing odds`:"add closing odds to see this");
+  btChart(settled);btLimit();btMarkets(settled);btSlips(list);btStoreLine();
+}
+function btChart(settled){
+  const box=document.getElementById("btChart");
+  const pts=[...settled].sort((a,b)=>a.date.localeCompare(b.date)||(a.created||0)-(b.created||0));
+  if(pts.length<2){box.innerHTML='<p class="bt-hint">The chart appears once two bets are settled.</p>';return}
+  let run=0;const ys=[0,...pts.map(b=>run+=btProfit(b))];
+  const W=520,H=200,L=52,Rr=10,Tt=12,B=26;let lo=Math.min(0,...ys),hi=Math.max(0,...ys);if(hi-lo<1){hi+=1;lo-=1}
+  const r=(hi-lo)/4,pw=10**Math.floor(Math.log10(r)),mm=r/pw,step=(mm<=1?1:mm<=2?2:mm<=5?5:10)*pw;
+  lo=Math.floor(lo/step)*step;hi=Math.ceil(hi/step)*step;
+  const x=i=>L+(W-L-Rr)*i/(ys.length-1),y=v=>Tt+(H-Tt-B)*(hi-v)/(hi-lo);
+  let g="";for(let v=lo;v<=hi+1e-9;v+=step)g+=`<line class="grid" x1="${L}" x2="${W-Rr}" y1="${y(v)}" y2="${y(v)}"/><text class="axis" x="${L-6}" y="${y(v)+4}" text-anchor="end">${v<0?"−":""}£${Math.abs(+v.toFixed(2))}</text>`;
+  const line=ys.map((v,i)=>`${i?"L":"M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(""),end=ys[ys.length-1],col=end>=0?"var(--good)":"var(--bad)";
+  box.innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Running profit after each settled bet, ending at ${btSG(end)}">${g}<path d="${line}L${x(ys.length-1).toFixed(1)},${y(0).toFixed(1)}L${x(0).toFixed(1)},${y(0).toFixed(1)}Z" fill="${col}" fill-opacity=".12"/><path d="${line}" fill="none" stroke="${col}" stroke-width="2.2" stroke-linejoin="round"/><circle cx="${x(ys.length-1)}" cy="${y(end)}" r="4" fill="${col}"/><text class="axis" x="${L}" y="${H-6}">${btDate(pts[0].date)}</text><text class="axis" x="${W-Rr}" y="${H-6}" text-anchor="end">${btDate(pts[pts.length-1].date)}</text></svg>`;
+}
+function btLimit(){
+  const box=document.getElementById("btLimit");box.replaceChildren();
+  const mk=btToday().slice(0,7),real=bt.bets.filter(b=>!b.paper&&b.date.slice(0,7)===mk);
+  const staked=real.reduce((a,b)=>a+b.stake,0),lost=-Math.min(0,real.filter(b=>b.result!=="pending").reduce((a,b)=>a+btProfit(b),0));
+  box.append(el("div","label","This month (real money)"),el("div","asof",`Staked ${btG(staked)} · net loss ${btG(lost)}`));
+  const lim=bt.settings.limit;
+  if(lim){const over=lost>=lim,bar=el("div","bt-lbar"+(over?" over":"")),i=el("i");i.style.width=Math.min(100,100*lost/lim)+"%";bar.append(i);box.append(bar,el("div","bt-hint",over?`You've reached your ${btG(lim)} monthly loss limit. Time for a break until next month.`:`${btG(lim-lost)} left of your ${btG(lim)} monthly loss limit.`))}
+  const row=el("div","row2"),lab=el("label","bt-hint","Monthly loss limit (£)");lab.htmlFor="btLimitIn";
+  const inp=el("input");inp.id="btLimitIn";inp.type="text";inp.inputMode="decimal";inp.placeholder="e.g. 40";inp.value=lim??"";
+  const b=el("button","btn ghost","Save limit");b.type="button";b.onclick=async()=>{bt.settings={...bt.settings,limit:btMoney(inp.value)||null};try{await btSaveSettings()}catch(e){}};
+  row.append(lab,inp,b);box.append(row);
+}
+function btMarkets(settled){
+  const box=document.getElementById("btMarkets");box.replaceChildren();const m={};
+  settled.forEach(b=>{const r=m[b.market]=m[b.market]||{n:0,st:0,pl:0,w:0,d:0};r.n++;r.st+=b.stake;r.pl+=btProfit(b);if(b.result==="won"||b.result==="lost"){r.d++;if(b.result==="won")r.w++}});
+  const rows=Object.entries(m).sort((a,b)=>b[1].st-a[1].st);
+  const t=el("table"),hr=el("tr");["Bet type","Bets","Won","Staked","Profit","Return"].forEach(h=>hr.append(el("th",null,h)));const th=el("thead");th.append(hr);t.append(th);
+  const tb=el("tbody");
+  if(!rows.length){const tr=el("tr"),td=el("td",null,"No settled bets in this view.");td.colSpan=6;tr.append(td);tb.append(tr)}
+  rows.forEach(([k,r])=>{const tr=el("tr");[k,r.n,r.d?Math.round(100*r.w/r.d)+"%":"–",btG(r.st),btSG(r.pl),r.st?btPct(r.pl/r.st):"–"].forEach((v,i)=>{const td=el("td",null,String(v));if(i>=4&&r.pl)td.className=r.pl>0?"bt-pos":"bt-neg";tr.append(td)});tb.append(tr)});
+  t.append(tb);box.append(t);
+}
+function btSlips(list){
+  const box=document.getElementById("btSlips");box.replaceChildren();
+  const sorted=[...list].sort((a,b)=>b.date.localeCompare(a.date)||(b.created||0)-(a.created||0));
+  if(!sorted.length){box.append(el("div","empty","No bets in this view. Switch Real, Paper or All, or the time period above."));return}
+  sorted.forEach(b=>{
+    const s=el("article","bt-slip "+b.result),left=el("div");
+    left.append(el("div","what",b.selection));
+    const meta=el("div","meta");[btDate(b.date),b.event,b.market,`${btG(b.stake)} at ${(+b.odds).toFixed(2)}`,b.book].filter(Boolean).forEach(x=>meta.append(el("span",null,x)));
+    if(b.paper)meta.append(el("span","bt-tag","Paper"));
+    if(b.close>1){const good=b.odds>b.close;meta.append(el("span","bt-tag "+(good?"good":"bad"),(good?"Beat":"Missed")+` close ${(+b.close).toFixed(2)}`))}
+    left.append(meta);if(b.note)left.append(el("div","meta",b.note));
+    const p=btProfit(b),pl=el("div","pl",p==null?"Waiting":btSG(p));if(p!=null&&p)pl.classList.add(p>0?"bt-pos":"bt-neg");if(p==null)pl.style.color="var(--accent-ink)";
+    s.append(left,pl);
+    if(!b.example){
+      const acts=el("div","acts");
+      if(bt.confirm===b.id){acts.append(el("span",null,"Delete this bet?"));const y=el("button","btn","Delete");y.type="button";y.onclick=async()=>{bt.confirm=null;try{await btDel(b.id)}catch(e){}};const n=el("button","btn ghost","Keep");n.type="button";n.onclick=()=>{bt.confirm=null;btRender()};acts.append(y,n)}
+      else{
+        if(b.result==="pending")[["won","Won"],["lost","Lost"],["void","Void"]].forEach(([v,l])=>{const x=el("button","btn ghost",l);x.type="button";x.onclick=async()=>{try{await btPut({...b,result:v})}catch(e){}};acts.append(x)});
+        const e=el("button","btn ghost","Edit");e.type="button";e.onclick=()=>btStartEdit(b);
+        const d=el("button","btn ghost","Delete");d.type="button";d.onclick=()=>{bt.confirm=b.id;btRender()};acts.append(e,d);
+      }
+      s.append(acts);
+    }
+    box.append(s);
+  });
+}
+function btStoreLine(){
+  const box=document.getElementById("btStore");box.replaceChildren();
+  if(bt.store==="account"){box.append(el("span",null,"Your bets are saved to your Claude account and only you can see them."));return}
+  box.append(el("span",null,"Your bets are saved on this device only. Back them up now and then so you don't lose them if the browser is cleared."));
+  const dl=el("button","btn ghost","Download backup");dl.type="button";
+  dl.onclick=()=>{const blob=new Blob([JSON.stringify({bets:bt.bets,settings:bt.settings},null,1)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`pitch-oracle-bets-${btToday()}.json`;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),2000)};
+  const up=el("label","btn ghost","Restore from backup");const fi=el("input");fi.type="file";fi.accept="application/json,.json";fi.hidden=true;up.append(fi);
+  fi.onchange=async()=>{const f=fi.files[0];if(!f)return;try{const d=JSON.parse(await f.text());const inc=(d.bets||[]).filter(b=>b&&b.id&&b.date&&b.stake>0&&b.odds>1);const have=new Set(bt.bets.map(b=>b.id));bt.bets=[...bt.bets,...inc.filter(b=>!have.has(b.id))];if(d.settings&&!bt.settings.limit)bt.settings=d.settings;btLocalSave();btRender();btMsg(`Restored ${inc.length} bet${inc.length===1?"":"s"}.`,"ok")}catch(e){btMsg("That file isn't a Pitch Oracle bets backup.","err")}fi.value=""};
+  box.append(dl,up);
+}
+/* form */
+const $b=id=>document.getElementById(id);
+function btMsg(t,kind){const m=$b("btMsg");m.textContent=t;m.className="bt-msg "+(kind||"");if(kind==="ok")setTimeout(()=>{if(m.textContent===t)m.textContent=""},3000)}
+function btReset(){$b("btForm").reset();$b("btDate").value=btToday();$b("btBook").value="Bet365";$b("btCashWrap").hidden=true;bt.edit=null;$b("btSave").textContent="Add bet";$b("btCancel").hidden=true;$b("btAddH").textContent="Add a bet"}
+function btStartEdit(b){
+  bt.edit=b.id;$b("btAddH").textContent="Edit bet";$b("btSave").textContent="Save changes";$b("btCancel").hidden=false;$b("btFrom").hidden=true;
+  $b("btDate").value=b.date;$b("btMarket").value=b.market;$b("btBook").value=b.book||"";$b("btEvent").value=b.event;$b("btSel").value=b.selection;
+  $b("btStake").value=b.stake;$b("btOdds").value=b.odds;$b("btClose").value=b.close||"";$b("btResult").value=b.result;$b("btCash").value=b.cash??"";
+  $b("btCashWrap").hidden=b.result!=="cashed";$b("btPaper").checked=!!b.paper;$b("btNote").value=b.note||"";
+  $b("btForm").scrollIntoView({behavior:"smooth",block:"start"});
+}
+function btPrefill(d){
+  setSport("bets");btReset();
+  $b("btDate").value=d.d||btToday();$b("btEvent").value=d.e||"";$b("btSel").value=d.s||"";$b("btOdds").value=d.o||"";$b("btBook").value=d.b||"Bet365";$b("btNote").value=d.n||"";
+  if(d.m&&[...$b("btMarket").options].some(o=>o.value===d.m))$b("btMarket").value=d.m;
+  const f=$b("btFrom");f.hidden=false;f.textContent=d.o?`Filled in from Pitch Oracle with Bet365's odds of ${d.o}. Check they match what Bet365 shows now, enter your stake (or tick Paper bet), then press Add bet.`:"Filled in from Pitch Oracle. Bet365 hasn't priced this match in the data yet, so type in the odds Bet365 shows, your stake (or tick Paper bet), then press Add bet.";
+  setTimeout(()=>{$b("btForm").scrollIntoView({block:"start",behavior:"smooth"});$b("btStake").focus({preventScroll:true})},50);
+}
+$b("btResult").onchange=()=>{$b("btCashWrap").hidden=$b("btResult").value!=="cashed"};
+$b("btCancel").onclick=()=>{btReset();$b("btFrom").hidden=true;btMsg("")};
+$b("btForm").addEventListener("submit",async e=>{
+  e.preventDefault();
+  const stake=btMoney($b("btStake").value),odds=btOdds($b("btOdds").value),cr=$b("btClose").value.trim(),close=cr?btOdds(cr):null,result=$b("btResult").value;
+  if(!$b("btEvent").value.trim()||!$b("btSel").value.trim())return btMsg("Add the match and your pick.","err");
+  if(!stake)return btMsg("Enter the stake in pounds, e.g. 5 or 2.50.","err");
+  if(!odds)return btMsg("Enter the odds as 5/2, evens or 3.5.","err");
+  if(cr&&!close)return btMsg("Closing odds need to look like 9/4 or 3.25, or leave them blank.","err");
+  const cash=result==="cashed"?btMoney($b("btCash").value):null;if(result==="cashed"&&cash==null)return btMsg("Enter what the cash-out paid back.","err");
+  const old=bt.edit?bt.bets.find(b=>b.id===bt.edit):null;
+  const b={id:bt.edit||("b"+Date.now().toString(36)+Math.random().toString(36).slice(2,6)),created:old?.created||Date.now(),date:$b("btDate").value||btToday(),market:$b("btMarket").value,book:$b("btBook").value.trim(),
+    event:$b("btEvent").value.trim(),selection:$b("btSel").value.trim(),stake,odds,close,result,cash,paper:$b("btPaper").checked,note:$b("btNote").value.trim()};
+  $b("btSave").disabled=true;const was=!!bt.edit;
+  try{await btPut(b);btReset();$b("btFrom").hidden=true;btMsg(was?"Saved.":"Bet added.","ok")}
+  catch(err){btMsg(bt.store==="account"?"Couldn't save that bet. Check your connection and try again.":"Couldn't save that bet in this browser. Its storage may be full or turned off.","err")}
+  finally{$b("btSave").disabled=false}
+});
+document.querySelectorAll("#btKind button").forEach(b=>b.onclick=()=>{bt.kind=b.dataset.v;try{localStorage.setItem("poBetsView",JSON.stringify({kind:bt.kind,period:bt.period}))}catch(e){}btRender()});
+document.querySelectorAll("#btPeriod button").forEach(b=>b.onclick=()=>{bt.period=b.dataset.v;try{localStorage.setItem("poBetsView",JSON.stringify({kind:bt.kind,period:bt.period}))}catch(e){}btRender()});
+btReset();btLocalLoad();
+// In Claude, keep bets in the viewer's own private space in the page's database, so they follow them across devices.
+(async()=>{
+  if(!window.claude||typeof window.claude.use!=="function")return;
+  try{
+    const [db,user]=await Promise.all([claude.use("db"),claude.use("user")]);const uid=user?await user.id():null;if(!db||!uid)return;
+    bt.store="account";bt.col=db.doc(`data/users/${uid}/ledger`).collection("bets");bt.setDoc=db.doc(`data/users/${uid}/betsettings`);
+    bt.setDoc.onSnapshot(d=>{const x=d.exists?d.data():null;bt.settings={limit:x&&x.limit?+x.limit:null};btRender()},()=>{});
+    bt.col.onSnapshot(snap=>{bt.bets=snap.docs.map(d=>({id:d.id,...d.data()})).filter(b=>b&&b.date&&b.stake>0&&b.odds>1);btRender()},()=>{});
+  }catch(e){}
+})();
+
 /* ---------- boot ---------- */
 try{const t=JSON.parse(localStorage.getItem("b5tab")||"null");if(t&&t.g){state.group=t.g;state.tab=t.t||"all"}}catch(e){}
 try{const f=JSON.parse(localStorage.getItem("b5f")||"null");if(f)Object.assign(state.f,f)}catch(e){}
