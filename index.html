@@ -366,8 +366,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <div id="acView" hidden>
       <div class="at-total" id="acTotal"></div>
       <div class="rec-top" id="acTiles"></div>
-      <div class="label" style="margin-top:16px">Next acca</div>
-      <div id="acNext" style="margin:6px 0 18px"></div>
+      <div id="acNext" class="ac-list" style="margin:16px 0 18px"></div>
       <section class="bt-panel bt-chart" style="margin:0 0 18px" aria-labelledby="acChartH"><h3 id="acChartH">Acca running total</h3><div id="acChart"></div></section>
       <div class="label">Past accas</div>
       <div class="ac-list" id="acList"></div>
@@ -1799,14 +1798,24 @@ function acBuild(done,wait){
   });
   // next acca: the first upcoming day with six priced strong picks, otherwise the first day with any
   const wd=new Map();wait.forEach(w=>{if(!wd.has(w.date))wd.set(w.date,[]);wd.get(w.date).push(w)});
-  let next=null;
-  for(const d of [...wd.keys()].sort()){const all=wd.get(d).sort((a,b)=>b.conf-a.conf),priced=all.filter(w=>w.odds>1);
-    if(priced.length>=6){next={date:d,legs:priced.slice(0,6),full:true};break}
-    if(!next&&all.length)next={date:d,legs:all.slice(0,6),full:false,priced:priced.length,count:all.length}}
-  return {accas,next};
+  const now=Date.now(),days=[];
+  for(const d of [...wd.keys()].sort()){const all=wd.get(d).sort((a,b)=>b.conf-a.conf),priced=all.filter(w=>w.odds>1),full=priced.length>=6,legs=(full?priced:all).slice(0,6);
+    if(!legs.length)continue;days.push({date:d,legs,full,priced:priced.length,count:all.length,started:legs.some(w=>w.start&&Date.parse(w.start)<=now)})}
+  const next=days.find(x=>!x.started)||null,waiting=days.filter(x=>x.started&&x.full);
+  return {accas,next,waiting};
+}
+function acCard(next){
+  const c=el("div","ac-card next"),top=el("div","top"),odds=next.full?next.legs.reduce((a,b)=>a*b.odds,1):null,started=next.started;
+  top.append(el("b",null,dayFmt.format(new Date(next.date+"T12:00:00Z"))+(started?" · waiting for results":"")),el("span","pl",odds?`odds ${odds.toFixed(2)} · ${btG(at.stake)} wins ${btG(at.stake*(odds-1))}`:""));c.append(top);
+  if(started)c.append(el("p","bt-hint","These matches have kicked off. The acca moves into the running total once football-data.co.uk posts all six results, usually within a day or two."));
+  else if(!next.full)c.append(el("p","bt-hint",next.count<6?`Only ${next.count} strong pick${next.count===1?"":"s"} that day so far, so no full acca yet.`:`Bet365 odds are in for ${next.priced} of these so far. The full acca odds appear once all six are priced.`));
+  const ul=el("ul","ac-legs");next.legs.forEach(w=>{const li=el("li");li.append(el("span","mk w","•"));const t=el("span",null,w.name+" to win ");t.append(el("small",null,`${w.h} v ${w.a} · ${w.lg}`+(w.start?` · ${timeFmt.format(new Date(w.start))}`:"")+` · ${pct(w.conf)}`));li.append(t,el("span","o",w.odds?dec2(w.odds):"–"));ul.append(li)});c.append(ul);
+  if(next.full&&!started){const b=el("button","btn ghost","Log this acca in Bets");b.type="button";b.style.marginTop="10px";
+    b.onclick=()=>btPrefill({d:next.date,e:`6-fold acca, ${next.legs.length} matches`,s:next.legs.map(w=>w.name).join(", "),o:odds.toFixed(2),m:"Accumulator",b:"Bet365",n:"Pitch Oracle strong-picks acca"});c.append(b)}
+  return c;
 }
 function acRender(done,wait){
-  const {accas,next}=acBuild(done,wait),n=accas.length,won=accas.filter(a=>a.win).length,pl=n?accas[n-1].run:0,cls=pl>0?"bt-pos":pl<0?"bt-neg":"";
+  const {accas,next,waiting}=acBuild(done,wait),n=accas.length,won=accas.filter(a=>a.win).length,pl=n?accas[n-1].run:0,cls=pl>0?"bt-pos":pl<0?"bt-neg":"";
   const T=document.getElementById("acTotal");T.replaceChildren();
   if(!n)T.append(el("div","empty","No day has had six settled strong picks with Bet365 odds yet. Try \"With season replay\" above to see this season's earlier matchdays."));
   else T.append(el("div","big "+cls,btSG(pl)),el("div","of",`running total from ${n} acca${n===1?"":"s"} of ${btG(at.stake)}, since ${btDate(accas[0].date)}`));
@@ -1819,20 +1828,9 @@ function acRender(done,wait){
     tile("Average odds",avg.toFixed(2),`needs ${Math.round(100/avg)}% to land to break even`);
     tile("Lost by one leg",String(near),best?`best win: ${btSG(best.pl)} on ${btDate(best.date)}`:"no winning acca yet");
   }
-  // next acca
   const nx=document.getElementById("acNext");nx.replaceChildren();
-  if(!next)nx.append(el("div","empty","No upcoming strong picks yet. They appear after the next refresh."));
-  else{
-    const c=el("div","ac-card next"),top=el("div","top"),odds=next.full?next.legs.reduce((a,b)=>a*b.odds,1):null;
-    const started=next.legs.some(w=>w.start&&Date.parse(w.start)<=Date.now());
-    top.append(el("b",null,dayFmt.format(new Date(next.date+"T12:00:00Z"))+(started?" · under way":"")),el("span","pl",odds?`odds ${odds.toFixed(2)} · ${btG(at.stake)} wins ${btG(at.stake*(odds-1))}`:""));c.append(top);
-    if(started)c.append(el("p","bt-hint","Some of these have already kicked off, so this one is for watching rather than betting. It counts in the total once all six results are in."));
-    if(!next.full)c.append(el("p","bt-hint",next.count<6?`Only ${next.count} strong pick${next.count===1?"":"s"} that day so far, so no full acca yet.`:`Bet365 odds are in for ${next.priced} of these so far. The full acca odds appear once all six are priced.`));
-    const ul=el("ul","ac-legs");next.legs.forEach(w=>{const li=el("li");li.append(el("span","mk w","•"));const t=el("span",null,w.name+" to win ");t.append(el("small",null,`${w.h} v ${w.a} · ${w.lg}`+(w.start?` · ${timeFmt.format(new Date(w.start))}`:"")+` · ${pct(w.conf)}`));li.append(t,el("span","o",w.odds?dec2(w.odds):"–"));ul.append(li)});c.append(ul);
-    if(next.full&&!started){const b=el("button","btn ghost","Log this acca in Bets");b.type="button";b.style.marginTop="10px";
-      b.onclick=()=>btPrefill({d:next.date,e:`6-fold acca, ${next.legs.length} matches`,s:next.legs.map(w=>w.name).join(", "),o:odds.toFixed(2),m:"Accumulator",b:"Bet365",n:"Pitch Oracle strong-picks acca"});c.append(b)}
-    nx.append(c);
-  }
+  if(waiting.length){nx.append(el("div","label","Waiting for results"));waiting.forEach(d=>nx.append(acCard(d)));nx.append(el("div","label","Next acca"))}
+  if(next)nx.append(acCard(next));else nx.append(el("div","empty","No more strong picks yet. The next ones appear after the next data update."));
   // chart
   const box=document.getElementById("acChart");
   if(n<2)box.innerHTML='<p class="bt-hint">The chart appears once two accas are settled.</p>';
