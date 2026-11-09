@@ -149,6 +149,14 @@ def main():
             ll = sum(-math.log(max(1e-6, blend(x["pm"], x["pk"], w) if x["g"]["hs"] > x["g"]["as"] else 1 - blend(x["pm"], x["pk"], w))) for x in xs) / len(xs)
             if best[0] is None or ll < best[0]: best = (ll, w)
         W = best[1]
+        # once 300 live picks with a market price have been settled, tune the weight on those instead (ESPN keeps no past prices)
+        lv = [x for k, x in P.items() if k.startswith(lg + ":") and "win" in x and x.get("pk") is not None and x.get("pm") is not None]
+        if len(lv) >= 300:
+            bw = None
+            for w in (1.0, 0.95, 0.9, 0.85, 0.8, 0.7, 0.6):
+                ll = sum(-math.log(max(1e-6, blend(x["pm"], x["pk"], w) if x["homeWon"] else 1 - blend(x["pm"], x["pk"], w))) for x in lv) / len(lv)
+                if bw is None or ll < bw[0]: bw = (ll, w)
+            W = bw[1]
         bets = []
         for x in rep:
             p = blend(x["pm"], x["pk"], W); hw = x["g"]["hs"] > x["g"]["as"]; c = max(p, 1 - p); pick_home = p >= 0.5
@@ -166,7 +174,7 @@ def main():
             if st > now and g["state"] == "pre":
                 c = max(p, 1 - p); ph = p >= 0.5
                 P[key] = {"lg": lg, "start": g["start"], "home": g["homeName"], "away": g["awayName"], "p": round(p, 4), "pick": g["homeName"] if ph else g["awayName"],
-                          "c": round(c, 4), "o": (g.get("odds") or {}).get("h" if ph else "a")}
+                          "c": round(c, 4), "o": (g.get("odds") or {}).get("h" if ph else "a"), "pm": round(pm, 4), "pk": round(pk, 4) if pk is not None else None}
                 if st < now + datetime.timedelta(days=cfg["ahead"]):
                     upcoming.append({"id": g["id"], "start": g["start"], "home": g["homeName"], "away": g["awayName"], "p": round(p, 4), "pm": round(pm, 4),
                                      "dk": g.get("odds"), "kalshi": round(k[g["home"]], 3) if k else None})
@@ -174,7 +182,7 @@ def main():
         for g in done:
             x = P.get(f"{lg}:{g['id']}")
             if x and "win" not in x:
-                x["win"] = (x["pick"] == g["homeName"]) == (g["hs"] > g["as"]); x["score"] = f'{g["hs"]}–{g["as"]}'
+                x["win"] = (x["pick"] == g["homeName"]) == (g["hs"] > g["as"]); x["homeWon"] = g["hs"] > g["as"]; x["score"] = f'{g["hs"]}–{g["as"]}'
         live = [x for k, x in P.items() if k.startswith(lg + ":") and "win" in x]
         summ = lambda xs: {t: {"n": sum(1 for x in xs if tier(x["c"]) == t), "won": sum(1 for x in xs if tier(x["c"]) == t and x["win"])} for t in ("strong", "lean", "toss")}
         ratings = sorted(({"team": next((g["homeName"] for g in G if g["home"] == t), t), "r": round(v, 3)} for t, v in R.items()), key=lambda x: -x["r"])
