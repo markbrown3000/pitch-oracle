@@ -1,0 +1,17 @@
+name: Snooker probe
+on:
+  push:
+    branches: [main]
+    paths: ["tools/snooker_probe.py"]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/snooker_probe.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add probe && git commit -m "Snooker probe" && (git push || (git pull --rebase && git push))
