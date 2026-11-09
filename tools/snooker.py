@@ -9,6 +9,7 @@ E.UA = {"User-Agent": "PitchOracle/1.0 (https://github.com/markbrown3000/pitch-o
 E.SKIP = ("Women", "Seniors", "Amateur", "Under-", "qualifying", "Q School", "World Cup", "snooker season", "SEA Games", "Pink Ribbon", "Shoot Out", "Championship League", "Six-red", "6-Red", "World Games")
 E.STATE = "data/snooker_state.json"; E.OUT = "data/snooker.json"; E.MATCHES = "data/snooker_matches.json"
 E.USE_MC = False
+E.POLY_TAG = "snooker"
 E.on_stage = lambda ev: True
 # tuned on 2026 results (950 matches): prior 0.4 beat 0.6 and 0.9; recency 240 days beat 120 and 400
 E.KW = dict(avg_w=0.0, half_life=240, prior_sd=0.4, k_avg=0.0, stage_sd=0.0)

@@ -2028,7 +2028,7 @@ const dtFmt=m=>m.bo?`Best of ${m.bo} ${m.unit||"legs"}`:"";
 function dtFormEl(f){const s=el("span","dt-form");[...(f||"")].forEach(c=>s.append(el("span",c==="W"?"w":"l",c)));return s}
 function dtCard(m){
   const c=el("div","dt-m"),pa=m.p,fav=pa>=.5?"a":"b",conf=Math.max(pa,1-pa),t=dtTier(conf);
-  const f=el("div","fmt");const l=el("span",null,[m.time?m.time+" UK":"",m.round,dtFmt(m)].filter(Boolean).join(" · "));const tg=el("span","dt-tag "+(t==="strong"?"strong":""),t==="strong"?"Strong pick":t==="lean"?"Lean":"Toss-up");f.append(l,tg);c.append(f);
+  const f=el("div","fmt");const l=el("span",null,[m.time?m.time+" UK":"",m.round,dtFmt(m),m.mkt!=null?`Polymarket ${Math.round(100*(m.p>=.5?m.mkt:1-m.mkt))}%`:""].filter(Boolean).join(" · "));const tg=el("span","dt-tag "+(t==="strong"?"strong":""),t==="strong"?"Strong pick":t==="lean"?"Lean":"Toss-up");f.append(l,tg);c.append(f);
   [["a",m.a,pa,m.avgA,m.formA],["b",m.b,1-pa,m.avgB,m.formB]].forEach(([sd,nm,p,avg,form])=>{
     const r=el("div","dt-p"+(sd===fav?" dt-fav":""));r.append(el("span","dt-nm",nm),el("span","dt-pc",Math.round(100*p)+"%"));
     const bar=el("div","dt-bar"),i=el("i");i.style.width=(100*p).toFixed(1)+"%";bar.append(i);r.append(bar);
@@ -2092,7 +2092,7 @@ const snFmt=m=>m.bo?`Best of ${m.bo} ${m.unit||"frames"}`:"";
 function snFormEl(f){const s=el("span","dt-form");[...(f||"")].forEach(c=>s.append(el("span",c==="W"?"w":"l",c)));return s}
 function snCard(m){
   const c=el("div","dt-m"),pa=m.p,fav=pa>=.5?"a":"b",conf=Math.max(pa,1-pa),t=snTier(conf);
-  const f=el("div","fmt");const l=el("span",null,[m.time?m.time+" UK":"",m.round,snFmt(m)].filter(Boolean).join(" · "));const tg=el("span","dt-tag "+(t==="strong"?"strong":""),t==="strong"?"Strong pick":t==="lean"?"Lean":"Toss-up");f.append(l,tg);c.append(f);
+  const f=el("div","fmt");const l=el("span",null,[m.time?m.time+" UK":"",m.round,snFmt(m),m.mkt!=null?`Polymarket ${Math.round(100*(m.p>=.5?m.mkt:1-m.mkt))}%`:""].filter(Boolean).join(" · "));const tg=el("span","dt-tag "+(t==="strong"?"strong":""),t==="strong"?"Strong pick":t==="lean"?"Lean":"Toss-up");f.append(l,tg);c.append(f);
   [["a",m.a,pa,m.avgA,m.formA],["b",m.b,1-pa,m.avgB,m.formB]].forEach(([sd,nm,p,avg,form])=>{
     const r=el("div","dt-p"+(sd===fav?" dt-fav":""));r.append(el("span","dt-nm",nm),el("span","dt-pc",Math.round(100*p)+"%"));
     const bar=el("div","dt-bar"),i=el("i");i.style.width=(100*p).toFixed(1)+"%";bar.append(i);r.append(bar);

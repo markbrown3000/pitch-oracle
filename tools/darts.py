@@ -1,7 +1,7 @@
 # Builds data/darts.json for the Darts tab.
 # Results, draws and averages come from Wikipedia's PDC event pages; the model is tools/darts_model.py.
 # Picks are frozen the first time a match appears (data/darts_state.json) so the live record is honest.
-import json, os, re, sys, time, datetime, urllib.request, urllib.parse
+import json, math, os, re, sys, time, datetime, urllib.request, urllib.parse
 sys.path.insert(0, os.path.dirname(__file__))
 from darts_parse import parse_page, key
 import darts_model as DM
@@ -16,6 +16,8 @@ SKIP = ("List of", "Challenge Tour", "Development Tour", "Women", "WDF", "World 
 KW = dict(avg_w=0.5, half_life=240, prior_sd=0.6, k_avg=0.07, stage_sd=0.2)
 def on_stage(ev): return not ("Players Championship" in ev and "Finals" not in ev)
 STATE = "data/darts_state.json"; OUT = "data/darts.json"; MATCHES = "data/darts_matches.json"
+POLY_TAG = "darts"   # Polymarket tag for market prices where it lists a match (snooker.py sets "snooker")
+POLY_W = 0.8        # weight on the market price when there is one, as with the tennis picks
 USE_MC = True   # Mastercaller: Players Championship rounds and TV order of play (darts only; snooker.py turns it off)
 
 def get(url, tries=4):
@@ -107,15 +109,21 @@ def main():
     except Exception: state = {"picks": {}}
     P = state.setdefault("picks", {})
     def mkey(m): return "|".join([m["event"], *sorted([key(m["a"]), key(m["b"])])]) + ("|" + m["date"] if "Premier League" in m["event"] else "")
+    poly = {} if src else DX.poly_prices(POLY_TAG)
     upcoming = []
     for m in sorted(up, key=lambda m: (m["date"], m.get("time") or "99", m["event"])):
         p, pl = DM.predict(R, m["a"], m["b"], m["bo"], m["unit"], stage=on_stage(m["event"]))
+        mk = poly.get(frozenset((key(m["a"]), key(m["b"]))))
+        pmodel = p
+        if mk:
+            lgt = lambda x: math.log(max(1e-6, x) / max(1e-6, 1 - x))
+            p = 1 / (1 + math.exp(-(POLY_W * lgt(mk[key(m["a"])]) + (1 - POLY_W) * lgt(p))))
         k = mkey(m)
         if k not in P:
             P[k] = {"event": m["event"], "round": m["round"], "date": m["date"], "a": m["a"], "b": m["b"], "p": round(p, 4), "pick": m["a"] if p >= 0.5 else m["b"], "bo": m["bo"], "unit": m["unit"], "logged": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")}
         ra, rb = R.get(key(m["a"]), {}), R.get(key(m["b"]), {})
         upcoming.append({"event": m["event"], "round": re.sub(r"\s*\d{1,2}(\s*[–-]\s*\d{1,2})?\s+(January|February|March|April|May|June|July|August|September|October|November|December).*$", "", m["round"] or m["section"] or "").strip(), "date": m["date"], "time": m.get("time"), "a": m["a"], "b": m["b"], "bo": m["bo"], "unit": m["unit"],
-                         "p": round(p, 4), "avgA": round(ra["avg"], 1) if ra.get("avg") else None, "avgB": round(rb["avg"], 1) if rb.get("avg") else None,
+                         "p": round(p, 4), "model": round(pmodel, 4), "mkt": round(mk[key(m["a"])], 3) if mk else None, "avgA": round(ra["avg"], 1) if ra.get("avg") else None, "avgB": round(rb["avg"], 1) if rb.get("avg") else None,
                          "formA": "".join(form.get(key(m["a"]), [])[-5:]), "formB": "".join(form.get(key(m["b"]), [])[-5:])})
     outr = []
     for t in sorted({m["event"] for m in up}):

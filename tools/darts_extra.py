@@ -105,3 +105,26 @@ def mc_upcoming(title, year, start):
     flush()
     # placeholder times far after the event (e.g. 23:30 on the last day for undrawn matches) are dropped by the caller via the draw itself
     return out
+
+
+# ---- Polymarket prices (free, no login) for the matches it lists ----
+def poly_prices(tag):
+    """{frozenset(keyA, keyB): {keyA: chance, keyB: chance}} for open head-to-head markets under a Polymarket tag."""
+    import json as _j, urllib.parse as _u
+    out = {}
+    try:
+        with urllib.request.urlopen(urllib.request.Request("https://gamma-api.polymarket.com/events?" + _u.urlencode({"tag_slug": tag, "closed": "false", "limit": 200}), headers=UA), timeout=40) as r:
+            evs = _j.loads(r.read().decode("utf-8"))
+    except Exception as e:
+        print("polymarket", tag, e); return out
+    for ev in evs or []:
+        for m in ev.get("markets") or []:
+            try:
+                oc = m.get("outcomes"); pr = m.get("outcomePrices")
+                oc = _j.loads(oc) if isinstance(oc, str) else oc; pr = [float(x) for x in (_j.loads(pr) if isinstance(pr, str) else pr)]
+                if not oc or len(oc) != 2 or oc[0].lower() in ("yes", "no") or min(pr) <= 0.01 or not m.get("active", True): continue
+                t = pr[0] + pr[1]; a, b = key(oc[0]), key(oc[1])
+                out[frozenset((a, b))] = {a: pr[0] / t, b: pr[1] / t}
+            except Exception: continue
+    print("polymarket", tag, len(out), "matches priced")
+    return out
