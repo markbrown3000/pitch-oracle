@@ -1,0 +1,26 @@
+# Fresh football prices every two hours: DraftKings' odds from ESPN's scoreboards (tools/soccer_odds.py).
+name: Update live football odds
+on:
+  schedule:
+    - cron: "52 */2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/soccer_odds.py", ".github/workflows/update-live-odds.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: liveodds
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/soccer_odds.py
+      - name: Save if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add data/live_odds.json data/live_odds_log.json
+          git diff --cached --quiet || (git commit -m "Update live football odds" && (git push || (git pull --rebase && git push)))
