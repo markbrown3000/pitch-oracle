@@ -1,0 +1,903 @@
+{{Short description|Snooker tournament}}
+{{good article}}
+{{Use dmy dates|date=May 2025}}
+{{Infobox individual snooker tournament
+|tournament_name=2025 [[BetVictor]] [[English Open (snooker)|English Open]]
+|logo=[[File:2025_English_Open_(snooker)_logo.png|300px]]
+|dates={{Start and end dates|2025|09|11|2025|09|21|df=y}}
+|venue=Brentwood Centre
+|location=[[Brentwood, Essex|Brentwood]]
+|country=England
+|organisation=[[World Snooker Tour]]
+|format=[[List of snooker ranking tournaments|Ranking event]]
+|Total prize fund=£550,400
+|winners_share=£100,000
+|defending_champion=
+|highest_break={{ubl|{{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} ([[Maximum break|147]])|{{flagathlete|[[Ali Carter]]|ENG}} ([[Maximum break|147]])}}
+|winner={{flagathlete|[[Mark Allen (snooker player)|Mark Allen]]|NIR}}
+|runner_up={{flagathlete|[[Zhou Yuelong]]|CHN}}
+|score=9–8
+|previous=[[2024 English Open (snooker)|2024]]
+|next= [[2026 English Open (snooker)|2026]]
+|alt=
+|caption=Part of the [[Home Nations Series]]
+}}
+
+The '''2025 English Open''' (officially the '''2025 BetVictor English Open''')<ref name="snookerorg"/> was a professional [[snooker]] tournament that took place from 11 to 21 September 2025 at the Brentwood Centre in [[Brentwood, Essex|Brentwood]], England. The 10th consecutive edition of the tournament since it was first staged in [[2016 English Open (snooker)|2016]], it was the fourth [[List of snooker ranking tournaments|ranking event]] of the [[2025–26 snooker season]], following the [[2025 Wuhan Open (snooker)|2025 Wuhan Open]] and preceding the [[2025 British Open]]. It was the first of four tournaments in the season's [[Home Nations Series]], preceding the [[2025 Northern Ireland Open]], the [[2025 Scottish Open]], and the [[2026 Welsh Open (snooker)|2026 Welsh Open]]. The tournament was broadcast by [[TNT Sports]] in the United Kingdom and Ireland, by [[Eurosport]] in mainland Europe, by local channels in China and elsewhere in Asia, and by [[WST Play]] in all other territories. The winner received £100,000 from a total prize fund of £550,400.
+
+[[Neil Robertson]] was the defending champion, having defeated [[Wu Yize]] 9–7 in the [[2024 English Open (snooker)|2024 final]], but he lost 1–4 to [[Jackson Page]] in the last 32. The final was contested between [[Mark Allen (snooker player)|Mark Allen]] and [[Zhou Yuelong]]. Allen led 6–2 after the first session, but Zhou recovered to lead 8–7 in the second session. Allen won the last two frames of the match for a 9–8 victory, securing his first English Open title, the 12th ranking title of his career, and his first ranking win since the [[2024 Players Championship (snooker)|2024 Players Championship]] in February 2024. He won five consecutive matches at the event in {{Cuegloss|deciding frame|deciding frames}}. Following the [[2025 Saudi Arabia Snooker Masters]] and the 2025 Wuhan Open, it was the first time that three consecutive ranking finals had gone to deciding frames.
+
+The event produced 82 [[Century break|century breaks]], including two [[maximum break]]s. [[Aaron Hill (snooker player)|Aaron Hill]] made the first maximum of his career during his second-round match against [[Yao Pengcheng]], and [[Ali Carter]] made the fourth maximum of his career in his fourth-round match against Hill. These were respectively the ninth and tenth maximums of the season and the 226th and 227th official maximums in professional snooker history. [[Judd Trump]] made the 1,100th [[century break]] of his career during his third-round match against [[Michael Holt (snooker player)|Michael Holt]]. [[Ng On-yee]] made a 137 break in her first-round match against [[Liam Highfield]], then a record for the highest break by a woman in professional competition.
+
+==Overview==
+[[File:Brentwood Centre September 2025.jpg|thumb|The tournament was held at the [[Brentwood Centre]] in Brentwood, England, for a fourth consecutive year.]]
+
+The [[English Open (snooker)|English Open]] was first staged in [[2016 English Open (snooker)|2016]], and the inaugural winner was [[Liang Wenbo]], who defeated [[Judd Trump]] 9–6 in the final to win his maiden ranking title.<ref name="TShistory">{{cite web|url=https://www.totallysnookered.com/sport/snooker/tournaments/english-open/english-open-snooker-information-and-a-potted-history-4583763|title=English Open Snooker: Information and a Potted History|date=8 April 2024|first=Michael|last=Day|work=Totally Snookered|access-date=17 June 2026|archive-url=https://web.archive.org/web/20260617130326/https://www.totallysnookered.com/sport/snooker/tournaments/english-open/english-open-snooker-information-and-a-potted-history-4583763|archive-date=17 June 2026|url-status=live}}</ref><ref>{{Cite news |date=16 October 2016 |title=Liang Wenbo wins first ranking title by beating Judd Trump in English Open |url=https://www.theguardian.com/sport/2016/oct/16/liang-wenbo-wins-first-ranking-title-beating-judd-trump-english-open-snooker |access-date=10 September 2025 |work=[[The Guardian]] |language=en-GB |archive-date=9 October 2023 |archive-url=https://web.archive.org/web/20231009170336/https://www.theguardian.com/sport/2016/oct/16/liang-wenbo-wins-first-ranking-title-beating-judd-trump-english-open-snooker |url-status=live }}</ref> The winner of the tournament receives the [[Steve Davis]] Trophy, which was named to honour the six-time World Champion following his retirement at the end of the [[2015–16 snooker season]].<ref>{{Cite news |date=26 September 2016 |title=English Open snooker: Trophy named after Steve Davis |url=https://www.bbc.com/sport/snooker/37476494 |access-date=10 September 2025 |work=[[BBC Sport]] |language=en-GB|archive-url=https://web.archive.org/web/20260421074438/https://www.bbc.com/sport/snooker/37476494|archive-date=21 April 2026|url-status=live}}</ref> 
+
+The 2025 edition—the 10th consecutive staging of the event—took place from 11 to 21 September at the Brentwood Centre in [[Brentwood, Essex|Brentwood]], England, the fourth consecutive year the venue had hosted the tournament.<ref>{{Cite web |date=2025-09-05 |title=A host of star names enter 2025 English Open; draw for Brentwood now released |url=https://www.totallysnookered.com/sport/snooker/tournaments/english-open/a-host-of-star-names-enter-2025-english-open-draw-for-brentwood-now-released-5303927 |access-date=2025-09-13 |website=Totally Snookered |language=en|archive-url=https://web.archive.org/web/20260421075029/https://www.totallysnookered.com/sport/snooker/tournaments/english-open/a-host-of-star-names-enter-2025-english-open-draw-for-brentwood-now-released-5303927|archive-date=21 April 2026|url-status=live}}</ref><ref name=":4">{{Cite web |title=English Open Tickets 2025 |url=https://www.wst.tv/tickets/english-open-2025-tickets |access-date=2025-08-17 |website=World Snooker Tour |language=en|archive-url=https://web.archive.org/web/20260421075029/https://www.wst.tv/tickets/english-open-2025-tickets/|archive-date=21 April 2026|url-status=live}}</ref><ref>{{Cite web |title=Tournaments 2025–26 |url=https://www.wst.tv/tournaments |access-date=2025-07-23 |website=World Snooker Tour |language=en |archive-date=5 December 2025 |archive-url=https://web.archive.org/web/20251205154034/https://www.wst.tv/tournaments/ |url-status=live }}</ref><ref name="TShistory"/> It was the fourth [[List of snooker ranking tournaments|ranking event]] of the [[2025–26 snooker season]], following the [[2025 Wuhan Open (snooker)|2025 Wuhan Open]] and preceding the [[2025 British Open]].<ref>{{Cite web |title=Calendar 2025/2026 |url=https://www.snooker.org/res/index.asp?template=2&season=2025 |access-date=2025-05-19 |website=snooker.org |language=en |archive-date=24 July 2025 |archive-url=https://web.archive.org/web/20250724075449/https://www.snooker.org/res/index.asp?season=2025&template=2 |url-status=live }}</ref> It was also the first of four tournaments in the season's [[Home Nations Series]], preceding the [[2025 Northern Ireland Open]], the [[2025 Scottish Open]], and the [[2026 Welsh Open (snooker)|2026 Welsh Open]].<ref name=":0">{{Cite web |last=Day |first=Michael |date=9 September 2025 |title=2025 English Open Snooker: Draw, format, order of play, prize money, how to watch |url=https://www.totallysnookered.com/sport/snooker/tournaments/english-open/2025-english-open-snooker-draw-format-schedule-order-of-play-prize-money-how-to-watch-5308248 |access-date=10 September 2025 |website=Totally Snookered |language=en |archive-date=5 November 2025 |archive-url=https://web.archive.org/web/20251105074046/https://www.totallysnookered.com/sport/snooker/tournaments/english-open/2025-english-open-snooker-draw-format-schedule-order-of-play-prize-money-how-to-watch-5308248 |url-status=live }}</ref> [[Neil Robertson]] was the defending champion, having defeated [[Wu Yize]] 9–7 in the [[2024 English Open (snooker)|2024 final.]]<ref>{{Cite web |date=2024-09-22 |title=Robertson survives Wu comeback to win English Open |url=https://www.bbc.com/sport/snooker/articles/cx2yrkpz49ro |access-date=21 April 2026 |website=[[BBC Sport]] |language=en-GB|archive-url=https://web.archive.org/web/20260421074629/https://www.bbc.com/sport/snooker/articles/cx2yrkpz49ro|archive-date=21 April 2026|url-status=live}}</ref> 
+
+===Format===
+The tournament used a tiered format first implemented for the [[Home Nations Series]] in the [[2024–25 snooker season]]. In round one, players seeded 65–96 faced those [[seeding (sports)|seeded]] 97 and below, including selected amateurs. In round two, the winners from round one faced players seeded 33–64. In round three, the winners from round two faced the top 32 seeds.<ref>{{cite web |date=5 April 2024 |title=Tiered format for Home Nations and German Masters in 2024/25 |url=https://www.wst.tv/news/2024/april/05/tiered-format-for-home-nations-and-german-masters-in-2024-25/ |url-status=live |archive-url=https://web.archive.org/web/20240405185554/https://www.wst.tv/news/2024/april/05/tiered-format-for-home-nations-and-german-masters-in-2024-25/ |archive-date=5 April 2024 |access-date=5 April 2024 |work=[[World Snooker Tour]]}}</ref> All matches were played as the best of 7 {{cuegloss|frame|frames}} until the quarter{{nbh}}finals, which were the best of 9. The semi{{nbh}}finals were the best of 11, and the final was a best{{nbh}}of{{nbh}}17-frame match played over two {{cuegloss|session|sessions}}.<ref name="snookerorg" />
+
+===Broadcasters===
+Rounds one and two were broadcast in the United Kingdom by [[Discovery+]]; rounds three and onwards were broadcast in the UK and Ireland by [[TNT Sports]], Discovery+, and [[DMAX (TV channel)|DMAX]]. The tournament was streamed by Discovery+ in Germany, Italy, and Austria and by [[HBO Max]] in other European territories; rounds three and onwards were broadcast in mainland Europe by [[Eurosport]]. The tournament was broadcast in mainland China by the CBSA‑WPBSA Academy [[WeChat]] Channel, the CBSA‑WPBSA Academy [[Douyin]], [[Huya Live]], and {{ill|Migu (streaming service)|lt=Migu|zh|咪咕}}. Rounds three and onwards were broadcast in Hong Kong by [[Now TV (Hong Kong)|Now TV]], in Malaysia and Brunei by [[Astro SuperSport]], in Thailand by [[True Sports]], in Taiwan by Sportcast, and in the Philippines by [[TAP Sports]]. In territories where no other coverage was available, the tournament was streamed via [[WST Play]].<ref>{{Cite web |date=8 September 2025 |title=How To Watch The BetVictor English Open |url=https://www.wst.tv/news/2025/september/08/how-to-watch-the-betvictor-english-open/ |access-date=10 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421075034/https://www.wst.tv/news/2025/september/08/how-to-watch-the-betvictor-english-open/|archive-date=21 April 2026|url-status=live}}</ref>
+
+===Prize fund===
+The prize fund for the tournament is detailed below.<ref name="snookerorg">{{cite web|url=https://www.snooker.org/res/index.asp?event=2181|title=BetVictor English Open 2025|website=snooker.org|access-date=8 September 2025|archive-url=https://web.archive.org/web/20260421075030/https://www.snooker.org/res/index.asp?event=2181|archive-date=21 April 2026|url-status=live}}</ref><ref>{{Cite web |title=BetVictor English Open |url=https://www.wst.tv//betvictorenglishopen |access-date=21 April 2026|website=World Snooker Tour |language=en|archive-url=https://web.archive.org/web/20251117000630/https://www.wst.tv/betvictorenglishopen/|archive-date=17 November 2025|url-status=dead}}</ref> In addition, the player who won the most cumulative prize money across the season's four Home Nations Series events received a bonus of £150,000.<ref name=":0" />
+
+{{div col}}
+* Winner: £100,000
+* Runner-up: £45,000
+* Semi-final: £21,000
+* Quarter-final: £13,200
+* Last 16: £9,000
+* Last 32: £5,400
+* Last 64: £3,600
+* Last 96: £1,000
+{{div col end}}
+* Highest break: £5,000
+* Total: £550,400
+
+== Summary ==
+
+=== Round one (last 128) ===
+[[File:Ng On Yee PHC 2017-3.jpg|thumb|[[Ng On-yee]] ''(pictured in 2017)'' made a 137 {{cuegloss|break}}, then a record for the highest break by a woman in professional competition.]]
+
+The first round was played on 11 and 12 September, featuring players [[seeding (sports)|seeded]] 65–96 against those seeded 97 and below, including selected amateurs.<ref name=":4" /><ref name=":0" /> [[Ng On-yee]] made a {{Cuegloss|total clearance}} of 137 in the second {{Cuegloss|frame}} of her match against [[Liam Highfield]], setting a new record for the highest {{cuegloss|break}} by a woman in professional competition. She broke a 33-year-old record set by [[Allison Fisher]], who had made a 133 break in the [[1992 Dubai Classic]] qualifiers.<ref name="snookerorg" /><ref name="TS_137">{{Cite web |last=Day |first=Michael |date=11 September 2025 |title=Women's snooker ace Ng On Yee breaks 30-year-plus record during English Open match |url=https://www.totallysnookered.com/sport/snooker/tournaments/english-open/womens-snooker-ace-ng-on-yee-breaks-30-year-plus-record-during-english-open-match-in-brentwood-5313490 |access-date=11 September 2025 |website=Totally Snookered |language=en|archive-url=https://web.archive.org/web/20260421080050/https://www.totallysnookered.com/sport/snooker/tournaments/english-open/womens-snooker-ace-ng-on-yee-breaks-30-year-plus-record-during-english-open-match-in-brentwood-5313490|archive-date=21 April 2026|url-status=live}}</ref><ref>{{Cite web |date=11 September 2025 |title=Onyee Ng makes historic break of 137 |url=https://www.wst.tv/news/2025/september/11/onyee-ng-makes-historic-break-of-137/ |access-date=11 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421080057/https://www.wst.tv/news/2025/september/11/onyee-ng-makes-historic-break-of-137/|archive-date=21 April 2026|url-status=live}}</ref> The record was broken again less than two months later by [[Bai Yulu]], who made a 145 break at the [[2025 International Championship]].<ref>{{Cite web |last=Cartwright |first=Phil |date=2 November 2025 |title=O'Sullivan & Trump fight hard for first-round wins |url=https://www.bbc.com/sport/snooker/articles/c8r00rp6y5no |access-date=2 November 2025 |website=[[BBC Sport]] |language=en-GB|archive-url=https://web.archive.org/web/20260421074630/https://www.bbc.com/sport/snooker/articles/c8r00rp6y5no|archive-date=21 April 2026|url-status=live}}</ref><ref>{{cite web|url=https://www.womenssnooker.com/bai-makes-history-with-145-break/|title=Bai Makes History With 145 Break|date=2 November 2025|work=World Women's Snooker|access-date=18 June 2026|archive-url=https://web.archive.org/web/20260618053408/https://www.womenssnooker.com/bai-makes-history-with-145-break/|archive-date=18 June 2026|url-status=live}}</ref> Highfield defeated Ng 4–2 after coming from 69 {{cuegloss|points}} behind to take the sixth frame on the last {{Cuegloss|black ball|black}}.<ref name="TS_137"/> Two other female players advanced to the second round as the reigning [[World Women's Snooker Championship|World Women's Champion]] Bai defeated [[Liu Wenwei]] 4–3 and [[Mink Nutcharut]] beat [[Robbie McGuigan]] 4–2.<ref name=":3">{{Cite web |date=12 September 2025 |title=BetVictor English Open day two |url=https://www.wst.tv/news/2025/september/12/betvictor-english-open-day-two/ |access-date=12 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421080102/https://www.wst.tv/news/2025/september/12/betvictor-english-open-day-two/|archive-date=21 April 2026|url-status=live}}</ref> [[Jimmy White]] lost the first two frames against [[Cheung Ka Wai]] but recovered to tie the scores at 2–2. Cheung won the fifth frame on a {{Cuegloss|re-spotted black}}, but White took frame six on the {{Cuegloss|colours}} and went on to win the {{Cuegloss|deciding frame}} after trapping Cheung in a {{Cuegloss|snooker}}.<ref name=":1">{{Cite web |date=2025-09-11 |title=White battles back to win at English Open and set up tasty clash with Brecel |url=https://www.totallysnookered.com/sport/snooker/tournaments/english-open/jimmy-white-battles-back-to-win-at-english-open-and-set-up-tasty-clash-with-luca-brecel-in-round-two-5313207 |access-date=2025-09-11 |website=Totally Snookered |language=en|archive-url=https://web.archive.org/web/20260421080103/https://www.totallysnookered.com/sport/snooker/tournaments/english-open/jimmy-white-battles-back-to-win-at-english-open-and-set-up-tasty-clash-with-luca-brecel-in-round-two-5313207|archive-date=21 April 2026|url-status=live}}</ref><ref name=":2" /> [[Marco Fu]] made two [[Century break|century breaks]] as he [[Whitewash (sport)|whitewashed]] [[Gao Yang (snooker player)|Gao Yang]] in 59 minutes.<ref name=":2">{{Cite web |date=11 September 2025 |title=BetVictor English Open day one |url=https://www.wst.tv/news/2025/september/11/betvictor-english-open-day-one/ |access-date=11 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421080109/https://www.wst.tv/news/2025/september/11/betvictor-english-open-day-one/|archive-date=21 April 2026|url-status=live}}</ref> [[Sunny Akani]] lost the first two frames against [[Oliver Brown (snooker player)|Oliver Brown]] but then won four in a row for a 4–2 victory.<ref name=":1" /> [[Chang Bingyu]] made breaks of 133, 60, 133, and 134 as he whitewashed [[Leone Crowley]] in 43 minutes. [[Liam Pullen]] advanced with a 4–1 victory over [[Lan Yuhao]], while [[Mitchell Mann]] lost the first three frames against [[Ian Burns (snooker player)|Ian Burns]] but recovered to win the match in a decider. [[Mateusz Baranowski]] made a highest break of 131 as he defeated [[Steven Hallworth]], also in a deciding frame.<ref name=":3" />
+
+=== Round two (last 96) ===
+[[File:2025 English Open round one.jpg|thumb|The arena at the Brentwood Centre, pictured during the event.]]
+The second round was played on 13 and 14 September, featuring the winners from round one against players seeded 33–64.<ref name=":4" /><ref name=":0" /> [[Aaron Hill (snooker player)|Aaron Hill]] made the first [[maximum break]] of his career in the first frame of his match against [[Yao Pengcheng]]. It was the ninth maximum of the season and the 226th official maximum in professional snooker history. Hill became the first player from the Republic of Ireland to make a maximum break in a professional [[List of snooker ranking tournaments|ranking event]]. He went on to secure a 4–2 victory.<ref name="Max 226">{{cite web |title=Hill makes maiden maximum |url=https://www.wst.tv/news/2025/september/14/hill-makes-maiden-maximum/ |website=[[World Snooker Tour]] |date=14 September 2025 |access-date=14 September 2025 |archive-date=15 September 2025 |archive-url=https://web.archive.org/web/20250915070709/https://www.wst.tv/news/2025/september/14/hill-makes-maiden-maximum/ |url-status=live}}</ref><ref>{{Cite web |last=Sims |first=Andy |date=14 September 2025 |title=Cork native Aaron Hill makes first 147 of career at English Open |url=https://www.irishexaminer.com/sport/othersport/arid-41705492.html |access-date=14 September 2025 |website=[[Irish Examiner]] |language=en|archive-url=https://web.archive.org/web/20260421082444/https://www.irishexaminer.com/sport/othersport/arid-41705492.html|archive-date=21 April 2026|url-status=live}}</ref><ref>{{Cite web |last=Branigan |first=Peter |date=18 October 2025 |title=Kyren Wilson hoping Belfast return can kickstart season |url=https://www.rte.ie/sport/snooker/2025/1016/1538947-wilson-hoping-belfast-return-can-kickstart-season/ |access-date=20 October 2025 |website=[[RTÉ Sport]]|archive-url=https://web.archive.org/web/20260421082440/https://www.rte.ie/sport/snooker/2025/1016/1538947-wilson-hoping-belfast-return-can-kickstart-season/|archive-date=21 April 2026|url-status=live}}</ref> [[Luca Brecel]], who had not competed in the season's first three ranking events, made breaks of 51, 50, and 95 as he defeated White 4–1. Fu made a break of 110 as he whitewashed [[Mark Davis (snooker player)|Mark Davis]], his eighth victory out of ten professional matches that season. [[Jimmy Robertson (snooker player)|Jimmy Robertson]] defeated [[Wang Yuchen (snooker player)|Wang Yuchen]] on the final black of a deciding frame, and [[Zak Surety]] also won a decider on the colours to beat [[Haris Tahir]]. Highfield trailed [[Oliver Lines]] 1–3 but tied the scores with breaks of 89 and 79 and then won the decider on the colours. [[Louis Heathcote]] made a highest break of 127 against [[Jordan Brown (snooker player)|Jordan Brown]] and went on to win the match in a deciding frame.<ref>{{Cite web |date=13 September 2025 |title=BetVictor English Open day three |url=https://www.wst.tv/news/2025/september/13/betvictor-english-open-day-three/ |access-date=13 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421082438/https://www.wst.tv/news/2025/september/13/betvictor-english-open-day-three/|archive-date=21 April 2026|url-status=live}}</ref> [[Michael Holt (snooker player)|Michael Holt]] made two centuries as he whitewashed Nutcharut, while [[Ricky Walden]] defeated Bai 4–1. Pullen advanced with a 4–1 win over [[Stan Moody]].<ref>{{Cite web |date=14 September 2025 |title=BetVictor English Open day four |url=https://www.wst.tv/news/2025/september/14/hitman-sets-up-trump-contest/ |access-date=14 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421082500/https://www.wst.tv/news/2025/september/14/hitman-sets-up-trump-contest/|archive-date=21 April 2026|url-status=live}}</ref>
+
+=== Round three (last 64) ===
+[[File:Neil Robertson at Snooker German Masters (DerHexer) 2015-02-05 02.jpg|thumb|The defending champion [[Neil Robertson]] ''(pictured in 2015)'' won his third-round match against [[Sunny Akani]] but lost to [[Jackson Page]] in round four.]]
+The third round was played on 15 and 16 September, featuring the winners from round two against the top 32 seeds.<ref name=":4" /><ref name=":0" /> The world number 51 [[Robbie Williams (snooker player)|Robbie Williams]] led the [[2024 World Snooker Championship|2024 World Champion]] and world number two [[Kyren Wilson]] 2–0 and 3–1 and went on to win the match 4–2.<ref name=":6">{{Cite web |date=15 September 2025 |title=Kyren Wilson dumped out of English Open by Robbie Williams |url=https://www.rte.ie/sport/snooker/2025/0915/1533678-wilson-dumped-out-of-english-open-by-williams/ |access-date=15 September 2025 |website=[[RTE Sport]]|archive-url=https://web.archive.org/web/20260421082429/https://www.rte.ie/sport/snooker/2025/0915/1533678-wilson-dumped-out-of-english-open-by-williams/|archive-date=21 April 2026|url-status=live}}</ref><ref name=":7">{{Cite web |date=15 September 2025 |title=BetVictor English Open day five |url=https://www.wst.tv/news/2025/september/15/betvictor-english-open-day-five/ |access-date=15 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421082116/https://www.wst.tv/news/2025/september/15/betvictor-english-open-day-five/|archive-date=21 April 2026|url-status=live}}</ref> It was the first time Williams had beaten Wilson in professional competition, having lost all five of their previous meetings. [[Ding Junhui]] made breaks of 80, 92, 130, and 71 as he defeated Pullen 4–1. [[Si Jiahui]] defeated [[Liu Hongyu (snooker player)|Liu Hongyu]] 4–2 after Liu lost the fifth frame of the match on the {{cuegloss|three-foul rule|three{{nbh}}miss rule}}. [[Barry Hawkins]] defeated Heathcote, also by a 4–2 scoreline.<ref name=":5">{{Cite web |date=2025-09-15 |title=Robbie Williams eliminates world number two Kyren Wilson from English Open |url=https://www.totallysnookered.com/sport/snooker/tournaments/english-open/robbie-williams-eliminates-world-number-two-kyren-wilson-from-english-open-5318527 |access-date=2025-09-15 |website=Totally Snookered |language=en|archive-url=https://web.archive.org/web/20260421082111/https://www.totallysnookered.com/sport/snooker/tournaments/english-open/robbie-williams-eliminates-world-number-two-kyren-wilson-from-english-open-5318527|archive-date=21 April 2026|url-status=live}}</ref> [[Mark Selby]], champion in [[2019 English Open (snooker)|2019]] and [[2022 English Open (snooker)|2022]], made two centuries of 101 and 103 as he won four consecutive frames to defeat Highfield 4–1. [[Shaun Murphy]] made three consecutive centuries of 125, 135, and 133 and scored 457 points without reply as he whitewashed [[Zak Surety]], who scored only eight points in the match. [[Mark Williams (snooker player)|Mark Williams]] also advanced with a whitewash victory over [[Amir Sarkhosh]]. Brecel defeated [[Hossein Vafaei]] in a deciding frame.<ref name=":6" /><ref name=":7" />
+
+The defending champion [[Neil Robertson]], winner of the [[2025 Saudi Arabia Snooker Masters|2025 Saudi Arabia Masters]] a month before, had recently attended a ceremony in [[Melbourne]] to receive the [[Order of Australia|Medal of the Order of Australia]], having been named in the [[2025 Australia Day Honours]] for services to snooker. Despite suffering from [[jet lag]], he made centuries of 105 and 136 as he defeated Akani 4–1.<ref>{{Cite web |date=26 January 2025 |title=Robertson Awarded Medal of the Order of Australia |url=https://www.wst.tv//news/2025/january/26/Robertson-Awarded-Medal-of-the-Order-of-Australia/ |access-date=16 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421082207/https://www.wst.tv//news/2025/january/26/Robertson-Awarded-Medal-of-the-Order-of-Australia/|archive-date=21 April 2026|url-status=live}}</ref><ref name=":8" /><ref name=":9">{{Cite web |last=Day |first=Michael |date=16 September 2025 |title=Neil Robertson deals with jet lag to start English Open title defence in style |url=https://www.totallysnookered.com/sport/snooker/tournaments/english-open/neil-robertson-deals-with-jet-lag-to-start-english-open-title-defence-in-style-5321002 |access-date=16 September 2025 |website=Totally Snookered |language=en|archive-url=https://web.archive.org/web/20260421082059/https://www.totallysnookered.com/sport/snooker/tournaments/english-open/neil-robertson-deals-with-jet-lag-to-start-english-open-title-defence-in-style-5321002|archive-date=21 April 2026|url-status=live}}</ref> [[Stuart Bingham]], who had not won a match at the tournament since it moved to the Brentwood Centre in 2022, made breaks of 116, 86, 103, and 61 as he whitewashed [[Dylan Emery]]. "I've broken the duck here in Brentwood," said Bingham afterwards. "I kept my concentration and made four good breaks."<ref name=":8">{{Cite web |date=16 September 2025 |title=BetVictor English Open day six |url=https://www.wst.tv/news/2025/september/16/betvictor-english-open-day-six/ |access-date=16 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421082203/https://www.wst.tv/news/2025/september/16/betvictor-english-open-day-six/|archive-date=21 April 2026|url-status=live}}</ref> The reigning World Champion [[Zhao Xintong]] made three centuries of 105, 134, and 110 as he whitewashed [[Ishpreet Singh Chadha]], who had reached the semi-finals the previous year. The match lasted just 46 minutes.<ref name=":9" /><ref name=":8" />
+
+Having changed his [[Cue stick|cue]] for the first time in seven years,<ref>{{Cite web |last=Imber |first=Leon |date=16 September 2025 |title=Why Judd Trump changed cue despite record-breaking season, and why world No. 1 feels it is 'not perfect' despite dazzling English Open display |url=https://www.tntsports.co.uk/snooker/betvictor-english-open/2025-2026/judd-trump-english-open-cue-michael-holt_sto23222374/story.shtml |access-date=17 September 2025 |website=[[TNT Sports]]}}</ref> [[Judd Trump]] made two centuries of 107 and 130 as he whitewashed Holt. His 107 break in the second frame was the 1,100th century break of his professional career.<ref name=":8" /><ref>{{Cite web |date=16 September 2025 |title=2025 English Open: Judd Trump v Michael Holt |url=https://www.wst.tv/match-centre/f9acb124-0106-47cf-8319-036cd7c490e6 |access-date=17 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421082131/https://www.wst.tv/match-centre/f9acb124-0106-47cf-8319-036cd7c490e6|archive-date=21 April 2026|url-status=live}}</ref> [[Jack Lisowski]] made a 128 break as he defeated [[Thepchaiya Un-Nooh]] 4–2, with both players averaging under 15 seconds a shot in the match. [[Gary Wilson (snooker player)|Gary Wilson]] beat [[Sanderson Lam]] 4–2, and [[Elliot Slessor]] defeated Jimmy Robertson by the same score.<ref name=":8" /> Having successfully defended his title at the recent [[2025 Wuhan Open (snooker)|2025 Wuhan Open]], [[Xiao Guodong]] won his eighth consecutive professional match as he whitewashed [[Gong Chenzhi]]. Xiao attempted a maximum break in the opening frame but missed the 14th black.<ref name=":9" /> Facing [[Stephen Maguire]], Hill won the first three frames. Maguire narrowed Hill's lead to 3–2 and took a 60-point lead in frame six, but Hill made a break of 68 to secure a 4–2 victory on the last {{Cuegloss|pink ball|pink}}.<ref>{{Cite web |last=Branigan |first=Peter |date=16 September 2025 |title=Aaron Hill downs Stephen Maguire to progress at English Open |url=https://www.rte.ie/sport/snooker/2025/0916/1533862-hill-downs-maguire-to-progress-at-english-open/ |access-date=16 September 2025 |website=[[RTE Sport]]|archive-url=https://web.archive.org/web/20260421080438/https://www.rte.ie/sport/snooker/2025/0916/1533862-hill-downs-maguire-to-progress-at-english-open/|archive-date=21 April 2026|url-status=live}}</ref>
+
+=== Round four (last 32) ===
+[[File:Ali Carter at Snooker German Masters (DerHexer) 2013-02-03 12.jpg|thumb|[[Ali Carter]] ''(pictured in 2013)'' made his fourth [[maximum break]]. It was the second maximum at the event, following the 147 by [[Aaron Hill (snooker player)|Aaron Hill]] in round two.]]
+The fourth round was played on 17 September.<ref name=":4" /><ref name=":0" /> [[Ali Carter]] made the fourth [[maximum break]] of his professional career in his match against Hill. It was the tenth maximum of the season and the 227th official maximum in professional snooker history. Carter made the maximum in the fourth frame to move 3–1 ahead, but Hill recovered to win the match in a deciding frame.<ref name="Max 227">{{cite web |title=Carter crafts Brentwood maximum |url=https://www.wst.tv/news/2025/september/17/carter-crafts-brentwood-maximum/ |website=[[World Snooker Tour]] |date=17 September 2025 |access-date=17 September 2025 |archive-date=18 September 2025 |archive-url=https://web.archive.org/web/20250918073001/https://www.wst.tv/news/2025/september/17/carter-crafts-brentwood-maximum/ |url-status=live}}</ref> Hill said he was "absolutely over the moon" with his comeback win and commented: "When he made the maximum I thought he would be full of adrenaline, so I said to myself this could be my chance to nick it. I managed to steal a frame to get to 3–2 and made a good break to force a decider. I played a solid enough last frame as well."<ref name=":10" /> Trump lost the first frame against [[Yuan Sijun]] but then won four in a row with breaks including 101, 69, and 61 as he secured a 4–1 victory. Commenting on his decision to replace his cue, Trump said: "The old one lost some of its power. There are some great new cue makers which are making powerful cues. I feel these days you need as much power as you can get. This cue has a different {{cuegloss|ferrule}} and feels very good {{cuegloss|in the balls}}." However, Trump said he would "treasure" the cue with which he had won the [[2019 World Snooker Championship|2019 World Championship]] and many other titles.<ref name=":10" /> 
+
+Page made three consecutive {{cuegloss|half-century}} breaks to beat the defending champion Neil Robertson 4–1.<ref name=":10" /> Robertson's defeat continued a streak whereby no player had ever successfully defended the [[English Open (snooker)|English Open]] title.<ref>{{Cite web |last=Adams |first=Lewis |date=15 September 2025 |title=English Open seeds join snooker tournament in Brentwood, Essex |url=https://www.bbc.com/news/articles/cqjedd88l4eo |access-date=15 September 2025 |website=BBC |language=en-GB|archive-url=https://web.archive.org/web/20260421080421/https://www.bbc.com/news/articles/cqjedd88l4eo|archive-date=21 April 2026|url-status=live}}</ref> Lisowski beat Zhao by the same score, compiling breaks of 92, 84, and 86.<ref>{{Cite web |date=17 September 2025 |title=2025 English Open: Jack Lisowski v Zhao Xintong |url=https://www.wst.tv/match-centre/6ade799c-ff5b-4936-aae3-806b4a045138 |access-date=17 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421080425/https://www.wst.tv/match-centre/6ade799c-ff5b-4936-aae3-806b4a045138|archive-date=21 April 2026|url-status=live}}</ref> Selby made breaks of 119, 75, 55, and 87 as he whitewashed [[Lei Peifan]], while Hawkins and Slessor also recorded whitewash wins over [[Tom Ford (snooker player)|Tom Ford]] and Gary Wilson respectively. [[Zhou Yuelong]] made a 136 break as he beat Mark Williams 4–1, and [[Wu Yize]] advanced with a 4–2 win over [[Chris Wakelin]].<ref name=":10">{{Cite web |date=17 September 2025 |title=BetVictor English Open day seven |url=https://www.wst.tv/news/2025/september/17/betvictor-english-open-day-seven/ |access-date=17 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421080419/https://www.wst.tv/news/2025/september/17/betvictor-english-open-day-seven/|archive-date=21 April 2026|url-status=live}}</ref> Murphy took consecutive frames with breaks of 79 and 140 to beat [[Fan Zhengyi]] 4–1, and Brecel won three frames in a row as he defeated Si 4–2.<ref>{{Cite web |date=17 September 2025 |title=2025 English Open: Shaun Murphy v Fan Zhengyi |url=https://www.wst.tv/match-centre/2dc8c92a-ef69-4d5f-a95e-1f083569bf98 |access-date=17 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421080429/https://www.wst.tv/match-centre/2dc8c92a-ef69-4d5f-a95e-1f083569bf98|archive-date=21 April 2026|url-status=live}}</ref><ref>{{Cite web |date=17 September 2025 |title=2025 English Open: Luca Brecel v Si Jiahui |url=https://www.wst.tv/match-centre/c116c896-fe9b-4d54-9801-d72fdd511ef2 |access-date=17 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421080654/https://www.wst.tv/match-centre/c116c896-fe9b-4d54-9801-d72fdd511ef2|archive-date=21 April 2026|url-status=live}}</ref> [[Mark Allen (snooker player)|Mark Allen]] beat Bingham 4–3, making a 118 break to win the deciding frame.<ref>{{Cite web |date=17 September 2025 |title=2025 English Open: Stuart Bingham v Mark Allen |url=https://www.wst.tv/match-centre/fced37ee-7099-4d49-92f4-aec695e21d8e |access-date=17 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421080818/https://www.wst.tv/match-centre/fced37ee-7099-4d49-92f4-aec695e21d8e|archive-date=21 April 2026|url-status=live}}</ref>
+
+=== Round five (last 16) ===
+[[File:Judd Trump at Snooker German Masters (Martin Rulsch) 2014-02-01 18 (cropped).jpg|thumb|The world number one [[Judd Trump]] ''(pictured in 2014)'' made the 1,100th [[century break]] of his career at the event. He lost to [[Elliot Slessor]] in round five.]]
+The fifth round was played on 18 September.<ref name=":4" /><ref name=":0" /> Slessor won the first two frames against the [[List of world number one snooker players|world number one]] Trump and led by 68 points in the third, but Trump took the frame with a 69 break and also won frames four and five as he moved into a 3–2 lead. However, Slessor tied the scores with a 79 break and made another break of 64 to win the deciding frame. It was the 13th decider Slessor had won out of his last 18 played. Defeat for Trump meant that he had yet to reach the semi-finals of any tournament that season, having not won a title since the [[2024 UK Championship]]. "If you win a tournament early in the season, it takes the pressure off immediately and you are able to relax," Trump said. "When you don't do that you feel you are chasing."<ref>{{Cite web |date=17 September 2025 |title=Trump 'on edge' in hunt for title |url=https://www.wst.tv/news/2025/september/17/Trump--On-Edge--In-Hunt-For-Title/ |access-date=18 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421080734/https://www.wst.tv/news/2025/september/17/Trump--On-Edge--In-Hunt-For-Title/|archive-date=21 April 2026|url-status=live}}</ref> Slessor spoke afterwards about his desire to win his first title for his 74-year-old grandfather. "He has driven me around since I was nine," he said. "I would love to be in the position to give him a trophy. The money means nothing compared to what a trophy would mean. I'll keep knocking on the door, keep trying my best and see what happens."<ref name=":11" /><ref name=":12" /><ref name=":13">{{Cite web |date=18 September 2025 |title=Trump slump goes on as Slessor advances at English Open |url=https://www.rte.ie/sport/snooker/2025/0918/1534199-trump-slump-goes-on-as-slessor-advances-at-english-open/ |access-date=18 September 2025 |website=[[RTE Sport]]|archive-url=https://web.archive.org/web/20260421080717/https://www.rte.ie/sport/snooker/2025/0918/1534199-trump-slump-goes-on-as-slessor-advances-at-english-open/|archive-date=21 April 2026|url-status=live}}</ref> 
+
+Allen lost the first three frames against Ding but recovered to win four consecutive frames and secure a 4–3 victory. Afterwards, he reflected on his recent lack of success on the professional tour. "I had a few years of winning quite a lot. I fancied winning all the time [but] it isn't that easy," he said. "The serial winners like [[Ronnie O'Sullivan|Ronnie {{bracket|O'Sullivan}}]], [[Stephen Hendry|{{bracket|Stephen}} Hendry]], Trump and Selby make it look easy. It isn't. You have to enjoy every time you can get a victory and not get too down on yourself."<ref name=":11"/> Page led Murphy 3–1. Murphy made breaks of 93 and 102 to tie the scores at 3–3, but Page won the decider.<ref name=":12"/> Brecel also defeated Robbie Williams in a deciding frame to reach his first quarter-final of the season.<ref>{{Cite tweet|user=WeAreWST|number=1968722507638140978|title=Luca Brecel is into his first quarter-final of the season after a 4–3 win over Robbie Williams}}</ref> Selby beat the previous year's runner-up Wu 4–2, and Zhou defeated Hawkins by the same score.<ref name=":11">{{Cite web |date=18 September 2025 |title=BetVictor English Open day eight |url=https://www.wst.tv/news/2025/september/18/betvictor-english-open-/ |access-date=18 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421080713/https://www.wst.tv/news/2025/september/18/betvictor-english-open-/|archive-date=21 April 2026|url-status=live}}</ref><ref name=":12">{{Cite web |last=Sutcliffe |first=Steve |date=18 September 2025 |title=Trump and Murphy knocked out of English Open |url=https://www.bbc.com/sport/snooker/articles/c749z2k09lvo |access-date=18 September 2025 |website=[[BBC Sport]] |language=en-GB|archive-url=https://web.archive.org/web/20260421074840/https://www.bbc.com/sport/snooker/articles/c749z2k09lvo|archive-date=21 April 2026|url-status=live}}</ref> Hill defeated Lisowski 4–1, making a break of 123 in the final frame of the match, and advanced to his third ranking quarter-final.<ref>{{Cite web |date=18 September 2025 |title=2025 English Open: Aaron Hill v Jack Lisowski |url=https://www.wst.tv/match-centre/47073f50-17e1-4e09-a636-37e4523a6176 |access-date=18 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421081752/https://www.wst.tv/match-centre/47073f50-17e1-4e09-a636-37e4523a6176|archive-date=21 April 2026|url-status=live}}</ref><ref name=":11" /> [[Jak Jones]] defeated Walden in a deciding frame.<ref>{{Cite web |date=18 September 2025 |title=2025 English Open: Ricky Walden v Jak Jones |url=https://www.wst.tv/match-centre/253a79ba-3394-4b9d-a1ba-b9c0047b5509 |access-date=18 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421081855/https://www.wst.tv/match-centre/253a79ba-3394-4b9d-a1ba-b9c0047b5509|archive-date=21 April 2026|url-status=live}}</ref><ref name=":11" />
+
+=== Quarter-finals ===
+[[File:Jak Jones PHC 2016-2.jpg|thumb|[[Jak Jones]] ''(pictured in 2016)'' defeated [[Aaron Hill (snooker player)|Aaron Hill]]  to reach his first ranking semi-final since the [[2024 World Snooker Championship|2024 World Championship]].]]
+The quarter-finals were played on 19 September as the best of 9 frames.<ref name=":4" /><ref name=":0" /> Brecel made breaks of 81 and 75 as he took a 4–2 lead over Zhou, but Zhou made a 94 break followed by a 113 to force a deciding frame. After failing to progress beyond the last 16 of any ranking event the previous season and dropping to number 32 in the [[Snooker world rankings|world rankings]], Zhou won the 52-minute decider to reach the seventh ranking semi-final of his career. "I know [Brecel] is a very aggressive player, so I had prepared myself with more patience, focusing on tactical exchanges and waiting for his mistakes. When I was 4–2 down, I managed to make the most of my chances and force a decider," Zhou commented afterwards. Page led Selby 2–1 and 3–2, but Selby produced a break of 111 in frame six to tie the scores at 3–3 and then won frame seven to move one from victory. Page won frame eight, but Selby took the deciding frame with a break of 131, advancing to the 67th ranking semi-final of his career. The match lasted over three hours.<ref name=":14">{{Cite web |date=19 September 2025 |title=Zhou into seventh semi-final |url=https://www.wst.tv/news/2025/september/19/zhou-into-seventh-semi-final/ |access-date=19 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421081838/https://www.wst.tv/news/2025/september/19/zhou-into-seventh-semi-final/|archive-date=21 April 2026|url-status=live}}</ref><ref name=":15">{{Cite web |date=20 September 2025 |title=Aaron Hill's English Open run ends at the quarter-final stage |url=https://www.rte.ie/sport/snooker/2025/0919/1534427-selby-hits-century-in-decider-to-seal-semi-final-spot/ |access-date=20 September 2025 |website=[[RTE Sport]]|archive-url=https://web.archive.org/web/20260421081805/https://www.rte.ie/sport/snooker/2025/0919/1534427-selby-hits-century-in-decider-to-seal-semi-final-spot/|archive-date=21 April 2026|url-status=live}}</ref><ref name=":16">{{Cite web |last=Sutcliffe |first=Steve |date=19 September 2025 |title=Selby beats Page to reach English Open semi-finals |url=https://www.bbc.com/sport/snooker/articles/c3vz3764dnvo |access-date=21 April 2026 |website=[[BBC Sport]] |language=en-GB|archive-url=https://web.archive.org/web/20260421074812/https://www.bbc.com/sport/snooker/articles/c3vz3764dnvo|archive-date=21 April 2026|url-status=live}}</ref> 
+
+Hill took the first frame against Jones with a 73 break, but Jones won three in a row, making a 79 break in frame four. Hill took frame five, but Jones won the next two for a 5–2 victory.<ref name=":15" /><ref>{{Cite web |date=19 September 2025 |title=2025 English Open: Jak Jones vs Aaron Hill |url=https://www.wst.tv/match-centre/c2418186-dfe6-47f0-8790-c75ae2990938 |access-date=19 September 2025 |website=[[World Snooker Tour]]|archive-url=https://web.archive.org/web/20260421081841/https://www.wst.tv/match-centre/c2418186-dfe6-47f0-8790-c75ae2990938|archive-date=21 April 2026|url-status=live}}</ref> After reaching his first ranking semi-final since the 2024 World Championship, he spoke about the impact that becoming a father seven months previously had had on his form. "Last season I wasn't in a good place mentally at all," he said. "This season I feel like a completely different person and my life is good. I feel happier when I'm playing and I'm more focused. I feel that I'm playing well and I'm confident."<ref name=":14" /> Facing Allen, Slessor won the first four frames, making breaks of 91 and 76. In the fifth frame, Slessor missed a black off {{cuegloss|black spot|its spot}}, and Allen won the frame with a 55 break; he also won frame six after Slessor missed the black to the same {{cuegloss|pocket}}. Allen went on to tie the scores at 4–4 and force a deciding frame. Slessor made a 57 break in the decider, but Allen won the frame to secure a 5–4 victory.<ref name=":14" /><ref name=":16" /><ref>{{Cite web |date=19 September 2025 |title=2025 English Open: Elliot Slessor v Mark Allen |url=https://www.wst.tv/match-centre/28f3c302-233e-4b1d-bed0-d1502bd3bdbd |access-date=19 September 2025 |website=[[World Snooker Tour]]|archive-url=https://web.archive.org/web/20260421081823/https://www.wst.tv/match-centre/28f3c302-233e-4b1d-bed0-d1502bd3bdbd|archive-date=21 April 2026|url-status=live}}</ref>
+
+=== Semi-finals ===
+[[File:Zhou Yuelong PHC 2015-9.jpg|thumb|[[Zhou Yuelong]] ''(pictured in 2015)'' defeated [[Mark Selby]] to reach his fourth ranking final.]]
+
+The semi-finals were played on 20 September as the best of 11 frames.<ref name=":4" /><ref name=":0" /> In the first semi-final, Zhou played Selby. Zhou won the first two frames and then took the 59-minute third frame to move 3–0 ahead. Selby made a 71 {{cuegloss|clearance}} to win frame four on the last black and had the opportunity to win the fifth but Zhou took the frame after Selby missed the last {{cuegloss|red}}. Selby won the sixth frame, but Zhou took the seventh to move one from victory at 5–2. Selby won frame eight, but Zhou then secured a 6–3 victory and advanced to the fourth ranking final of his career.<ref name=":17">{{Cite web |last=Battison |first=Paul |date=21 September 2025 |title=Zhou beats Selby to reach English Open final|url=https://www.bbc.com/sport/snooker/articles/cn0rr32812po |access-date=21 April 2026|website=[[BBC Sport]] |language=en-GB|archive-url=https://web.archive.org/web/20260421074738/https://www.bbc.com/sport/snooker/articles/cn0rr32812po|archive-date=21 April 2026|url-status=live}}</ref><ref>{{Cite web |date=20 September 2025 |title=2025 English Open: Mark Selby v Zhou Yuelong |url=https://www.wst.tv/match-centre/e55550c6-acc3-4e61-897f-3b69d5df331d |access-date=20 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421082956/https://www.wst.tv/match-centre/e55550c6-acc3-4e61-897f-3b69d5df331d|archive-date=21 April 2026|url-status=live}}</ref> "It is a huge confidence boost for me," said Zhou. "I've gone three years without getting to a final and I played very badly last season. This season is just getting underway and it is a fantastic start."<ref name="Zhoudowns">{{Cite web |date=20 September 2025 |title=Zhou downs Selby to make Brentwood final |url=https://www.wst.tv/news/2025/september/20/zhou-downs-selby-to-make-brentwood-final/ |access-date=20 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421082953/https://www.wst.tv/news/2025/september/20/zhou-downs-selby-to-make-brentwood-final/|archive-date=21 April 2026|url-status=live}}</ref>
+
+In the second semi-final, Allen faced Jones, who made breaks of 92, 84, and 61 as he took a 3–1 lead. After the mid-session interval, Allen produced breaks of 102 and 62 to tie the scores at 3–3, but Jones won the next two frames to move 5–3 ahead. However, Allen made breaks of 68, 67, and 82 to secure a 6–5 victory.<ref name=":17" /><ref>{{Cite web |date=20 September 2025 |title=2025 English Open: Mark Allen v Jak Jones |url=https://www.wst.tv/match-centre/57edc32b-9d95-4568-9bba-defb0b477de6 |access-date=20 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421082950/https://www.wst.tv/match-centre/57edc32b-9d95-4568-9bba-defb0b477de6|archive-date=21 April 2026|url-status=live}}</ref> It was Allen's third consecutive comeback win at the event, having beaten Ding from 0–3 behind in the fifth round and Slessor from 0–4 behind in the quarter-finals. It was also his second consecutive match that ended after midnight. "There's a few events in my career I still want to win and the English Open is one of them," Allen said afterwards. "The [[Welsh Open (snooker)|Welsh Open]] is another and obviously the [[World Snooker Championship|World Championship]]. I'd love to win tomorrow and make it three out of the four [[Home Nations Series|Home Nations]] events."<ref name=":18">{{Cite web |date=20 September 2025 |title=Pistol fights back to make Brentwood final |url=https://www.wst.tv/news/2025/september/20/pistol-fights-back-to-make-brentwood-final/ |access-date=21 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421081518/https://www.wst.tv/news/2025/september/20/pistol-fights-back-to-make-brentwood-final/|archive-date=21 April 2026|url-status=live}}</ref>
+
+=== Final ===
+[[File:Mark Allen with English Open trophy 2025.jpg|thumb|upright=0.8|[[Mark Allen (snooker player)|Mark Allen]] ''(pictured at the event)'' defeated [[Zhou Yuelong]] to win his first [[English Open (snooker)|English Open]] title and 12th ranking title. He received the [[Steve Davis]] Trophy ''(also pictured)''.]]
+The final was played on 21 September as the best of 17 frames, held over two {{cuegloss|session|sessions}}, between the world number 10 Allen and the world number 32 Zhou.<ref name=":4" /><ref name=":0" /><ref name="Allencharge">{{Cite web |date=21 September 2025 |title=Allen in charge of final |url=https://www.wst.tv/news/2025/september/21/allen-in-charge-of-final/ |access-date=21 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421081505/https://www.wst.tv/news/2025/september/21/allen-in-charge-of-final/|archive-date=21 April 2026|url-status=live}}</ref><ref name="Zhoudowns"/> Allen was playing in the 20th ranking final of his career, while Zhou was competing in his fourth. The two players had previously faced each other in a Home Nations Series final at the [[2022 Northern Ireland Open]], which Allen won 9–4.<ref name=":18" /> The match was refereed by Kevin Dabrowski.<ref name="snookerorg" /><ref>{{cite web |title=Polski sędzia Kevin Dabrowski cichym bohaterem finału English Open 2025. Został pochwalony przez Marka Allena |trans-title=Polish referee Kevin Dabrowski is the unsung hero of the 2025 English Open final. He was praised by Mark Allen. |url=https://eurosport.tvn24.pl/snooker/betvictor-english-open/2025-2026/polski-sedzia-kevin-dabrowski-cichym-bohaterem-finalu-english-open-2025.-zostal-pochwalony-przez-marka-allena_sto23224235/story.shtml |date=22 September 2025 |last=Przybyłowicz |first=Łukasz |language=Polish |website=[[Eurosport]]}}</ref> Allen won the opening frame with a 132 break. Zhou won the second, but Allen then made breaks including 72 and 59 as he won four consecutive frames to move 5–1 ahead. Zhou took the seventh, but Allen won frame eight to end the session with a 6–2 lead.<ref name="Allencharge"/>
+
+When play resumed for the second session, Zhou won the 45-minute ninth frame, but Allen took the 10th to lead 7–3. Zhou won the next two frames to trail by two at 7–5 at the mid-session interval. Allen made a break of 60 in frame 13 but missed a red, and Zhou made a 72 clearance to win the frame on the last black. Zhou then made a break of 60 to tie the scores at 7–7 and a 53 break to win a fifth consecutive frame and move 8–7 in front. In the 16th frame, Allen made a 71 break, leaving Zhou {{Cuegloss|snookers required|requiring snookers}}, but went {{Cuegloss|in-off}}. Zhou got the required {{Cuegloss|penalty points}}, but Allen won the frame on the colours to tie the scores at 8–8. Allen then won the decider with a 61 break to secure a 9–8 victory, securing his first English Open title, the 12th ranking title of his professional career, and his first ranking win since February 2024.<ref name="Allen12th">{{Cite web |date=21 September 2025 |title=Allen captures 12th ranking crown |url=https://www.wst.tv/news/2025/september/21/allen-captures-12th-ranking-crown-1/ |access-date=22 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421081551/https://www.wst.tv/news/2025/september/21/allen-captures-12th-ranking-crown-1/|archive-date=21 April 2026|url-status=live}}</ref><ref name="AllenvZhou">{{Cite web |date=21 September 2025 |title=2025 English Open: Mark Allen v Zhou Yuelong |url=https://www.wst.tv/match-centre/b97b60fe-7bb9-42a3-8c9d-74893939fd97 |access-date=21 September 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260421081519/https://www.wst.tv/match-centre/b97b60fe-7bb9-42a3-8c9d-74893939fd97|archive-date=21 April 2026|url-status=live}}</ref><ref name="Allensurvives">{{Cite web |date=2025-09-21 |title=Allen survives Zhou comeback to win English Open|url=https://www.bbc.com/sport/snooker/articles/cp8ww42jkpxo |access-date=21 April 2026|website=BBC Sport |language=en-GB|archive-url=https://web.archive.org/web/20260421074704/https://www.bbc.com/sport/snooker/articles/cp8ww42jkpxo|archive-date=21 April 2026|url-status=live}}</ref>
+
+Allen won five consecutive matches at the event in deciding frames. Following the [[2025 Saudi Arabia Snooker Masters]] and the [[2025 Wuhan Open (snooker)|2025 Wuhan Open]], it was the first time that three consecutive ranking finals had gone to deciding frames. "I thought Zhou battled really hard in that second session. He played some good stuff," said Allen afterwards. "He put me under pressure. I missed a few balls and I was nervous. I missed a few that I shouldn't have but at 8–7 I suddenly switched on a bit. It's a good trait to have. I don't want to keep relying on it but I felt as good as any part of the match in those last two frames." Allen, who had not won a ranking title since the [[2024 Players Championship (snooker)|2024 Players Championship]] held the previous February, advanced from 10th to 7th in the world rankings after the tournament. Zhou's defeat meant that he had lost all four of the ranking finals he had contested, two of them to Allen. "Of course it will give me confidence," he said of his performance in the final. "[Allen] was very good in the first session. He was 6–2 up and I think I just wanted to give him some trouble this evening. I'm very happy I managed to get 8–7 up. It is a good experience and I will learn from it."<ref name="Allen12th"/><ref name="AllenvZhou"/><ref name="Allensurvives"/><ref>{{Cite news |last=Calladine |first=Rob |date=2024-02-26 |title=Mark Allen battles past Zhang Anda in tense final to win Players Championship |url=https://www.theguardian.com/sport/2024/feb/26/mark-allen-battles-past-zhang-anda-in-tense-final-to-win-players-championship |access-date=2025-09-18 |work=The Guardian |language=en-GB|archive-url=https://web.archive.org/web/20260421080724/https://www.theguardian.com/sport/2024/feb/26/mark-allen-battles-past-zhang-anda-in-tense-final-to-win-players-championship|archive-date=21 April 2026|url-status=live}}</ref><ref>{{cite web|url=https://www.totallysnookered.com/sport/snooker/tournaments/english-open/brentwood-comeback-king-mark-allen-wins-the-2025-english-open-in-historic-deciding-frame-5327495|title=Brentwood comeback king Mark Allen wins the 2025 English Open in historic deciding frame|first=Michael|last=Day|date=22 September 2025|work=Totally Snookered|access-date=19 June 2026|archive-url=https://web.archive.org/web/20260619053157/https://www.totallysnookered.com/sport/snooker/tournaments/english-open/brentwood-comeback-king-mark-allen-wins-the-2025-english-open-in-historic-deciding-frame-5327495|archive-date=19 June 2026|url-status=live}}</ref>
+
+==Final rounds==
+The draw for the final rounds is shown below. Numbers in parentheses after the players' names denote the top 32 [[seeding (sports)|seeded]] players and players in bold denote match winners.<ref name="snookerorg"/><ref>{{cite web |title=English Open: Flowchart |url=https://www.snooker.org/res/brackets.asp?event=2181 |website=snooker.org |access-date=14 September 2025|archive-url=https://web.archive.org/web/20260421081456/https://www.snooker.org/res/brackets.asp?event=2181|archive-date=21 April 2026|url-status=live}}</ref>
+
+===Top half===
+{{32TeamBracket-Info
+|boldwinner = high
+|team-width = auto
+|paramstyle = numbered
+|RD1 = '''Last 64'''<br/>Best of 7 frames
+|RD2 = '''Last 32'''<br/>Best of 7 frames
+|RD3 = '''Last 16'''<br/>Best of 7 frames 
+|RD4 = '''Quarter-finals'''<br/>Best of 9 frames 
+|RD5 ='''Semi-finals'''<br/>Best of 11 frames 
+|3rdplace=no
+<!-- R64 -->
+<!-- match 1 -->
+||{{flagathlete|[[Neil Robertson]]|AUS}} {{tooltip|(1)|player seeding}}
+|4
+|{{flagathlete|[[Sunny Akani]]|THA}}
+|1
+<!-- match 2 -->
+||{{flagathlete|[[Jackson Page]]|WAL}} {{tooltip|(32)|player seeding}}
+|4
+|{{flagathlete|[[Zhao Hanyang]]|CHN}}
+|1
+<!-- match 3 -->
+||{{flagathlete|[[Shaun Murphy]]|ENG}} {{tooltip|(15)|player seeding}}
+|4
+|{{flagathlete|[[Zak Surety]]|ENG}}
+|0
+<!-- match 4 -->
+||{{flagathlete|[[David Gilbert (snooker player)|David Gilbert]]|ENG}} {{tooltip|(22)|player seeding}}
+|2
+|{{flagathlete|[[Fan Zhengyi]]|CHN}}
+|4
+<!-- match 5 -->
+||{{flagathlete|[[Wu Yize]]|CHN}} {{tooltip|(18)|player seeding}}
+|4
+|{{flagathlete|[[He Guoqiang (snooker player)|He Guoqiang]]|CHN}}
+|1
+<!-- match 6 -->
+||{{flagathlete|[[Chris Wakelin]]|ENG}} {{tooltip|(12)|player seeding}}
+|4
+|{{flagathlete|[[Ross Muir]]|SCO}}
+|1
+<!-- match 7 -->
+||{{flagathlete|[[Lei Peifan]]|CHN}} {{tooltip|(29)|player seeding}}
+|4
+|{{flagathlete|[[Ryan Day (snooker player)|Ryan Day]]|WAL}}
+|1
+<!-- match 8 -->
+||{{flagathlete|[[Mark Selby]]|ENG}} {{tooltip|(8)|player seeding}}
+|4
+|{{flagathlete|[[Liam Highfield]]|ENG}}
+|1
+<!-- match 9 -->
+||{{flagathlete|[[Mark Williams (snooker player)|Mark Williams]]|WAL}} {{tooltip|(5)|player seeding}}
+|4
+|{{flagathlete|[[Amir Sarkhosh]]|IRN}}
+|0
+<!-- match 10 -->
+||{{flagathlete|[[Zhou Yuelong]]|CHN}} {{tooltip|(30)|player seeding}}
+|4
+|{{flagathlete|[[Xu Si]]|CHN}}
+|1
+<!-- match 11 -->
+||{{flagathlete|[[Barry Hawkins]]|ENG}} {{tooltip|(10)|player seeding}}
+|4
+|{{flagathlete|[[Louis Heathcote]]|ENG}}
+|2
+<!-- match 12 -->
+||{{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}} {{tooltip|(17)|player seeding}}
+|4
+|{{flagathlete|[[Martin O'Donnell (snooker player)|Martin O'Donnell]]|ENG}}
+|3
+<!-- match 13 -->
+||{{flagathlete|[[Hossein Vafaei]]|IRN}} {{tooltip|(23)|player seeding}}
+|3
+|{{flagathlete|[[Luca Brecel]]|BEL}}
+|4
+<!-- match 14 -->
+||{{flagathlete|[[Si Jiahui]]|CHN}} {{tooltip|(13)|player seeding}}
+|4
+|{{flagathlete|[[Liu Hongyu (snooker player)|Liu Hongyu]]|CHN}}{{efn|name="Liu_miss"|In the match between [[Si Jiahui]] and [[Liu Hongyu (snooker player)|Liu Hongyu]], Liu lost the fifth frame on the {{cuegloss|three-foul rule|three{{nbh}}miss rule}},<ref name="snookerorg" /> so that the [[World Snooker Tour|WST]] match record shows the frame as a 22–18 points win for Liu.<ref>{{Cite web |date=15 September 2025 |title=2025 English Open: Si Jiahui v Liu Hongyu|url=https://www.wst.tv/match-centre/6ebf72d0-0201-4108-82ff-ebb3be1142f9|access-date=17 June 2026|website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260617053834/https://www.wst.tv/match-centre/6ebf72d0-0201-4108-82ff-ebb3be1142f9|archive-date=17 June 2026|url-status=live}}</ref>}}
+|2
+<!-- match 15 -->
+||{{flagathlete|[[Pang Junxu]]|CHN}} {{tooltip|(27)|player seeding}}
+|4
+|{{flagathlete|[[Daniel Wells (snooker player)|Daniel Wells]]|WAL}}
+|3
+<!-- match 16 -->
+||{{flagathlete|[[Kyren Wilson]]|ENG}} {{tooltip|(4)|player seeding}}
+|2
+|{{flagathlete|[[Robbie Williams (snooker player)|Robbie Williams]]|ENG}}
+|4
+<!-- R32 -->
+<!-- match 1 -->
+||{{flagicon|AUS}} [[Neil Robertson]] {{tooltip|(1)|player seeding}}
+|1
+|{{flagicon|WAL}} [[Jackson Page]] {{tooltip|(32)|player seeding}}
+|4
+<!-- match 2 -->
+||{{flagicon|ENG}} [[Shaun Murphy]] {{tooltip|(15)|player seeding}}
+|4
+|{{flagicon|CHN}} [[Fan Zhengyi]]
+|1
+<!-- match 3 -->
+||{{flagicon|CHN}} [[Wu Yize]] {{tooltip|(18)|player seeding}}
+|4
+|{{flagicon|ENG}} [[Chris Wakelin]] {{tooltip|(12)|player seeding}}
+|2
+<!-- match 4 -->
+||{{flagicon|CHN}} [[Lei Peifan]] {{tooltip|(29)|player seeding}}
+|0
+|{{flagicon|ENG}} [[Mark Selby]] {{tooltip|(8)|player seeding}}
+|4
+<!-- match 5 -->
+||{{flagicon|WAL}} [[Mark Williams (snooker player)|Mark Williams]] {{tooltip|(5)|player seeding}}
+|1
+|{{flagicon|CHN}} [[Zhou Yuelong]] {{tooltip|(30)|player seeding}}
+|4
+<!-- match 6 -->
+||{{flagicon|ENG}} [[Barry Hawkins]] {{tooltip|(10)|player seeding}}
+|4
+|{{flagicon|ENG}} [[Tom Ford (snooker player)|Tom Ford]] {{tooltip|(17)|player seeding}}
+|0
+<!-- match 7 -->
+||{{flagicon|BEL}} [[Luca Brecel]]
+|4
+|{{flagicon|CHN}} [[Si Jiahui]] {{tooltip|(13)|player seeding}}
+|2
+<!-- match 8 -->
+||{{flagicon|CHN}} [[Pang Junxu]] {{tooltip|(27)|player seeding}}
+|0
+|{{flagicon|ENG}} [[Robbie Williams (snooker player)|Robbie Williams]]
+|4
+<!-- R16 -->
+<!-- match 1 -->
+||{{flagicon|WAL}} [[Jackson Page]] {{tooltip|(32)|player seeding}}
+|4
+|{{flagicon|ENG}} [[Shaun Murphy]] {{tooltip|(15)|player seeding}}
+|3
+<!-- match 2 -->
+||{{flagicon|CHN}} [[Wu Yize]] {{tooltip|(18)|player seeding}}
+|2
+|{{flagicon|ENG}} [[Mark Selby]] {{tooltip|(8)|player seeding}}
+|4
+<!-- match 3 -->
+||{{flagicon|CHN}} [[Zhou Yuelong]] {{tooltip|(30)|player seeding}}
+|4
+|{{flagicon|ENG}} [[Barry Hawkins]] {{tooltip|(10)|player seeding}}
+|2
+<!-- match 4 -->
+||{{flagicon|BEL}} [[Luca Brecel]]
+|4
+|{{flagicon|ENG}} [[Robbie Williams (snooker player)|Robbie Williams]] {{tooltip|(49)|player seeding}}
+|3
+<!-- Qrts -->
+<!-- match 1 -->
+||{{flagicon|WAL}} [[Jackson Page]] {{tooltip|(32)|player seeding}}
+|4
+|{{flagicon|ENG}} [[Mark Selby]] {{tooltip|(8)|player seeding}}
+|5
+<!-- match 2 -->
+||{{flagicon|CHN}} [[Zhou Yuelong]] {{tooltip|(30)|player seeding}}
+|5
+|{{flagicon|BEL}} [[Luca Brecel]]
+|4
+<!-- Semis -->
+||{{flagicon|ENG}} [[Mark Selby]] {{tooltip|(8)|player seeding}}
+|3
+|{{flagicon|CHN}} [[Zhou Yuelong]] {{tooltip|(30)|player seeding}}
+|6
+}}
+<!-- :<small>'''Note''': w/d=withdrawn; '''w/o'''=[[walkover]]</small> -->
+
+===Bottom half===
+{{32TeamBracket-Info
+|boldwinner = high
+|team-width = auto
+|paramstyle = numbered
+|RD1 = '''Last 64'''<br/>Best of 7 frames
+|RD2 = '''Last 32'''<br/>Best of 7 frames
+|RD3 = '''Last 16'''<br/>Best of 7 frames 
+|RD4 = '''Quarter-finals'''<br/>Best of 9 frames 
+|RD5 ='''Semi-finals'''<br/>Best of 11 frames 
+|3rdplace=no
+<!-- R64 -->
+<!-- match 1 -->
+||{{flagathlete|[[Judd Trump]]|ENG}} {{tooltip|(3)|player seeding}}
+|4
+|{{flagathlete|[[Michael Holt (snooker player)|Michael Holt]]|ENG}}
+|0
+<!-- match 2 -->
+||{{flagathlete|[[Yuan Sijun]]|CHN}} {{tooltip|(28)|player seeding}}
+|4
+|{{flagathlete|[[Ben Woollaston]]|ENG}}
+|3
+<!-- match 3 -->
+||{{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} {{tooltip|(14)|player seeding}}
+|4
+|{{flagathlete|[[Sanderson Lam]]|ENG}}
+|2
+<!-- match 4 -->
+||{{flagathlete|[[Elliot Slessor]]|ENG}} {{tooltip|(21)|player seeding}}
+|4
+|{{flagathlete|[[Jimmy Robertson (snooker player)|Jimmy Robertson]]|ENG}}
+|2
+<!-- match 5 -->
+||{{flagathlete|[[Stuart Bingham]]|ENG}} {{tooltip|(19)|player seeding}}
+|4
+|{{flagathlete|[[Dylan Emery]]|WAL}}
+|0
+<!-- match 6 -->
+||{{flagathlete|[[Mark Allen (snooker player)|Mark Allen]]|NIR}} {{tooltip|(9)|player seeding}}
+|4
+|{{flagathlete|[[Scott Donaldson]]|SCO}}
+|1
+<!-- match 7 -->
+||{{flagathlete|[[Matthew Selt]]|ENG}} {{tooltip|(31)|player seeding}}
+|4
+|{{flagathlete|[[Liam Davies (snooker player)|Liam Davies]]|WAL}}
+|2
+<!-- match 8 -->
+||{{flagathlete|[[Ding Junhui]]|CHN}} {{tooltip|(6)|player seeding}}
+|4
+|{{flagathlete|[[Liam Pullen]]|ENG}}
+|1
+<!-- match 9 -->
+||{{flagathlete|[[Xiao Guodong]]|CHN}} {{tooltip|(7)|player seeding}}
+|4
+|{{flagathlete|[[Gong Chenzhi]]|CHN}}
+|0
+<!-- match 10 -->
+||{{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}} {{tooltip|(25)|player seeding}}
+|1
+|{{flagathlete|[[Ricky Walden]]|ENG}}
+|4
+<!-- match 11 -->
+||{{flagathlete|[[Zhang Anda]]|CHN}} {{tooltip|(11)|player seeding}}
+|4
+|{{flagathlete|[[Anthony McGill]]|SCO}}
+|1
+<!-- match 12 -->
+||{{flagathlete|[[Jak Jones]]|WAL}} {{tooltip|(20)|player seeding}}
+|4
+|{{flagathlete|[[Jamie Jones (snooker player)|Jamie Jones]]|WAL}}
+|3
+<!-- match 13 -->
+||{{flagathlete|[[Stephen Maguire]]|SCO}} {{tooltip|(24)|player seeding}}
+|2
+|{{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}}
+|4
+<!-- match 14 -->
+||{{flagathlete|[[Ali Carter]]|ENG}} {{tooltip|(16)|player seeding}}
+|4
+|{{flagathlete|[[Marco Fu]]|HKG}}
+|2
+<!-- match 15 -->
+||{{flagathlete|[[Jack Lisowski]]|ENG}} {{tooltip|(26)|player seeding}}
+|4
+|{{flagathlete|[[Thepchaiya Un-Nooh]]|THA}}
+|2
+<!-- match 16 -->
+||{{flagathlete|[[Zhao Xintong]]|CHN}} {{tooltip|(2)|player seeding}}
+|4
+|{{flagathlete|[[Ishpreet Singh Chadha]]|IND}}
+|0
+<!-- R32 -->
+<!-- match 1 -->
+||{{flagicon|ENG}} [[Judd Trump]] {{tooltip|(3)|player seeding}}
+|4
+|{{flagicon|CHN}} [[Yuan Sijun]] {{tooltip|(28)|player seeding}}
+|1
+<!-- match 2 -->
+||{{flagicon|ENG}} [[Gary Wilson (snooker player)|Gary Wilson]] {{tooltip|(14)|player seeding}}
+|0
+|{{flagicon|ENG}} [[Elliot Slessor]] {{tooltip|(21)|player seeding}}
+|4
+<!-- match 3 -->
+||{{flagicon|ENG}} [[Stuart Bingham]] {{tooltip|(19)|player seeding}}
+|3
+|{{flagicon|NIR}} [[Mark Allen (snooker player)|Mark Allen]] {{tooltip|(9)|player seeding}}
+|4
+<!-- match 4 -->
+||{{flagicon|ENG}} [[Matthew Selt]] {{tooltip|(31)|player seeding}}
+|1
+|{{flagicon|CHN}} [[Ding Junhui]] {{tooltip|(6)|player seeding}}
+|4
+<!-- match 5 -->
+||{{flagicon|CHN}} [[Xiao Guodong]] {{tooltip|(7)|player seeding}}
+|3
+|{{flagicon|ENG}} [[Ricky Walden]]
+|4
+<!-- match 6 -->
+||{{flagicon|CHN}} [[Zhang Anda]] {{tooltip|(11)|player seeding}}
+|1
+|{{flagicon|WAL}} [[Jak Jones]] {{tooltip|(20)|player seeding}}
+|4
+<!-- match 7 -->
+||{{flagicon|IRL}} [[Aaron Hill (snooker player)|Aaron Hill]]
+|4
+|{{flagicon|ENG}} [[Ali Carter]] {{tooltip|(16)|player seeding}}
+|3
+<!-- match 8 -->
+||{{flagicon|ENG}} [[Jack Lisowski]] {{tooltip|(26)|player seeding}}
+|4
+|{{flagicon|CHN}} [[Zhao Xintong]] {{tooltip|(2)|player seeding}}
+|1
+<!-- R16 -->
+<!-- match 1 -->
+||{{flagicon|ENG}} [[Judd Trump]] {{tooltip|(3)|player seeding}}
+|3
+|{{flagicon|ENG}} [[Elliot Slessor]] {{tooltip|(21)|player seeding}}
+|4
+<!-- match 2 -->
+||{{flagicon|NIR}} [[Mark Allen (snooker player)|Mark Allen]] {{tooltip|(9)|player seeding}}
+|4
+|{{flagicon|CHN}} [[Ding Junhui]] {{tooltip|(6)|player seeding}}
+|3
+<!-- match 3 -->
+||{{flagicon|ENG}} [[Ricky Walden]]
+|3
+|{{flagicon|WAL}} [[Jak Jones]] {{tooltip|(20)|player seeding}}
+|4
+<!-- match 4 -->
+||{{flagicon|IRL}} [[Aaron Hill (snooker player)|Aaron Hill]]
+|4
+|{{flagicon|ENG}} [[Jack Lisowski]] {{tooltip|(26)|player seeding}}
+|1
+<!-- Qrts -->
+<!-- match 1 -->
+||{{flagicon|ENG}} [[Elliot Slessor]] {{tooltip|(21)|player seeding}}
+|4
+|{{flagicon|NIR}} [[Mark Allen (snooker player)|Mark Allen]] {{tooltip|(9)|player seeding}}
+|5
+<!-- match 2 -->
+||{{flagicon|WAL}} [[Jak Jones]] {{tooltip|(20)|player seeding}}
+|5
+|{{flagicon|IRL}} [[Aaron Hill (snooker player)|Aaron Hill]]
+|2
+<!-- Semis -->
+||{{flagicon|NIR}} [[Mark Allen (snooker player)|Mark Allen]] {{tooltip|(9)|player seeding}}
+|6
+|{{flagicon|WAL}} [[Jak Jones]] {{tooltip|(20)|player seeding}}
+|5
+}}
+<!-- :<small>'''Note''': w/d=withdrawn; '''w/o'''=[[walkover]]</small> -->
+
+===Final: frame scores===
+{| class="wikitable" style="font-size: 90%; margin: 1em auto 1em auto;"
+|-
+| colspan = "3" align="center" bgcolor="#ffd700" | '''Final:''' Best of 17 frames. Referee: Kevin Dabrowski <br/>Brentwood Centre, [[Brentwood, Essex|Brentwood]], England, 21 September 2025
+|-
+| width="240" align="right" | [[Zhou Yuelong]] {{tooltip|(30)|player seeding}}<br/>{{CHN}}
+| width="100" align="center" | 8{{ndash}}'''9'''
+| width="240" | '''[[Mark Allen (snooker player)|Mark Allen]]''' {{tooltip|(9)|player seeding}}<br/>{{NIR}}
+|-
+| colspan="3" align="center" style="font-size: 100%;" | ''Afternoon:'' 0{{ndash}}'''132''' (132), '''65'''{{ndash}}2, 22{{ndash}}'''72''', 24{{ndash}}'''70''', 13{{ndash}}'''68''', 31{{ndash}}'''75''', '''81'''{{ndash}}0, 28{{ndash}}'''64'''<br/>''Evening:'' '''71'''{{ndash}}41, 14{{ndash}}'''62''', '''95'''{{ndash}}28, '''59'''{{ndash}}24, '''72'''{{ndash}}60, '''64'''{{ndash}}34, '''73'''{{ndash}}13, 59{{ndash}}'''93''', 0{{ndash}}'''70'''
+|-
+| align="right" | (''frame 7'') 81
+| align="center" | Highest break
+| '''132''' (''frame 1'')
+|-
+| align="right" | 0
+| align="center" | Century breaks
+| '''1'''
+|}
+
+==Early rounds==
+The results of the early rounds are shown below. Numbers in parentheses after the players' names denote the players' [[seeding (sports)|seeding]], an "a" indicates amateur players who were not on the main [[World Snooker Tour]], and players in bold denote match winners.<ref name="snookerorg"/>
+
+<div style=display:inline-table>
+{{2NTeam-NTeamBracket
+| boldwinner=high
+| rounds=2
+| brackets=8
+| team-width = auto
+| RD1-teams=4
+| RD2-teams=4
+| seeds = no
+| RD1 = '''Round 1 (Last 128)'''<br/>Best of 7 frames
+| RD2 = '''Round 2 (Last 96)'''<br/>Best of 7 frames
+
+<!--Round 1-->
+| RD1-team01={{flagathlete|[[Sunny Akani]]|THA}} {{tooltip|(70)|player seeding}}
+| RD1-score01=4
+| RD1-team02={{flagathlete|[[Oliver Brown (snooker player)|Oliver Brown]]|ENG}} {{tooltip|(102)|player seeding}}
+| RD1-score02=2
+
+| RD1-team03={{flagathlete|[[Zhao Hanyang]]|CHN}} {{tooltip|(95)|player seeding}}
+| RD1-score03=4
+| RD1-team04={{flagathlete|[[Connor Benzey]]|ENG}} {{tooltip|(112)|player seeding}}
+| RD1-score04=2
+
+| RD1-team05={{flagathlete|[[Haris Tahir]]|PAK}} {{tooltip|(79)|player seeding}}
+| RD1-score05=4
+| RD1-team06={{flagathlete|[[Michał Szubarczyk]]|POL}} {{tooltip|(100)|player seeding}}
+| RD1-score06=0
+
+| RD1-team07={{flagathlete|[[Julien Leclercq (snooker player)|Julien Leclercq]]|BEL}} {{tooltip|(76)|player seeding}}
+| RD1-score07=4
+| RD1-team08={{flagathlete|Aidan Murphy|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score08=0
+
+| RD1-team09={{flagathlete|[[Farakh Ajaib]]|PAK}} {{tooltip|(75)|player seeding}}
+| RD1-score09=4
+| RD1-team10={{flagathlete|[[Kreishh Gurbaxani]]|IND}} {{tooltip|(104)|player seeding}}
+| RD1-score10=1
+
+| RD1-team11={{flagathlete|[[Chris Totten]]|SCO}} {{tooltip|(85)|player seeding}}
+| RD1-score11=1
+| RD1-team12={{flagathlete|[[Ross Muir]]|SCO}} {{tooltip|(105)|player seeding}}
+| RD1-score12=4
+
+| RD1-team13={{flagathlete|[[Antoni Kowalski]]|POL}} {{tooltip|(67)|player seeding}}
+| RD1-score13=1
+| RD1-team14={{flagathlete|[[Liam Graham (snooker player)|Liam Graham]]|SCO}} {{tooltip|(106)|player seeding}}
+| RD1-score14=4
+
+| RD1-team15={{flagathlete|[[Liam Highfield]]|ENG}} {{tooltip|(94)|player seeding}}
+| RD1-score15=4
+| RD1-team16={{flagathlete|[[Ng On-yee]]|HKG}} {{tooltip|(108)|player seeding}}
+| RD1-score16=2
+
+| RD1-team17={{flagathlete|[[Amir Sarkhosh]]|IRN}} {{tooltip|(72)|player seeding}}
+| RD1-score17=4
+| RD1-team18={{flagathlete|[[Sahil Nayyar]]|CAN}} {{tooltip|(114)|player seeding}}
+| RD1-score18=2
+
+| RD1-team19={{flagathlete|[[David Grace (snooker player)|David Grace]]|ENG}} {{tooltip|(91)|player seeding}}
+| RD1-score19=4
+| RD1-team20={{flagathlete|[[Jonas Luz]]|BRA}} {{tooltip|(98)|player seeding}}
+| RD1-score20=0
+
+| RD1-team21={{flagathlete|[[Louis Heathcote]]|ENG}} {{tooltip|(86)|player seeding}}
+| RD1-score21=4
+| RD1-team22={{flagathlete|[[Mahmoud El Hareedy]]|EGY}} {{tooltip|(122)|player seeding}}
+| RD1-score22=1
+
+| RD1-team23={{flagathlete|[[Duane Jones (snooker player)|Duane Jones]]|WAL}} {{tooltip|(66)|player seeding}}
+| RD1-score23=4
+| RD1-team24={{flagathlete|Patrick Whelan|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score24=1
+
+| RD1-team25={{flagathlete|[[Cheung Ka Wai]]|HKG}} {{tooltip|(80)|player seeding}}
+| RD1-score25=3
+| RD1-team26={{flagathlete|[[Jimmy White]]|ENG}} {{tooltip|(109)|player seeding}}
+| RD1-score26=4
+
+| RD1-team27={{flagathlete|[[Sam Craigie]]|ENG}} {{tooltip|(88)|player seeding}}
+| RD1-score27=4
+| RD1-team28={{flagathlete|[[Chatchapong Nasa]]|THA}} {{tooltip|(101)|player seeding}}
+| RD1-score28=0
+
+| RD1-team29={{flagathlete|[[Reanne Evans]]|ENG}} {{tooltip|(89)|player seeding}}
+| RD1-score29=2
+| RD1-team30={{flagathlete|[[Jiang Jun]]|CHN}} {{tooltip|(118)|player seeding}}
+| RD1-score30=4
+
+| RD1-team31={{flagathlete|[[Huang Jiahao]]|CHN}} {{tooltip|(82)|player seeding}}
+| RD1-score31=4
+| RD1-team32={{flagathlete|[[Oliver Sykes (snooker player)|Oliver Sykes]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score32=0
+
+<!--Round 2-->
+| RD2-team01={{flagathlete|[[David Lilley (snooker player)|David Lilley]]|ENG}} {{tooltip|(58)|player seeding}}
+| RD2-score01=3
+| RD2-team02={{flagathlete|[[Sunny Akani]]|THA}} {{tooltip|(70)|player seeding}}
+| RD2-score02=4
+
+| RD2-team03={{flagathlete|[[Noppon Saengkham]]|THA}} {{tooltip|(33)|player seeding}}
+| RD2-score03=2
+| RD2-team04={{flagathlete|[[Zhao Hanyang]]|CHN}} {{tooltip|(95)|player seeding}}
+| RD2-score04=4
+
+| RD2-team05={{flagathlete|[[Zak Surety]]|ENG}} {{tooltip|(60)|player seeding}}
+| RD2-score05=4
+| RD2-team06={{flagathlete|[[Haris Tahir]]|PAK}} {{tooltip|(79)|player seeding}}
+| RD2-score06=3
+
+| RD2-team07={{flagathlete|[[Fan Zhengyi]]|CHN}} {{tooltip|(48)|player seeding}}
+| RD2-score07=4
+| RD2-team08={{flagathlete|[[Julien Leclercq (snooker player)|Julien Leclercq]]|BEL}} {{tooltip|(76)|player seeding}}
+| RD2-score08=2
+
+| RD2-team09={{flagathlete|[[He Guoqiang (snooker player)|He Guoqiang]]|CHN}} {{tooltip|(45)|player seeding}}
+| RD2-score09=4
+| RD2-team10={{flagathlete|[[Farakh Ajaib]]|PAK}} {{tooltip|(75)|player seeding}}
+| RD2-score10=3
+
+| RD2-team11={{flagathlete|[[Robert Milkins]]|ENG}} {{tooltip|(51)|player seeding}}
+| RD2-score11=1
+| RD2-team12={{flagathlete|[[Ross Muir]]|SCO}} {{tooltip|(105)|player seeding}}
+| RD2-score12=4
+
+| RD2-team13={{flagathlete|[[Ryan Day (snooker player)|Ryan Day]]|WAL}} {{tooltip|(34)|player seeding}}
+| RD2-score13=4
+| RD2-team14={{flagathlete|[[Liam Graham (snooker player)|Liam Graham]]|SCO}} {{tooltip|(106)|player seeding}}
+| RD2-score14=0
+
+| RD2-team15={{flagathlete|[[Oliver Lines]]|ENG}} {{tooltip|(63)|player seeding}}
+| RD2-score15=3
+| RD2-team16={{flagathlete|[[Liam Highfield]]|ENG}} {{tooltip|(94)|player seeding}}
+| RD2-score16=4
+
+| RD2-team17={{flagathlete|[[Long Zehuang]]|CHN}} {{tooltip|(53)|player seeding}}
+| RD2-score17=2
+| RD2-team18={{flagathlete|[[Amir Sarkhosh]]|IRN}} {{tooltip|(72)|player seeding}}
+| RD2-score18=4
+
+| RD2-team19={{flagathlete|[[Xu Si]]|CHN}} {{tooltip|(38)|player seeding}}
+| RD2-score19=4
+| RD2-team20={{flagathlete|[[David Grace (snooker player)|David Grace]]|ENG}} {{tooltip|(91)|player seeding}}
+| RD2-score20=2
+
+| RD2-team21={{flagathlete|[[Jordan Brown (snooker player)|Jordan Brown]]|NIR}} {{tooltip|(50)|player seeding}}
+| RD2-score21=3
+| RD2-team22={{flagathlete|[[Louis Heathcote]]|ENG}} {{tooltip|(86)|player seeding}}
+| RD2-score22=4
+
+| RD2-team23={{flagathlete|[[Martin O'Donnell (snooker player)|Martin O'Donnell]]|ENG}} {{tooltip|(41)|player seeding}}
+| RD2-score23=4
+| RD2-team24={{flagathlete|[[Duane Jones (snooker player)|Duane Jones]]|WAL}} {{tooltip|(66)|player seeding}}
+| RD2-score24=0
+
+| RD2-team25={{flagathlete|[[Luca Brecel]]|BEL}} {{tooltip|(39)|player seeding}}
+| RD2-score25=4
+| RD2-team26={{flagathlete|[[Jimmy White]]|ENG}} {{tooltip|(109)|player seeding}}
+| RD2-score26=1
+
+| RD2-team27={{flagathlete|[[Liu Hongyu (snooker player)|Liu Hongyu]]|CHN}} {{tooltip|(54)|player seeding}}
+| RD2-score27=4
+| RD2-team28={{flagathlete|[[Sam Craigie]]|ENG}} {{tooltip|(88)|player seeding}}
+| RD2-score28=0
+
+| RD2-team29={{flagathlete|[[Daniel Wells (snooker player)|Daniel Wells]]|WAL}} {{tooltip|(44)|player seeding}}
+| RD2-score29=4
+| RD2-team30={{flagathlete|[[Jiang Jun]]|CHN}} {{tooltip|(118)|player seeding}}
+| RD2-score30=2
+
+| RD2-team31={{flagathlete|[[Robbie Williams (snooker player)|Robbie Williams]]|ENG}} {{tooltip|(49)|player seeding}}
+| RD2-score31=4
+| RD2-team32={{flagathlete|[[Huang Jiahao]]|CHN}} {{tooltip|(82)|player seeding}}
+| RD2-score32=1
+}}
+</div>
+<div style=display:inline-table>
+{{2NTeam-NTeamBracket
+| boldwinner=high
+| rounds=2
+| brackets=8
+| team-width = auto
+| RD1-teams=4
+| RD2-teams=4
+| seeds = no
+| RD1 = '''Round 1 (Last 128)'''<br/>Best of 7 frames
+| RD2 = '''Round 2 (Last 96)'''<br/>Best of 7 frames
+
+<!--Round 1-->
+| RD1-team01={{flagathlete|[[Robbie McGuigan]]|NIR}} {{tooltip|(81)|player seeding}}
+| RD1-score01=2
+| RD1-team02={{flagathlete|[[Mink Nutcharut]]|THA}} {{tooltip|(103)|player seeding}}
+| RD1-score02=4
+
+| RD1-team03={{flagathlete|[[Bulcsú Révész]]|HUN}} {{tooltip|(78)|player seeding}}
+| RD1-score03=3
+| RD1-team04={{flagathlete|[[Alexander Ursenbacher]]|SUI}} {{tooltip|(110)|player seeding}}
+| RD1-score04=4
+
+| RD1-team05={{flagathlete|[[Mitchell Mann]]|ENG}} {{tooltip|(87)|player seeding}}
+| RD1-score05=4
+| RD1-team06={{flagathlete|[[Ian Burns (snooker player)|Ian Burns]]|ENG}} {{tooltip|(117)|player seeding}}
+| RD1-score06=3
+
+| RD1-team07={{flagathlete|[[Wang Yuchen (snooker player)|Wang Yuchen]]|HKG}} {{tooltip|(68)|player seeding}}
+| RD1-score07=4
+| RD1-team08={{flagathlete|[[Florian Nüßle]]|AUT}} {{tooltip|(119)|player seeding}}
+| RD1-score08=3
+
+| RD1-team09={{flagathlete|[[Dylan Emery]]|WAL}} {{tooltip|(90)|player seeding}}
+| RD1-score09=4
+| RD1-team10={{flagathlete|[[Fergal Quinn (snooker player)|Fergal Quinn]]|NIR}} {{tooltip|(111)|player seeding}}
+| RD1-score10=0
+
+| RD1-team11={{flagathlete|[[Allan Taylor (snooker player)|Allan Taylor]]|ENG}} {{tooltip|(69)|player seeding}}
+| RD1-score11=4
+| RD1-team12={{flagathlete|Umut Dikme|GER}} {{tooltip|(a)|amateur player}}
+| RD1-score12=3
+
+| RD1-team13={{flagathlete|[[Liam Davies (snooker player)|Liam Davies]]|WAL}} {{tooltip|(74)|player seeding}}
+| RD1-score13=4
+| RD1-team14={{flagathlete|[[Hatem Yassen]]|EGY}} {{tooltip|(99)|player seeding}}
+| RD1-score14=1
+
+| RD1-team15={{flagathlete|[[Lan Yuhao]]|CHN}} {{tooltip|(92)|player seeding}}
+| RD1-score15=1
+| RD1-team16={{flagathlete|[[Liam Pullen]]|ENG}} {{tooltip|(107)|player seeding}}
+| RD1-score16=4
+
+| RD1-team17={{flagathlete|[[Chang Bingyu]]|CHN}} {{tooltip|(73)|player seeding}}
+| RD1-score17=4
+| RD1-team18={{flagathlete|[[Leone Crowley]]|IRL}} {{tooltip|(113)|player seeding}}
+| RD1-score18=0
+
+| RD1-team19={{flagathlete|[[Bai Yulu]]|CHN}} {{tooltip|(93)|player ranking}}
+| RD1-score19=4
+| RD1-team20={{flagathlete|[[Liu Wenwei]]|CHN}} {{tooltip|(116)|player seeding}}
+| RD1-score20=3
+
+| RD1-team21={{flagathlete|[[Steven Hallworth]]|ENG}} {{tooltip|(83)|player seeding}}
+| RD1-score21=3
+| RD1-team22={{flagathlete|[[Mateusz Baranowski]]|POL}} {{tooltip|(120)|player seeding}}
+| RD1-score22=4
+
+| RD1-team23={{flagathlete|[[Iulian Boiko]]|UKR}} {{tooltip|(84)|player seeding}}
+| RD1-score23=4
+| RD1-team24={{flagathlete|[[Xu Yichen]]|CHN}} {{tooltip|(121)|player seeding}}
+| RD1-score24=0
+
+| RD1-team25={{flagathlete|[[Artemijs Žižins]]|LAT}} {{tooltip|(71)|player seeding}}
+| RD1-score25=3
+| RD1-team26={{flagathlete|[[Yao Pengcheng]]|CHN}} {{tooltip|(115)|player seeding}}
+| RD1-score26=4
+
+| RD1-team27={{flagathlete|[[Marco Fu]]|HKG}} {{tooltip|(96)|player seeding}}
+| RD1-score27=4
+| RD1-team28={{flagathlete|[[Gao Yang (snooker player)|Gao Yang]]|CHN}} {{tooltip|(97)|player seeding}}
+| RD1-score28=0
+
+| RD1-team29={{flagathlete|[[Haydon Pinhey]]|ENG}} {{tooltip|(77)|player seeding}}
+| RD1-score29=4
+| RD1-team30={{flagathlete|Ryan Davies|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score30=1
+
+| RD1-team31={{flagathlete|[[Ben Mertens]]|BEL}} {{tooltip|(65)|player seeding}}
+| RD1-score31=4
+| RD1-team32={{flagathlete|[[Ashley Hugill]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score32=0
+
+<!--Round 2-->
+| RD2-team01={{flagathlete|[[Michael Holt (snooker player)|Michael Holt]]|ENG}} {{tooltip|(62)|player seeding}}
+| RD2-score01=4
+| RD2-team02={{flagathlete|[[Mink Nutcharut]]|THA}} {{tooltip|(103)|player seeding}}
+| RD2-score02=0
+
+| RD2-team03={{flagathlete|[[Ben Woollaston]]|ENG}} {{tooltip|(36)|player seeding}}
+| RD2-score03=4
+| RD2-team04={{flagathlete|[[Alexander Ursenbacher]]|SUI}} {{tooltip|(110)|player seeding}}
+| RD2-score04=2
+
+| RD2-team05={{flagathlete|[[Sanderson Lam]]|ENG}} {{tooltip|(59)|player seeding}}
+| RD2-score05=4
+| RD2-team06={{flagathlete|[[Mitchell Mann]]|ENG}} {{tooltip|(87)|player seeding}}
+| RD2-score06=3
+
+| RD2-team07={{flagathlete|[[Jimmy Robertson (snooker player)|Jimmy Robertson]]|ENG}} {{tooltip|(35)|player seeding}}
+| RD2-score07=4
+| RD2-team08={{flagathlete|[[Wang Yuchen (snooker player)|Wang Yuchen]]|HKG}} {{tooltip|(68)|player seeding}}
+| RD2-score08=3
+
+| RD2-team09={{flagathlete|[[Matthew Stevens]]|WAL}} {{tooltip|(47)|player seeding}}
+| RD2-score09=3
+| RD2-team10={{flagathlete|[[Dylan Emery]]|WAL}} {{tooltip|(90)|player seeding}}
+| RD2-score10=4
+
+| RD2-team11={{flagathlete|[[Scott Donaldson]]|SCO}} {{tooltip|(52)|player seeding}}
+| RD2-score11=4
+| RD2-team12={{flagathlete|[[Allan Taylor (snooker player)|Allan Taylor]]|ENG}} {{tooltip|(69)|player seeding}}
+| RD2-score12=3
+
+| RD2-team13={{flagathlete|[[Lyu Haotian]]|CHN}} {{tooltip|(37)|player seeding}}
+| RD2-score13=2
+| RD2-team14={{flagathlete|[[Liam Davies (snooker player)|Liam Davies]]|WAL}} {{tooltip|(74)|player seeding}}
+| RD2-score14=4
+
+| RD2-team15={{flagathlete|[[Stan Moody]]|ENG}} {{tooltip|(55)|player seeding}}
+| RD2-score15=1
+| RD2-team16={{flagathlete|[[Liam Pullen]]|ENG}} {{tooltip|(107)|player seeding}}
+| RD2-score16=4
+
+| RD2-team17={{flagathlete|[[Gong Chenzhi]]|CHN}} {{tooltip|(64)|player seeding}}
+| RD2-score17=4
+| RD2-team18={{flagathlete|[[Chang Bingyu]]|CHN}} {{tooltip|(73)|player seeding}}
+| RD2-score18=2
+
+| RD2-team19={{flagathlete|[[Ricky Walden]]|ENG}} {{tooltip|(40)|player seeding}}
+| RD2-score19=4
+| RD2-team20={{flagathlete|[[Bai Yulu]]|CHN}} {{tooltip|(93)|player ranking}}
+| RD2-score20=1
+
+| RD2-team21={{flagathlete|[[Anthony McGill]]|SCO}} {{tooltip|(56)|player seeding}}
+| RD2-score21=4
+| RD2-team22={{flagathlete|[[Mateusz Baranowski]]|POL}} {{tooltip|(120)|player seeding}}
+| RD2-score22=1
+
+| RD2-team23={{flagathlete|[[Jamie Jones (snooker player)|Jamie Jones]]|WAL}} {{tooltip|(46)|player seeding}}
+| RD2-score23=4
+| RD2-team24={{flagathlete|[[Iulian Boiko]]|UKR}} {{tooltip|(84)|player seeding}}
+| RD2-score24=3
+
+| RD2-team25={{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} {{tooltip|(43)|player seeding}}
+| RD2-score25=4
+| RD2-team26={{flagathlete|[[Yao Pengcheng]]|CHN}} {{tooltip|(115)|player seeding}}
+| RD2-score26=2
+
+| RD2-team27={{flagathlete|[[Mark Davis (snooker player)|Mark Davis]]|ENG}} {{tooltip|(57)|player seeding}}
+| RD2-score27=0
+| RD2-team28={{flagathlete|[[Marco Fu]]|HKG}} {{tooltip|(96)|player seeding}}
+| RD2-score28=4
+
+| RD2-team29={{flagathlete|[[Thepchaiya Un-Nooh]]|THA}} {{tooltip|(42)|player seeding}}
+| RD2-score29=4
+| RD2-team30={{flagathlete|[[Haydon Pinhey]]|ENG}} {{tooltip|(77)|player seeding}}
+| RD2-score30=1
+
+| RD2-team31={{flagathlete|[[Ishpreet Singh Chadha]]|IND}} {{tooltip|(61)|player seeding}}
+| RD2-score31=4
+| RD2-team32={{flagathlete|[[Ben Mertens]]|BEL}} {{tooltip|(65)|player seeding}}
+| RD2-score32=1
+}}
+</div>
+<!-- :<small>'''Note''': w/d=withdrawn; '''w/o'''=[[walkover]]</small> -->
+
+==Century breaks==
+A total of 82 [[century break]]s were made in the tournament.<ref name="SI_cent">{{cite web |title=Centuries: English Open - 47 |url=https://snookerinfo.co.uk/2025-26/#english-open-47 |website=snookerinfo.co.uk |access-date=20 September 2025 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#english-open-47 |url-status=live }}</ref><ref>{{cite web |title=Centuries: English Open Qualifiers – 35 |url=https://snookerinfo.co.uk/2025-26/#english-open-qualifiers-35 |website=snookerinfo.co.uk |access-date=20 September 2025 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#english-open-qualifiers-35 |url-status=live }}</ref>
+{{div col}}
+* [[Maximum break|147]], 123 {{ndash}} [[Aaron Hill (snooker player)|Aaron Hill]]<ref name="Max 226" />
+* [[Maximum break|147]], 118 {{ndash}} [[Ali Carter]]<ref name="Max 227" />
+* 143 {{ndash}} [[Thepchaiya Un-Nooh]]
+* 140, 135, 133, 125, 102 {{ndash}} [[Shaun Murphy]]
+* 137 {{ndash}} [[Ng On-yee]]
+* 136, 113 {{ndash}} [[Zhou Yuelong]]
+* 136, 105, 102 {{ndash}} [[Neil Robertson]]
+* 136, 100 {{ndash}} [[Haydon Pinhey]]
+* 135, 111 {{ndash}} [[Scott Donaldson]]
+* 135 {{ndash}} [[Barry Hawkins]]
+* 135 {{ndash}} [[Duane Jones (snooker player)|Duane Jones]]
+* 134, 133, 133 {{ndash}} [[Chang Bingyu]]
+* 134, 110, 105 {{ndash}} [[Zhao Xintong]]
+* 133, 105 {{ndash}} [[Xiao Guodong]]
+* 132, 118, 102 {{ndash}} [[Mark Allen (snooker player)|Mark Allen]]
+* 131, 119, 111, 103, 101 {{ndash}} [[Mark Selby]]
+* 131 {{ndash}} [[Mateusz Baranowski]]
+* 130, 113 {{ndash}} [[Ding Junhui]]
+* 130, 109 {{ndash}} [[Dylan Emery]]
+* 130, 107, 101 {{ndash}} [[Judd Trump]]
+* 129 {{ndash}} [[Anthony McGill]]
+* 128, 103 {{ndash}} [[Florian Nüßle]]
+* 128 {{ndash}} [[Jack Lisowski]]
+* 127, 100 {{ndash}} [[Haris Tahir]]
+* 127 {{ndash}} [[Louis Heathcote]]
+* 125, 101 {{ndash}} [[Huang Jiahao]]
+* 118, 103 {{ndash}} [[Fan Zhengyi]]
+* 117 {{ndash}} [[David Grace (snooker player)|David Grace]]
+* 117 {{ndash}} [[Yuan Sijun]]
+* 116, 106 {{ndash}} [[Michael Holt (snooker player)|Michael Holt]]
+* 116, 103 {{ndash}} [[Stuart Bingham]]
+* 115, 104 {{ndash}} [[Julien Leclercq (snooker player)|Julien Leclercq]]
+* 115 {{ndash}} [[Liam Highfield]]
+* 114 {{ndash}} [[Ross Muir]]
+* 112 {{ndash}} [[Wu Yize]]
+* 111, 100 {{ndash}} [[Jak Jones]]
+* 110, 110, 104 {{ndash}} [[Marco Fu]]
+* 108 {{ndash}} [[Kyren Wilson]]
+* 107 {{ndash}} [[Sunny Akani]]
+* 106 {{ndash}} [[Chris Wakelin]]
+* 105 {{ndash}} [[Tom Ford (snooker player)|Tom Ford]]
+* 104 {{ndash}} [[Farakh Ajaib]]
+* 104 {{ndash}} [[Elliot Slessor]]
+* 102 {{ndash}} [[Mark Williams (snooker player)|Mark Williams]]
+* 101 {{ndash}} [[Sanderson Lam]]
+* 100 {{ndash}} [[Jiang Jun]]
+{{div col end}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{English Open (snooker)}}
+{{Home Nations Series}}
+{{2025–26 snooker season}}
+
+[[Category:English Open (snooker)|2025]]
+[[Category:Sport in Brentwood, Essex]]
+[[Category:2025 in snooker]]
+[[Category:September 2025 sports events in the United Kingdom|English Open (snooker)]]
+[[Category:2025 in English sport]]
+[[Category:2020s in Essex]]

@@ -1,0 +1,65 @@
+{{short description|Snooker tournament}}
+{{Use dmy dates|date=July 2026}}
+{{Infobox individual snooker tournament
+|tournament_name=2026 TAOM [[Snooker Shoot Out|Shoot Out]]
+|logo=
+|dates={{Start and end dates|2026|12|9|2026|12|12|df=y}}
+|venue=[[Tower Circus]]
+|location=[[Blackpool]]
+|country=England
+|organisation=[[World Snooker Tour]]
+|format=[[List of snooker ranking tournaments|Ranking event]]
+|Total prize fund=£213,000
+|winners_share=£50,000
+|highest_break=
+|winner=
+|runner_up=
+|defending_champion={{flagathlete|[[Alfie Burden]]|ENG}}
+|score=
+|previous=[[2025 Snooker Shoot Out|2025]]
+|next=<!--''[[2027 Snooker Shoot Out|2027]]''-->
+}}
+
+The '''2026 Snooker Shoot Out''' (officially the '''2026 TAOM Shoot Out''')<ref>{{Cite web |last= |first= |date=2026-07-30 |title=TAOM Extends WST Partnership And Becomes Shoot Out Title Partner |url=https://www.wst.tv//news/2026/july/30/taom/ |access-date=2026-08-09 |website=World Snooker Tour |language=en}}</ref> is an upcoming professional [[snooker]] tournament that will take place from 9 to 12 December 2026 at the [[Tower Circus]] in [[Blackpool]], England.<ref>{{Cite web |last= |first= |title=Shoot Out |url=https://www.wst.tv//betvictorshootout |access-date=2025-07-15 |website=World Snooker Tour |language=en}}</ref> The 17th consecutive edition of the tournament since it was revived in [[2011 Snooker Shoot-Out|2011]], it is the 10th [[Snooker world rankings|ranking event]] of the [[2026–27 snooker season|2026{{nbnd}}27 season]], following the [[2026 UK Championship]] and preceding the [[2026 Scottish Open (snooker)|2026 Scottish Open]].
+
+The tournament is played under a variation of the standard [[rules of snooker]], with each match contested over a single {{cuegloss|frame}}, lasting a maximum of 10 minutes. [[Alfie Burden]] is the defending champion, having defeated [[Stuart Bingham]] 63–8 in the 2025 final.
+
+== Overview ==
+The tournament is the eighteenth edition of the [[Snooker Shoot Out]], first held as a non{{nbh}}ranking event in [[1990 Shoot-Out|1990]] before being revived in [[2011 Snooker Shoot-Out|2011]] and since then having been held annually. It was promoted to a ranking event starting with the [[2017 Snooker Shoot Out|2017]] edition.
+
+=== Format ===
+The tournament will be played using a variation of the traditional [[Rules of snooker|snooker rules]], and the draw for each round will be randomised before. All matches are played over a single {{cuegloss|frame}}, each of which lasts up to 10 minutes. The event features a variable [[shot clock]]; players are allowed 15 seconds per shot during the first five minutes and 10 seconds per shot during the final five minutes. The player with the most points after the time runs out or after all balls have been pocketed (or after a foul on the final {{cuegloss|black ball|black}}) will win the match. All {{cuegloss|foul|foul shots}} results in the opponent receiving a {{cuegloss|ball in hand}}. Unlike traditional snooker, a foul is called if a ball did not either hit a {{cuegloss|cushion}} or enter a pocket on every shot. Rather than a [[coin toss]], a {{cuegloss|lag}} is used to determine which player {{cuegloss|break off|broke off}}. In the event of a draw, the frame is decided by a "{{cuegloss|blue ball}} shootout". With the cue ball placed inside {{Cuegloss|"D", the |the "D"}} and the blue ball on its spot, the players will alternate shots until one player has potted the blue more times than their opponent from an equal number of attempts.<ref>{{Cite web |title=Rules of the Game {{!}} WPBSA {{!}} Snooker and English Billiards |url=https://wpbsa.com/rules/ |access-date=2025-07-15 |website=WPBSA |language=en-GB}}</ref>
+
+=== Amateur nominations ===
+The [[World Professional Billiards and Snooker Association]] will be nominating several amateur players to participate in the tournament, alongside other amateurs and professionals.
+
+=== Prize fund ===
+The prize fund for the tournament is shown below. While the winners' cheque is still £50,000, the overall prize fund in the tournament has increased £42,000 from previous years:<ref>{{Cite web |date=14 August 2026 |title=TAOM Shoot Out Prize Money Increase |url=https://www.wst.tv/news/2026/august/14/taom-shoot-out-prize-money-increase/ |access-date=15 August 2026 |website=World Snooker Tour |language=en}}</ref>
+{{div col}}
+* Winner: £50,000
+* Runner-up: £22,000
+* Semi-final: £12,000
+* Quarter-final: £6,000
+* Last 16: £3,000
+* Last 32: £1,500
+* Last 64: £750
+* Last 128: £250 <small>(Players losing in the first round do not gain any ranking points)</small>
+* Highest break: £5,000
+{{div col end}}
+* Total: £213,000
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://www.wst.tv/betvictorshootout/ World Snooker Tour – Home]
+
+{{Snooker Shoot Out}}
+{{2026–27 snooker season}}
+
+{{DEFAULTSORT:Snooker Shoot Out, 2026, 12}}
+[[Category:Snooker Shoot Out|2026]]
+[[Category:2026 in snooker]]
+[[Category:2026 in English sport]]
+[[Category:Sport in Blackpool|2026]]
+[[Category:December 2026 sports events in the United Kingdom|Snooker Shoot Out]]

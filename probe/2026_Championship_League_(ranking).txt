@@ -1,0 +1,1855 @@
+{{Short description|Snooker tournament, held June and July 2026}}
+{{Use dmy dates|date=May 2026}}
+{{Use British English|date=May 2026}}
+{{Infobox individual snooker tournament
+|tournament_name=2026 [[BetVictor]]<br/>[[Championship League]]
+|logo=[[File:2026 Championship League (ranking) logo.png|300px]]
+|dates={{Start and end dates|2026|06|22|2026|07|15|df=y}}
+|venue=[[Leicester Arena]]
+|location=[[Leicester]]
+|country=England
+|organisation=[[Matchroom Sport]]
+|format=[[List of snooker ranking tournaments|Ranking event]]
+|Total prize fund=£328,000
+|winners_share=£33,000
+|defending_champion=
+|highest_break={{flagathlete|[[Si Jiahui]]|CHN}} ([[Maximum break|147]])
+|winner={{flagathlete|[[Jak Jones]]|WAL}}
+|runner_up={{flagathlete|[[David Gilbert (snooker player)|David Gilbert]]|ENG}}
+|score=3–2
+|previous=[[2025 Championship League (ranking)|2025 (ranking)]]<br/>← [[2026 Championship League (invitational)|2026 (invitational)]]
+|next=[[2027 Championship League (ranking)|2027 (ranking)]] → <br/> [[2027 Championship League (invitational)|2027 (invitational)]]
+}}
+
+The '''2026 Championship League''' (officially the '''2026 BetVictor Championship League Snooker''') was a professional ranking [[snooker]] tournament that took place from 22{{nbsp}}June to 15{{nbsp}}July 2026 at the [[Leicester Arena]] in [[Leicester]], England.<ref>{{cite web |title=Calendar 2026/2027 |url=https://www.snooker.org/res/index.asp?template=2&season=2026 |access-date=14 May 2026 |website=www.snooker.org}}</ref> It was the seventh staging of the ranking edition of the tournament, which was first held in [[2020 Championship League (ranking)|2020]]. Organised by [[Matchroom Sport]], it was the first [[List of snooker ranking tournaments|ranking event]] of the [[2026–27 snooker season]], preceding the [[2026 China Open (snooker)|2026 China Open]]. The winner received £33,000 from a total prize fund of £328,000.
+
+[[Stephen Maguire]] was the defending champion, having defeated [[Joe O'Connor (snooker player)|Joe O'Connor]] 3–1 in the final of the [[2025 Championship League (ranking)|previous ranking edition]],<ref>{{cite web |date=23 July 2025 |title=Snooker: Stephen Maguire wins 2025 Championship League |url=https://www.bbc.com/sport/snooker/articles/c5yl13pz0xgo |access-date=24 July 2025 |website=[[BBC Sport]]}}</ref> but he was eliminated in Stage two [[#Group C|Group C]].
+
+[[Jak Jones]] won the tournament, defeating [[David Gilbert (snooker player)|David Gilbert]] 3–2 in the final.<ref>{{cite web |title=Jak Jones claims first career ranking title at 2026 BetVictor Championship League |url=https://championshipleaguesnooker.co.uk/jak-jones-claims-first-career-ranking-title-at-2026-betvictor-championship-league/ |website=championshipleaguesnooker.co.uk |date=16 July 2026 |access-date=16 July 2026}}</ref>
+
+There were 53 [[century break]]s made during Stage one, including a [[Maximum break|maximum]] by [[Si Jiahui]] in [[#Group 6|Group 6]]. There were 21 centuries made during Stage two, and 10 during Stage three.
+
+== Format ==
+The competition began with 32 rounds of group matches with each group consisting of four players. Two groups were played to a finish every day using a two{{nbh}}[[Billiard table|table]] setup in the arena. The groups were contested using a [[Round-robin tournament|round{{nbh}}robin]] format, with six matches played in each group. All matches in group play were played as best{{nbh}}of{{nbh}}four {{cuegloss|frame|frames}}, with three points awarded for a win and one point for a draw. Group positions were determined by points scored, frame difference and then head{{nbh}}to{{nbh}}head results between players who were tied. Places that were still tied were then determined by the highest {{cuegloss|break}} made in the group. If the highest break was also tied, the next highest break made by the players was used.<ref name="CLS_ranking">{{cite web |title=Championship League Snooker |url=https://championshipleaguesnooker.co.uk/ranking/ |access-date=14 May 2026 |work=championshipleaguesnooker.co.uk}}</ref><ref>{{cite web |date=11 June 2024 |title=BetVictor Championship League explainer |url=https://www.wst.tv/news/2024/june/11/betvictor-championship-league-explainer/ |url-status=live |archive-url=https://web.archive.org/web/20240611204205/https://www.wst.tv/news/2024/june/11/betvictor-championship-league-explainer/ |archive-date=11 June 2024 |access-date=11 June 2024 |work=[[World Snooker Tour]]}}</ref>
+
+The 32 players that topped the group tables qualified for the group winners' stage, consisting of eight groups of four players. The eight winners from the group winners' stage qualified for the two final groups, with the final taking place later on the same day.<ref name="CLS_ranking" /> The winner received the Championship League title and a place in the [[2026 Champion of Champions]].<ref name="CLS_info">{{cite web |title=BetVictor Championship League Snooker ranking event 2026 returns this summer, 22 June – 15 July |url=https://championshipleaguesnooker.co.uk/betvictor-championship-league-snooker-ranking-event-2026-returns-this-summer-22-june-15-july/ |date=10 June 2026 |access-date=12 June 2026 |work=championshipleaguesnooker.co.uk}}</ref><ref>{{cite web |title=BetVictor Championship League 2026 draw |url=https://www.wst.tv/news/2026/june/15/betvictor-championship-league-2026-draw/ |date=15 June 2026 |access-date=16 June 2026 |website=[[World Snooker Tour]]}}</ref>
+
+=== Broadcasters ===
+The event was broadcast by AMC Network in Hungary; BG Pathum in Thailand; [[Canal+ (Polish TV provider)|Canal+]] in Poland; [[Fox Sports (Australia)|Fox Sports]] in Australia; Eurasian Broadcasting in Ukraine and the Commonwealth of Independent States; [[Nova Sport (Czech Republic and Slovakia)|Nova]] in Czechia and Slovakia; Rigour in mainland China; [[Sky (New Zealand)|Sky Network]] in New Zealand; Sportscast in Taipei; TV3 in the Baltics; [[Viaplay TV|Viaplay]] in Iceland and the Netherlands; [[Viasat (Nordic television service)|Viasat]] in Scandinavia; and by the [[Matchroom Sport|Matchroom]] [[YouTube]] channels in all other territories.<ref name="CLS_info" />
+
+=== Prize fund ===
+The breakdown of prize money for the tournament is shown below.<ref name="CLS_ranking" />
+
+{{col-begin|width=100%}}
+{{col-break|width=25%}}
+* '''Stage one'''
+* Winner: £3,000
+* Runner-up: £2,000
+* Third place: £1,000
+* Fourth place: £0
+{{col-break|width=25%}}
+* '''Stage two'''
+* Winner: £4,000
+* Runner-up: £3,000
+* Third place: £2,000
+* Fourth place: £1,000
+{{col-break|width=25%}}
+* '''Stage three'''
+* Winner: £6,000
+* Runner-up: £4,000
+* Third place: £2,000
+* Fourth place: £1,000
+{{col-break|width=25%}}
+* '''Final'''
+* Winner: £20,000
+* Runner-up: £10,000
+{{col-end}}
+
+* '''Tournament total''': £328,000
+
+<small>'''Note''': The champion receives a total of £33,000 (£3,000 + £4,000 + £6,000 + £20,000).</small>
+
+== Stage one ==
+Stage one consisted of 32 groups, each having four players. Unlike other tournaments, where the defending champion is usually the top seed, the players were seeded according to their ranking, and the top 32 seeds were allocated to the 32 groups by their ranking number.<ref name="s.o_main">{{cite web |title=2026 Championship League (Ranking) |url=https://www.snooker.org/res/index.asp?event=2760 |website=snooker.org |access-date=16 July 2026 |archive-date=15 July 2026 |archive-url=https://web.archive.org/web/20260715222516/https://www.snooker.org/res/index.asp?event=2760 |url-status=live}}</ref>{{refn|<ref name="s1_w1_matches">{{cite web |title=BetVictor Championship League Snooker 2026 (Stage One/WK1) matches |url=https://www.wst.tv/matches/221af158-c0f2-48cc-94a8-47b45a4a9c2d |website=[[World Snooker Tour]] |date=27 June 2026 |access-date=30 June 2026 |archive-date=30 June 2026 |archive-url=https://web.archive.org/web/20260630064835/https://www.wst.tv/matches/221af158-c0f2-48cc-94a8-47b45a4a9c2d? |url-status=live}}</ref><ref name="s1_w2_matches">{{cite web |title=BetVictor Championship League Snooker 2026 (Stage One/WK2) matches |url=https://www.wst.tv/matches/130ef3b6-ef10-481f-b01b-541debd7e591 |website=[[World Snooker Tour]] |date=4 July 2026 |access-date=5 July 2026 |archive-date=5 July 2026 |archive-url=https://web.archive.org/web/20260705133516/https://www.wst.tv/matches/130ef3b6-ef10-481f-b01b-541debd7e591? |url-status=live}}</ref><ref name="s1_w3_matches">{{cite web |title=BetVictor Championship League Snooker 2026 (Stage One/WK3) matches |url=https://www.wst.tv/matches/f377387b-3079-457f-8489-6f4629eb051d |website=[[World Snooker Tour]] |date=9 July 2026 |access-date=10 July 2026 |archive-date=10 July 2026 |archive-url=https://web.archive.org/web/20260710070720/https://www.wst.tv/matches/f377387b-3079-457f-8489-6f4629eb051d? |url-status=live}}</ref>}} Numbers in parentheses after the players' names denote the players' [[Seeding (sports)|seeding]], and (a) indicates amateur players not on the main [[World Snooker Tour]].
+
+=== Order of play ===
+Order of play as follows:
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right" | 22 June || style="text-align:left" | [[#Group 3|Group 3]]
+|-
+| style="text-align:right" | 22 June || style="text-align:left" | [[#Group 24|Group 24]]
+|-
+| style="text-align:right" | 23 June || style="text-align:left" | [[#Group 2|Group 2]]
+|-
+| style="text-align:right" | 23 June || style="text-align:left" | [[#Group 27|Group 27]]
+|-
+| style="text-align:right" | 24 June || style="text-align:left" | [[#Group 10|Group 10]]
+|-
+| style="text-align:right" | 24 June || style="text-align:left" | [[#Group 25|Group 25]]
+|-
+| style="text-align:right" | 25 June || style="text-align:left" | [[#Group 20|Group 20]]
+|-
+| style="text-align:right" | 25 June || style="text-align:left" | [[#Group 21|Group 21]]
+|}
+</div>
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right" | 26 June || style="text-align:left" | [[#Group 14|Group 14]]
+|-
+| style="text-align:right" | 26 June || style="text-align:left" | [[#Group 28|Group 28]]
+|-
+| style="text-align:right" | 27 June || style="text-align:left" | [[#Group 8|Group 8]]
+|-
+| style="text-align:right" | 27 June || style="text-align:left" | [[#Group 15|Group 15]]
+|-
+| style="text-align:right" | 29 June || style="text-align:left" | [[#Group 18|Group 18]]
+|-
+| style="text-align:right" | 29 June || style="text-align:left" | [[#Group 29|Group 29]]
+|-
+| style="text-align:right" | 30 June || style="text-align:left" | [[#Group 9|Group 9]]
+|-
+| style="text-align:right" | 30 June || style="text-align:left" | [[#Group 23|Group 23]]
+|}
+</div>
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right" | 1 July || style="text-align:left" | [[#Group 5|Group 5]]
+|-
+| style="text-align:right" | 1 July || style="text-align:left" | [[#Group 16|Group 16]]
+|-
+| style="text-align:right" | 2 July || style="text-align:left" | [[#Group 17|Group 17]]
+|-
+| style="text-align:right" | 2 July || style="text-align:left" | [[#Group 30|Group 30]]
+|-
+| style="text-align:right" | 3 July || style="text-align:left" | [[#Group 4|Group 4]]
+|-
+| style="text-align:right" | 3 July || style="text-align:left" | [[#Group 22|Group 22]]
+|-
+| style="text-align:right" | 4 July || style="text-align:left" | [[#Group 12|Group 12]]
+|-
+| style="text-align:right" | 4 July || style="text-align:left" | [[#Group 19|Group 19]]
+|}
+</div>
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right" | 6 July || style="text-align:left" | [[#Group 11|Group 11]]
+|-
+| style="text-align:right" | 6 July || style="text-align:left" | [[#Group 13|Group 13]]
+|-
+| style="text-align:right" | 7 July || style="text-align:left" | [[#Group 6|Group 6]]
+|-
+| style="text-align:right" | 7 July || style="text-align:left" | [[#Group 26|Group 26]]
+|-
+| style="text-align:right" | 8 July || style="text-align:left" | [[#Group 7|Group 7]]
+|-
+| style="text-align:right" | 8 July || style="text-align:left" | [[#Group 31|Group 31]]
+|-
+| style="text-align:right" | 9 July || style="text-align:left" | [[#Group 1|Group 1]]
+|-
+| style="text-align:right" | 9 July || style="text-align:left" | [[#Group 32|Group 32]]
+|}
+</div>
+
+=== Group 1 ===
+Group 1 was played on 9 July.<ref name="s1_w3_matches" /><ref>{{cite web |title=Championship League Stage One Group 1 |url=https://www.snooker.org/res/index.asp?event=2802 |access-date=9 July 2026 |website=snooker.org}}</ref> [[David Grace (snooker player)|David Grace]] won the group, eliminating the top [[Seeding (sports)|seed]] [[Zhao Xintong]], and advanced to Stage 2 [[#Group A|Group A]].<ref name="WST_g01_g32">{{cite web |title=Amazing Grace pips Zhao |url=https://www.wst.tv/news/2026/july/09/amazing-grace-edges-zhao/ |website=[[World Snooker Tour]] |date=9 July 2026 |access-date=10 July 2026}}</ref>
+
+==== Group 1 matches ====
+{{div col}}
+* '''Zhao Xintong 3'''–0 Simon Blackwell
+* '''David Grace 3'''–0 Gao Yang
+* '''David Grace 3'''–0 Simon Blackwell
+* '''Zhao Xintong 3'''–1 Gao Yang
+* ''Gao Yang 2–2 Simon Blackwell''
+* ''Zhao Xintong 2–2 David Grace''
+{{div col end}}
+
+==== Group 1 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[David Grace (snooker player)|David Grace]]'''|ENG}} <small>{{tooltip|1=(64)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 2 || 6 || 73 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Zhao Xintong]]|CHN}} <small>{{tooltip|1=(1)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 140 || 7
+|-
+| 3 ||align=left| {{flagathlete|[[Gao Yang (snooker player)|Gao Yang]]|CHN}} <small>{{tooltip|1=(65)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 95 || 1
+|-
+| 4 ||align=left| {{flagathlete|Simon Blackwell|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 1 || 2 || 2 || 8 || −6 || 52 || 1
+|}
+
+=== Group 2 ===
+Group 2 was played on 23 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 2 |url=https://www.snooker.org/res/index.asp?event=2803 |access-date=23 June 2026 |website=snooker.org}}</ref> [[Ian Burns (snooker player)|Ian Burns]] won the group and advanced to Stage 2 [[#Group B|Group B]].<ref name="WST_g02_g27">{{cite web |title=Chang and Burns score hat-trick of wins |url=https://www.wst.tv/news/2026/june/23/chang-and-burns-score-hat-trick-of-wins/ |website=[[World Snooker Tour]] |date=23 June 2026 |access-date=24 June 2026}}</ref>
+
+==== Group 2 matches ====
+{{div col}}
+* '''Steven Hallworth 3'''–1 Jeff Cundy
+* '''Ian Burns 3'''–0 Jamie O'Neill
+* '''Ian Burns 3'''–0 Jeff Cundy
+* Steven Hallworth 0–'''3 Jamie O'Neill'''
+* '''Jamie O'Neill 3'''–1 Jeff Cundy
+* Steven Hallworth 1–'''3 Ian Burns'''
+{{div col end}}
+
+==== Group 2 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Ian Burns (snooker player)|Ian Burns]]'''|ENG}} <small>{{tooltip|1=(66)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 97 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Jamie O'Neill (snooker player)|Jamie O'Neill]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 2 || 0 || 1 || 6 || 4 || 2 || 70 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Steven Hallworth]]|ENG}} <small>{{tooltip|1=(63)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 7 || −3 || 75 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Jeff Cundy]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small>{{efn|[[Jeff Cundy]] replaced [[Mark Williams (snooker player)|Mark Williams]] (seeded 2) who withdrew.<ref name="s.o_main" /><ref name="CLS_ranking" />}} || 3 || 0 || 0 || 3 || 2 || 9 || −7 || 39 || 0
+|}
+
+=== Group 3 ===
+Group 3 was played on 22 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 3 |url=https://www.snooker.org/res/index.asp?event=2804 |access-date=22 June 2026 |website=snooker.org}}</ref> [[Dylan Emery]] won the group and advanced to Stage 2 [[#Group C|Group C]].<ref name="WST_g03_g24">{{cite web |title=Emery and Xu top groups |url=https://www.wst.tv/news/2026/june/22/emery-and-top-groups/ |website=[[World Snooker Tour]] |date=22 June 2026 |access-date=23 June 2026}}</ref><br/>[[Kyren Wilson]] withdrew after playing one match, as his home was burgled.<ref>{{cite news |title=Cancer charity cash stolen from Wilson's home |url=https://www.bbc.com/sport/snooker/articles/c17ynz44e9zo |work=[[BBC Sport]] |date=22 June 2026 |access-date=23 June 2026}}</ref> A man was subsequently jailed for the burglary.<ref>{{cite news |title=Man jailed for charity theft at snooker star's home |url=https://www.bbc.com/news/articles/cm62yg7y3d17o |work=[[BBC News]] |first=Pete |last=Cooper |date=16 October 2026 |access-date=17 October 2026}}</ref>
+
+==== Group 3 matches ====
+{{div col}}
+* '''Kyren Wilson 3'''–0 Haydon Pinhey
+* '''Dylan Emery 3'''–1 Michał Szubarczyk
+* ''Dylan Emery 2–2 Haydon Pinhey''
+* Kyren Wilson w/d–'''w/o Michał Szubarczyk'''
+* ''Michał Szubarczyk 2–2 Haydon Pinhey''
+* Kyren Wilson w/d–'''w/o Dylan Emery'''
+{{div col end}}
+:<small>'''Note''': w/d=withdrawn; '''w/o'''=[[walkover]]</small>
+
+==== Group 3 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Dylan Emery]]'''|WAL}} <small>{{tooltip|1=(62)|2=player seeding}}</small> || 2 || 1 || 1 || 0 || 5 || 3 || 2 || 107 || '''4'''
+|-
+| 2 ||align=left| {{flagathlete|[[Haydon Pinhey]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 2 || 0 || 2 || 0 || 4 || 4 || 0 || 55 || 2
+|-
+| 3 ||align=left| {{flagathlete|[[Michał Szubarczyk]]|POL}} <small>{{tooltip|1=(67)|2=player seeding}}</small> || 2 || 0 || 1 || 1 || 3 || 5 || −2 || 37 || 1
+|-
+| 4 ||align=left| {{flagathlete|[[Kyren Wilson]]|ENG}} <small>{{tooltip|1=(3)|2=player seeding}}</small> || 0 || 0 || 0 || 0 || 0 || 0 || 0 || – || 0
+|}
+
+=== Group 4 ===
+Group 4 was played on 3 July.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 4 |url=https://www.snooker.org/res/index.asp?event=2805 |access-date=3 July 2026 |website=snooker.org}}</ref> [[Iulian Boiko]] won the group and advanced to Stage 2 [[#Group D|Group D]].<ref name="WST_g04_g22">{{cite web |title=Jones and Boiko top groups |url=https://www.wst.tv/news/2026/july/03/Jones-And-Boiko-Top-Groups/ |website=[[World Snooker Tour]] |date=3 July 2026 |access-date=3 July 2026}}</ref>
+
+==== Group 4 matches ====
+{{div col}}
+* '''Iulian Boiko 3'''–0 Ian Martin
+* '''Lan Yuhao 3'''–1 Joshua Thomond
+* '''Lan Yuhao 3'''–0 Ian Martin
+* '''Iulian Boiko 3'''–1 Joshua Thomond
+* '''Joshua Thomond 3'''–1 Ian Martin
+* ''Iulian Boiko 2–2 Lan Yuhao''
+{{div col end}}
+
+==== Group 4 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Iulian Boiko]]'''|UKR}} <small>{{tooltip|1=(61)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 90 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Lan Yuhao]]|CHN}} <small>{{tooltip|1=(68)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 85 || 7
+|-
+| 3 ||align=left| {{flagathlete|Joshua Thomond|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 0 || 2 || 5 || 7 || −2 || 47 || 3
+|-
+| 4 ||align=left| {{flagathlete|Ian Martin|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 44 || 0
+|}
+:'''Note:''' Iulian Boiko and Lan Yuhao finished Group 4 equal on points and frame difference. Their head-to-head was a draw. Boiko made a higher break (90) and so was placed above Lan in the group.<br/>Boiko was the highest seed in Group 4 as there was an early withdrawal, so that there was no seed 4.
+
+=== Group 5 ===
+Group 5 was played on 1 July.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 5 |url=https://www.snooker.org/res/index.asp?event=2806 |access-date=1 July 2026 |website=snooker.org}}</ref> [[Chris Wakelin]] won the group and advanced to Stage 2 [[#Group E|Group E]].<ref name="WST_g05_g16">{{cite web |title=Wakelin pinches top spot |url=https://www.wst.tv/news/2026/july/01/Wakelin-Pinches-Top-Spot/ |website=[[World Snooker Tour]] |date=1 July 2026 |access-date=1 July 2026}}</ref>
+
+==== Group 5 matches ====
+{{div col}}
+* Chris Wakelin 1–'''3 Brian Ochoiski'''
+* Yao Pengcheng 1–'''3 Luke Pinches'''
+* '''Yao Pengcheng 3'''–0 Brian Ochoiski
+* '''Chris Wakelin 3'''–0 Luke Pinches
+* '''Luke Pinches 3'''–1 Brian Ochoiski
+* '''Chris Wakelin 3'''–0 Yao Pengcheng
+{{div col end}}
+
+==== Group 5 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Chris Wakelin]]'''|ENG}} <small>{{tooltip|1=(5)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 3 || 4 || 128 || '''6'''
+|-
+| 2 ||align=left| {{flagathlete|Luke Pinches|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small>{{efn|Luke Pinches replaced [[Sam Craigie]] (seeded 60) who withdrew.<ref name="s.o_main" /><ref name="CLS_ranking" />}} || 3 || 2 || 0 || 1 || 6 || 5 || 1 || 40 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Yao Pengcheng]]|CHN}} <small>{{tooltip|1=(69)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 6 || −2 || 82 || 3
+|-
+| 4 ||align=left| {{flagathlete|Brian Ochoiski|FRA}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 0 || 2 || 4 || 7 || −3 || 48 || 3
+|}
+
+=== Group 6 ===
+Group 6 was played on 7 July.<ref name="s1_w3_matches" /><ref>{{cite web |title=Championship League Stage One Group 6 |url=https://www.snooker.org/res/index.asp?event=2807 |access-date=7 July 2026 |website=snooker.org}}</ref> [[Marco Fu]] won the group and advanced to Stage 2 [[#Group F|Group F]].<ref name="WST_g06_g26">{{cite web |title=Si makes second 147 |url=https://www.wst.tv/news/2026/july/07/si-makes-second-147/ |website=[[World Snooker Tour]] |date=7 July 2026 |access-date=8 July 2026 |archive-date=8 July 2026 |archive-url=https://web.archive.org/web/20260708054235/https://www.wst.tv/news/2026/july/07/si-makes-second-147/ |url-status=live}}</ref><br/>[[Si Jiahui]] made the second [[maximum break]] of his professional career in the first {{cuegloss|frame}} of his match against [[Xu Yichen]]. It was the 243rd official maximum.<ref name="WST_g06_g26" />
+
+==== Group 6 matches ====
+{{div col}}
+* ''Si Jiahui 2–2 Sean Maddocks''
+* '''Marco Fu 3'''–0 Xu Yichen
+* '''Marco Fu 3'''–1 Sean Maddocks
+* '''Si Jiahui 3'''–0 Xu Yichen
+* Xu Yichen 1–'''3 Sean Maddocks'''
+* ''Si Jiahui 2–2 Marco Fu''
+{{div col end}}
+
+==== Group 6 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Marco Fu]]'''|HKG}} <small>{{tooltip|1=(59)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 106 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Si Jiahui]]|CHN}} <small>{{tooltip|1=(6)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || [[Maximum break|147]] || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Sean Maddocks]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 96 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Xu Yichen]]|CHN}} <small>{{tooltip|1=(70)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 40 || 0
+|}
+
+=== Group 7 ===
+Group 7 was played on 8 July.<ref name="s1_w3_matches" /><ref>{{cite web |title=Championship League Stage One Group 7 |url=https://www.snooker.org/res/index.asp?event=2808 |access-date=8 July 2026 |website=snooker.org}}</ref> [[Jack Lisowski]] won the group and advanced to Stage 2 [[#Group G|Group G]].<ref name="WST_g07_g31">{{cite web |title=Lisowski and Brecel storm into last 32 |url=https://www.wst.tv/news/2026/july/08/lisowski-and-brecel-storm-into-last-32/ |website=[[World Snooker Tour]] |date=8 July 2026 |access-date=8 July 2026}}</ref>
+
+==== Group 7 matches ====
+{{div col}}
+* '''Jack Lisowski 3'''–0 Jack Bradford
+* '''Liam Highfield 3'''–1 Zhao Hanyang
+* '''Liam Highfield 3'''–1 Jack Bradford
+* '''Jack Lisowski 3'''–0 Zhao Hanyang
+* '''Zhao Hanyang 3'''–0 Jack Bradford
+* '''Jack Lisowski 3'''–1 Liam Highfield
+{{div col end}}
+
+==== Group 7 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Jack Lisowski]]'''|ENG}} <small>{{tooltip|1=(7)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 87 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Liam Highfield]]|ENG}} <small>{{tooltip|1=(58)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 5 || 2 || 98 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Zhao Hanyang]]|CHN}} <small>{{tooltip|1=(71)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 6 || −2 || 50 || 3
+|-
+| 4 ||align=left| {{flagathlete|Jack Bradford|WAL}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 36 || 0
+|}
+
+=== Group 8 ===
+Group 8 was played on 27 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 8 |url=https://www.snooker.org/res/index.asp?event=2809 |access-date=27 June 2026 |website=snooker.org}}</ref> Amateur player [[Dean Young (snooker player)|Dean Young]] won the group and advanced to Stage 2 [[#Group H|Group H]].<ref name="WST_g08_g15">{{cite web |title=Amateur Young tops group |url=https://www.wst.tv/news/2026/june/28/amateur-young-tops-group/ |website=[[World Snooker Tour]] |date=28 June 2026 |access-date=28 June 2026}}</ref>
+
+==== Group 8 matches ====
+{{div col}}
+* ''Thepchaiya Un-Nooh 2–2 Dean Young''
+* '''Louis Heathcote 3'''–0 Reanne Evans
+* Louis Heathcote 1–'''3 Dean Young'''
+* ''Thepchaiya Un-Nooh 2–2 Reanne Evans''
+* Reanne Evans 0–'''3 Dean Young'''
+* '''Thepchaiya Un-Nooh 3'''–1 Louis Heathcote
+{{div col end}}
+
+==== Group 8 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Dean Young (snooker player)|Dean Young]]'''|SCO}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 107 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Thepchaiya Un-Nooh]]|THA}} <small>{{tooltip|1=(8)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 86 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Louis Heathcote]]|ENG}} <small>{{tooltip|1=(57)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 5 || 6 || −1 || 111 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Reanne Evans]]|ENG}} <small>{{tooltip|1=(72)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 2 || 8 || −6 || 55 || 1
+|}
+
+=== Group 9 ===
+Group 9 was played on 30 June.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 9 |url=https://www.snooker.org/res/index.asp?event=2810 |access-date=30 June 2026 |website=snooker.org}}</ref> [[Elliot Slessor]] won the group and advanced to Stage 2 [[#Group H|Group H]].<ref name="WST_g09_g23">{{cite web |title=Slessor and Robertson into second phase |url=https://www.wst.tv/news/2026/june/30/slessor-and-robertson-into-second-phase/ |website=[[World Snooker Tour]] |date=30 June 2026 |access-date=1 July 2026}}</ref>
+
+==== Group 9 matches ====
+{{div col}}
+* '''Elliot Slessor 3'''–1 Robert Milkins
+* ''Liam Pullen 2–2 Liu Wenwei''
+* '''Liam Pullen 3'''–1 Robert Milkins
+* ''Elliot Slessor 2–2 Liu Wenwei''
+* '''Liu Wenwei 3'''–0 Robert Milkins
+* '''Elliot Slessor 3'''–0 Liam Pullen
+{{div col end}}
+
+==== Group 9 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Elliot Slessor]]'''|ENG}} <small>{{tooltip|1=(9)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 130 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Liu Wenwei]]|CHN}} <small>{{tooltip|1=(73)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 65 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Liam Pullen]]|ENG}} <small>{{tooltip|1=(56)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 86 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Robert Milkins]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 0 || 3 || 2 || 9 || −7 || 77 || 0
+|}
+
+=== Group 10 ===
+Group 10 was played on 24 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 10 |url=https://www.snooker.org/res/index.asp?event=2811 |access-date=24 June 2026 |website=snooker.org}}</ref> [[Zhang Anda]] won the group and advanced to Stage 2 [[#Group G|Group G]].<ref name="WST_g10_g25">{{cite web |title=Page continues fine start to season |url=https://www.wst.tv/news/2026/june/24/page-continues-fine-start-to-season/ |website=[[World Snooker Tour]] |date=24 June 2026 |access-date=25 June 2026}}</ref>
+
+==== Group 10 matches ====
+{{div col}}<!-- Please do not delete the nowrap for Jiang Jun. It avoids an error by the dates script. See [[User talk:Ohconfucius/script/MOSNUM dates#Chinese name "Jun".]] -->
+* '''Zhang Anda 3'''–0 Daniel Womersley
+* '''{{nowrap|Jiang Jun}} 3'''–1 Ross Muir
+* '''{{nowrap|Jiang Jun}} 3'''–1 Daniel Womersley
+* '''Zhang Anda 3'''–0 Ross Muir
+* ''Ross Muir 2–2 Daniel Womersley''
+* '''Zhang Anda 3'''–1 Jiang Jun
+{{div col end}}
+
+==== Group 10 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Zhang Anda]]'''|CHN}} <small>{{tooltip|1=(10)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 115 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Jiang Jun]]|CHN}} <small>{{tooltip|1=(55)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 5 || 2 || 77 || 6
+|-
+| 3 ||align=left| {{flagathlete|Daniel Womersley|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 96 || 1
+|-
+| 4 ||align=left| {{flagathlete|[[Ross Muir]]|SCO}} <small>{{tooltip|1=(74)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 85 || 1
+|}
+:'''Note:''' Daniel Womersley and Ross Muir finished Group 10 equal on points and frame difference. Their head-to-head was a draw. Womersley made a higher break (96) and so was placed above Muir in the group.
+
+=== Group 11 ===
+Group 11 was played on 6 July.<ref name="s1_w3_matches" /><ref>{{cite web |title=Championship League Stage One Group 11 |url=https://www.snooker.org/res/index.asp?event=2812 |access-date=6 July 2026 |website=snooker.org}}</ref> Amateur Player [[Mark Joyce]] won the group and advanced to Stage 2 [[#Group F|Group F]].<ref name="WST_g11_g13">{{cite web |title=Joyce earns BetVictor Championship League progression |url=https://www.wst.tv/news/2026/july/06/joyce-earns-championship-league-progression/ |website=[[World Snooker Tour]] |date=6 July 2026 |access-date=7 July 2026}}</ref>
+
+==== Group 11 matches ====
+{{div col}}
+* Stuart Bingham 1–'''3 Mark Joyce'''
+* ''Jordan Brown 2–2 Mateusz Baranowski''
+* Jordan Brown 0–'''3 Mark Joyce'''
+* ''Stuart Bingham 2–2 Mateusz Baranowski''
+* '''Mateusz Baranowski 3'''–1 Mark Joyce
+* ''Stuart Bingham 2–2 Jordan Brown''
+{{div col end}}
+
+==== Group 11 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Mark Joyce]]'''|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 2 || 0 || 1 || 7 || 4 || 3 || 77 || '''6'''
+|-
+| 2 ||align=left| {{flagathlete|[[Mateusz Baranowski]]|POL}} <small>{{tooltip|1=(75)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 109 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Stuart Bingham]]|ENG}} <small>{{tooltip|1=(11)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 62 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Jordan Brown (snooker player)|Jordan Brown]]|NIR}} <small>{{tooltip|1=(54)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 104 || 2
+|}
+
+=== Group 12 ===
+Group 12 was played on 4 July.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 12 |url=https://www.snooker.org/res/index.asp?event=2813 |access-date=4 July 2026 |website=snooker.org}}</ref> [[Ali Carter]] won the group and advanced to Stage 2 [[#Group E|Group E]].<ref name="WST_g12_g19">{{cite web |title=Maguire maintains title defence |url=https://www.wst.tv/news/2026/july/04/Maguire-Maintains-Title-Defence/ |website=[[World Snooker Tour]] |date=4 July 2026 |access-date=4 July 2026}}</ref>
+
+==== Group 12 matches ====
+{{div col}}
+* '''Ali Carter 3'''–0 Patrick Whelan
+* '''Jamie Jones 3'''–1 Leone Crowley
+* '''Jamie Jones 3'''–1 Patrick Whelan
+* '''Ali Carter 3'''–1 Leone Crowley
+* Leone Crowley 0–'''3 Patrick Whelan'''
+* ''Ali Carter 2–2 Jamie Jones''
+{{div col end}}
+
+==== Group 12 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Ali Carter]]'''|ENG}} <small>{{tooltip|1=(12)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 97 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Jamie Jones (snooker player)|Jamie Jones]]|WAL}} <small>{{tooltip|1=(53)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 107 || 7
+|-
+| 3 ||align=left| {{flagathlete|Patrick Whelan|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 0 || 2 || 4 || 6 || −2 || 68 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Leone Crowley]]|IRL}} <small>{{tooltip|1=(76)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 2 || 9 || −7 || 57 || 0
+|}
+
+=== Group 13 ===
+Group 13 was played on 6 July.<ref name="s1_w3_matches" /><ref>{{cite web |title=Championship League Stage One Group 13 |url=https://www.snooker.org/res/index.asp?event=2814 |access-date=6 July 2026 |website=snooker.org}}</ref> [[Zhou Yuelong]] won the group and advanced to Stage 2 [[#Group D|Group D]].<ref name="WST_g11_g13" />
+
+==== Group 13 matches ====
+{{div col}}
+* '''Zhou Yuelong 3'''–1 Allan Taylor
+* Ben Mertens 1–'''3 Liam Graham'''
+* Ben Mertens 0–'''3 Allan Taylor'''
+* ''Zhou Yuelong 2–2 Liam Graham''
+* ''Liam Graham 2–2 Allan Taylor''
+* '''Zhou Yuelong 3'''–1 Ben Mertens
+{{div col end}}
+
+==== Group 13 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Zhou Yuelong]]'''|CHN}} <small>{{tooltip|1=(13)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 97 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Liam Graham (snooker player)|Liam Graham]]|SCO}} <small>{{tooltip|1=(77)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 46 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Allan Taylor (snooker player)|Allan Taylor]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 71 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Ben Mertens]]|BEL}} <small>{{tooltip|1=(52)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 2 || 9 || −7 || 50 || 0
+|}
+
+=== Group 14 ===
+Group 14 was played on 26 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 14 |url=https://www.snooker.org/res/index.asp?event=2815 |access-date=26 June 2026 |website=snooker.org}}</ref> [[Gary Wilson (snooker player)|Gary Wilson]] won the group and advanced to Stage 2 [[#Group C|Group C]].<ref name="WST_g14_g28">{{cite web |title=He-man powers to top spot |url=https://www.wst.tv/news/2026/june/26/he-man-powers-to-top-spot/ |website=[[World Snooker Tour]] |date=26 June 2026 |access-date=27 June 2026}}</ref>
+
+==== Group 14 matches ====
+{{div col}}
+* '''Gary Wilson 3'''–1 Duane Jones
+* Lyu Haotian 1–'''3 Alexander Ursenbacher'''
+* ''Lyu Haotian 2–2 Duane Jones''
+* '''Gary Wilson 3'''–0 Alexander Ursenbacher
+* ''Alexander Ursenbacher 2–2 Duane Jones''
+* ''Gary Wilson 2–2 Lyu Haotian''
+{{div col end}}
+
+==== Group 14 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Gary Wilson (snooker player)|Gary Wilson]]'''|ENG}} <small>{{tooltip|1=(14)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 75 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Alexander Ursenbacher]]|SUI}} <small>{{tooltip|1=(78)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 58 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Lyu Haotian]]|CHN}} <small>{{tooltip|1=(51)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 115 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Duane Jones (snooker player)|Duane Jones]]|WAL}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 74 || 2
+|}
+:'''Note:''' Lyu Haotian and Duane Jones finished Group 14 equal on points and frame difference. Their head-to-head was a draw. Lyu made a higher break (115) and so was placed above Jones in the group.
+
+=== Group 15 ===
+Group 15 was played on 27 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 15 |url=https://www.snooker.org/res/index.asp?event=2816 |access-date=27 June 2026 |website=snooker.org}}</ref> [[Pang Junxu]] won the group and advanced to Stage 2 [[#Group B|Group B]].<ref name="WST_g08_g15" />
+
+==== Group 15 matches ====
+{{div col}}
+* ''Pang Junxu 2–2 Luo Zetao''
+* ''David Lilley 2–2 Fergal Quinn''
+* David Lilley 1–'''3 Luo Zetao'''
+* '''Pang Junxu 3'''–0 Fergal Quinn
+* ''Fergal Quinn 2–2 Luo Zetao''
+* ''Pang Junxu 2–2 David Lilley''
+{{div col end}}
+
+==== Group 15 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Pang Junxu]]'''|CHN}} <small>{{tooltip|1=(15)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 94 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|[[Luo Zetao]]|CHN}} <small>{{tooltip|1=(110)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 101 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[David Lilley (snooker player)|David Lilley]]|ENG}} <small>{{tooltip|1=(50)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 103 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Fergal Quinn (snooker player)|Fergal Quinn]]|NIR}} <small>{{tooltip|1=(79)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 91 || 2
+|}
+
+=== Group 16 ===
+Group 16 was played on 1 July.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 16 |url=https://www.snooker.org/res/index.asp?event=2817 |access-date=1 July 2026 |website=snooker.org}}</ref> [[Lei Peifan]] won the group and advanced to Stage 2 [[#Group A|Group A]].<ref name="WST_g05_g16" />
+
+==== Group 16 matches ====
+{{div col}}
+* ''Lei Peifan 2–2 Wang Xinbo''
+* '''Ishpreet Singh Chadha 3'''–0 Chatchapong Nasa
+* '''Ishpreet Singh Chadha 3'''–0 Wang Xinbo
+* '''Lei Peifan 3'''–0 Chatchapong Nasa
+* ''Chatchapong Nasa 2–2 Wang Xinbo''
+* '''Lei Peifan 3'''–1 Ishpreet Singh Chadha
+{{div col end}}
+
+==== Group 16 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Lei Peifan]]'''|CHN}} <small>{{tooltip|1=(16)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 101 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Ishpreet Singh Chadha]]|IND}} <small>{{tooltip|1=(49)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 3 || 4 || 118 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Wang Xinbo (snooker player)|Wang Xinbo]]|CHN}} <small>{{tooltip|1=(105)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 134 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Chatchapong Nasa]]|THA}} <small>{{tooltip|1=(80)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 2 || 8 || −6 || 73 || 1
+|}
+
+=== Group 17 ===
+Group 17 was played on 2 July.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 17 |url=https://www.snooker.org/res/index.asp?event=2818 |access-date=2 July 2026 |website=snooker.org}}</ref> [[Liu Hongyu (snooker player)|Liu Hongyu]] won the group and advanced to Stage 2 [[#Group A|Group A]].<ref name="WST_g17_g30">{{cite web |title=Moody magic secures second stage place |url=https://www.wst.tv/news/2026/july/02/moody-magic-secures-second-stage-place/ |website=[[World Snooker Tour]] |date=2 July 2026 |access-date=3 July 2026}}</ref>
+
+==== Group 17 matches ====
+{{div col}}
+* '''Joe O'Connor 3'''–0 Paul Norris
+* ''Liu Hongyu 2–2 Oliver Brown''
+* '''Liu Hongyu 3'''–0 Paul Norris
+* '''Joe O'Connor 3'''–0 Oliver Brown
+* '''Oliver Brown 3'''–1 Paul Norris
+* Joe O'Connor 1–'''3 Liu Hongyu'''
+{{div col end}}
+
+==== Group 17 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Liu Hongyu (snooker player)|Liu Hongyu]]'''|CHN}} <small>{{tooltip|1=(48)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 121 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}} <small>{{tooltip|1=(17)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 3 || 4 || 101 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Oliver Brown (snooker player)|Oliver Brown]]|ENG}} <small>{{tooltip|1=(81)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 71 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Paul Norris (snooker player)|Paul Norris]]|ENG}} <small>{{tooltip|1=(109)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 21 || 0
+|}
+
+=== Group 18 ===
+Group 18 was played on 29 June.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 18 |url=https://www.snooker.org/res/index.asp?event=2819 |access-date=29 June 2026 |website=snooker.org}}</ref> [[Hossein Vafaei]] won the group and advanced to Stage 2 [[#Group B|Group B]].<ref name="WST_g18_g29">{{cite web |title=Vafaei maintains unbeaten start |url=https://www.wst.tv/news/2026/june/29/vafaei-maintains-unbeaten-start/ |website=[[World Snooker Tour]] |date=29 June 2026 |access-date=30 June 2026}}</ref>
+
+==== Group 18 matches ====
+{{div col}}
+* '''Hossein Vafaei 3'''–1 Oliver Sykes
+* ''Fan Zhengyi 2–2 Florian Nüßle''
+* '''Fan Zhengyi 3'''–0 Oliver Sykes
+* '''Hossein Vafaei 3'''–0 Florian Nüßle
+* '''Florian Nüßle 3'''–0 Oliver Sykes
+* ''Hossein Vafaei 2–2 Fan Zhengyi''
+{{div col end}}
+
+==== Group 18 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Hossein Vafaei]]'''|IRN}} <small>{{tooltip|1=(18)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 104 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Fan Zhengyi]]|CHN}} <small>{{tooltip|1=(47)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 90 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Florian Nüßle]]|AUT}} <small>{{tooltip|1=(82)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 67 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Oliver Sykes (snooker player)|Oliver Sykes]]|ENG}} <small>{{tooltip|1=(104)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 32 || 0
+|}
+
+=== Group 19 ===
+Group 19 was played on 4 July.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 19 |url=https://www.snooker.org/res/index.asp?event=2820 |access-date=4 July 2026 |website=snooker.org}}</ref> [[Stephen Maguire]] won the group and advanced to Stage 2 [[#Group C|Group C]].<ref name="WST_g12_g19" />
+
+==== Group 19 matches ====
+{{div col}}
+* Stephen Maguire 1–'''3 Anton Kazakov'''
+* ''Robbie Williams 2–2 Ng On-yee''
+* '''Robbie Williams 3'''–0 Anton Kazakov
+* '''Stephen Maguire 3'''–0 Ng On-yee
+* ''Ng On-yee 2–2 Anton Kazakov''
+* '''Stephen Maguire 3'''–0 Robbie Williams
+{{div col end}}
+
+==== Group 19 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Stephen Maguire]]'''|SCO}} <small>{{tooltip|1=(19)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 3 || 4 || 125 || '''6'''
+|-
+| 2 ||align=left| {{flagathlete|[[Robbie Williams (snooker player)|Robbie Williams]]|ENG}} <small>{{tooltip|1=(46)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 69 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Anton Kazakov]]|UKR}} <small>{{tooltip|1=(103)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 38 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Ng On-yee]]|HKG}} <small>{{tooltip|1=(83)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 64 || 2
+|}
+
+=== Group 20 ===
+Group 20 was played on 25 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 20 |url=https://www.snooker.org/res/index.asp?event=2821 |access-date=25 June 2026 |website=snooker.org}}</ref> [[Scott Donaldson]] won the group and advanced to Stage 2 [[#Group D|Group D]].<ref name="WST_g20_g21">{{cite web |title=Gilbert books place in stage two |url=https://www.wst.tv/news/2026/june/25/gilbert-books-place-in-stage-two/ |website=[[World Snooker Tour]] |date=25 June 2026 |access-date=26 June 2026}}</ref>
+
+==== Group 20 matches ====
+{{div col}}
+* '''Yuan Sijun 3'''–0 Bai Yulu
+* '''Scott Donaldson 3'''–1 Sahil Nayyar
+* ''Scott Donaldson 2–2 Bai Yulu''
+* ''Yuan Sijun 2–2 Sahil Nayyar''
+* ''Sahil Nayyar 2–2 Bai Yulu''
+* Yuan Sijun 1–'''3 Scott Donaldson'''
+{{div col end}}
+
+==== Group 20 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Scott Donaldson]]'''|SCO}} <small>{{tooltip|1=(45)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 76 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Yuan Sijun]]|CHN}} <small>{{tooltip|1=(20)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 57 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Sahil Nayyar]]|CAN}} <small>{{tooltip|1=(84)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 100 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Bai Yulu]]|CHN}} <small>{{tooltip|1=(100)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 61 || 2
+|}
+
+=== Group 21 ===
+Group 21 was played on 25 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 21 |url=https://www.snooker.org/res/index.asp?event=2822 |access-date=25 June 2026 |website=snooker.org}}</ref> [[David Gilbert (snooker player)|David Gilbert]] won the group and advanced to Stage 2 [[#Group E|Group E]].<ref name="WST_g20_g21" />
+
+==== Group 21 matches ====
+{{div col}}
+* '''David Gilbert 3'''–0 Panchaya Channoi
+* ''Ricky Walden 2–2 Mahmoud El Hareedy''
+* '''Ricky Walden 3'''–0 Panchaya Channoi
+* ''David Gilbert 2–2 Mahmoud El Hareedy''
+* '''Mahmoud El Hareedy 3'''–0 Panchaya Channoi
+* '''David Gilbert 3'''–1 Ricky Walden
+{{div col end}}
+
+==== Group 21 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[David Gilbert (snooker player)|David Gilbert]]'''|ENG}} <small>{{tooltip|1=(21)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 107 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Mahmoud El Hareedy]]|EGY}} <small>{{tooltip|1=(85)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 79 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Ricky Walden]]|ENG}} <small>{{tooltip|1=(44)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 55 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Panchaya Channoi]]|THA}} <small>{{tooltip|1=(111)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 0 || 9 || −9 || 16 || 0
+|}
+
+=== Group 22 ===
+Group 22 was played on 3 July.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 22 |url=https://www.snooker.org/res/index.asp?event=2823 |access-date=3 July 2026 |website=snooker.org}}</ref> [[Jak Jones]] won the group and advanced to Stage 2 [[#Group F|Group F]].<ref name="WST_g04_g22" />
+
+==== Group 22 matches ====
+{{div col}}
+* '''Jak Jones 3'''–0 Michael Larkov
+* ''Oliver Lines 2–2 Alfie Burden''
+* Oliver Lines 1–'''3 Michael Larkov'''
+* ''Jak Jones 2–2 Alfie Burden''
+* ''Alfie Burden 2–2 Michael Larkov''
+* Jak Jones 1–'''3 Oliver Lines'''
+{{div col end}}
+
+==== Group 22 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Jak Jones]]'''|WAL}} <small>{{tooltip|1=(22)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 112 || '''4'''
+|-
+| 2 ||align=left| {{flagathlete|[[Oliver Lines]]|ENG}} <small>{{tooltip|1=(43)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 68 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Michael Larkov]]|UKR}} <small>{{tooltip|1=(113)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 80 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Alfie Burden]]|ENG}} <small>{{tooltip|1=(86)|2=player seeding}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 107 || 3
+|}
+
+=== Group 23 ===
+Group 23 was played on 30 June.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 23 |url=https://www.snooker.org/res/index.asp?event=2824 |access-date=30 June 2026 |website=snooker.org}}</ref> [[Jimmy Robertson (snooker player)|Jimmy Robertson]] won the group and advanced to Stage 2 [[#Group G|Group G]].<ref name="WST_g09_g23" />
+
+==== Group 23 matches ====
+{{div col}}
+* ''Jimmy Robertson 2–2 Hammad Miah''
+* '''Martin O'Donnell 3'''–0 Antoni Kowalski
+* ''Martin O'Donnell 2–2 Hammad Miah''
+* ''Jimmy Robertson 2–2 Antoni Kowalski''
+* '''Antoni Kowalski 3'''–0 Hammad Miah
+* '''Jimmy Robertson 3'''–0 Martin O'Donnell
+{{div col end}}
+
+==== Group 23 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Jimmy Robertson (snooker player)|Jimmy Robertson]]'''|ENG}} <small>{{tooltip|1=(23)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 60 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|[[Martin O'Donnell (snooker player)|Martin O'Donnell]]|ENG}} <small>{{tooltip|1=(42)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 59 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Antoni Kowalski]]|POL}} <small>{{tooltip|1=(97)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 109 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Hammad Miah]]|ENG}} <small>{{tooltip|1=(93)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 68 || 2
+|}
+:'''Note:''' Martin O'Donnell and Antoni Kowalski finished Group 23 equal on points and frame difference. O'Donnell won their head-to-head and so was placed above Kowalski in the group.
+
+=== Group 24 ===
+Group 24 was played on 22 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 24 |url=https://www.snooker.org/res/index.asp?event=2825 |access-date=22 June 2026 |website=snooker.org}}</ref> [[Xu Si]] won the group and advanced to Stage 2 [[#Group H|Group H]].<ref name="WST_g03_g24" />
+
+==== Group 24 matches ====
+{{div col}}
+* '''Xu Si 3'''–1 Craig Steadman
+* '''Michael Holt 3'''–1 Julien Leclercq
+* Michael Holt 0–'''3 Craig Steadman'''
+* ''Xu Si 2–2 Julien Leclercq''
+* '''Julien Leclercq 3'''–0 Craig Steadman
+* ''Xu Si 2–2 Michael Holt''
+{{div col end}}
+
+==== Group 24 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Xu Si]]'''|CHN}} <small>{{tooltip|1=(24)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 61 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|[[Julien Leclercq (snooker player)|Julien Leclercq]]|BEL}} <small>{{tooltip|1=(102)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 74 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Michael Holt (snooker player)|Michael Holt]]|ENG}} <small>{{tooltip|1=(41)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 68 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Craig Steadman]]|ENG}} <small>{{tooltip|1=(91)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 6 || −2 || 41 || 3
+|}
+
+=== Group 25 ===
+Group 25 was played on 24 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 25 |url=https://www.snooker.org/res/index.asp?event=2826 |access-date=24 June 2026 |website=snooker.org}}</ref> [[Jackson Page]] won the group and advanced to Stage 2 [[#Group H|Group H]].<ref name="WST_g10_g25" />
+
+==== Group 25 matches ====
+{{div col}}
+* '''Jackson Page 3'''–1 Ashley Hugill
+* ''Long Zehuang 2–2 Artemijs Žižins''
+* ''Long Zehuang 2–2 Ashley Hugill''
+* ''Jackson Page 2–2 Artemijs Žižins''
+* ''Artemijs Žižins 2–2 Ashley Hugill''
+* ''Jackson Page 2–2 Long Zehuang''
+{{div col end}}
+
+==== Group 25 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Jackson Page]]'''|WAL}} <small>{{tooltip|1=(25)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 120 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|[[Long Zehuang]]|CHN}} <small>{{tooltip|1=(40)|2=player seeding}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 95 || 3
+|-
+| 3 ||align=left| {{flagathlete|[[Artemijs Žižins]]|LVA}} <small>{{tooltip|1=(106)|2=player seeding}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 82 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Ashley Hugill]]|ENG}} <small>{{tooltip|1=(96)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 76 || 2
+|}
+:'''Note:''' Long Zehuang and Artemijs Žižins finished Group 25 equal on points and frame difference. Their head-to-head was a draw. Long made a higher break (95) and so was placed above Žižins in the group.
+
+=== Group 26 ===
+Group 26 was played on 7 July.<ref name="s1_w3_matches" /><ref>{{cite web |title=Championship League Stage One Group 26 |url=https://www.snooker.org/res/index.asp?event=2827 |access-date=7 July 2026 |website=snooker.org}}</ref> [[Cheung Ka Wai]] won the group and advanced to Stage 2 [[#Group G|Group G]].<ref name="WST_g06_g26" />
+
+==== Group 26 matches ====
+{{div col}}
+* '''Cheung Ka Wai 3'''–1 Ashley Carty
+* ''Matthew Stevens 2–2 George Pragnell''
+* '''Matthew Stevens 3'''–0 Ashley Carty
+* '''Cheung Ka Wai 3'''–0 George Pragnell
+* Ashley Carty 1–'''3 George Pragnell'''
+* Matthew Stevens 0–'''3 Cheung Ka Wai'''
+{{div col end}}
+
+==== Group 26 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Cheung Ka Wai]]'''|HKG}} <small>{{tooltip|1=(98)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 111 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Matthew Stevens]]|WAL}} <small>{{tooltip|1=(39)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 102 || 4
+|-
+| 3 ||align=left| {{flagathlete|George Pragnell|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small>{{efn|George Pragnell replaced [[Tom Ford (snooker player)|Tom Ford]] (seeded 26) who withdrew.<ref name="s.o_main" /><ref name="CLS_ranking" />}} || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 75 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Ashley Carty]]|ENG}} <small>{{tooltip|1=(94)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 2 || 9 || −7 || 127 || 0
+|}
+
+=== Group 27 ===
+Group 27 was played on 23 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 27 |url=https://www.snooker.org/res/index.asp?event=2828 |access-date=23 June 2026 |website=snooker.org}}</ref> [[Chang Bingyu]] won the group and advanced to Stage 2 [[#Group F|Group F]].<ref name="WST_g02_g27" />
+
+==== Group 27 matches ====
+{{div col}}
+* Ryan Day 1–'''3 Jamie Clarke'''
+* '''Chang Bingyu 3'''–0 Phil O'Kane
+* '''Chang Bingyu 3'''–1 Jamie Clarke
+* '''Ryan Day 3'''–0 Phil O'Kane
+* Phil O'Kane 0–'''3 Jamie Clarke'''
+* Ryan Day 0–'''3 Chang Bingyu'''
+{{div col end}}
+
+==== Group 27 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Chang Bingyu]]'''|CHN}} <small>{{tooltip|1=(38)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 145 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Jamie Clarke (snooker player)|Jamie Clarke]]|WAL}} <small>{{tooltip|1=(89)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 4 || 3 || 123 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Ryan Day (snooker player)|Ryan Day]]|WAL}} <small>{{tooltip|1=(27)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 6 || −2 || 74 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Phil O'Kane]]|ENG}} <small>{{tooltip|1=(108)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 0 || 9 || −9 || 38 || 0
+|}
+
+=== Group 28 ===
+Group 28 was played on 26 June.<ref name="s1_w1_matches" /><ref>{{cite web |title=Championship League Stage One Group 28 |url=https://www.snooker.org/res/index.asp?event=2829 |access-date=26 June 2026 |website=snooker.org}}</ref> [[He Guoqiang (snooker player)|He Guoqiang]] won the group and advanced to Stage 2 [[#Group E|Group E]].<ref name="WST_g14_g28" />
+
+==== Group 28 matches ====
+{{div col}}
+* '''He Guoqiang 3'''–0 Dylan Smith
+* Sean O'Sullivan 1–'''3 Liu Yang'''
+* '''Sean O'Sullivan 3'''–0 Dylan Smith
+* '''He Guoqiang 3'''–1 Liu Yang
+* '''Liu Yang 3'''–1 Dylan Smith
+* '''He Guoqiang 3'''–0 Sean O'Sullivan
+{{div col end}}
+
+==== Group 28 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[He Guoqiang (snooker player)|He Guoqiang]]'''|CHN}} <small>{{tooltip|1=(37)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 93 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|Liu Yang|CHN}} <small>{{tooltip|1=(114)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 5 || 2 || 76 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Sean O'Sullivan (snooker player)|Sean O'Sullivan]]|ENG}} <small>{{tooltip|1=(92)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 6 || −2 || 61 || 3
+|-
+| 4 ||align=left| {{flagathlete|Dylan Smith|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small>{{efn|Dylan Smith replaced [[Anthony McGill]] (seeded 28) who withdrew.<ref name="s.o_main" /><ref name="CLS_ranking" />}} || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 78 || 0
+|}
+
+=== Group 29 ===
+Group 29 was played on 29 June.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 29 |url=https://www.snooker.org/res/index.asp?event=2830 |access-date=29 June 2026 |website=snooker.org}}</ref> [[Noppon Saengkham]] won the group and advanced to Stage 2 [[#Group D|Group D]].<ref name="WST_g18_g29" />
+
+==== Group 29 matches ====
+{{div col}}
+* '''Ben Woollaston 3'''–0 Huang Jiahao
+* '''Noppon Saengkham 3'''–1 Liam Davies
+* '''Noppon Saengkham 3'''–0 Huang Jiahao
+* Ben Woollaston 1–'''3 Liam Davies'''
+* '''Liam Davies 3'''–0 Huang Jiahao
+* '''Ben Woollaston 3'''–1 Noppon Saengkham
+{{div col end}}
+
+==== Group 29 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Noppon Saengkham]]'''|THA}} <small>{{tooltip|1=(36)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 4 || 3 || 123 || '''6'''
+|-
+| 2 ||align=left| {{flagathlete|[[Liam Davies (snooker player)|Liam Davies]]|WAL}} <small>{{tooltip|1=(99)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 4 || 3 || 121 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Ben Woollaston]]|ENG}} <small>{{tooltip|1=(29)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 4 || 3 || 78 || 6
+|-
+| 4 ||align=left| {{flagathlete|[[Huang Jiahao]]|CHN}} <small>{{tooltip|1=(95)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 0 || 9 || −9 || 48 || 0
+|}
+:'''Note:''' Noppon Saengkham, Liam Davies and Ben Woollaston all finished Group 29 equal on points and frame difference. Each player won their head-to-head by 3–1 and so the group placings were determined by the highest break.
+
+=== Group 30 ===
+Group 30 was played on 2 July.<ref name="s1_w2_matches" /><ref>{{cite web |title=Championship League Stage One Group 30 |url=https://www.snooker.org/res/index.asp?event=2831 |access-date=2 July 2026 |website=snooker.org}}</ref> [[Stan Moody]] won the group and advanced to Stage 2 [[#Group C|Group C]].<ref name="WST_g17_g30" />
+
+==== Group 30 matches ====
+{{div col}}
+* ''Stan Moody 2–2 Thanawat Tirapongpaiboon''
+* ''Daniel Wells 2–2 Stuart Carrington''
+* Daniel Wells 0–'''3 Thanawat Tirapongpaiboon'''
+* '''Stan Moody 3'''–0 Stuart Carrington
+* ''Stuart Carrington 2–2 Thanawat Tirapongpaiboon''
+* '''Stan Moody 3'''–1 Daniel Wells
+{{div col end}}
+
+==== Group 30 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Stan Moody]]'''|ENG}} <small>{{tooltip|1=(30)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 135 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Thanawat Tirapongpaiboon]]|THA}} <small>{{tooltip|1=(107)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 114 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Stuart Carrington]]|ENG}} <small>{{tooltip|1=(90)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 48 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Daniel Wells (snooker player)|Daniel Wells]]|WAL}} <small>{{tooltip|1=(35)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 51 || 1
+|}
+
+=== Group 31 ===
+Group 31 was played on 8 July.<ref name="s1_w3_matches" /><ref>{{cite web |title=Championship League Stage One Group 31 |url=https://www.snooker.org/res/index.asp?event=2832 |access-date=8 July 2026 |website=snooker.org}}</ref> [[Luca Brecel]] won the group and advanced to Stage 2 [[#Group B|Group B]].<ref name="WST_g07_g31" />
+
+==== Group 31 matches ====
+{{div col}}
+* Aaron Hill 1–'''3 Deng Haohui'''
+* '''Luca Brecel 3'''–0 Mitchell Mann
+* '''Luca Brecel 3'''–0 Deng Haohui
+* '''Aaron Hill 3'''–1 Mitchell Mann
+* '''Mitchell Mann 3'''–1 Deng Haohui
+* Aaron Hill 1–'''3 Luca Brecel'''
+{{div col end}}
+
+==== Group 31 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Luca Brecel]]'''|BEL}} <small>{{tooltip|1=(34)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 82 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} <small>{{tooltip|1=(31)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 5 || 7 || −2 || 107 || 3
+|-
+| 3 ||align=left| {{flagathlete|[[Mitchell Mann]]|ENG}} <small>{{tooltip|1=(88)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 7 || −3 || 78 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Deng Haohui]]|CHN}} <small>{{tooltip|1=(112)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 7 || −3 || 53 || 3
+|}
+:'''Note:''' Mitchell Mann and Deng Haohui finished Group 31 equal on points and frame difference. Mann won their head-to-head and so was placed above Deng in the group.
+
+=== Group 32 ===
+Group 32 was played on 9 July.<ref name="s1_w3_matches" /><ref>{{cite web |title=Championship League Stage One Group 32 |url=https://www.snooker.org/res/index.asp?event=2833 |access-date=9 July 2026 |website=snooker.org}}</ref> [[Zak Surety]] won the group and advanced to Stage 2 [[#Group A|Group A]].<ref name="WST_g01_g32" />
+
+==== Group 32 matches ====
+{{div col}}
+* '''Zak Surety 3'''–1 Gong Chenzhi
+* '''Matthew Selt 3'''–1 Andrew Higginson
+* '''Matthew Selt 3'''–1 Gong Chenzhi
+* ''Zak Surety 2–2 Andrew Higginson''
+* ''Andrew Higginson 2–2 Gong Chenzhi''
+* '''Zak Surety 3'''–1 Matthew Selt
+{{div col end}}
+
+==== Group 32 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Zak Surety]]'''|ENG}} <small>{{tooltip|1=(32)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 137 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Matthew Selt]]|ENG}} <small>{{tooltip|1=(33)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 5 || 2 || 103 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Andrew Higginson (snooker player)|Andrew Higginson]]|ENG}} <small>{{tooltip|1=(87)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 53 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Gong Chenzhi]]|CHN}} <small>{{tooltip|1=(101)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 4 || 8 || −4 || 76 || 1
+|}
+
+== Stage two ==
+Stage two consisted of eight groups, each having four players, the 32 winners from Stage one.<ref name="s.o_main" /><ref name="s2_w1_matches">{{cite web |title=BetVictor Championship League Snooker 2026 (Stage Two/WK1) matches |url=https://www.wst.tv/matches/79bcd402-fe9a-4d16-930e-ce8f7eae2599 |website=[[World Snooker Tour]] |date=11 July 2026 |access-date=11 July 2026 |archive-date=11 July 2026 |archive-url=https://web.archive.org/web/20260711191523/https://www.wst.tv/matches/79bcd402-fe9a-4d16-930e-ce8f7eae2599? |url-status=live}}</ref><ref name="s2_w2_matches">{{cite web |title=BetVictor Championship League Snooker 2026 (Stage Two/WK2) matches |url=https://www.wst.tv/matches/24b1a5d3-bfe3-41df-b998-eacb7d83ce24 |website=[[World Snooker Tour]] |date=14 July 2026 |access-date=14 July 2026 |archive-date=14 July 2026 |archive-url=https://web.archive.org/web/20260714200448/https://www.wst.tv/matches/24b1a5d3-bfe3-41df-b998-eacb7d83ce24? |url-status=live}}</ref> Numbers in parentheses after the players' names denote the players' [[seeding (sports)|seeding]], and (a) indicates amateur players not on the main [[World Snooker Tour]].
+
+=== Order of play ===
+Order of play as follows:
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right" | 10 July || style="text-align:left" | [[#Group A|Group A]]
+|-
+| style="text-align:right" | 10 July || style="text-align:left" | [[#Group B|Group B]]
+|-
+| style="text-align:right" | 11 July || style="text-align:left" | [[#Group C|Group C]]
+|-
+| style="text-align:right" | 11 July || style="text-align:left" | [[#Group D|Group D]]
+|}
+</div>
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right" | 13 July || style="text-align:left" | [[#Group E|Group E]]
+|-
+| style="text-align:right" | 13 July || style="text-align:left" | [[#Group F|Group F]]
+|-
+| style="text-align:right" | 14 July || style="text-align:left" | [[#Group G|Group G]]
+|-
+| style="text-align:right" | 14 July || style="text-align:left" | [[#Group H|Group H]]
+|}
+</div>
+
+=== Group A ===
+Group A was played on 10 July.<ref name="s2_w1_matches" /><ref>{{cite web |title=Championship League Stage Two Group A |url=https://www.snooker.org/res/index.asp?event=2834 |access-date=10 July 2026 |website=snooker.org}}</ref> [[Lei Peifan]] won the group and advanced to Stage 3 [[#Winners' group 1|Winners' group 1]].<ref name="WST_gA_gB">{{cite web |title=Vafaei and Lei reach final stage |url=https://www.wst.tv/news/2026/july/10/Vafaei-And-Lei-Reach-Final-Stage/ |website=[[World Snooker Tour]] |date=10 July 2026 |access-date=10 July 2026}}</ref>
+
+==== Group A matches ====
+{{div col}}
+* '''Lei Peifan 3'''–0 David Grace
+* Zak Surety 0–'''3 Liu Hongyu'''
+* ''Zak Surety 2–2 David Grace''
+* ''Lei Peifan 2–2 Liu Hongyu''
+* Liu Hongyu 1–'''3 David Grace'''
+* ''Lei Peifan 2–2 Zak Surety''
+{{div col end}}
+
+==== Group A table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Lei Peifan]]'''|CHN}} <small>{{tooltip|1=(16)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 110 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|[[Liu Hongyu (snooker player)|Liu Hongyu]]|CHN}} <small>{{tooltip|1=(48)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 82 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[David Grace (snooker player)|David Grace]]|ENG}} <small>{{tooltip|1=(64)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 101 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Zak Surety]]|ENG}} <small>{{tooltip|1=(32)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 75 || 2
+|}
+
+=== Group B ===
+Group B was played on 10 July.<ref name="s2_w1_matches" /><ref>{{cite web |title=Championship League Stage Two Group B |url=https://www.snooker.org/res/index.asp?event=2835 |access-date=10 July 2026 |website=snooker.org}}</ref> [[Hossein Vafaei]] won the group and advanced to Stage 3 [[#Winners' group 2|Winners' group 2]].<ref name="WST_gA_gB" />
+
+==== Group B matches ====
+{{div col}}
+* Pang Junxu 1–'''3 Ian Burns'''
+* '''Hossein Vafaei 3'''–0 Luca Brecel
+* '''Hossein Vafaei 3'''–1 Ian Burns
+* ''Pang Junxu 2–2 Luca Brecel''
+* '''Luca Brecel 3'''–0 Ian Burns
+* ''Pang Junxu 2–2 Hossein Vafaei''
+{{div col end}}
+
+==== Group B table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Hossein Vafaei]]'''|IRN}} <small>{{tooltip|1=(18)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 110 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Luca Brecel]]|BEL}} <small>{{tooltip|1=(34)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 49 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Ian Burns (snooker player)|Ian Burns]]|ENG}} <small>{{tooltip|1=(66)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 7 || −3 || 66 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Pang Junxu]]|CHN}} <small>{{tooltip|1=(15)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 112 || 2
+|}
+
+=== Group C ===
+Group C was played on 11 July.<ref name="s2_w1_matches" /><ref>{{cite web |title=Championship League Stage Two Group C |url=https://www.snooker.org/res/index.asp?event=2836 |access-date=11 July 2026 |website=snooker.org}}</ref> [[Dylan Emery]] won the group, eliminating the defending champion [[Stephen Maguire]], and advanced to Stage 3 [[#Winners' group 2|Winners' group 2]].<ref name="WST_gC_gD">{{cite web |title=Emery ends Maguire's reign |url=https://www.wst.tv/news/2026/july/11/emery-ends-maguire-s-reign/ |website=[[World Snooker Tour]] |date=11 July 2026 |access-date=11 July 2026}}</ref>
+
+==== Group C matches ====
+{{div col}}
+* ''Gary Wilson 2–2 Dylan Emery''
+* ''Stephen Maguire 2–2 Stan Moody''
+* ''Stephen Maguire 2–2 Dylan Emery''
+* Gary Wilson 1–'''3 Stan Moody'''
+* Stan Moody 0–'''3 Dylan Emery'''
+* '''Gary Wilson 3'''–1 Stephen Maguire
+{{div col end}}
+
+==== Group C table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Dylan Emery]]'''|WAL}} <small>{{tooltip|1=(62)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 96 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} <small>{{tooltip|1=(14)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 81 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Stan Moody]]|ENG}} <small>{{tooltip|1=(30)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 133 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Stephen Maguire]]|SCO}} <small>{{tooltip|1=(19)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 84 || 2
+|}
+
+=== Group D ===
+Group D was played on 11 July.<ref name="s2_w1_matches" /><ref>{{cite web |title=Championship League Stage Two Group D |url=https://www.snooker.org/res/index.asp?event=2837 |access-date=11 July 2026 |website=snooker.org}}</ref> [[Noppon Saengkham]] won the group and advanced to Stage 3 [[#Winners' group 1|Winners' group 1]].<ref name="WST_gC_gD" />
+
+==== Group D matches ====
+{{div col}}
+* '''Zhou Yuelong 3'''–1 Iulian Boiko
+* '''Noppon Saengkham 3'''–1 Scott Donaldson
+* ''Noppon Saengkham 2–2 Iulian Boiko''
+* Zhou Yuelong 1–'''3 Scott Donaldson'''
+* '''Scott Donaldson 3'''–1 Iulian Boiko
+* Zhou Yuelong 1–'''3 Noppon Saengkham'''
+{{div col end}}
+
+==== Group D table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Noppon Saengkham]]'''|THA}} <small>{{tooltip|1=(36)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 122 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Scott Donaldson]]|SCO}} <small>{{tooltip|1=(45)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 5 || 2 || 102 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Zhou Yuelong]]|CHN}} <small>{{tooltip|1=(13)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 5 || 7 || −2 || 79 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Iulian Boiko]]|UKR}} <small>{{tooltip|1=(61)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 4 || 8 || −4 || 55 || 1
+|}
+
+=== Group E ===
+Group E was played on 13 July.<ref name="s2_w2_matches" /><ref>{{cite web |title=Championship League Stage Two Group E |url=https://www.snooker.org/res/index.asp?event=2838 |access-date=13 July 2026 |website=snooker.org}}</ref> [[David Gilbert (snooker player)|David Gilbert]] won the group and advanced to Stage 3 [[#Winners' group 1|Winners' group 1]].<ref name="WST_gE_gF">{{cite web |title=Jones narrowly reaches final stage |url=https://www.wst.tv/news/2026/july/13/jones-narrowly-reaches-final-stage-1/ |website=[[World Snooker Tour]] |date=13 July 2026 |access-date=13 July 2026}}</ref>
+
+==== Group E matches ====
+{{div col}}
+* '''Chris Wakelin 3'''–1 He Guoqiang
+* Ali Carter 1–'''3 David Gilbert'''
+* ''Ali Carter 2–2 He Guoqiang''
+* Chris Wakelin 1–'''3 David Gilbert'''
+* David Gilbert 0–'''3 He Guoqiang'''
+* ''Chris Wakelin 2–2 Ali Carter''{{efn|[[Ali Carter]] conceded the last {{cuegloss|frame}} before the {{cuegloss|break-off}}.<ref name="s.o_main" />}}
+{{div col end}}
+
+==== Group E table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[David Gilbert (snooker player)|David Gilbert]]'''|ENG}} <small>{{tooltip|1=(21)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 6 || 5 || 1 || 101 || '''6'''
+|-
+| 2 ||align=left| {{flagathlete|[[He Guoqiang (snooker player)|He Guoqiang]]|CHN}} <small>{{tooltip|1=(37)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 110 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Chris Wakelin]]|ENG}} <small>{{tooltip|1=(5)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 92 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Ali Carter]]|ENG}} <small>{{tooltip|1=(12)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 56 || 2
+|}
+
+=== Group F ===
+Group F was played on 13 July.<ref name="s2_w2_matches" /><ref>{{cite web |title=Championship League Stage Two Group F |url=https://www.snooker.org/res/index.asp?event=2839 |access-date=13 July 2026 |website=snooker.org}}</ref> [[Jak Jones]] won the group and advanced to Stage 3 [[#Winners' group 2|Winners' group 2]].<ref name="WST_gE_gF" />
+
+==== Group F matches ====
+{{div col}}
+* ''Jak Jones 2–2 Mark Joyce''
+* '''Chang Bingyu 3'''–1 Marco Fu
+* '''Chang Bingyu 3'''–0 Mark Joyce
+* '''Jak Jones 3'''–1 Marco Fu
+* '''Marco Fu 3'''–0 Mark Joyce
+* '''Jak Jones 3'''–1 Chang Bingyu
+{{div col end}}
+
+==== Group F table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Jak Jones]]'''|WAL}} <small>{{tooltip|1=(22)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 102 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Chang Bingyu]]|CHN}} <small>{{tooltip|1=(38)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 4 || 3 || 139 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Marco Fu]]|HKG}} <small>{{tooltip|1=(59)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 5 || 6 || −1 || 105 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Mark Joyce]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 1 || 2 || 2 || 8 || −6 || 51 || 1
+|}
+
+=== Group G ===
+Group G was played on 14 July.<ref name="s2_w2_matches" /><ref>{{cite web |title=Championship League Stage Two Group G |url=https://www.snooker.org/res/index.asp?event=2840 |access-date=14 July 2026 |website=snooker.org}}</ref> [[Zhang Anda]] won the group and advanced to Stage 3 [[#Winners' group 2|Winners' group 2]].<ref name="WST_gG_gH">{{cite web |title=Slessor secures final stage slot |url=https://www.wst.tv/news/2026/july/14/slessor-secures-final-stage-slot/ |website=[[World Snooker Tour]] |date=14 July 2026 |access-date=15 July 2026}}</ref>
+
+==== Group G matches ====
+{{div col}}
+* Jack Lisowski 0–'''3 Cheung Ka Wai'''
+* ''Zhang Anda 2–2 Jimmy Robertson''
+* '''Zhang Anda 3'''–0 Cheung Ka Wai
+* '''Jack Lisowski 3'''–0 Jimmy Robertson
+* '''Jimmy Robertson 3'''–0 Cheung Ka Wai
+* Jack Lisowski 0–'''3 Zhang Anda'''
+{{div col end}}
+
+==== Group G table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Zhang Anda]]'''|CHN}} <small>{{tooltip|1=(10)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 2 || 6 || 109 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Jimmy Robertson (snooker player)|Jimmy Robertson]]|ENG}} <small>{{tooltip|1=(23)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 84 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Cheung Ka Wai]]|HKG}} <small>{{tooltip|1=(98)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 3 || 6 || −3 || 123 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Jack Lisowski]]|ENG}} <small>{{tooltip|1=(7)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 3 || 6 || −3 || 57 || 3
+|}
+:'''Note:''' Cheung Ka Wai and Jack Lisowski finished Group G equal on points and frame difference. Cheung won their head-to-head and so was placed above Lisowski in the group.
+
+=== Group H ===
+Group H was played on 14 July.<ref name="s2_w2_matches" /><ref>{{cite web |title=Championship League Stage Two Group H |url=https://www.snooker.org/res/index.asp?event=2841 |access-date=14 July 2026 |website=snooker.org}}</ref> [[Elliot Slessor]] won the group and advanced to Stage 3 [[#Winners' group 1|Winners' group 1]].<ref name="WST_gG_gH" />
+
+==== Group H matches ====
+{{div col}}
+* ''Elliot Slessor 2–2 Dean Young''
+* '''Xu Si 3'''–1 Jackson Page
+* ''Xu Si 2–2 Dean Young''
+* '''Elliot Slessor 3'''–1 Jackson Page
+* ''Jackson Page 2–2 Dean Young''
+* '''Elliot Slessor 3'''–1 Xu Si
+{{div col end}}
+
+==== Group H table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Elliot Slessor]]'''|ENG}} <small>{{tooltip|1=(9)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 139 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Xu Si]]|CHN}} <small>{{tooltip|1=(24)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 83 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Dean Young (snooker player)|Dean Young]]|SCO}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 82 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Jackson Page]]|WAL}} <small>{{tooltip|1=(25)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 4 || 8 || −4 || 120 || 1
+|}
+
+== Stage three ==
+Stage three consisted of two groups, each having four players, the eight winners from Stage two.<ref name="s.o_main" /><ref name="s3_final_matches">{{cite web |title=BetVictor Championship League Snooker 2026 (Stage Three & Final) matches |url=https://www.wst.tv/matches/a9c7a8a2-fc65-4ee5-9f15-752cdc8f2364? |website=[[World Snooker Tour]] |date=15 July 2026 |access-date=16 July 2026 |archive-date=16 July 2026 |archive-url=https://web.archive.org/web/20260716072032/https://www.wst.tv/matches/a9c7a8a2-fc65-4ee5-9f15-752cdc8f2364? |url-status=live}}</ref> Numbers in parentheses after the players' names denote the players' [[seeding (sports)|seeding]].
+
+=== Winners' group 1 ===
+Winners' group 1 was played on 15 July.<ref name="s3_final_matches" /><ref>{{cite web |title=Championship League Stage Three Group A |url=https://www.snooker.org/res/index.asp?event=2842 |access-date=15 July 2026 |website=snooker.org}}</ref> [[David Gilbert (snooker player)|David Gilbert]] won the group and advanced to the final.<ref name="WST_finalGroups">{{cite web |title=Jones lands first ranking title |url=https://www.wst.tv/news/2026/july/15/Jones-Wins-First-Ranking-Title/ |website=[[World Snooker Tour]] |date=15 July 2026 |access-date=15 July 2026}}</ref>
+
+==== Winners' group 1 matches ====
+{{div col}}
+* Elliot Slessor 0–'''3 Noppon Saengkham'''
+* Lei Peifan 1–'''3 David Gilbert'''
+* Lei Peifan 1–'''3 Noppon Saengkham'''
+* ''Elliot Slessor 2–2 David Gilbert''
+* '''David Gilbert 3'''–1 Noppon Saengkham
+* ''Elliot Slessor 2–2 Lei Peifan''
+{{div col end}}
+
+==== Winners' group 1 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[David Gilbert (snooker player)|David Gilbert]]'''|ENG}} <small>{{tooltip|1=(21)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 140 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Noppon Saengkham]]|THA}} <small>{{tooltip|1=(36)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 4 || 3 || 127 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Elliot Slessor]]|ENG}} <small>{{tooltip|1=(9)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 71 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Lei Peifan]]|CHN}} <small>{{tooltip|1=(16)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 4 || 8 || −4 || 38 || 1
+|}
+
+=== Winners' group 2 ===
+Winners' group 2 was played on 15 July.<ref name="s3_final_matches" /><ref>{{cite web |title=Championship League Stage Three Group B |url=https://www.snooker.org/res/index.asp?event=2843 |access-date=15 July 2026 |website=snooker.org}}</ref> [[Jak Jones]] won the group and advanced to the final.<ref name="WST_finalGroups" />
+
+==== Winners' group 2 matches ====
+{{div col}}
+* Zhang Anda 0–'''3 Dylan Emery'''
+* Hossein Vafaei 0–'''3 Jak Jones'''
+* '''Hossein Vafaei 3'''–0 Dylan Emery
+* ''Zhang Anda 2–2 Jak Jones''
+* '''Jak Jones 3'''–0 Dylan Emery
+* ''Zhang Anda 2–2 Hossein Vafaei''
+{{div col end}}
+
+==== Winners' group 2 table ====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=280|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Jak Jones]]'''|WAL}} <small>{{tooltip|1=(22)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 2 || 6 || 116 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Hossein Vafaei]]|IRN}} <small>{{tooltip|1=(18)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 130 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Dylan Emery]]|WAL}} <small>{{tooltip|1=(62)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 3 || 6 || −3 || 81 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Zhang Anda]]|CHN}} <small>{{tooltip|1=(10)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 120 || 2
+|}
+
+=== Final  ===
+{| class="wikitable" style="font-size: 95%; margin: 1em auto 1em auto;"
+|-
+| colspan="3" align="center" bgcolor="#ffd700" | '''Final:''' Best of 5 frames. Referee: Andrew Barklam<br/>[[Leicester Arena]], [[Leicester]], England, 15 July 2026<ref name="WST_finalGroups" /><ref>{{cite news |title=Jones beats Gilbert to win first professional title |url=https://www.bbc.com/sport/snooker/articles/cwym73z8endo |work=[[BBC Sport]] |first=Gareth |last=Bailey |date=16 July 2026 |access-date=17 July 2026}}</ref>
+|-
+| width="200" align="right" | [[David Gilbert (snooker player)|David Gilbert]] {{tooltip|(21)|player seeding}}<br/>{{ENG}}
+| width="100" align="center" | 2{{ndash}}'''3'''
+| width="200" align="left" | '''[[Jak Jones]]''' {{tooltip|(22)|player seeding}}<br/>{{WAL}}
+|-
+| colspan="3" align="center" style="font-size: 100%;" | ''Frame scores:'' '''104'''{{ndash}}0 (104), 16{{ndash}}'''100''', '''66'''{{ndash}}0, 0{{ndash}}'''95''', 19{{ndash}}'''69'''
+|-
+| align="right" | (''frame 1'') '''104'''
+| align="center" | Highest break
+| 86 (''frame 4'')
+|-
+| align="right" | '''1'''
+| align="center" | Century breaks
+| 0
+|-
+|}
+
+== Century breaks ==
+A total of 84 [[century break]]s were made during the tournament, 53 in Stage one,<ref>{{cite web |title=Centuries: Championship League Ranking Stage One – 53 |url=https://snookerinfo.co.uk/2026-27/#championship-league-ranking-stage-one-53 |website=snookerinfo.co.uk |access-date=18 July 2026 |archive-date=18 July 2026 |archive-url=https://web.archive.org/web/20260718080651/https://snookerinfo.co.uk/2026-27/#championship-league-ranking-stage-one-53 |url-status=live}}</ref> 21 in Stage two,<ref>{{cite web |title=Centuries: Championship League Ranking Stage Two – 21 |url=https://snookerinfo.co.uk/2026-27/#championship-league-ranking-stage-two-21 |website=snookerinfo.co.uk |access-date=18 July 2026 |archive-date=18 July 2026 |archive-url=https://web.archive.org/web/20260718080651/https://snookerinfo.co.uk/2026-27/#championship-league-ranking-stage-two-21 |url-status=live}}</ref> and 10 in Stage three.<ref>{{cite web |title=Centuries: Championship League Ranking Stage Three – 10 |url=https://snookerinfo.co.uk/2026-27/#championship-league-ranking-stage-three-10 |website=snookerinfo.co.uk |access-date=18 July 2026 |archive-date=18 July 2026 |archive-url=https://web.archive.org/web/20260718080651/https://snookerinfo.co.uk/2026-27/#championship-league-ranking-stage-three-10 |url-status=live}}</ref>
+{{div col}}
+* [[Maximum break|147]] {{ndash}} [[Si Jiahui]]<ref name="WST_g06_g26" />
+* 145, 139, 127, 102 {{ndash}} [[Chang Bingyu]]
+* 140, 139, 105 {{ndash}} [[Zhao Xintong]]
+* 140, 107, 104, 104, 102, 101, 101 {{ndash}} [[David Gilbert (snooker player)|David Gilbert]]
+* 139, 130, 130, 122 {{ndash}} [[Elliot Slessor]]
+* 137, 136 {{ndash}} [[Zak Surety]]
+* 135, 133, 104 {{ndash}} [[Stan Moody]]
+* 134 {{ndash}} [[Wang Xinbo (snooker player)|Wang Xinbo]]
+* 130, 110, 104 {{ndash}} [[Hossein Vafaei]]
+* 128 {{ndash}} [[Chris Wakelin]]
+* 127, 123, 122 {{ndash}} [[Noppon Saengkham]]
+* 127 {{ndash}} [[Ashley Carty]]
+* 125 {{ndash}} [[Stephen Maguire]]
+* 123, 111 {{ndash}} [[Cheung Ka Wai]]
+* 123, 101 {{ndash}} [[Jamie Clarke (snooker player)|Jamie Clarke]]
+* 121 {{ndash}} [[Liam Davies (snooker player)|Liam Davies]]
+* 121 {{ndash}} [[Liu Hongyu (snooker player)|Liu Hongyu]]
+* 120, 120 {{ndash}} [[Jackson Page]]
+* 120, 115, 111, 109, 107, 104 {{ndash}} [[Zhang Anda]]
+* 118 {{ndash}} [[Ishpreet Singh Chadha]]
+* 116, 112, 107, 102, 101 {{ndash}} [[Jak Jones]]
+* 115 {{ndash}} [[Lyu Haotian]]
+* 114 {{ndash}} [[Thanawat Tirapongpaiboon]]
+* 112 {{ndash}} [[Pang Junxu]]
+* 111 {{ndash}} [[Louis Heathcote]]
+* 110, 104, 101 {{ndash}} [[Lei Peifan]]
+* 110 {{ndash}} [[He Guoqiang (snooker player)|He Guoqiang]]
+* 109, 102 {{ndash}} [[Mateusz Baranowski]]
+* 109 {{ndash}} [[Antoni Kowalski]]
+* 107, 103, 100 {{ndash}} [[Dylan Emery]]
+* 107, 101 {{ndash}} [[Alfie Burden]]
+* 107 {{ndash}} [[Aaron Hill (snooker player)|Aaron Hill]]
+* 107 {{ndash}} [[Jamie Jones (snooker player)|Jamie Jones]]
+* 107 {{ndash}} [[Dean Young (snooker player)|Dean Young]]
+* 106, 105 {{ndash}} [[Marco Fu]]
+* 104 {{ndash}} [[Jordan Brown (snooker player)|Jordan Brown]]
+* 103 {{ndash}} [[David Lilley (snooker player)|David Lilley]]
+* 103 {{ndash}} [[Matthew Selt]]
+* 102 {{ndash}} [[Scott Donaldson]]
+* 102 {{ndash}} [[Matthew Stevens]]
+* 101 {{ndash}} [[David Grace (snooker player)|David Grace]]
+* 101 {{ndash}} [[Luo Zetao]]
+* 101 {{ndash}} [[Joe O'Connor (snooker player)|Joe O'Connor]]
+* 100 {{ndash}} [[Sahil Nayyar]]
+{{div col end}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://championshipleaguesnooker.co.uk/ Matchroom Sport – Championship League Snooker]
+* [https://www.youtube.com/@MatchroomPool1/streams Table one channel stream] on [[YouTube]]
+* [https://www.youtube.com/@MatchroomMultiSport/streams Table two channel stream] on [[YouTube]]
+
+{{Championship League}}
+{{Snooker tournaments}}
+{{2026–27 snooker season}}
+
+[[Category:Championship League]]
+[[Category:Snooker ranking tournaments]]
+[[Category:2026 in snooker]]
+[[Category:2026 in English sport]]
+[[Category:Sport in Leicester]]

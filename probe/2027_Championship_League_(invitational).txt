@@ -1,0 +1,1043 @@
+{{short description|Invitational snooker tournament}}
+{{Use British English|date=July 2026}}
+{{Use dmy dates|date=July 2026}}
+{{Infobox individual snooker tournament
+|tournament_name=2027 [[BetVictor]]<br/>[[Championship League]] Invitational
+|logo=
+|dates={{nowrap|{{Start and end dates|2026|12|21|2027|01|23|df=y}}}}
+|venue=[[Leicester Arena]]
+|location=[[Leicester]]
+|organisation=[[Matchroom Sport]]
+|country=England
+|format=Non-[[Snooker world rankings|ranking]] event
+|Total prize fund=£205,000
+|winners_share=£10,000 (plus bonuses)
+|defending_champion={{flagathlete|[[Mark Selby]]|ENG}}
+|highest_break=
+|winner=
+|runner_up=
+|score=
+|previous=[[2026 Championship League (ranking)|2026 (ranking)]]<br/>← [[2026 Championship League (invitational)|2026 (invitational)]]
+|next=[[2027 Championship League (ranking)|2027 (ranking)]]→<br/>[[2028 Championship League (invitational)|2028 (invitational)]]
+}}
+
+The '''2027 Championship League Invitational''' (officially the '''2027 BetVictor Championship League Snooker Invitational''') is an upcoming professional non-[[Snooker world rankings|ranking]] [[snooker]] tournament that will take place from 21{{nbsp}}December{{nbsp}}2026 to 23{{nbsp}}January{{nbsp}}2027 at the [[Leicester Arena]] in [[Leicester]], England. Part of the [[2026–27 snooker season]], it will be the 21st edition of the invitational version of the tournament, which was first staged in [[2008 Championship League|2008]].
+
+[[Mark Selby]] is the defending champion, having retained the title for a third consecutive time at the [[2026 Championship League (invitational)|2026 event]] by defeating [[Wu Yize]] 3–1 in the final.
+
+== Overview ==
+The tournament will take place from 21{{nbsp}}December{{nbsp}}2026 to 23{{nbsp}}January{{nbsp}}2027 at the [[Leicester Arena]] in [[Leicester]], England.<ref>{{cite web |title=Tournaments |url=https://www.wst.tv/tournaments |access-date=17 July 2026 |website=[[World Snooker Tour]]}}</ref><ref>{{cite web |title=Calendar 2026/2027 |url=https://www.snooker.org/res/index.asp?season=2026&template=2 |access-date=17 July 2026 |website=snooker.org}}</ref> [[Mark Selby]] is the defending champion, having defeated [[Wu Yize]] 3–1 in the final of the [[2026 Championship League (invitational)|2026 event]], retaining the title for a third consecutive time.<ref>{{cite web |title=Selby retains league title |url=https://www.wst.tv/news/2026/february/11/selby-retains-league-title-/ |website=[[World Snooker Tour]] |date=11 February 2026 |access-date=11 February 2026}}</ref>
+
+=== Format ===
+A total of 25 players are initially invited to the event, with the matches played [[Behind closed doors (sport)|behind closed doors]] without an audience. Players earn prize money for every {{cuegloss|frame}} won, as well as being semi{{nbh}}finalists, runners{{nbh}}up, and winners of each group, with more money involved in the Winners' Group. Since [[2010 Championship League|2010]] all matches have been played as the [[Playoff format#Higher number of games|best of five]] frames.
+
+The tournament is played in a [[Round-robin tournament|round{{nbh}}robin]] format, consisting of eight groups of seven players. The top four players in each group qualify for a play{{nbh}}off, with the winner entering the Winners' Group. The bottom two players in each group are eliminated, and the remaining four moved to the next group, where they are joined by three more players. This format is played for each group, from one to seven. In each group, the players are ranked by the number of matches won, then by most frames won, and then by least frames lost. If two players are tied by these criteria, the player who wins the match between them is ranked higher in the table. The group play{{nbh}}off semi{{nbh}}finals are contested between the 1st and 4th place players in the table, and between the 2nd and 3rd place players in the table. The Winners' Group is played at the end, and its play{{nbh}}off winner becomes champion of the tournament.<ref name="CLS_inv_format">{{cite web |title=Championship League Snooker |url=https://championshipleaguesnooker.co.uk/invitational/ |website=championshipleaguesnooker.co.uk |access-date=21 May 2026}}</ref><ref name="CLS_info">{{cite web |title=2026 BetVictor Championship League Snooker invitational event returns: everything you need to know |url=https://championshipleaguesnooker.co.uk/2026-betvictor-championship-league-snooker-invitational-event-returns-everything-you-need-to-know/ |website=championshipleaguesnooker.co.uk |date=22 December 2025 |access-date=13 February 2026 |archive-date=2 January 2026 |archive-url=https://web.archive.org/web/20260102075838/https://championshipleaguesnooker.co.uk/2026-betvictor-championship-league-snooker-invitational-event-returns-everything-you-need-to-know/ |url-status=live}}</ref>
+
+Group 1 will be played on 21 and 22{{nbsp}}December{{nbsp}}2026; Groups 2 to 5 will be played from 2 to 9{{nbsp}}January{{nbsp}}2027; Groups 6, 7, and the Winners' Group will be played from 18 to 23{{nbsp}}January{{nbsp}}2027. The champion will take a place in the [[2027 Champion of Champions]].{{refn|<ref name="s.o_gp1">{{cite web |title=Championship League-Group 1 |url=https://www.snooker.org/res/index.asp?event=2794 |website=snooker.org |access-date=17 July 2026}}</ref><ref name="s.o_gp2">{{cite web |title=Championship League-Group 2 |url=https://www.snooker.org/res/index.asp?event=2795 |website=snooker.org |access-date=17 July 2026}}</ref><ref name="s.o_gp3">{{cite web |title=Championship League-Group 3 |url=https://www.snooker.org/res/index.asp?event=2796 |website=snooker.org |access-date=17 July 2026}}</ref><ref name="s.o_gp4">{{cite web |title=Championship League-Group 4 |url=https://www.snooker.org/res/index.asp?event=2797 |website=snooker.org |access-date=17 July 2026}}</ref><ref name="s.o_gp5">{{cite web |title=Championship League-Group 5 |url=https://www.snooker.org/res/index.asp?event=2798 |website=snooker.org |access-date=17 July 2026}}</ref><ref name="s.o_gp6">{{cite web |title=Championship League-Group 6 |url=https://www.snooker.org/res/index.asp?event=2799 |website=snooker.org |access-date=17 July 2026}}</ref><ref name="s.o_gp7">{{cite web |title=Championship League-Group 7 |url=https://www.snooker.org/res/index.asp?event=2800 |website=snooker.org |access-date=17 July 2026}}</ref><ref name="s.o_gpW">{{cite web |title=Championship League-Winners' Group |url=https://www.snooker.org/res/index.asp?event=2793 |website=snooker.org |access-date=17 July 2026}}</ref>}}{{refn|<ref name="CLS_gp1">{{cite web |title=Championship League Snooker: Group 1 |url=https://championshipleaguesnooker.co.uk/invitational/2027-championship-league-snooker-invitational/group-1/ |website=championshipleaguesnooker.co.uk |access-date=17 July 2026}}</ref><ref name="CLS_gp2">{{cite web |title=Championship League Snooker: Group 2 |url=https://championshipleaguesnooker.co.uk/invitational/2027-championship-league-snooker-invitational/group-2/ |website=championshipleaguesnooker.co.uk |access-date=17 July 2026}}</ref><ref name="CLS_gp3">{{cite web |title=Championship League Snooker: Group 3 |url=https://championshipleaguesnooker.co.uk/invitational/2027-championship-league-snooker-invitational/group-3/ |website=championshipleaguesnooker.co.uk |access-date=17 July 2026}}</ref><ref name="CLS_gp4">{{cite web |title=Championship League Snooker: Group 4 |url=https://championshipleaguesnooker.co.uk/invitational/2027-championship-league-snooker-invitational/group-4/ |website=championshipleaguesnooker.co.uk |access-date=17 July 2026}}</ref><ref name="CLS_gp5">{{cite web |title=Championship League Snooker: Group 5 |url=https://championshipleaguesnooker.co.uk/invitational/2027-championship-league-snooker-invitational/group-5/ |website=championshipleaguesnooker.co.uk |access-date=17 July 2026}}</ref><ref name="CLS_gp6">{{cite web |title=Championship League Snooker: Group 6 |url=https://championshipleaguesnooker.co.uk/invitational/2027-championship-league-snooker-invitational/group-6/ |website=championshipleaguesnooker.co.uk |access-date=17 July 2026}}</ref><ref name="CLS_gp7">{{cite web |title=Championship League Snooker: Group 7 |url=https://championshipleaguesnooker.co.uk/invitational/2027-championship-league-snooker-invitational/group-7/ |website=championshipleaguesnooker.co.uk |access-date=17 July 2026}}</ref><ref name="CLS_gpW">{{cite web |title=Championship League Snooker: Winners' Group |url=https://championshipleaguesnooker.co.uk/invitational/2027-championship-league-snooker-invitational/winners/ |website=championshipleaguesnooker.co.uk |access-date=17 July 2026}}</ref>}}{{refn|<ref name="WST_matches_g1">{{cite web |title=Championship League Group 1 matches |url=https://www.wst.tv/matches/? |work=[[World Snooker Tour]] |access-date=17 July 2026}}</ref><ref name="WST_matches_g2">{{cite web |title=Championship League Group 2 matches |url=https://www.wst.tv/matches/? |work=[[World Snooker Tour]] |access-date=17 July 2026}}</ref><ref name="WST_matches_g3">{{cite web |title=Championship League Group 3 matches |url=https://www.wst.tv/matches/? |work=[[World Snooker Tour]] |access-date=17 July 2026}}</ref><ref name="WST_matches_g4">{{cite web |title=Championship League Group 4 matches |url=https://www.wst.tv/matches/? |work=[[World Snooker Tour]] |access-date=17 July 2026}}</ref><ref name="WST_matches_g5">{{cite web |title=Championship League Group 5 matches |url=https://www.wst.tv/matches/? |work=[[World Snooker Tour]] |access-date=17 July 2026}}</ref><ref name="WST_matches_g6">{{cite web |title=Championship League Group 6 matches |url=https://www.wst.tv/matches/? |work=[[World Snooker Tour]] |access-date=17 July 2026}}</ref><ref name="WST_matches_g7">{{cite web |title=Championship League Group 7 matches |url=https://www.wst.tv/matches/? |work=[[World Snooker Tour]] |access-date=17 July 2026}}</ref><ref name="WST_matches_gW">{{cite web |title=Championship League Winners Group matches |url=https://www.wst.tv/matches/? |work=[[World Snooker Tour]] |access-date=17 July 2026}}</ref>}}
+
+<!--=== Broadcasters ===
+The event will be broadcast by Eurasian Broadcasting in Ukraine and the Commonwealth of Independent States; [[Fox Sports (Australia)|Fox Sports]] in Australia; [[Nova Sport (Czech Republic and Slovakia)|Nova Sport]] in Czechia and Slovakia; Rigour Media in China; [[PCCW]] in Hong Kong; [[Viaplay Group|Viaplay]] in Iceland and the Netherlands; Reddentes in Thailand; [[Sky (New Zealand)|Sky NZ]] in New Zealand; [[TV3 Group (Baltics)|TV3]] in the Baltics; [[Viasat (Nordic television service)|Viasat]] in Scandinavia; and by [[Matchroom Sport|Matchroom.live]] in all other territories. Additionally, table one will be streamed live on the Matchroom Pool [[YouTube]] channel available in the United Kingdom, with table two being available worldwide on the Matchroom Multi Sport YouTube channel.<ref name="CLS_info" />
+-->
+=== Prize fund ===
+The breakdown of prize money for the 2027 Championship League is as follows:<ref name="CLS_inv_format" /><ref name="CLS_info" />
+{{div col}}
+* '''Groups 1–7'''
+** Winner: £3,000
+** Runner-up: £2,000
+** Semi-final: £1,000
+** Frame-win (league stage): £100
+** Frame-win (play-offs): £300
+** Highest break: £500
+* '''Winners' Group'''
+** Winner: £10,000
+** Runner-up: £5,000
+** Semi-final: £3,000
+** Frame-win (league stage): £200
+** Frame-win (play-offs): £300
+** Highest break: £1,000
+{{div col end}}
+* '''Maximum possible tournament total''': £205,000 <small>(if ''all'' match results are 3–2)</small><!--
+100x7x21x5 + 300x7x3x5 + 500x7 + 1000x7x2 + 2000x7 + 3000x7
++ 200x21x5 + 300x3x5 + 1000 + 3000x2 + 5000 + 10000 = 205000
+-->
+* '''Minimum possible tournament total''': £152,800 <small>(if ''all'' match results are 3–0)</small><!--
+100x7x21x3 + 300x7x3x3 + 500x7 + 1000x7x2 + 2000x7 + 3000x7
++ 200x21x3 + 300x3x3 + 1000 + 3000x2 + 5000 + 10000 = 152800
+-->
+
+== Group 1 ==
+Group 1 will be played on 21 and 22 December 2026.<ref name="CLS_gp1" /><ref name="WST_matches_g1" />
+
+=== Group 1 league matches ===
+==== 21 December ====
+{{div col}}
+* Order of play for the 12 matches to be decided.
+{{div col end}}
+
+==== 22 December ====
+{{div col}}
+* Order of play for the 9 matches to be decided.
+{{div col end}}
+
+=== Group 1 table ===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA=Group 1 – Player 1
+|name_BBB=Group 1 – Player 2
+|name_CCC=Group 1 – Player 3
+|name_DDD=Group 1 – Player 4
+|name_EEE=Group 1 – Player 5
+|name_FFF=Group 1 – Player 6
+|name_GGG=Group 1 – Player 7
+|win_AAA=0 |loss_AAA=0 |gf_AAA=0 |ga_AAA=0
+|win_BBB=0 |loss_BBB=0 |gf_BBB=0 |ga_BBB=0
+|win_CCC=0 |loss_CCC=0 |gf_CCC=0 |ga_CCC=0
+|win_DDD=0 |loss_DDD=0 |gf_DDD=0 |ga_DDD=0
+|win_EEE=0 |loss_EEE=0 |gf_EEE=0 |ga_EEE=0
+|win_FFF=0 |loss_FFF=0 |gf_FFF=0 |ga_FFF=0
+|win_GGG=0 |loss_GGG=0 |gf_GGG=0 |ga_GGG=0
+<!--|split4=yes
+|split5=yes-->
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=<!--Qualification to Group 1 play-off-->
+|col_PO=green1<!--blue1--> |text_PO=<!--Advanced into Group 2-->
+|col_rel=green1<!--red1--> |text_rel=<!--Eliminated from the competition-->
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 1 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp1" /><ref name="CLS_gp1" />
+}}
+
+=== Group 1 play-offs ===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| 1st place player from table
+| 
+| 4th place player from table
+| 
+|| 2nd place player from table
+| 
+| 3rd place player from table
+| 
+<!--final-->
+|| 1st semi-final winner
+| 
+| 2nd semi-final winner
+| 
+}}
+
+== Group 2 ==
+Group 2 will be played on 2 and 3 January 2027.<ref name="CLS_gp2" /><ref name="WST_matches_g2" />
+
+=== Group 2 league matches ===
+==== 2 January ====
+{{div col}}
+* Order of play for the 12 matches to be decided.
+{{div col end}}
+
+==== 3 January ====
+{{div col}}
+* Order of play for the 9 matches to be decided.
+{{div col end}}
+
+=== Group 2 table ===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA=Group 2 – Player 1
+|name_BBB=Group 2 – Player 2
+|name_CCC=Group 2 – Player 3
+|name_DDD=Group 2 – Player 4
+|name_EEE=Group 2 – Player 5
+|name_FFF=Group 2 – Player 6
+|name_GGG=Group 2 – Player 7
+|win_AAA=0 |loss_AAA=0 |gf_AAA=0 |ga_AAA=0
+|win_BBB=0 |loss_BBB=0 |gf_BBB=0 |ga_BBB=0
+|win_CCC=0 |loss_CCC=0 |gf_CCC=0 |ga_CCC=0
+|win_DDD=0 |loss_DDD=0 |gf_DDD=0 |ga_DDD=0
+|win_EEE=0 |loss_EEE=0 |gf_EEE=0 |ga_EEE=0
+|win_FFF=0 |loss_FFF=0 |gf_FFF=0 |ga_FFF=0
+|win_GGG=0 |loss_GGG=0 |gf_GGG=0 |ga_GGG=0
+<!--|split4=yes
+|split5=yes-->
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=<!--Qualification to Group 2 play-off-->
+|col_PO=green1<!--blue1--> |text_PO=<!--Advanced into Group 3-->
+|col_rel=green1<!--red1--> |text_rel=<!--Eliminated from the competition-->
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 2 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp2" /><ref name="CLS_gp2" />
+}}
+
+=== Group 2 play-offs ===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| 1st place player from table
+| 
+| 4th place player from table
+| 
+|| 2nd place player from table
+| 
+| 3rd place player from table
+| 
+<!--final-->
+|| 1st semi-final winner
+| 
+| 2nd semi-final winner
+| 
+}}
+
+== Group 3 ==
+Group 3 will be played on 4 and 5 January 2027.<ref name="CLS_gp3" /><ref name="WST_matches_g3" />
+
+=== Group 3 league matches ===
+==== 4 January ====
+{{div col}}
+* Order of play for the 12 matches to be decided.
+{{div col end}}
+
+==== 5 January ====
+{{div col}}
+* Order of play for the 9 matches to be decided.
+{{div col end}}
+
+=== Group 3 table ===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA=Group 3 – Player 1
+|name_BBB=Group 3 – Player 2
+|name_CCC=Group 3 – Player 3
+|name_DDD=Group 3 – Player 4
+|name_EEE=Group 3 – Player 5
+|name_FFF=Group 3 – Player 6
+|name_GGG=Group 3 – Player 7
+|win_AAA=0 |loss_AAA=0 |gf_AAA=0 |ga_AAA=0
+|win_BBB=0 |loss_BBB=0 |gf_BBB=0 |ga_BBB=0
+|win_CCC=0 |loss_CCC=0 |gf_CCC=0 |ga_CCC=0
+|win_DDD=0 |loss_DDD=0 |gf_DDD=0 |ga_DDD=0
+|win_EEE=0 |loss_EEE=0 |gf_EEE=0 |ga_EEE=0
+|win_FFF=0 |loss_FFF=0 |gf_FFF=0 |ga_FFF=0
+|win_GGG=0 |loss_GGG=0 |gf_GGG=0 |ga_GGG=0
+<!--|split4=yes
+|split5=yes-->
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=<!--Qualification to Group 3 play-off-->
+|col_PO=green1<!--blue1--> |text_PO=<!--Advanced into Group 4-->
+|col_rel=green1<!--red1--> |text_rel=<!--Eliminated from the competition-->
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 3 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp3" /><ref name="CLS_gp3" />
+}}
+
+=== Group 3 play-offs ===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| 1st place player from table
+| 
+| 4th place player from table
+| 
+|| 2nd place player from table
+| 
+| 3rd place player from table
+| 
+<!--final-->
+|| 1st semi-final winner
+| 
+| 2nd semi-final winner
+| 
+}}
+
+== Group 4 ==
+Group 4 will be played on 6 and 7 January 2027.<ref name="CLS_gp4" /><ref name="WST_matches_g4" />
+
+=== Group 4 league matches ===
+==== 6 January ====
+{{div col}}
+* Order of play for the 12 matches to be decided.
+{{div col end}}
+
+==== 7 January ====
+{{div col}}
+* Order of play for the 9 matches to be decided.
+{{div col end}}
+
+=== Group 4 table ===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA=Group 4 – Player 1
+|name_BBB=Group 4 – Player 2
+|name_CCC=Group 4 – Player 3
+|name_DDD=Group 4 – Player 4
+|name_EEE=Group 4 – Player 5
+|name_FFF=Group 4 – Player 6
+|name_GGG=Group 4 – Player 7
+|win_AAA=0 |loss_AAA=0 |gf_AAA=0 |ga_AAA=0
+|win_BBB=0 |loss_BBB=0 |gf_BBB=0 |ga_BBB=0
+|win_CCC=0 |loss_CCC=0 |gf_CCC=0 |ga_CCC=0
+|win_DDD=0 |loss_DDD=0 |gf_DDD=0 |ga_DDD=0
+|win_EEE=0 |loss_EEE=0 |gf_EEE=0 |ga_EEE=0
+|win_FFF=0 |loss_FFF=0 |gf_FFF=0 |ga_FFF=0
+|win_GGG=0 |loss_GGG=0 |gf_GGG=0 |ga_GGG=0
+<!--|split4=yes
+|split5=yes-->
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=<!--Qualification to Group 4 play-off-->
+|col_PO=green1<!--blue1--> |text_PO=<!--Advanced into Group 5-->
+|col_rel=green1<!--red1--> |text_rel=<!--Eliminated from the competition-->
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 4 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp4" /><ref name="CLS_gp4" />
+}}
+
+=== Group 4 play-offs ===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| 1st place player from table
+| 
+| 4th place player from table
+| 
+|| 2nd place player from table
+| 
+| 3rd place player from table
+| 
+<!--final-->
+|| 1st semi-final winner
+| 
+| 2nd semi-final winner
+| 
+}}
+
+== Group 5 ==
+Group 5 will be played on 8 and 9 January 2027.<ref name="CLS_gp5" /><ref name="WST_matches_g5" />
+
+=== Group 5 league matches ===
+==== 8 January ====
+{{div col}}
+* Order of play for the 12 matches to be decided.
+{{div col end}}
+
+==== 9 January ====
+{{div col}}
+* Order of play for the 9 matches to be decided.
+{{div col end}}
+
+=== Group 5 table ===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA=Group 5 – Player 1
+|name_BBB=Group 5 – Player 2
+|name_CCC=Group 5 – Player 3
+|name_DDD=Group 5 – Player 4
+|name_EEE=Group 5 – Player 5
+|name_FFF=Group 5 – Player 6
+|name_GGG=Group 5 – Player 7
+|win_AAA=0 |loss_AAA=0 |gf_AAA=0 |ga_AAA=0
+|win_BBB=0 |loss_BBB=0 |gf_BBB=0 |ga_BBB=0
+|win_CCC=0 |loss_CCC=0 |gf_CCC=0 |ga_CCC=0
+|win_DDD=0 |loss_DDD=0 |gf_DDD=0 |ga_DDD=0
+|win_EEE=0 |loss_EEE=0 |gf_EEE=0 |ga_EEE=0
+|win_FFF=0 |loss_FFF=0 |gf_FFF=0 |ga_FFF=0
+|win_GGG=0 |loss_GGG=0 |gf_GGG=0 |ga_GGG=0
+<!--|split4=yes
+|split5=yes-->
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=<!--Qualification to Group 5 play-off-->
+|col_PO=green1<!--blue1--> |text_PO=<!--Advanced into Group 6-->
+|col_rel=green1<!--red1--> |text_rel=<!--Eliminated from the competition-->
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 5 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp5" /><ref name="CLS_gp5" />
+}}
+
+=== Group 5 play-offs ===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| 1st place player from table
+| 
+| 4th place player from table
+| 
+|| 2nd place player from table
+| 
+| 3rd place player from table
+| 
+<!--final-->
+|| 1st semi-final winner
+| 
+| 2nd semi-final winner
+| 
+}}
+
+== Group 6 ==
+Group 6 will be played on 18 and 19 January 2027.<ref name="CLS_gp6" /><ref name="WST_matches_g6" />
+
+=== Group 6 league matches ===
+==== 18 January ====
+{{div col}}
+* Order of play for the 12 matches to be decided.
+{{div col end}}
+
+==== 19 January ====
+{{div col}}
+* Order of play for the 9 matches to be decided.
+{{div col end}}
+
+=== Group 6 table ===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA=Group 6 – Player 1
+|name_BBB=Group 6 – Player 2
+|name_CCC=Group 6 – Player 3
+|name_DDD=Group 6 – Player 4
+|name_EEE=Group 6 – Player 5
+|name_FFF=Group 6 – Player 6
+|name_GGG=Group 6 – Player 7
+|win_AAA=0 |loss_AAA=0 |gf_AAA=0 |ga_AAA=0
+|win_BBB=0 |loss_BBB=0 |gf_BBB=0 |ga_BBB=0
+|win_CCC=0 |loss_CCC=0 |gf_CCC=0 |ga_CCC=0
+|win_DDD=0 |loss_DDD=0 |gf_DDD=0 |ga_DDD=0
+|win_EEE=0 |loss_EEE=0 |gf_EEE=0 |ga_EEE=0
+|win_FFF=0 |loss_FFF=0 |gf_FFF=0 |ga_FFF=0
+|win_GGG=0 |loss_GGG=0 |gf_GGG=0 |ga_GGG=0
+<!--|split4=yes
+|split5=yes-->
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=<!--Qualification to Group 6 play-off-->
+|col_PO=green1<!--blue1--> |text_PO=<!--Advanced into Group 7-->
+|col_rel=green1<!--red1--> |text_rel=<!--Eliminated from the competition-->
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 6 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp6" /><ref name="CLS_gp6" />
+}}
+
+=== Group 6 play-offs ===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| 1st place player from table
+| 
+| 4th place player from table
+| 
+|| 2nd place player from table
+| 
+| 3rd place player from table
+| 
+<!--final-->
+|| 1st semi-final winner
+| 
+| 2nd semi-final winner
+| 
+}}
+
+== Group 7 ==
+Group 7 will be played on 20 and 21 January 2027.<ref name="CLS_gp7" /><ref name="WST_matches_g7" />
+ 
+=== Group 7 league matches ===
+==== 20 January ====
+{{div col}}
+* Order of play for the 12 matches to be decided.
+{{div col end}}
+
+==== 21 January ====
+{{div col}}
+* Order of play for the 9 matches to be decided.
+{{div col end}}
+
+=== Group 7 table ===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA=Group 7 – Player 1
+|name_BBB=Group 7 – Player 2
+|name_CCC=Group 7 – Player 3
+|name_DDD=Group 7 – Player 4
+|name_EEE=Group 7 – Player 5
+|name_FFF=Group 7 – Player 6
+|name_GGG=Group 7 – Player 7
+|win_AAA=0 |loss_AAA=0 |gf_AAA=0 |ga_AAA=0
+|win_BBB=0 |loss_BBB=0 |gf_BBB=0 |ga_BBB=0
+|win_CCC=0 |loss_CCC=0 |gf_CCC=0 |ga_CCC=0
+|win_DDD=0 |loss_DDD=0 |gf_DDD=0 |ga_DDD=0
+|win_EEE=0 |loss_EEE=0 |gf_EEE=0 |ga_EEE=0
+|win_FFF=0 |loss_FFF=0 |gf_FFF=0 |ga_FFF=0
+|win_GGG=0 |loss_GGG=0 |gf_GGG=0 |ga_GGG=0
+<!--|split4=yes-->
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=<!--Qualification to Group 7 play-off-->
+|col_rel=green1<!--red1--> |text_rel=<!--Eliminated from the competition-->
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=rel |result6=rel |result7=rel
+|update=Complete
+|source=Group 7 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp7" /><ref name="CLS_gp7" />
+}}
+
+=== Group 7 play-offs ===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| 1st place player from table
+| 
+| 4th place player from table
+| 
+|| 2nd place player from table
+| 
+| 3rd place player from table
+| 
+<!--final-->
+|| 1st semi-final winner
+| 
+| 2nd semi-final winner
+| 
+}}
+
+== Winners' Group ==
+The Winners' Group will be played on 22 and 23 January 2027.<ref name="CLS_gpW" /><ref name="WST_matches_gW" />
+
+=== Winners' Group league matches ===
+==== 22 January ====
+{{div col}}
+* Order of play for the 12 matches to be decided.
+{{div col end}}
+
+==== 23 January ====
+{{div col}}
+* Order of play for the 9 matches to be decided.
+{{div col end}}
+
+=== Winners' Group table ===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA=Group 1 winner
+|name_BBB=Group 2 winner
+|name_CCC=Group 3 winner
+|name_DDD=Group 4 winner
+|name_EEE=Group 5 winner
+|name_FFF=Group 6 winner
+|name_GGG=Group 7 winner
+|win_AAA=0 |loss_AAA=0 |gf_AAA=0 |ga_AAA=0
+|win_BBB=0 |loss_BBB=0 |gf_BBB=0 |ga_BBB=0
+|win_CCC=0 |loss_CCC=0 |gf_CCC=0 |ga_CCC=0
+|win_DDD=0 |loss_DDD=0 |gf_DDD=0 |ga_DDD=0
+|win_EEE=0 |loss_EEE=0 |gf_EEE=0 |ga_EEE=0
+|win_FFF=0 |loss_FFF=0 |gf_FFF=0 |ga_FFF=0
+|win_GGG=0 |loss_GGG=0 |gf_GGG=0 |ga_GGG=0
+<!--|split4=yes-->
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=<!--Qualification to Winners' Group play-off-->
+|col_rel=green1<!--red1--> |text_rel=<!--Eliminated from the competition-->
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=rel |result6=rel |result7=rel
+|update=Complete
+|source=Winners' Group results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gpW" /><ref name="CLS_gpW" />
+}}
+
+=== Winners' Group play-offs ===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| 1st place player from table
+| 
+| 4th place player from table
+| 
+|| 2nd place player from table
+| 
+| 3rd place player from table
+| 
+<!--final-->
+|| 1st semi-final winner
+| 
+| 2nd semi-final winner
+| 
+}}
+
+<!--== Final ==
+{| class="wikitable" style="font-size: 90%; margin: 1em auto 1em auto;"
+|-
+| colspan="3" align="center" bgcolor="#ffd700" | '''Final:''' Best of 5 frames. Referee: <br/>[[Leicester Arena]], [[Leicester]], England, 23 January 2027
+|-
+| width="200" align="right" | 
+| width="100" align="center" | {{ndash}}
+| width="200" align="left" | 
+|-
+| colspan="3" align="center" style="font-size: 100%;" | ''Frame scores:'' 
+|-
+| align="right" | 
+| align="center" | Highest break
+| 
+|-
+| align="right" | 
+| align="center" | Century breaks
+| 
+|-
+|}
+-->
+<!--== Century breaks ==
+A total of 0 [[century break]]s have been made during the tournament.<ref name="si_cent">{{cite web |title=Centuries: Championship League Ranking |url=https://snookerinfo.co.uk/2026-27/ |website=snookerinfo.co.uk |access-date=17 July 2026}}</ref>
+{{div col}}
+* 100 {{ndash}} [[]]
+{{div col end}}
+<small>Note: '''Bold''' = highest break in the indicated group.</small>
+-->
+== Winnings ==
+{{sticky header}}
+{| class="wikitable sortable sticky-header" style="text-align:center;"
+<!-- NOTE: FOR GROUP WINNERS GREEN USE style="background:#88ff88;" -->
+|-
+! No.
+! Player
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! W
+! Total
+|-
+| 1
+| style="text-align:left;" data-sort-value="01, Player"| Player 1
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=2| 2<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="02, Player"| Player 2
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=3| 3<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="03, Player"| Player 3
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=4| 4<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="04, Player"| Player 4
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=5| 5<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="05, Player"| Player 5
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=6| 6<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="06, Player"| Player 6
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=7| 7<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="07, Player"| Player 7
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=8| 8<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="08, Player"| Player 8
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=9| 9<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="09, Player"| Player 9
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=10| 10<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="10, Player"| Player 10
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=11| 11<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="11, Player"| Player 11
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=12| 12<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="12, Player"| Player 12
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=13| 13<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="13, Player"| Player 13
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=14| 14<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="14, Player"| Player 14
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=15| 15<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="15, Player"| Player 15
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=16| 16<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="16, Player"| Player 16
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=17| 17<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="17, Player"| Player 17
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=18| 18<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="18, Player"| Player 18
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=19| 19<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="19, Player"| Player 19
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=20| 20<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="20, Player"| Player 20
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=21| 21<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="21, Player"| Player 21
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=22| 22<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="22, Player"| Player 22
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=23| 23<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="23, Player"| Player 23
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=24| 24<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="24, Player"| Player 24
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| 
+|-
+| data-sort-value=25| 25<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="25, Player"| Player 25
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 
+| style="background:#e6e6f2;"| 
+| 
+|- class=sortbottom
+| style="background:#e6e6f2;"|
+| style="text-align:right; background:#e6e6f2;"| Total prize money:
+| style="background:#e6e6f2;"| 0
+| style="background:#e6e6f2;"| 0
+| style="background:#e6e6f2;"| 0
+| style="background:#e6e6f2;"| 0
+| style="background:#e6e6f2;"| 0
+| style="background:#e6e6f2;"| 0
+| style="background:#e6e6f2;"| 0
+| style="background:#e6e6f2;"| 0
+| style="background:#e6e6f2;"| 0
+|}
+{| class="wikitable" style="font-size:85%;"
+|- style="background:#88ff88;"
+| Green: Won the Group.
+|-
+| '''Bold''': Highest break in the Group.
+|-
+| '''Q''': Qualified for the Winners' Group.
+|-
+| Numbers in parentheses: [[Snooker world rankings|World ranking]] prior to tournament start, 21 December 2026.
+|- style="background:#e6e6f2;"
+| ''All prize money in [[GBP]].''{{efn|Source (championshipleaguesnooker.co.uk) does not always include high-break prize money in totals.<ref name="CLS_inv_format" />}}<br/>Players receive prize money for frames won in voided matches<br/>even though they do not count in the group tables.
+|}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://championshipleaguesnooker.co.uk/ Matchroom Sport – Championship League Snooker]
+* [https://www.youtube.com/@MatchroomPool1/streams Table one channel stream] on [[YouTube]]
+* [https://www.youtube.com/@MatchroomMultiSport/streams Table two channel stream] on [[YouTube]]
+
+{{Championship League}}
+{{2026–27 snooker season}}
+
+[[Category:Championship League]]
+[[Category:2027 in snooker]]
+[[Category:2027 in English sport]]
+[[Category:Sport in Leicester]]

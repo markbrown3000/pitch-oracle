@@ -1,0 +1,962 @@
+{{Short description|Snooker tournament}}
+{{Use dmy dates|date=August 2026}}
+{{Use British English|date=August 2026}}
+{{Infobox individual snooker tournament
+|tournament_name=2026 Satuo [[China Open (snooker)|China Open]]
+|logo=[[File:2026_China_Open_(snooker)_logo.png|320px]]
+|dates={{Start and end dates|2026|8|8|2026|8|16|df=y}}
+|venue=[[Taiyuan Riverside Sports Centre Gymnasium|Riverside Sports Centre]]
+|location=[[Taiyuan]]
+|country=[[China]]
+|organisation=[[World Snooker Tour]]<br>CBSA
+|format=[[List of snooker ranking tournaments|Ranking event]]
+|Total prize fund=£1,205,000
+|winners_share=£250,000
+|highest_break={{nowrap|{{ubl
+|{{flagathlete|[[Michael Holt (snooker player)|Michael Holt]]|ENG}} ([[Maximum break|147]])
+|
+}}}}
+|defending_champion=
+|winner={{flagathlete|[[Mark Selby]]|ENG}}
+|runner_up={{flagathlete|[[Noppon Saengkham]]|THA}}
+|score=10{{ndash}}6
+|previous=[[2019 China Open (snooker)|2019]]
+|next=[[2027 China Open (snooker)|2027]]
+}}
+
+The '''2026 China Open''' (officially the '''2026 Satuo China Open''') was a professional [[snooker]] tournament that took place from 8 to 16 August 2026 at the [[Taiyuan Riverside Sports Centre Gymnasium|Riverside Sports Centre]] in [[Taiyuan]], China. Qualifying took place from 10 to 14 June at the [[Leicester Arena]] in [[Leicester]], England. The first edition of the revived [[China Open (snooker)|China Open]] after it was cancelled because of the [[COVID-19 pandemic]], it was the second [[List of snooker ranking tournaments|ranking event]] of the [[2026–27 snooker season]], following the [[2026 Championship League (ranking)|2026 Championship League]] and preceding the [[2026 Wuhan Open (snooker)|2026 Wuhan Open]]. The winner received £250,000 from a total prize fund of £1,205,000.
+
+[[Neil Robertson]] was the defending champion, having defeated [[Jack Lisowski]] 11–4 in the [[2019 China Open (snooker)|2019 final]], but he was beaten 1–6 by [[Mark Selby]] in the quarter-finals.
+
+Selby won the tournament, defeating [[Noppon Saengkham]] 10–6 in the final.
+
+== Overview ==
+The first non-ranking China Masters was held in 1985. [[Steve Davis]] won the [[1985 China Masters|inaugural edition]], defeating [[Dennis Taylor]] 2–1 in the final.<ref>{{cite news |title=Steve's king of the Orient |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000445/19850910/342/0015 |url-access=subscription |work=Aberdeen Evening Express |date=10 September 1985 |page=15}}</ref> The first major international tournament played in the Asian country was the [[China Open (snooker)|China International]], held as a non-ranking event in [[1997 China International|1997]] and as a [[List of snooker ranking tournaments|ranking event]] in [[1999 China International|March 1999]]. It was renamed the China Open for the [[1999 China Open (snooker)|December 1999 edition]], which [[Ronnie O'Sullivan]] won by beating [[Stephen Lee (snooker player)|Stephen Lee]] 9–2 in the final.<ref>{{cite web |last=Turner |first=Chris |title=China International, China Open, Shanghai Masters, Jiangsu/Wuxi Classic |url=http://www.cajt.pwp.blueyonder.co.uk/China.html |archive-url=https://web.archive.org/web/20120216155144/http://www.cajt.pwp.blueyonder.co.uk/China.html |archive-date=16 February 2012 |work=cajt.pwp.blueyonder.co.uk |publisher=Chris Turner's Snooker Archive |access-date=30 April 2026 |url-status=dead}}</ref><ref name="WST_China_Open_Returns">{{cite web |url=https://www.wst.tv/news/2026/april/19/china-open-returns-to-world-snooker-tour-in-taiyuan-in-2026/ |title=China Open returns to World Snooker Tour in Tayuan in 2026 |work=[[World Snooker Tour]] |date=19 April 2026 |access-date=30 April 2026 |language=en}}</ref> It was staged 18 times as a ranking event until it was discontinued due to the [[COVID-19 pandemic]]. As of the [[2019 China Open (snooker)|2019 edition]], the last one to be played before its discontinuation, [[Mark Selby]] and [[Mark Williams (snooker player)|Mark Williams]] were the most successful players, each having won the tournament three times.<ref name="WST_China_Open_Returns" />
+
+The 2026 edition of the tournament was held from 8 to 16 August at the [[Taiyuan Riverside Sports Centre Gymnasium|Riverside Sports Centre]] in [[Taiyuan]], China.<ref>{{cite web |date=10 July 2026 |title=2026 China Open officially launched in Taiyuan |url=https://www.wst.tv/news/2026/july/10/2026-china-open-officially-launched-in-taiyuan/ |access-date=10 July 2026 |website=[[World Snooker Tour]] |language=en}}</ref><ref>{{cite news |date=22 April 2026 |title=Official announcement! Based in Taiyuan, the 2026 World Snooker Tour China Open makes a grand return in August |url=https://weibo.com/ttarticle/p/show?id=2309405290594691055646 |work=[[Weibo]] |language=zh |access-date=2 May 2026}}</ref><ref name="WST_China_Open_Returns" /> Qualifying took place from 10 to 14 June at the [[Leicester Arena]] in [[Leicester]], England.<ref name="s.o_Quali">{{cite web |url=https://www.snooker.org/res/index.asp?event=2759 |title=China Open Qualifiers 2026 |website=snooker.org |access-date=14 May 2026 |language=en}}</ref> It was the second ranking event of the [[2026–27 snooker season]], following the [[2026 Championship League (ranking)|2026 Championship League]] and preceding the [[2026 Wuhan Open (snooker)|2026 Wuhan Open]].<ref>{{cite web |url=https://www.snooker.org/res/index.asp?season=2026&template=2&tour=all |title=Calendar 2026/2027 |website=snooker.org |access-date=29 April 2026|language=en}}</ref> [[Neil Robertson]] was the defending champion, having defeated [[Jack Lisowski]] 11–4 in the 2019 final,<ref>{{cite news |url=https://www.skysports.com/more-sports/snooker/news/12243/11687645/neil-robertson-warms-up-for-world-snooker-championship-with-china-open-success |title=Neil Robertson warms up for World Snooker Championship with China Open success |work=[[Sky Sports]] |date=8 April 2019 |access-date=30 April 2026 |language=en}}</ref> but he was beaten 1–6 by [[Mark Selby]] in the quarter-finals.<ref name="WST_day07" />
+
+The opening ceremony was held in [[Taiyuan]] on 7 August. At the ceremony the chairman of the [[World Professional Billiards and Snooker Association]], [[Jason Ferguson (snooker player)|Jason Ferguson]] said: "Today marks a significant moment for our sport as we celebrate the return of one of snooker's most prestigious and historic tournaments. After a six-year absence, the China Open once again takes its rightful place on the World Snooker Tour calendar, reaffirming its status as the flagship snooker event in China and one of the highlights of our international season."<ref>{{cite web |title=Taiyuan welcomes snooker greats |url=https://www.wst.tv/news/2026/august/07/taiyuan-welcomes-snooker-greats/ |website=[[World Snooker Tour]] |date=7 August 2026 |access-date=7 August 2026}}</ref> China Open promoter Jay Wang noted the tournament's successful return.<ref>{{cite web |title=Taiyuan proves perfect host city for China Open return |url=https://www.wst.tv/news/2026/august/16/Taiyuan-Proves-Perfect-Host-City-For-China-Open-Return-/ |website=[[World Snooker Tour]] |date=16 August 2026 |access-date=16 August 2026}}</ref>
+
+There were 120 [[century break]]s made during the event, with 80 made during the qualification stage,<ref name="si_cent_Q" /> and 40 at the main stage,<ref name="si_cent_M" /> including a [[maximum break]] made by [[Michael Holt (snooker player)|Michael Holt]] during qualifying.<ref name="Max 242" />
+
+=== Format ===
+The revived edition followed a structure similar to that of the [[UK Championship]] and the [[World Snooker Championship|World Championship]].<ref name="WST_China_formats">{{cite web |url=https://www.wst.tv/news/2026/june/03/china-formats-this-season-explained/ |title=China formats this season explained |work=[[World Snooker Tour]] |date=3 June 2026 |access-date=15 June 2026}}</ref> 144 players were entered into the tournament, including Chinese wildcards as well as top-up amateurs from the Q School Order of Merit. The top 16 ranked players were [[Seeding (sport)|seeded]] through to the final rounds in [[Taiyuan]], while all other players needed to play between 2 and 4 rounds of qualifying in [[Leicester]] in order to qualify for the main stage, depending on their seeding.<ref name="WST_China_formats" />
+
+All matches up to and including the semi-finals were the best of 11 {{cuegloss|frame|frames}}, while the final was a best-of-19 frames match played over two {{cuegloss|session|sessions}}.<ref name="s.o_Main" />
+
+=== Prize fund ===
+The winner received £250,000 from a total prize fund of £1,205,000. The breakdown of prize money is shown below:<ref name="WST_China_Open_Returns" /><ref name="s.o_Main">{{cite web |url=https://www.snooker.org/res/index.asp?event=2755 |title=China Open 2026 |website=snooker.org |access-date=4 June 2026|language=en}}</ref>
+{{div col}}
+* Winner: £250,000
+* Runner-up: £100,000
+* Semi-finalists: £50,000
+* Quarter-finalists: £25,000
+* Last 16: £15,000
+* Last 32: £10,000
+* Last 48: £7,500
+* Last 80: £5,000
+* Last 112: £2,500
+{{div col end}}
+* Highest {{cuegloss|break}} (qualifying stage included): £15,000
+* Total: £1,205,000
+
+== Summary ==
+=== Qualifying rounds ===
+<!--==== Qualifying round 1 ====-->
+==== Qualifying round 2 ====
+[[File:Michael Holt PHC 2016-1.jpg|thumb|upright=0.85|[[Michael Holt (snooker player)|Michael Holt]] (''pictured in 2016'') made the first [[maximum break]] of his professional career in his 6–1 win over [[Mark Joyce]].]]
+[[Michael Holt (snooker player)|Michael Holt]] made the first [[maximum break]] of his professional career in his 6–1 win over [[Mark Joyce]]. It was the first 147 of the [[2026–27 snooker season|2026–27 season]] and the 242nd official maximum.<ref name="Max 242">{{cite web |title=Holt scores first 147 |url=https://www.wst.tv/news/2026/june/11/holt-scores-first-147/ |website=[[World Snooker Tour]] |date=11 June 2026 |access-date=12 June 2026 |archive-date=12 June 2026 |archive-url=https://web.archive.org/web/20260612052209/https://www.wst.tv/news/2026/june/11/holt-scores-first-147/ |url-status=live}}</ref>
+
+==== Qualifying round 3 ====
+[[Xu Si]] missed the last {{cuegloss|black ball|black}} in a maximum attempt in the seventh and final {{cuegloss|frame}} of his match against [[Jamie Jones (snooker player)|Jamie Jones]] which he won 6–1.<ref name="s.o_Quali" />
+
+==== Qualifying round 4 ====
+[[Tom Ford (snooker player)|Tom Ford]] beat [[Liam Highfield]] 6–5, coming back from 0–5 down. The final frame was decided on the final black.<ref name="s.o_Quali" />
+
+=== Later rounds ===
+==== Last 32 ====
+[[David Gilbert (snooker player)|David Gilbert]] beat [[Ding Junhui]] 6–1, and [[Wu Yize]] defeated [[Yao Pengcheng]] 6–5.<ref name="WST_day01">{{cite web |title=China Open day one |url=https://www.wst.tv/news/2026/august/08/china-open-day-one/ |website=[[World Snooker Tour]] |date=8 August 2026 |access-date=8 August 2026}}</ref> [[Zhou Yuelong]] beat [[Mark Williams (snooker player)|Mark Williams]] 6–3, and [[Liu Hongyu (snooker player)|Liu Hongyu]] defeated [[Barry Hawkins]] 6–4.<ref name="WST_day01" /> [[Xiao Guodong]] beat [[Anthony McGill]] 6–3, and [[Noppon Saengkham]] defeated [[Judd Trump]] by the same score.<ref name="WST_day02">{{cite web |title=China Open day two |url=https://www.wst.tv/news/2026/august/09/china-open-day-two/ |website=[[World Snooker Tour]] |date=9 August 2026 |access-date=9 August 2026}}</ref> [[Shaun Murphy]] [[Whitewash (sport)#Snooker|whitewashed]] [[Matthew Selt]] with [[century break]]s of 132, 103, 139, and 113. With 607 unanswered points, this breaks the record for a professional match, beating the previous record of 556, set by [[Ronnie O'Sullivan]] at the [[2014 Masters (snooker)|2014 Masters]].<ref>{{cite web |title=Magnificent Murphy breaks unanswered points record with 607 |url=https://www.wst.tv/news/2026/august/09/Magnificent-Murphy-Breaks-Unanswered-Points-Record-With-607/ |website=[[World Snooker Tour]] |date=9 August 2026 |access-date=9 August 2026}}</ref> O'Sullivan beat [[Jackson Page]] 6–2.<ref name="WST_day02" /><ref>{{cite news |title=Trump loses, Murphy breaks record at China Open |url=https://www.bbc.com/sport/snooker/articles/cly81lwjvd4o |work=[[BBC Sport]] |first=Alex |last=Brotherton |date=9 August 2026 |access-date=9 August 2026}}</ref>
+
+[[Si Jiahui]] whitewashed [[Jiang Jun]], and defending champion [[Neil Robertson]] defeated [[Chang Bingyu]] 6–3.<ref name="WST_day03">{{cite web |title=China Open day three |url=https://www.wst.tv/news/2026/august/10/china-open-day-three/ |website=[[World Snooker Tour]] |date=10 August 2026 |access-date=10 August 2026}}</ref> [[Mark Selby]] beat [[Pang Junxu]] 6–3, and [[Kyren Wilson]] defeated [[Aaron Hill (snooker player)|Aaron Hill]] 6–5.<ref name="WST_day03" /> [[Mark Allen (snooker player)|Mark Allen]] withdrew and so [[Hossein Vafaei]] was given a [[walkover]] to the last 16.<ref name="WST_allen_wd">{{cite web |title=Allen withdraws from China Open and Wuhan Open |url=https://www.wst.tv/news/2026/august/07/allen-withdraws-from-china-open-and-wuhan-open/ |website=[[World Snooker Tour]] |date=7 August 2026 |access-date=7 August 2026}}</ref> [[Stuart Bingham]] beat [[John Higgins]] 6–4, making a high {{cuegloss|break}} of 140.<ref name="WST_day04">{{cite web |title=China Open day four |url=https://www.wst.tv/news/2026/august/11/china-open-day-four/ |website=[[World Snooker Tour]] |date=11 August 2026 |access-date=11 August 2026}}</ref> [[Chris Wakelin]] beat [[Tom Ford (snooker player)|Tom Ford]] 6–4, and [[Zhang Anda]] beat [[Zhao Xintong]] 6–5 on a {{cuegloss|respotted black|re-spotted black}} in the final frame.<ref name="WST_day04" /><ref>{{cite news |title=Zhang shocks Zhao in final-ball respot at China Open |url=https://www.bbc.co.uk/sport/snooker/articles/c3d3ljv4421o |work=[[BBC Sport]] |date=11 August 2026 |access-date=12 August 2026}}</ref>
+
+==== Last 16 ====
+The last 16 matches were played on 12 and 13 August.<ref name="s.o_Main" />
+
+Gilbert beat Wu 6–2, and Zhou defeated Liu 6–4 making four [[century break]]s of 119, 108, 134, and 140.<ref name="WST_day05">{{cite web |title=China Open day five |url=https://www.wst.tv/news/2026/august/12/china-open-day-five/ |website=[[World Snooker Tour]] |date=12 August 2026 |access-date=12 August 2026}}</ref> Saengkham beat O'Sullivan 6–4, and Murphy defeated Xiao 6–2.<ref name="WST_day05" />
+
+Bingham whitewashed Vafaei, and defending champion Robertson beat Si 6–2.<ref name="WST_day06">{{cite web |title=China Open day six |url=https://www.wst.tv/news/2026/august/13/china-open-day-six/ |website=[[World Snooker Tour]] |date=13 August 2026 |access-date=13 August 2026}}</ref> Selby beat Wilson 6–1, and Zhang defeated Wakelin 6–4.<ref name="WST_day06" />
+
+==== Quarter-finals ====
+The quarter-finals were played on 14 August.<ref name="s.o_Main" />
+
+Saengkham beat Murphy 6–4, and Zhou defeated Gilbert 6–5.<ref>{{cite web |title=Giant-killer Saengkham stuns Murphy |url=https://www.wst.tv/news/2026/august/14/Giant-Killer-Saengkham-Stuns-Murphy/ |website=[[World Snooker Tour]] |date=14 August 2026 |access-date=14 August 2026}}</ref> Selby beat defending champion Robertson 6–1, and Bingham defeated Zhang 6–3.<ref name="WST_day07">{{cite web |title='Faultless' Selby thrashes Robertson to reach semis |url=https://www.wst.tv/news/2026/august/14/-Faultless--Selby-Thrashes-Robertson-To-reach-Semis/ |website=[[World Snooker Tour]] |date=14 August 2026 |access-date=14 August 2026}}</ref>
+
+==== Semi-finals ====
+[[File:Mark Selby at Snooker German Masters (DerHexer) 2015-02-08 38.jpg|left|thumb|upright=0.85|[[Mark Selby]] (''pictured in 2015'') beat [[Stuart Bingham]] 6–2 in the second semi-final.]]
+[[File:Noppon Saengkham PHC 2015-2.jpg|thumb|upright=0.75|[[Noppon Saengkham]] (''pictured in 2015'') beat [[Zhou Yuelong]] 6–5 in the first semi-final.]]
+The semi-finals were played on 15 August.<ref name="s.o_Main" />
+
+Saengkham beat Zhou 6–5, making a 134 {{cuegloss|total clearance}} in the {{cuegloss|deciding frame}} to reach his second ranking final, having lost to [[Gary Wilson (snooker player)|Gary Wilson]] in the final of the [[2023 Scottish Open (snooker)|2023 Scottish Open]].<ref name="WST_day08_1" /> After the match Saengkham said: "Last night I couldn't sleep, I went to sleep at 6am and woke up at 10am. I was thinking about everything, at 5–5 I still believed I could do it, I just wanted one chance. From 5–3 I didn't make many mistakes. I told myself that if I had one chance I had to go for it. You need a big heart if you want to win big."<ref name="WST_day08_1">{{cite web |title=The Noppon effect! Saengkham edges Zhou to reach final |url=https://www.wst.tv/news/2026/august/15/The-Noppon-Effect--Saengkham-Edges-Zhou-To-Reach-Final/ |website=[[World Snooker Tour]] |date=15 August 2026 |access-date=15 August 2026}}</ref>
+
+Selby beat Bingham 6–2 to reach his 39th ranking final.<ref name="WST_day08_2" /> After the match Selby said: "I played OK tonight, not as good as yesterday but I didn't do a lot wrong, Stuart {{bracket|Bingham}} looked good up until 2–2, then after that the bits of run didn't go his way. I seem to be punishing my opponent's mistakes and you need to do that to compete for tournaments. I have hit the ball well and felt good on the practice table all week, and trusted myself out there. Noppon {{bracket|Saengkham}} is in the final for a reason, he's playing very well and he's beaten Judd {{bracket|Trump}}, Ronnie {{bracket|O'Sullivan}}, Shaun Murphy and Zhou Yuelong. It will be tough. I played him the [[World Snooker Championship|World Championship]] in [[2020 World Snooker Championship|2020]] and beat him 13–12, he played unbelievably well over three sessions so I am expecting something similar to that. I'll give it my all as I do in every match. It's great to be back in a final here in China."<ref name="WST_day08_2">{{cite web |title=Selby on target for fourth China Open crown |url=https://www.wst.tv/news/2026/august/15/Selby-On-Target-For-Fourth-China-Open-Crown/ |website=[[World Snooker Tour]] |date=15 August 2026 |access-date=15 August 2026}}</ref>
+
+==== Final ====
+The final was played on 16 August as the best of 19 {{cuegloss|frame|frames}}, played over two {{cuegloss|session|sessions}}.<ref name="s.o_Main" />
+
+At the end of the afternoon session the score was tied at 4–4.<ref>{{cite web |title=Selby and Saengkham tied at 4–4 |url=https://www.wst.tv/news/2026/august/16/Selby-And-Saengkham-Tied-At-4-4/ |website=[[World Snooker Tour]] |date=16 August 2026 |access-date=16 August 2026}}</ref> Selby went on to win the match, and the tournament 10–6, for his 26th ranking win and his fourth [[China Open (snooker)|China Open]] title.<ref name="WST_day09">{{cite web |title=Selby too strong for Saengkham in China final |url=https://www.wst.tv/news/2026/august/16/Selby-Too-Strong-For-Saengkham-In-China-Final/ |website=[[World Snooker Tour]] |date=16 August 2026 |access-date=16 August 2026}}</ref> After the match Selby said: "I'm very happy to be standing here as champion, I felt I played some really good stuff all week, Noppon {{bracket|Saengkham}} played well in the first session and I was fortunate to pinch the last two frames and finish 4–4, I was over the moon with that scoreline because Noppon probably felt he deserved to be ahead." Saengkham said: "Mark {{bracket|Selby}} was very strong today and controlled the game very well, his safety game was so good. When I was 4–2 up he was under pressure but in the evening the game changed and it looked like Mark was controlling everything. I am very happy with the way I played during the tournament and to be here until the end. I will keep trying hard and hopefully one day I will be the champion."<ref name="WST_day09" /><ref>{{cite news |title=Selby defeats Saengkham to win fourth China Open |url=https://www.bbc.com/sport/snooker/articles/cpd77pl86wqo |work=[[BBC Sport]] |first=Steve |last=Sutcliffe |date=16 August 2026 |access-date=16 August 2026}}</ref><ref name="WST_final_match">{{cite web |title=Match: Mark Selby v Noppon Saengkham |url=https://www.wst.tv/match-centre/eb26d0bd-3b44-499c-a0bf-4ba2902991e2 |website=[[World Snooker Tour]] |date=16 August 2026 |access-date=18 August 2026 |archive-date=18 August 2026 |archive-url=https://web.archive.org/web/20260818075311/https://www.wst.tv/match-centre/eb26d0bd-3b44-499c-a0bf-4ba2902991e2 |url-status=live}}</ref>
+
+== Main stages ==
+=== Wildcard round ===
+A [[Wild card (sports)|wildcard]] round—also known as the last 34—was held prior to the last 32, in which two qualifiers from the qualifying rounds were randomly drawn against two Chinese wildcard players. The winner of each wildcard match progressed to the last 32 to play a top 16 seed.<ref name="WST_China_formats" /> The results for these wildcard round matches are below:<ref name="s.o_Main" /><ref name="WST_M_matches">{{cite web |url=https://www.wst.tv/matches/5b3b0c5c-991c-444b-845d-70a1edbbdf39? |title=China Open 2026 matches |work=[[World Snooker Tour]] |date=16 August 2026 |access-date=16 August 2026 |archive-date=16 August 2026 |archive-url=https://web.archive.org/web/20260816170359/https://www.wst.tv/matches/5b3b0c5c-991c-444b-845d-70a1edbbdf39? |url-status=live}}</ref>
+
+{| class="wikitable" style="font-size: 90%;"
+|-
+!Match
+!Qualifier
+!Score
+!Wildcard player
+|-
+|align="center" |WC1
+|{{flagathlete|'''[[Hossein Vafaei]]'''|IRN}} {{tooltip|(28)|player seeding}}
+|align="center" | '''6'''–0
+|{{flagathlete|Liu Linhao|CHN}}
+|-
+|align="center" |WC2 
+|{{flagathlete|'''[[Anthony McGill]]'''|SCO}} {{tooltip|(38)|player seeding}}
+|align="center" | '''6'''–0
+|{{flagathlete|Wu Shengguang|CHN}}
+|-
+|}
+
+=== Main draw ===
+The results of the main draw are shown below. Numbers in parentheses after the players' names denote the players' [[seeding (sport)|seeding]] and players in bold denote match winners.<ref name="s.o_Main" /><ref name="WST_M_matches" /><ref>{{cite web |title=China Open: Flowchart |url=https://www.snooker.org/res/index.asp?template=65&event=2755 |website=snooker.org |access-date=12 August 2026}}</ref>
+{{32TeamBracket-Info
+| boldwinner=high
+| paramstyle=numbered
+| team-width = auto
+| RD1 = '''Round 1 (Last 32)'''<br/>Best of 11 frames
+| RD2 = '''Round 2 (Last 16)'''<br/>Best of 11 frames
+| RD3 = '''Quarter-finals'''<br/>Best of 11 frames
+| RD4 = '''Semi-finals'''<br/>Best of 11 frames
+| RD5 = '''Final'''<br/>Best of 19 frames
+|3rdplace=no
+<!-- Last 32 -->
+|| {{flagathlete|[[Neil Robertson]]|AUS}} {{tooltip|(1)|player seeding}}
+| 6
+| {{flagathlete|[[Chang Bingyu]]|CHN}}
+| 3
+
+|| {{flagathlete|[[Si Jiahui]]|CHN}} {{tooltip|(16)|player seeding}}
+| 6
+| {{flagathlete|[[Jiang Jun]]|CHN}}
+| 0
+
+|| {{flagathlete|[[Mark Selby]]|ENG}} {{tooltip|(9)|player seeding}}
+| 6
+| {{flagathlete|[[Pang Junxu]]|CHN}}
+| 3
+
+|| {{flagathlete|[[Kyren Wilson]]|ENG}} {{tooltip|(8)|player seeding}}
+| 6
+| {{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}}
+| 5
+
+|| {{flagathlete|[[John Higgins]]|SCO}} {{tooltip|(5)|player seeding}}
+| 4
+| {{flagathlete|[[Stuart Bingham]]|ENG}}
+| 6
+
+|| {{flagathlete|[[Mark Allen (snooker player)|Mark Allen]]|NIR}} {{tooltip|(12)|player seeding}}{{efn|[[Mark Allen (snooker player)|Mark Allen]] withdrew and so [[Hossein Vafaei]] was given a [[walkover]] to the last 16.<ref name="WST_allen_wd" />}}
+| w/d
+| '''{{flagathlete|[[Hossein Vafaei]]|IRN}}'''
+| '''w/o'''
+
+|| {{flagathlete|[[Chris Wakelin]]|ENG}} {{tooltip|(13)|player seeding}}
+| 6
+| {{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}}
+| 4
+
+|| {{flagathlete|[[Zhao Xintong]]|CHN}} {{tooltip|(4)|player seeding}}
+| 5
+| {{flagathlete|[[Zhang Anda]]|CHN}}
+| 6
+
+|| {{flagathlete|[[Judd Trump]]|ENG}} {{tooltip|(3)|player seeding}}
+| 3
+| {{flagathlete|[[Noppon Saengkham]]|THA}}
+| 6
+
+|| {{flagathlete|[[Ronnie O'Sullivan]]|ENG}} {{tooltip|(14)|player seeding}}
+| 6
+| {{flagathlete|[[Jackson Page]]|WAL}}
+| 2
+
+|| {{flagathlete|[[Xiao Guodong]]|CHN}} {{tooltip|(11)|player seeding}}
+| 6
+| {{flagathlete|[[Anthony McGill]]|SCO}} 
+| 3
+
+|| {{flagathlete|[[Shaun Murphy]]|ENG}} {{tooltip|(6)|player seeding}}
+| 6
+| {{flagathlete|[[Matthew Selt]]|ENG}}
+| 0
+
+|| {{flagathlete|[[Mark Williams (snooker player)|Mark Williams]]|WAL}} {{tooltip|(7)|player seeding}}
+| 3
+| {{flagathlete|[[Zhou Yuelong]]|CHN}}
+| 6
+
+|| {{flagathlete|[[Barry Hawkins]]|ENG}} {{tooltip|(10)|player seeding}}
+| 4
+| {{flagathlete|[[Liu Hongyu (snooker player)|Liu Hongyu]]|CHN}}
+| 6
+
+|| {{flagathlete|[[Ding Junhui]]|CHN}} {{tooltip|(15)|player seeding}}
+| 1
+| {{flagathlete|[[David Gilbert (snooker player)|David Gilbert]]|ENG}}
+| 6
+
+|| {{flagathlete|[[Wu Yize]]|CHN}} {{tooltip|(2)|player seeding}}
+| 6
+| {{flagathlete|[[Yao Pengcheng]]|CHN}}
+| 5
+
+<!-- Last 16 -->
+|| {{flagicon|AUS}} [[Neil Robertson]] {{tooltip|(1)|player seeding}}
+| 6
+| {{flagicon|CHN}} [[Si Jiahui]] {{tooltip|(16)|player seeding}}
+| 2
+
+|| {{flagicon|ENG}} [[Mark Selby]] {{tooltip|(9)|player seeding}}
+| 6
+| {{flagicon|ENG}} [[Kyren Wilson]] {{tooltip|(8)|player seeding}}
+| 1
+
+|| {{flagicon|ENG}} [[Stuart Bingham]]
+| 6
+| {{flagicon|IRN}} [[Hossein Vafaei]] 
+| 0
+
+|| {{flagicon|ENG}} [[Chris Wakelin]] {{tooltip|(13)|player seeding}}
+| 4
+| {{flagicon|CHN}} [[Zhang Anda]]
+| 6
+
+|| {{flagicon|THA}} [[Noppon Saengkham]]
+| 6
+| {{flagicon|ENG}} [[Ronnie O'Sullivan]] {{tooltip|(14)|player seeding}}
+| 4
+
+|| {{flagicon|CHN}} [[Xiao Guodong]] {{tooltip|(11)|player seeding}}
+| 2
+| {{flagicon|ENG}} [[Shaun Murphy]] {{tooltip|(6)|player seeding}}
+| 6
+
+|| {{flagicon|CHN}} [[Zhou Yuelong]]
+| 6
+| {{flagicon|CHN}} [[Liu Hongyu (snooker player)|Liu Hongyu]]
+| 4
+
+|| {{flagicon|ENG}} [[David Gilbert (snooker player)|David Gilbert]]
+| 6
+| {{flagicon|CHN}} [[Wu Yize]] {{tooltip|(2)|player seeding}}
+| 2
+
+<!-- Quarter-finals -->
+|| {{flagicon|AUS}} [[Neil Robertson]] {{tooltip|(1)|player seeding}}
+| 1
+| {{flagicon|ENG}} [[Mark Selby]] {{tooltip|(9)|player seeding}}
+| 6
+
+|| {{flagicon|ENG}} [[Stuart Bingham]]
+| 6
+| {{flagicon|CHN}} [[Zhang Anda]]
+| 3
+
+|| {{flagicon|THA}} [[Noppon Saengkham]]
+| 6
+| {{flagicon|ENG}} [[Shaun Murphy]] {{tooltip|(6)|player seeding}}
+| 4
+
+|| {{flagicon|CHN}} [[Zhou Yuelong]]
+| 6
+| {{flagicon|ENG}} [[David Gilbert (snooker player)|David Gilbert]]
+| 5
+
+<!-- Semi-finals -->
+|| {{flagicon|ENG}} [[Mark Selby]] {{tooltip|(9)|player seeding}}
+| 6
+| {{flagicon|ENG}} [[Stuart Bingham]]
+| 2
+
+|| {{flagicon|THA}} [[Noppon Saengkham]]
+| 6
+| {{flagicon|CHN}} [[Zhou Yuelong]]
+| 5
+
+<!-- Final -->
+|| {{flagicon|ENG}} [[Mark Selby]] {{tooltip|(9)|player seeding}}
+| 10
+| {{flagicon|THA}} [[Noppon Saengkham]]
+| 6
+}}
+:<small>'''Note''': w/d=withdrawn; '''w/o'''=[[walkover]]</small>
+
+=== Final: frame scores ===
+{| class="wikitable" style="font-size: 95%; margin: 1em auto 1em auto;"
+|-
+| colspan="3" align="center" bgcolor="#ffd700" | '''Final:''' Best of 19 frames. Referee: Zheng Weili<br/>[[Taiyuan Riverside Sports Centre Gymnasium|Riverside Sports Centre]], [[Taiyuan]], China, 16 August 2026<ref name="WST_final_match" />
+|-
+| width="230" align="right" | '''[[Mark Selby]]''' {{tooltip|(9)|player seeding}}<br/>{{ENG}}
+| width="100" align="center" | '''10'''{{ndash}}6
+| width="230" align="left" | [[Noppon Saengkham]] {{tooltip|(46)|player seeding}}<br/>{{THA}}
+|-
+| colspan="3" align="center" style="font-size: 100%;" | ''Afternoon:'' 8{{ndash}}'''67''', '''89'''{{ndash}}38, '''138'''{{ndash}}0 (138), 0{{ndash}}'''73''', 0{{ndash}}'''80''', 5{{ndash}}'''75''', '''70'''{{ndash}}68, '''73'''{{ndash}}32<br/>''Evening:'' '''74'''{{ndash}}0, '''91'''{{ndash}}37, '''103'''{{ndash}}27, '''62'''{{ndash}}29, 25{{ndash}}'''82''', '''77'''{{ndash}}68, 1{{ndash}}'''61''', '''79'''{{ndash}}27
+|-
+| align="right" | (''frame 3'') '''138'''
+| align="center" | Highest break
+| 80 (''frame 5'')
+|-
+| align="right" | '''1'''
+| align="center" | Century breaks
+| 0
+|-
+|}
+
+== Qualifying draw ==
+The results of the qualifying rounds are shown below. Numbers in parentheses denote the players' [[seeding (sports)|seeding]] and an "(a)" denotes amateur players not on the [[World Snooker Tour|main tour]]. The match winners are shown in bold.<ref name="s.o_Quali" /><ref>{{cite web |url=https://www.wst.tv/matches/3eebc245-1a5c-432b-a586-10711eeccc04? |title=China Open 2026 qualifiers matches |work=[[World Snooker Tour]] |date=14 June 2026 |access-date=6 August 2026 |archive-date=6 August 2026 |archive-url=https://web.archive.org/web/20260806160514/https://www.wst.tv/matches/3eebc245-1a5c-432b-a586-10711eeccc04? |url-status=live}}</ref>
+
+{{2NTeam-NTeamBracket
+| boldwinner=high
+| rounds=4
+| brackets=16
+| team-width = auto
+| RD1-teams=4
+| RD2-teams=4
+| RD3-teams=4
+| RD4-teams=2
+| seeds = no
+| RD1 = '''Round 1 (Last 144)'''<br/>Best of 11 frames
+| RD2 = '''Round 2 (Last 112)'''<br/>Best of 11 frames
+| RD3 = '''Round 3 (Last 80)'''<br/>Best of 11 frames
+| RD4 = '''Round 4 (Last 48)'''<br/>Best of 11 frames
+
+<!-- Bracket 1 -->
+| RD1-team01='''{{flagathlete|[[Zhao Hanyang]]|CHN}} {{tooltip|(81)|player seeding}}'''
+| RD1-score01= '''w/o'''
+| RD1-team02={{flagathlete|Xu Jiarui|CHN}} {{tooltip|(a)|amateur player}}
+| RD1-score02=w/d
+| RD1-team03={{flagathlete|[[Deng Haohui]]|CHN}} {{tooltip|(124)|player seeding}}
+| RD1-score03=6
+| RD1-team04={{flagathlete|Zhou Yichen|CHN}} {{tooltip|(a)|amateur player}}
+| RD1-score04=0
+
+| RD2-team01={{flagathlete|[[Xu Yichen]]|CHN}} {{tooltip|(80)|player seeding}}
+| RD2-score01=6
+| RD2-team02={{flagathlete|[[Zhao Hanyang]]|CHN}} {{tooltip|(81)|player seeding}}
+| RD2-score02=4
+| RD2-team03={{flagathlete|[[Matthew Stevens]]|WAL}} {{tooltip|(49)|player seeding}}
+| RD2-score03=6
+| RD2-team04={{flagathlete|[[Deng Haohui]]|CHN}} {{tooltip|(124)|player seeding}}
+| RD2-score04=2
+
+| RD3-team01={{flagathlete|[[Jack Lisowski]]|ENG}} {{tooltip|(17)|player seeding}}
+| RD3-score01=6
+| RD3-team02={{flagathlete|[[Xu Yichen]]|CHN}} {{tooltip|(80)|player seeding}}
+| RD3-score02=4
+| RD3-team03={{flagathlete|[[Chang Bingyu]]|CHN}} {{tooltip|(48)|player seeding}}
+| RD3-score03=6
+| RD3-team04={{flagathlete|[[Matthew Stevens]]|WAL}} {{tooltip|(49)|player seeding}}
+| RD3-score04=4
+
+| RD4-team01={{flagathlete|[[Jack Lisowski]]|ENG}} {{tooltip|(17)|player seeding}}
+| RD4-score01=1
+| RD4-team02={{flagathlete|[[Chang Bingyu]]|CHN}} {{tooltip|(48)|player seeding}}
+| RD4-score02=6
+
+<!-- Bracket 2 -->
+| RD1-team05={{flagathlete|[[Sahil Nayyar]]|CAN}} {{tooltip|(96)|player seeding}}
+| RD1-score05=6
+| RD1-team06={{flagathlete|Liu Yang|CHN}} {{tooltip|(126)|player seeding}}
+| RD1-score06=1
+| RD1-team07={{flagathlete|[[Mahmoud El Hareedy]]|EGY}} {{tooltip|(97)|player seeding}}
+| RD1-score07=2
+| RD1-team08={{flagathlete|Daniel Womersley|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score08=6
+
+| RD2-team05={{flagathlete|[[Jiang Jun]]|CHN}} {{tooltip|(65)|player seeding}}
+| RD2-score05=6
+| RD2-team06={{flagathlete|[[Sahil Nayyar]]|CAN}} {{tooltip|(96)|player seeding}}
+| RD2-score06=1
+| RD2-team07={{flagathlete|[[Jordan Brown (snooker player)|Jordan Brown]]|NIR}} {{tooltip|(64)|player seeding}}
+| RD2-score07=6
+| RD2-team08={{flagathlete|Daniel Womersley|ENG}} {{tooltip|(a)|amateur player}}
+| RD2-score08=1
+
+| RD3-team05={{flagathlete|[[Jak Jones]]|WAL}} {{tooltip|(32)|player seeding}}
+| RD3-score05=3
+| RD3-team06={{flagathlete|[[Jiang Jun]]|CHN}} {{tooltip|(65)|player seeding}}
+| RD3-score06=6
+| RD3-team07={{flagathlete|[[Jimmy Robertson (snooker player)|Jimmy Robertson]]|ENG}} {{tooltip|(33)|player seeding}}
+| RD3-score07=6
+| RD3-team08={{flagathlete|[[Jordan Brown (snooker player)|Jordan Brown]]|NIR}} {{tooltip|(64)|player seeding}}
+| RD3-score08=4
+
+| RD4-team03={{flagathlete|[[Jiang Jun]]|CHN}} {{tooltip|(65)|player seeding}}
+| RD4-score03=6
+| RD4-team04={{flagathlete|[[Jimmy Robertson (snooker player)|Jimmy Robertson]]|ENG}} {{tooltip|(33)|player seeding}}
+| RD4-score04=4
+
+<!-- Bracket 3 -->
+| RD1-team09={{flagathlete|[[Bai Yulu]]|CHN}} {{tooltip|(112)|player seeding}}
+| RD1-score09=3
+| RD1-team10={{flagathlete|[[Peter Lines]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score10=6
+| RD1-team11={{flagathlete|[[Alexander Ursenbacher]]|SUI}} {{tooltip|(89)|player seeding}}
+| RD1-score11=5
+| RD1-team12={{flagathlete|[[Duane Jones (snooker player)|Duane Jones]]|WAL}} {{tooltip|(a)|player seeding}}
+| RD1-score12=6
+
+| RD2-team09={{flagathlete|[[Fan Zhengyi]]|CHN}} {{tooltip|(57)|player seeding}}
+| RD2-score09=6
+| RD2-team10={{flagathlete|[[Peter Lines]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD2-score10=4
+| RD2-team11={{flagathlete|[[Dylan Emery]]|WAL}} {{tooltip|(72)|player seeding}}
+| RD2-score11=6
+| RD2-team12={{flagathlete|[[Duane Jones (snooker player)|Duane Jones]]|WAL}} {{tooltip|(a)|player seeding}}
+| RD2-score12=1
+
+| RD3-team09={{flagathlete|[[Stan Moody]]|ENG}} {{tooltip|(40)|player seeding}}
+| RD3-score09=3
+| RD3-team10={{flagathlete|[[Fan Zhengyi]]|CHN}} {{tooltip|(57)|player seeding}}
+| RD3-score10=6
+| RD3-team11={{flagathlete|[[Pang Junxu]]|CHN}} {{tooltip|(25)|player seeding}}
+| RD3-score11=6
+| RD3-team12={{flagathlete|[[Dylan Emery]]|WAL}} {{tooltip|(72)|player seeding}}
+| RD3-score12=0
+
+| RD4-team05={{flagathlete|[[Fan Zhengyi]]|CHN}} {{tooltip|(57)|player seeding}}
+| RD4-score05=4
+| RD4-team06={{flagathlete|[[Pang Junxu]]|CHN}} {{tooltip|(25)|player seeding}}
+| RD4-score06=6
+
+<!-- Bracket 4 -->
+| RD1-team13={{flagathlete|[[Hammad Miah]]|ENG}} {{tooltip|(105)|player seeding}}
+| RD1-score13=6
+| RD1-team14={{flagathlete|[[Mykhailo Larkov]]|UKR}} {{tooltip|(125)|player seeding}}
+| RD1-score14=2
+| RD1-team15={{flagathlete|[[Connor Benzey]]|ENG}} {{tooltip|(88)|player seeding}}
+| RD1-score15=3
+| RD1-team16={{flagathlete|[[Huang Jiahao]]|CHN}} {{tooltip|(107)|player seeding}}
+| RD1-score16=6
+
+| RD2-team13={{flagathlete|[[Robbie Williams (snooker player)|Robbie Williams]]|ENG}} {{tooltip|(56)|player seeding}}
+| RD2-score13=4
+| RD2-team14={{flagathlete|[[Hammad Miah]]|ENG}} {{tooltip|(105)|player seeding}}
+| RD2-score14=6
+| RD2-team15={{flagathlete|[[Steven Hallworth]]|ENG}} {{tooltip|(73)|player seeding}}
+| RD2-score15=6
+| RD2-team16={{flagathlete|[[Huang Jiahao]]|CHN}} {{tooltip|(107)|player seeding}}
+| RD2-score16=0
+
+| RD3-team13={{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} {{tooltip|(41)|player seeding}}
+| RD3-score13=6
+| RD3-team14={{flagathlete|[[Hammad Miah]]|ENG}} {{tooltip|(105)|player seeding}}
+| RD3-score14=1
+| RD3-team15={{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} {{tooltip|(24)|player seeding}}
+| RD3-score15=6
+| RD3-team16={{flagathlete|[[Steven Hallworth]]|ENG}} {{tooltip|(73)|player seeding}}
+| RD3-score16=2
+
+| RD4-team07={{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} {{tooltip|(41)|player seeding}}
+| RD4-score07=6
+| RD4-team08={{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} {{tooltip|(24)|player seeding}}
+| RD4-score08=5
+
+<!-- Bracket 5 -->
+| RD1-team17={{flagathlete|[[Mateusz Baranowski]]|POL}} {{tooltip|(85)|player seeding}}
+| RD1-score17=3
+| RD1-team18={{flagathlete|Simon Blackwell|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score18=6
+| RD1-team19={{flagathlete|[[Anton Kazakov]]|UKR}} {{tooltip|(115)|player seeding}}
+| RD1-score19=4
+| RD1-team20={{flagathlete|[[Jamie Clarke (snooker player)|Jamie Clarke]]|WAL}} {{tooltip|(101)|player seeding}}
+| RD1-score20=6
+
+| RD2-team17={{flagathlete|[[Ian Burns (snooker player)|Ian Burns]]|ENG}} {{tooltip|(76)|player seeding}}
+| RD2-score17=6
+| RD2-team18={{flagathlete|Simon Blackwell|ENG}} {{tooltip|(a)|amateur player}}
+| RD2-score18=1
+| RD2-team19={{flagathlete|[[Oliver Lines]]|ENG}} {{tooltip|(53)|player seeding}}
+| RD2-score19=4
+| RD2-team20={{flagathlete|[[Jamie Clarke (snooker player)|Jamie Clarke]]|WAL}} {{tooltip|(101)|player seeding}}
+| RD2-score20=6
+
+| RD3-team17={{flagathlete|[[Stuart Bingham]]|ENG}} {{tooltip|(21)|player seeding}}
+| RD3-score17=6
+| RD3-team18={{flagathlete|[[Ian Burns (snooker player)|Ian Burns]]|ENG}} {{tooltip|(76)|player seeding}}
+| RD3-score18=4
+| RD3-team19={{flagathlete|[[Luca Brecel]]|BEL}} {{tooltip|(44)|player seeding}}
+| RD3-score19=6
+| RD3-team20={{flagathlete|[[Jamie Clarke (snooker player)|Jamie Clarke]]|WAL}} {{tooltip|(101)|player seeding}}
+| RD3-score20=4
+
+| RD4-team09={{flagathlete|[[Stuart Bingham]]|ENG}} {{tooltip|(21)|player seeding}}
+| RD4-score09=6
+| RD4-team10={{flagathlete|[[Luca Brecel]]|BEL}} {{tooltip|(44)|player seeding}}
+| RD4-score10=0
+
+<!-- Bracket 6 -->
+| RD1-team21={{flagathlete|[[Oliver Brown (snooker player)|Oliver Brown]]|ENG}} {{tooltip|(92)|player seeding}}
+| RD1-score21=6
+| RD1-team22={{flagathlete|Nattanapong Chaikul|THA}} {{tooltip|(a)|amateur player}}
+| RD1-score22=3
+| RD1-team23={{flagathlete|[[Artemijs Žižins]]|LAT}} {{tooltip|(118)|player seeding}}
+| RD1-score23=5
+| RD1-team24={{flagathlete|[[Gong Chenzhi]]|CHN}} {{tooltip|(113)|player seeding}}
+| RD1-score24=6
+
+| RD2-team21={{flagathlete|[[Marco Fu]]|HKG}} {{tooltip|(69)|player seeding}}
+| RD2-score21=6
+| RD2-team22={{flagathlete|[[Oliver Brown (snooker player)|Oliver Brown]]|ENG}} {{tooltip|(92)|player seeding}}
+| RD2-score22=1
+| RD2-team23={{flagathlete|[[David Lilley (snooker player)|David Lilley]]|ENG}} {{tooltip|(60)|player seeding}}
+| RD2-score23=6
+| RD2-team24={{flagathlete|[[Gong Chenzhi]]|CHN}} {{tooltip|(113)|player seeding}}
+| RD2-score24=4
+
+| RD3-team21={{flagathlete|[[Hossein Vafaei]]|IRN}} {{tooltip|(28)|player seeding}}
+| RD3-score21=6
+| RD3-team22={{flagathlete|[[Marco Fu]]|HKG}} {{tooltip|(69)|player seeding}}
+| RD3-score22=3
+| RD3-team23={{flagathlete|[[Ryan Day (snooker player)|Ryan Day]]|WAL}} {{tooltip|(37)|player seeding}}
+| RD3-score23=4
+| RD3-team24={{flagathlete|[[David Lilley (snooker player)|David Lilley]]|ENG}} {{tooltip|(60)|player seeding}}
+| RD3-score24=6
+
+| RD4-team11={{flagathlete|[[Hossein Vafaei]]|IRN}} {{tooltip|(28)|player seeding}}
+| RD4-score11=6
+| RD4-team12={{flagathlete|[[David Lilley (snooker player)|David Lilley]]|ENG}} {{tooltip|(60)|player seeding}}
+| RD4-score12=1
+
+<!-- Bracket 7 -->
+| RD1-team25={{flagathlete|[[Julien Leclercq (snooker player)|Julien Leclercq]]|BEL}} {{tooltip|(114)|player seeding}}
+| RD1-score25=6
+| RD1-team26={{flagathlete|[[Ashley Hugill]]|ENG}} {{tooltip|(108)|player seeding}}
+| RD1-score26=4
+| RD1-team27={{flagathlete|[[Florian Nüßle]]|AUT}} {{tooltip|(93)|player seeding}}
+| RD1-score27=6
+| RD1-team28={{flagathlete|[[Allan Taylor (snooker player)|Allan Taylor]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score28=2
+
+| RD2-team25={{flagathlete|[[Lyu Haotian]]|CHN}} {{tooltip|(61)|player seeding}}
+| RD2-score25=6
+| RD2-team26={{flagathlete|[[Julien Leclercq (snooker player)|Julien Leclercq]]|BEL}} {{tooltip|(114)|player seeding}}
+| RD2-score26=3
+| RD2-team27={{flagathlete|[[Liam Highfield]]|ENG}} {{tooltip|(68)|player seeding}}
+| RD2-score27=6
+| RD2-team28={{flagathlete|[[Florian Nüßle]]|AUT}} {{tooltip|(93)|player seeding}}
+| RD2-score28=2
+
+| RD3-team25={{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}} {{tooltip|(36)|player seeding}}
+| RD3-score25=6
+| RD3-team26={{flagathlete|[[Lyu Haotian]]|CHN}} {{tooltip|(61)|player seeding}}
+| RD3-score26=3
+| RD3-team27={{flagathlete|[[Stephen Maguire]]|SCO}} {{tooltip|(29)|player seeding}}
+| RD3-score27=1
+| RD3-team28={{flagathlete|[[Liam Highfield]]|ENG}} {{tooltip|(68)|player seeding}}
+| RD3-score28=6
+
+| RD4-team13={{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}} {{tooltip|(36)|player seeding}}
+| RD4-score13=6
+| RD4-team14={{flagathlete|[[Liam Highfield]]|ENG}} {{tooltip|(68)|player seeding}}
+| RD4-score14=5
+
+<!-- Bracket 8 -->
+| RD1-team29={{flagathlete|[[Ashley Carty]]|ENG}} {{tooltip|(106)|player seeding}}
+| RD1-score29=6
+| RD1-team30={{flagathlete|[[Stuart Carrington]]|ENG}} {{tooltip|(102)|player seeding}}
+| RD1-score30=0
+| RD1-team31={{flagathlete|[[Ross Muir]]|SCO}} {{tooltip|(84)|player seeding}}
+| RD1-score31=6
+| RD1-team32={{flagathlete|[[Cheung Ka Wai]]|HKG}} {{tooltip|(110)|player seeding}}
+| RD1-score32=3
+
+| RD2-team29={{flagathlete|[[Martin O'Donnell (snooker player)|Martin O'Donnell]]|ENG}} {{tooltip|(52)|player seeding}}
+| RD2-score29=6
+| RD2-team30={{flagathlete|[[Ashley Carty]]|ENG}} {{tooltip|(106)|player seeding}}
+| RD2-score30=3
+| RD2-team31={{flagathlete|[[Michał Szubarczyk]]|POL}} {{tooltip|(77)|player seeding}}
+| RD2-score31=5
+| RD2-team32={{flagathlete|[[Ross Muir]]|SCO}} {{tooltip|(84)|player seeding}}
+| RD2-score32=6
+
+| RD3-team29={{flagathlete|[[Daniel Wells (snooker player)|Daniel Wells]]|WAL}} {{tooltip|(45)|player seeding}}
+| RD3-score29=6
+| RD3-team30={{flagathlete|[[Martin O'Donnell (snooker player)|Martin O'Donnell]]|ENG}} {{tooltip|(52)|player seeding}}
+| RD3-score30=3
+| RD3-team31={{flagathlete|[[Zhang Anda]]|CHN}} {{tooltip|(20)|player seeding}}
+| RD3-score31=6
+| RD3-team32={{flagathlete|[[Ross Muir]]|SCO}} {{tooltip|(84)|player seeding}}
+| RD3-score32=2
+
+| RD4-team15={{flagathlete|[[Daniel Wells (snooker player)|Daniel Wells]]|WAL}} {{tooltip|(45)|player seeding}}
+| RD4-score15=4
+| RD4-team16={{flagathlete|[[Zhang Anda]]|CHN}} {{tooltip|(20)|player seeding}}
+| RD4-score16=6
+
+<!-- Bracket 9 -->
+| RD1-team33={{flagathlete|[[Liu Wenwei]]|CHN}} {{tooltip|(83)|player seeding}}
+| RD1-score33=1
+| RD1-team34={{flagathlete|[[Oliver Sykes (snooker player)|Oliver Sykes]]|ENG}} {{tooltip|(116)|player seeding}}
+| RD1-score34=6
+| RD1-team35={{flagathlete|[[Wang Xinbo (snooker player)|Wang Xinbo]]|CHN}} {{tooltip|(117)|player seeding}}
+| RD1-score35=3
+| RD1-team36={{flagathlete|[[Mark Joyce]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score36=6
+
+| RD2-team33={{flagathlete|[[Lan Yuhao]]|CHN}} {{tooltip|(78)|player seeding}}
+| RD2-score33=6
+| RD2-team34={{flagathlete|[[Oliver Sykes (snooker player)|Oliver Sykes]]|ENG}} {{tooltip|(116)|player seeding}}
+| RD2-score34=2
+| RD2-team35={{flagathlete|[[Michael Holt (snooker player)|Michael Holt]]|ENG}} {{tooltip|(51)|player seeding}}
+| RD2-score35=6
+| RD2-team36={{flagathlete|[[Mark Joyce]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD2-score36=1
+
+| RD3-team33={{flagathlete|[[Elliot Slessor]]|ENG}} {{tooltip|(19)|player seeding}}
+| RD3-score33=6
+| RD3-team34={{flagathlete|[[Lan Yuhao]]|CHN}} {{tooltip|(78)|player seeding}}
+| RD3-score34=3
+| RD3-team35={{flagathlete|[[Noppon Saengkham]]|THA}} {{tooltip|(46)|player seeding}}
+| RD3-score35=6
+| RD3-team36={{flagathlete|[[Michael Holt (snooker player)|Michael Holt]]|ENG}} {{tooltip|(51)|player seeding}}
+| RD3-score36=3
+
+| RD4-team17={{flagathlete|[[Elliot Slessor]]|ENG}} {{tooltip|(19)|player seeding}}
+| RD4-score17=1
+| RD4-team18={{flagathlete|[[Noppon Saengkham]]|THA}} {{tooltip|(46)|player seeding}}
+| RD4-score18=6
+
+<!-- Bracket 10 -->
+| RD1-team37={{flagathlete|[[Jimmy White]]|ENG}} {{tooltip|(94)|player seeding}}
+| RD1-score37=6
+| RD1-team38={{flagathlete|[[Sean O'Sullivan (snooker player)|Sean O'Sullivan]]|ENG}} {{tooltip|(104)|player seeding}}
+| RD1-score38=2
+| RD1-team39={{flagathlete|[[Antoni Kowalski]]|POL}} {{tooltip|(109)|player seeding}}
+| RD1-score39=6
+| RD1-team40={{flagathlete|[[Paul Norris (snooker player)|Paul Norris]]|ENG}} {{tooltip|(121)|player seeding}}
+| RD1-score40=4
+
+| RD2-team37={{flagathlete|[[Louis Heathcote]]|ENG}} {{tooltip|(67)|player seeding}}
+| RD2-score37=6
+| RD2-team38={{flagathlete|[[Jimmy White]]|ENG}} {{tooltip|(94)|player seeding}}
+| RD2-score38=2
+| RD2-team39={{flagathlete|[[Ben Mertens]]|BEL}} {{tooltip|(62)|player seeding}}
+| RD2-score39=6
+| RD2-team40={{flagathlete|[[Antoni Kowalski]]|POL}} {{tooltip|(109)|player seeding}}
+| RD2-score40=2
+
+| RD3-team37={{flagathlete|[[Yuan Sijun]]|CHN}} {{tooltip|(30)|player seeding}}
+| RD3-score37=6
+| RD3-team38={{flagathlete|[[Louis Heathcote]]|ENG}} {{tooltip|(67)|player seeding}}
+| RD3-score38=5
+| RD3-team39={{flagathlete|[[Jackson Page]]|WAL}} {{tooltip|(35)|player seeding}}
+| RD3-score39=6
+| RD3-team40={{flagathlete|[[Ben Mertens]]|BEL}} {{tooltip|(62)|player seeding}}
+| RD3-score40=4
+
+| RD4-team19={{flagathlete|[[Yuan Sijun]]|CHN}} {{tooltip|(30)|player seeding}}
+| RD4-score19=3
+| RD4-team20={{flagathlete|[[Jackson Page]]|WAL}} {{tooltip|(35)|player seeding}}
+| RD4-score20=6
+
+<!-- Bracket 11 -->
+| RD1-team41={{flagathlete|[[Thanawat Tirapongpaiboon|T. Tirapongpaiboon]]|THA}} {{tooltip|(119)|player seeding}}
+| RD1-score41=6
+| RD1-team42={{flagathlete|Joshua Thomond|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score42=3
+| RD1-team43={{flagathlete|[[Chatchapong Nasa]]|THA}} {{tooltip|(91)|player seeding}}
+| RD1-score43=6
+| RD1-team44={{flagathlete|[[Liam Davies (snooker player)|Liam Davies]]|WAL}} {{tooltip|(111)|player seeding}}
+| RD1-score44=5
+
+| RD2-team41={{flagathlete|[[Ishpreet Singh Chadha]]|IND}} {{tooltip|(59)|player seeding}}
+| RD2-score41=6
+| RD2-team42={{flagathlete|[[Thanawat Tirapongpaiboon|T. Tirapongpaiboon]]|THA}} {{tooltip|(119)|player seeding}}
+| RD2-score42=2
+| RD2-team43={{flagathlete|[[Sam Craigie]]|ENG}} {{tooltip|(70)|player seeding}}
+| RD2-score43=6
+| RD2-team44={{flagathlete|[[Chatchapong Nasa]]|THA}} {{tooltip|(91)|player seeding}}
+| RD2-score44=2
+
+| RD3-team41={{flagathlete|[[Anthony McGill]]|SCO}} {{tooltip|(38)|player seeding}}
+| RD3-score41=6
+| RD3-team42={{flagathlete|[[Ishpreet Singh Chadha]]|IND}} {{tooltip|(59)|player seeding}}
+| RD3-score42=2
+| RD3-team43={{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}} {{tooltip|(27)|player seeding}}
+| RD3-score43=6
+| RD3-team44={{flagathlete|[[Sam Craigie]]|ENG}} {{tooltip|(70)|player seeding}}
+| RD3-score44=1
+
+| RD4-team21={{flagathlete|[[Anthony McGill]]|SCO}} {{tooltip|(38)|player seeding}}
+| RD4-score21=6
+| RD4-team22={{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}} {{tooltip|(27)|player seeding}}
+| RD4-score22=2
+
+<!-- Bracket 12 -->
+| RD1-team45={{flagathlete|[[Phil O'Kane]]|ENG}} {{tooltip|(120)|player seeding}}
+| RD1-score45=1
+| RD1-team46={{flagathlete|Wang Yuhang|CHN}} {{tooltip|(a)|amateur player}}
+| RD1-score46=6
+| RD1-team47={{flagathlete|[[Leone Crowley]]|IRL}} {{tooltip|(86)|player seeding}}
+| RD1-score47=4
+| RD1-team48={{flagathlete|[[Andrew Higginson (snooker player)|Andrew Higginson]]|ENG}} {{tooltip|(99)|player seeding}}
+| RD1-score48=6
+
+| RD2-team45={{flagathlete|[[Ricky Walden]]|ENG}} {{tooltip|(54)|player seeding}}
+| RD2-score45=6
+| RD2-team46={{flagathlete|Wang Yuhang|CHN}} {{tooltip|(a)|amateur player}}
+| RD2-score46=4
+| RD2-team47={{flagathlete|[[Gao Yang (snooker player)|Gao Yang]]|CHN}} {{tooltip|(75)|player seeding}}
+| RD2-score47=6
+| RD2-team48={{flagathlete|[[Andrew Higginson (snooker player)|Andrew Higginson]]|ENG}} {{tooltip|(99)|player seeding}}
+| RD2-score48=2
+
+| RD3-team45={{flagathlete|[[Matthew Selt]]|ENG}} {{tooltip|(43)|player seeding}}
+| RD3-score45=6
+| RD3-team46={{flagathlete|[[Ricky Walden]]|ENG}} {{tooltip|(54)|player seeding}}
+| RD3-score46=2
+| RD3-team47={{flagathlete|[[Ali Carter]]|ENG}} {{tooltip|(22)|player seeding}}
+| RD3-score47=6
+| RD3-team48={{flagathlete|[[Gao Yang (snooker player)|Gao Yang]]|CHN}} {{tooltip|(75)|player seeding}}
+| RD3-score48=4
+
+| RD4-team23={{flagathlete|[[Matthew Selt]]|ENG}} {{tooltip|(43)|player seeding}}
+| RD4-score23=6
+| RD4-team24={{flagathlete|[[Ali Carter]]|ENG}} {{tooltip|(22)|player seeding}}
+| RD4-score24=5
+
+<!-- Bracket 13 -->
+| RD1-team49={{flagathlete|[[Liam Graham (snooker player)|Liam Graham]]|SCO}} {{tooltip|(87)|player seeding}}
+| RD1-score49=5
+| RD1-team50={{flagathlete|[[Mitchell Mann]]|ENG}} {{tooltip|(100)|player seeding}}
+| RD1-score50=6
+| RD1-team51={{flagathlete|[[Panchaya Channoi]]|THA}} {{tooltip|(123)|player seeding}}
+| RD1-score51=4
+| RD1-team52={{flagathlete|Chen Ruifu|CHN}} {{tooltip|(a)|amateur player}}
+| RD1-score52=6
+
+| RD2-team49={{flagathlete|[[David Grace (snooker player)|David Grace]]|ENG}} {{tooltip|(74)|player seeding}}
+| RD2-score49=2
+| RD2-team50={{flagathlete|[[Mitchell Mann]]|ENG}} {{tooltip|(100)|player seeding}}
+| RD2-score50=6
+| RD2-team51={{flagathlete|[[Scott Donaldson]]|SCO}} {{tooltip|(55)|player seeding}}
+| RD2-score51=5
+| RD2-team52={{flagathlete|Chen Ruifu|CHN}} {{tooltip|(a)|amateur player}}
+| RD2-score52=6
+
+| RD3-team49={{flagathlete|[[Zhou Yuelong]]|CHN}} {{tooltip|(23)|player seeding}}
+| RD3-score49=6
+| RD3-team50={{flagathlete|[[Mitchell Mann]]|ENG}} {{tooltip|(100)|player seeding}}
+| RD3-score50=3
+| RD3-team51={{flagathlete|[[Zak Surety]]|ENG}} {{tooltip|(42)|player seeding}}
+| RD3-score51=1
+| RD3-team52={{flagathlete|Chen Ruifu|CHN}} {{tooltip|(a)|amateur player}}
+| RD3-score52=6
+
+| RD4-team25={{flagathlete|[[Zhou Yuelong]]|CHN}} {{tooltip|(23)|player seeding}}
+| RD4-score25=6
+| RD4-team26={{flagathlete|Chen Ruifu|CHN}} {{tooltip|(a)|amateur player}}
+| RD4-score26=3
+
+<!-- Bracket 14 -->
+| RD1-team53={{flagathlete|[[Fergal Quinn (snooker player)|Fergal Quinn]]|NIR}} {{tooltip|(90)|player seeding}}
+| RD1-score53=3
+| RD1-team54={{flagathlete|Zhang Yang|CHN}} {{tooltip|(a)|amateur player}}
+| RD1-score54=6
+| RD1-team55={{flagathlete|[[Craig Steadman]]|ENG}} {{tooltip|(103)|player seeding}}
+| RD1-score55=6
+| RD1-team56={{flagathlete|George Pragnell|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score56=3
+
+| RD2-team53={{flagathlete|[[Iulian Boiko]]|UKR}} {{tooltip|(71)|player seeding}}
+| RD2-score53=6
+| RD2-team54={{flagathlete|Zhang Yang|CHN}} {{tooltip|(a)|amateur player}}
+| RD2-score54=1
+| RD2-team55={{flagathlete|[[Liu Hongyu (snooker player)|Liu Hongyu]]|CHN}} {{tooltip|(58)|player seeding}}
+| RD2-score55=6
+| RD2-team56={{flagathlete|[[Craig Steadman]]|ENG}} {{tooltip|(103)|player seeding}}
+| RD2-score56=1
+
+| RD3-team53={{flagathlete|[[Lei Peifan]]|CHN}} {{tooltip|(26)|player seeding}}
+| RD3-score53=2
+| RD3-team54={{flagathlete|[[Iulian Boiko]]|UKR}} {{tooltip|(71)|player seeding}}
+| RD3-score54=6
+| RD3-team55={{flagathlete|[[Ben Woollaston]]|ENG}} {{tooltip|(39)|player seeding}}
+| RD3-score55=2
+| RD3-team56={{flagathlete|[[Liu Hongyu (snooker player)|Liu Hongyu]]|CHN}} {{tooltip|(58)|player seeding}}
+| RD3-score56=6
+
+| RD4-team27={{flagathlete|[[Iulian Boiko]]|UKR}} {{tooltip|(71)|player seeding}}
+| RD4-score27=0
+| RD4-team28={{flagathlete|[[Liu Hongyu (snooker player)|Liu Hongyu]]|CHN}} {{tooltip|(58)|player seeding}}
+| RD4-score28=6
+
+<!-- Bracket 15 -->
+| RD1-team57={{flagathlete|[[Alfie Burden]]|ENG}} {{tooltip|(98)|player seeding}}
+| RD1-score57=6
+| RD1-team58={{flagathlete|Patrick Whelan|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score58=0
+| RD1-team59={{flagathlete|[[Ng On-yee]]|HKG}} {{tooltip|(95)|player seeding}}
+| RD1-score59=4
+| RD1-team60={{flagathlete|[[Ryan Thomerson]]|AUS}} {{tooltip|(a)|amateur player}}
+| RD1-score60=6
+
+| RD2-team57={{flagathlete|[[Jamie Jones (snooker player)|Jamie Jones]]|WAL}} {{tooltip|(63)|player seeding}}
+| RD2-score57=6
+| RD2-team58={{flagathlete|[[Alfie Burden]]|ENG}} {{tooltip|(98)|player seeding}}
+| RD2-score58=1
+| RD2-team59={{flagathlete|[[Liam Pullen]]|ENG}} {{tooltip|(66)|player seeding}}
+| RD2-score59=6
+| RD2-team60={{flagathlete|[[Ryan Thomerson]]|AUS}} {{tooltip|(a)|amateur player}}
+| RD2-score60=5
+
+| RD3-team57={{flagathlete|[[Xu Si]]|CHN}} {{tooltip|(34)|player seeding}}
+| RD3-score57=6
+| RD3-team58={{flagathlete|[[Jamie Jones (snooker player)|Jamie Jones]]|WAL}} {{tooltip|(63)|player seeding}}
+| RD3-score58=1
+| RD3-team59={{flagathlete|[[David Gilbert (snooker player)|David Gilbert]]|ENG}} {{tooltip|(31)|player seeding}}
+| RD3-score59=6
+| RD3-team60={{flagathlete|[[Liam Pullen]]|ENG}} {{tooltip|(66)|player seeding}}
+| RD3-score60=4
+
+| RD4-team29={{flagathlete|[[Xu Si]]|CHN}} {{tooltip|(34)|player seeding}}
+| RD4-score29=2
+| RD4-team30={{flagathlete|[[David Gilbert (snooker player)|David Gilbert]]|ENG}} {{tooltip|(31)|player seeding}}
+| RD4-score30=6
+
+<!-- Bracket 16 -->
+| RD1-team61={{flagathlete|[[Luo Zetao]]|CHN}} {{tooltip|(122)|player seeding}}
+| RD1-score61=4
+| RD1-team62={{flagathlete|[[Robert Milkins]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score62=6
+| RD1-team63={{flagathlete|[[Reanne Evans]]|ENG}} {{tooltip|(82)|player seeding}}
+| RD1-score63=6
+| RD1-team64={{flagathlete|Alfie Davies|WAL}} {{tooltip|(a)|amateur player}}
+| RD1-score64=4
+
+| RD2-team61={{flagathlete|[[Long Zehuang]]|CHN}} {{tooltip|(50)|player seeding}}
+| RD2-score61=6
+| RD2-team62={{flagathlete|[[Robert Milkins]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD2-score62=3
+| RD2-team63={{flagathlete|[[Yao Pengcheng]]|CHN}} {{tooltip|(79)|player seeding}}
+| RD2-score63=6
+| RD2-team64={{flagathlete|[[Reanne Evans]]|ENG}} {{tooltip|(82)|player seeding}}
+| RD2-score64=1
+
+| RD3-team61={{flagathlete|[[He Guoqiang (snooker player)|He Guoqiang]]|CHN}} {{tooltip|(47)|player seeding}}
+| RD3-score61=6
+| RD3-team62={{flagathlete|[[Long Zehuang]]|CHN}} {{tooltip|(50)|player seeding}}
+| RD3-score62=1
+| RD3-team63={{flagathlete|[[Thepchaiya Un-Nooh]]|THA}} {{tooltip|(18)|player seeding}}
+| RD3-score63=3
+| RD3-team64={{flagathlete|[[Yao Pengcheng]]|CHN}} {{tooltip|(79)|player seeding}}
+| RD3-score64=6
+
+| RD4-team31={{flagathlete|[[He Guoqiang (snooker player)|He Guoqiang]]|CHN}} {{tooltip|(47)|player seeding}}
+| RD4-score31=2
+| RD4-team32={{flagathlete|[[Yao Pengcheng]]|CHN}} {{tooltip|(79)|player seeding}}
+| RD4-score32=6
+}}
+:<small>'''Note''': w/d=withdrawn; '''w/o'''=[[walkover]]</small>
+
+== Century breaks ==
+=== Main stage centuries ===
+A total of 40 [[century break]]s were made during the main stage of the tournament in [[Taiyuan]].<ref name="si_cent_M">{{cite web |title=Centuries: China Open – 40 |url=https://snookerinfo.co.uk/2026-27/#china-open-40 |website=snookerinfo.co.uk |access-date=16 August 2026 |archive-date=16 August 2026 |archive-url=https://web.archive.org/web/20260816165542/https://snookerinfo.co.uk/2026-27/#china-open-40 |url-status=live}}</ref>
+{{div col}}
+* 140, 134, 134, 133, 119, 115, 108, 100 {{ndash}} [[Zhou Yuelong]]
+* 140, 130 {{ndash}} [[Stuart Bingham]]
+* 139, 132, 113, 103 {{ndash}} [[Shaun Murphy]]
+* 138, 138, 137, 114, 102 {{ndash}} [[Mark Selby]]
+* 134, 132, 118 {{ndash}} [[Zhang Anda]]
+* 134, 120 {{ndash}} [[Noppon Saengkham]]
+* 132, 122, 113, 110 {{ndash}} [[David Gilbert (snooker player)|David Gilbert]]
+* 132 {{ndash}} [[Xiao Guodong]]
+* 122, 114, 102 {{ndash}} [[Neil Robertson]]
+* 118, 111 {{ndash}} [[Liu Hongyu (snooker player)|Liu Hongyu]]
+* 110 {{ndash}} [[Chris Wakelin]]
+* 108 {{ndash}} [[Si Jiahui]]
+* 106, 100 {{ndash}} [[Wu Yize]]
+* 101 {{ndash}} [[Yao Pengcheng]]
+* 100 {{ndash}} [[Ronnie O'Sullivan]]
+{{div col end}}
+
+=== Qualifying stage centuries ===
+A total of 80 century breaks were made during the qualifying stage of the tournament in [[Leicester]].<ref name="si_cent_Q">{{cite web |title=Centuries: China Open Qualifiers – 80 |url=https://snookerinfo.co.uk/2026-27/#china-open-qualifiers-80 |website=snookerinfo.co.uk |access-date=8 August 2026 |archive-date=18 July 2026 |archive-url=https://web.archive.org/web/20260718080651/https://snookerinfo.co.uk/2026-27/#china-open-qualifiers-80 |url-status=live}}</ref>
+{{div col}}
+* [[Maximum break|147]], 119 {{ndash}} [[Michael Holt (snooker player)|Michael Holt]]<ref name="Max 242" />
+* 140, 110, 104 {{ndash}} [[Xu Si]]
+* 140 {{ndash}} Chen Ruifu
+* 138 {{ndash}} George Pragnell
+* 137, 120 {{ndash}} [[Joe O'Connor (snooker player)|Joe O'Connor]]
+* 137 {{ndash}} [[Zhou Yuelong]]
+* 137 {{ndash}} [[Artemijs Žižins]]
+* 136, 102 {{ndash}} [[Matthew Selt]]
+* 135, 133 {{ndash}} [[Liu Hongyu (snooker player)|Liu Hongyu]]
+* 135, 106, 103 {{ndash}} [[Liam Highfield]]
+* 134, 133 {{ndash}} [[Ali Carter]]
+* 134 {{ndash}} [[Marco Fu]]
+* 134 {{ndash}} [[Long Zehuang]]
+* 133, 105 {{ndash}} [[Lyu Haotian]]
+* 133, 101, 100 {{ndash}} [[Tom Ford (snooker player)|Tom Ford]]
+* 132, 126, 119 {{ndash}} [[Hossein Vafaei]]
+* 132 {{ndash}} [[Chang Bingyu]]
+* 130 {{ndash}} [[Steven Hallworth]]
+* 130 {{ndash}} [[Anthony McGill]]
+* 129 {{ndash}} [[Alfie Burden]]
+* 127, 118 {{ndash}} [[Lan Yuhao]]
+* 125, 125 {{ndash}} [[Sam Craigie]]
+* 125, 107 {{ndash}} [[Hammad Miah]]
+* 123, 113 {{ndash}} [[Andrew Higginson (snooker player)|Andrew Higginson]]
+* 123, 107, 100 {{ndash}} [[Jackson Page]]
+* 122, 118, 103 {{ndash}} [[Florian Nüßle]]
+* 122, 116 {{ndash}} [[Jamie Jones (snooker player)|Jamie Jones]]
+* 121 {{ndash}} [[Thanawat Tirapongpaiboon|T. Tirapongpaiboon]]
+* 120 {{ndash}} [[Zhang Anda]]
+* 119 {{ndash}} [[Ben Mertens]]
+* 117 {{ndash}} [[David Gilbert (snooker player)|David Gilbert]]
+* 116, 116 {{ndash}} [[Fan Zhengyi]]
+* 116 {{ndash}} [[Ian Burns (snooker player)|Ian Burns]]
+* 115 {{ndash}} [[He Guoqiang (snooker player)|He Guoqiang]]
+* 114, 112, 108, 105 {{ndash}} [[Liam Pullen]]
+* 114, 112, 101 {{ndash}} [[Jiang Jun]]
+* 114 {{ndash}} [[Liam Davies (snooker player)|Liam Davies]]
+* 114 {{ndash}} [[Duane Jones (snooker player)|Duane Jones]]
+* 114 {{ndash}} [[David Lilley (snooker player)|David Lilley]]
+* 114 {{ndash}} [[Robert Milkins]]
+* 112 {{ndash}} [[Mark Joyce]]
+* 112 {{ndash}} [[Jimmy White]]
+* 107 {{ndash}} [[Luca Brecel]]
+* 104 {{ndash}} [[Stuart Bingham]]
+* 104 {{ndash}} Liu Yang
+* 103 {{ndash}} [[Mateusz Baranowski]]
+* 102 {{ndash}} [[Jamie Clarke (snooker player)|Jamie Clarke]]
+* 100 {{ndash}} [[Julien Leclercq (snooker player)|Julien Leclercq]]
+* 100 {{ndash}} [[Mitchell Mann]]
+* 100 {{ndash}} [[Matthew Stevens]]
+* 100 {{ndash}} [[Ricky Walden]]
+{{div col end}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+{{China Open (snooker)}}
+{{2026–27 snooker season}}
+
+[[Category:2026 in snooker|China Open]]
+[[Category:August 2026 sports events in China|China Open (snooker)]]
+[[Category:China Open (snooker)]]

@@ -1,0 +1,66 @@
+{{Short description|Snooker tournament}}
+The '''2026 John Virgo Trophy''' was a two-day invitational event held as a tribute to snooker player [[John Virgo]], who died on 4&nbsp;February 2026.<ref name="BBC">{{cite web |last=Skilbeck |first=John |title=A 'special' snooker player who became a TV star - John Virgo obituary |url=https://www.bbc.com/sport/snooker/articles/c4g51n3n8v8o |website=BBC Sport |access-date=16 April 2026 |date=4 February 2026}}</ref> It took place at the Goffs venue in [[County Kildare]], Ireland, on 11&nbsp;and 12&nbsp;April 2026.<ref name="WOL">{{cite web |last=Bayliss |first=Jake |title=How to watch Ronnie O'Sullivan for free in John Virgo Trophy with new snooker rules |url=https://www.walesonline.co.uk/sport/other-sport/john-virgo-trophy-ronnie-osullivan-33738598 |website=Wales Online |publisher=Media Wales Ltd |access-date=15 April 2026 |date=11 April 2026}}</ref> The tournament was contested by invited multiple World Championship winners [[Ronnie O'Sullivan]], [[John Higgins]], [[Mark Williams (snooker player)|Mark Williams]], and [[Stephen Hendry]], under the [[Snooker 900]] rules, a fast-paced format designed mainly for television.<ref name="WOL">{{cite web |last=Bayliss |first=Jake |title=How to watch Ronnie O'Sullivan for free in John Virgo Trophy with new snooker rules |url=https://www.walesonline.co.uk/sport/other-sport/john-virgo-trophy-ronnie-osullivan-33738598 |website=Wales Online |publisher=Media Wales Ltd |access-date=15 April 2026 |date=11 April 2026}}</ref> O'Sullivan won the event, defeating Higgins 6{{nbnd}}0 in the final.<ref name=SHQ>{{cite web |last=Caulfield |first=David |title=Ronnie O'Sullivan captures the 2026 John Virgo Trophy title |url=https://snookerhq.com/2026/04/12/ronnie-osullivan-2026-john-virgo-trophy-title/ |website=SnookerHQ.com |publisher=Cool Frank Media |access-date=15 April 2026 |date=12 April 2016}}</ref><ref>{{Cite news |last=Kane|first=Desmond|title= Can Ronnie O'Sullivan bring luck of Irish to World Snooker Championship after thrilling fans with whitewash win over John Higgins at Goffs? |url=https://www.tntsports.co.uk/snooker/halo-world-championship/2026/ronnie-osullivan-thrilling-whitewash-win-john-higgins-goffs-ireland-john-virgo-trophy-crucible_sto23290080/story.shtml |website=TNT Sports |date=13 April 2026}}</ref><ref>{{Cite news |last=Day |first=Michael |title=O'Sullivan wins inaugural John Virgo Trophy |url=https://www.totallysnookered.com/sport/snooker/tournaments/ronnie-osullivan-whitewashes-john-higgins-in-final-to-win-john-virgo-trophy-ahead-of-crucible-bid-6571909 |date=12 April 2026 |access-date=12 April 2026 |website=Totally Snookered}}</ref><ref>{{Cite news |title=Ronnie O'Sullivan claims the inaugural John Virgo Trophy |url=https://snooker900.tv/articles/ronnie-o-sullivan-claim-the-inaugural-john-virgo-trophy |date=14 April 2026 |access-date=18 April 2026 |website=Snooker900.tv|publisher=Jason Francis Sports Ltd.}}</ref> 
+
+==Results==
+{{4TeamBracket
+|boldwinner = high
+| RD1=Semi-finals<br/>Best of 11 frames
+| RD2=Final<br/>Best of 11 frames
+| RD1-seed1=
+| RD1-team1={{flagicon|SCO}} [[John Higgins]]
+| RD1-score1=6
+| RD1-seed2=
+| RD1-team2={{flagicon|WAL}} [[Mark Williams (snooker player)|Mark Williams]]
+| RD1-score2=4
+| RD1-seed3=
+| RD1-team3={{flagicon|ENG}} [[Ronnie O'Sullivan]]
+| RD1-score3=6
+| RD1-seed4=
+| RD1-team4={{flagicon|SCO}} [[Stephen Hendry]]
+| RD1-score4=1
+| RD2-seed1=
+| RD2-team1={{flagicon|SCO}} [[John Higgins]]
+| RD2-score1=0
+| RD2-seed2=
+| RD2-team2={{flagicon|ENG}} [[Ronnie O'Sullivan]]
+| RD2-score2=6
+}}
+
+===Final===
+{| class="wikitable" style="font-size: 95%; margin: 1em auto 1em auto;"
+|+ {{sronly|Final}}
+|-
+| colspan="3" align="center" bgcolor="#ffd700" | '''Final:''' Best of 11 frames. Referee: [[Michaela Tabb]]<br/> [[Goffs]], [[County Kildare]], Ireland, 12 April 2026.
+|-
+| width="220" align="right" | [[John Higgins]] <br>{{SCO}}
+| width="100" align="center" | 0{{ndash}}'''6'''
+| width="220" | '''[[Ronnie O'Sullivan]]'''<br>{{ENG}}
+|-
+| colspan="3" align="center" style="font-size: 100%" | ''Frame scores:'' 0{{ndash}}'''125''' (125), 18{{ndash}}'''75''' (75), 42{{ndash}}'''81''' (65), 0{{ndash}}'''96''' (96), 12{{ndash}}'''78''' (73), 28{{ndash}}'''64''', 
+|-
+| align="right" | 
+| align="center" | Highest break
+| '''125''' (''frame 1'')
+|-
+| align="right" | 0
+| align="center" | Century breaks
+| '''1'''
+|-
+|}
+
+==References==
+{{Reflist}}
+{{2025–26 snooker season}}
+{{Snooker seasons}}
+{{Snooker tournaments}}
+
+{{Cue sports}}
+{{DEFAULTSORT:John Virgo Trophy, 2026}}
+[[Category:2026 in snooker]]
+[[Category:Snooker non-ranking competitions]]
+[[Category:2026 in Irish sport]]
+[[Category:Snooker competitions in Ireland]]
+[[Category:Sport in County Kildare]]
+
+
+{{snooker-stub}}

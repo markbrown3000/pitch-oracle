@@ -1,0 +1,1289 @@
+{{short description|Invitational snooker tournament}}
+{{Use British English|date=December 2025}}
+{{Use dmy dates|date=December 2025}}
+{{Infobox individual snooker tournament
+|tournament_name=2026 [[BetVictor]]<br/>[[Championship League]] Invitational
+|logo=[[File:2026 Championship League (invitational) logo.png|320px]]
+|dates={{Start and end dates|2026|01|02|2026|02|11|df=y}}
+|venue=[[Leicester Arena]]|location=[[Leicester]]
+|organisation=[[Matchroom Sport]]
+|country=England
+|format=Non-[[Snooker world rankings|ranking]] event
+|Total prize fund=£205,000
+|winners_share=£10,000 (plus bonuses)
+|highest_break={{ubl
+|{{flagathlete|[[Chris Wakelin]]|ENG}} ([[Maximum break|147]])
+|{{flagathlete|[[Matthew Selt]]|ENG}} ([[Maximum break|147]])
+|{{flagathlete|[[Xiao Guodong]]|CHN}} ([[Maximum break|147]])
+|{{flagathlete|[[Wu Yize]]|CHN}} ([[Maximum break|147]])
+|{{flagathlete|[[Zhao Xintong]]|CHN}} ([[Maximum break|147]])}}
+|winner={{flagathlete|[[Mark Selby]]|ENG}}
+|runner_up={{flagathlete|[[Wu Yize]]|CHN}}
+|score=3–1
+|previous=[[2025 Championship League (ranking)|2025 (ranking)]]<br/>← [[2025 Championship League (invitational)|2025 (invitational)]]
+|next=[[2026 Championship League (ranking)|2026 (ranking)]]→<br/> [[2027 Championship League (invitational)|2027 (invitational)]]
+}}
+
+The '''2026 Championship League Invitational''' (officially the '''2026 BetVictor Championship League Snooker Invitational''') was a professional non-[[Snooker world rankings|ranking]] [[snooker]] tournament that took place from 2 January to 11 February 2026 at the [[Leicester Arena]] in [[Leicester]], England. Part of the [[2025–26 snooker season]], it was the 20th edition of the invitational version of the tournament, which was first staged in [[2008 Championship League|2008]].
+
+[[Mark Selby]] was the defending champion, having retained the title at the [[2025 Championship League (invitational)|2025 event]] by defeating [[Kyren Wilson]] 3{{nbnd}}0 in the final. He won the title for a third consecutive time by defeating [[Wu Yize]] 3{{nbnd}}1 in the final.
+
+There were 173 [[century break]]s made during the tournament, including  five [[maximum break]]s, made respectively by [[Chris Wakelin]] in his Group 1 match against [[Pang Junxu]], [[Matthew Selt]] in his Group 4 match against [[Xiao Guodong]], Xiao in his Group 6 match against [[Oliver Lines]], [[Wu Yize]] in his Group 6 match against Lines, and [[Zhao Xintong]] in his Group 6 semi-final against [[Jak Jones]]. Wakelin, Selt, Wu, and Zhao all made their first maximums in professional competition, while Xiao made his third. They were the record{{nbh}}extending 17th, 18th, 19th, 20th, and 21st maximums of the season.
+
+==Overview==
+The tournament took place from 2 January to 11 February 2026 at the [[Leicester Arena]] in [[Leicester]], England.<ref>{{cite web |title=Tournaments 2025–26 |url=https://www.wst.tv/tournaments |access-date=13 February 2026 |website=[[World Snooker Tour]] |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213112658/https://www.wst.tv/tournaments/ |url-status=live}}</ref><ref>{{cite web |title=Calendar 2025/2026 |url=https://www.snooker.org/res/index.asp?template=2 |access-date=13 February 2026 |website=snooker.org |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213113602/https://www.snooker.org/res/index.asp?template=2 |url-status=live}}</ref> [[Mark Selby]] was the defending champion, having defeated [[Kyren Wilson]] 3{{nbnd}}0 in the final of the [[2025 Championship League (invitational)|2025 event]].<ref>{{cite web |date=5 February 2025 |title=Selby retains league title and makes 147 |url=https://www.wst.tv/news/2025/february/05/selby-retains-league-title-and-makes-147/ |access-date=13 February 2026 |website=[[World Snooker Tour]] |archive-date=21 February 2025 |archive-url=https://web.archive.org/web/20250221035957/https://www.wst.tv/news/2025/february/05/selby-retains-league-title-and-makes-147/ |url-status=live}}</ref>
+
+===Format===
+A total of 25 players were initially invited to the event, with the matches played [[Behind closed doors (sport)|behind closed doors]] without an audience. Players earn prize money for every {{cuegloss|frame}} won, as well as being semi{{nbh}}finalists, runners{{nbh}}up, and winners of each group, with more money involved in the Winners' Group. Since [[2010 Championship League|2010]], all matches have been played as the [[Playoff format#Higher number of games|best of five]] frames.
+
+The tournament was played in a [[Round-robin tournament|round{{nbh}}robin]] format, consisting of eight groups of seven players. The top four players in each group qualify for a play{{nbh}}off, with the winner entering the Winners' Group. The bottom two players in each group were eliminated, and the remaining four moved to the next group, where they were joined by three more players. This format was played for each group, from one to seven. In each group, the players were ranked by the number of matches won, then by most frames won, and then by least frames lost. If two players were tied by these criteria, the player who won the match between them was ranked higher in the table. The group play{{nbh}}off semi{{nbh}}finals were contested between the 1st and 4th place players in the table, and between the 2nd and 3rd place players in the table. The Winners' Group was played at the end, and its play{{nbh}}off winner became champion of the tournament.<ref name="CLS_inv_format">{{cite web |title=Championship League Snooker |url=https://championshipleaguesnooker.co.uk/invitational/ |website=championshipleaguesnooker.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213115337/https://championshipleaguesnooker.co.uk/invitational/ |url-status=live}}</ref><ref name="CLS_info">{{cite web |title=2026 BetVictor Championship League Snooker invitational event returns: everything you need to know |url=https://championshipleaguesnooker.co.uk/2026-betvictor-championship-league-snooker-invitational-event-returns-everything-you-need-to-know/ |website=championshipleaguesnooker.co.uk |date=22 December 2025 |access-date=13 February 2026 |archive-date=2 January 2026 |archive-url=https://web.archive.org/web/20260102075838/https://championshipleaguesnooker.co.uk/2026-betvictor-championship-league-snooker-invitational-event-returns-everything-you-need-to-know/ |url-status=live}}</ref><ref>{{cite web |title=BetVictor Championship League Snooker Invitational returns in January |url=https://www.wst.tv/news/2025/december/22/betvictor-championship-league-snooker-invitational-returns-in-january/ |website=[[World Snooker Tour]] |date=22 December 2025 |access-date=13 February 2025 |archive-date=7 January 2026 |archive-url=https://web.archive.org/web/20260107143226/https://www.wst.tv/news/2025/december/22/betvictor-championship-league-snooker-invitational-returns-in-january/ |url-status=live}}</ref>
+
+Groups 1 to 4 were played from 2 to 9 January; Groups 5 to 7 were played from 19 to 24 January; and the Winners' Group was played on 10 and 11 February. The champion will take a place in the [[2026 Champion of Champions]].{{refn|<ref name="s.o_gp1">{{cite web |title=Championship League-Group 1 |url=https://www.snooker.org/res/index.asp?event=2368 |website=snooker.org |date=7 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213121724/https://www.snooker.org/res/index.asp?event=2368 |url-status=live}}</ref><ref name="s.o_gp2">{{cite web |title=Championship League-Group 2 |url=https://www.snooker.org/res/index.asp?event=2369 |website=snooker.org |date=28 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213122415/https://www.snooker.org/res/index.asp?event=2369 |url-status=live}}</ref><ref name="s.o_gp3">{{cite web |title=Championship League-Group 3 |url=https://www.snooker.org/res/index.asp?event=2370 |website=snooker.org |date=28 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213123239/https://www.snooker.org/res/index.asp?event=2370 |url-status=live}}</ref><ref name="s.o_gp4">{{cite web |title=Championship League-Group 4 |url=https://www.snooker.org/res/index.asp?event=2371 |website=snooker.org |date=28 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213123741/https://www.snooker.org/res/index.asp?event=2371 |url-status=live}}</ref><ref name="s.o_gp5">{{cite web |title=Championship League-Group 5 |url=https://www.snooker.org/res/index.asp?event=2373 |website=snooker.org |date=27 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213130513/https://www.snooker.org/res/index.asp?event=2373 |url-status=live}}</ref><ref name="s.o_gp6">{{cite web |title=Championship League-Group 6 |url=https://www.snooker.org/res/index.asp?event=2374 |website=snooker.org |date=23 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213131027/https://www.snooker.org/res/index.asp?event=2374 |url-status=live}}</ref><ref name="s.o_gp7">{{cite web |title=Championship League-Group 7 |url=https://www.snooker.org/res/index.asp?event=2375 |website=snooker.org |date=30 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213131701/https://www.snooker.org/res/index.asp?event=2375 |url-status=live}}</ref><ref name="s.o_gpW">{{cite web |title=Championship League-Winners' Group |url=https://www.snooker.org/res/index.asp?event=2372 |website=snooker.org |date=11 February 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213132134/https://www.snooker.org/res/index.asp?event=2372 |url-status=live}}</ref>}}{{refn|<ref name="CLS_gp1">{{cite web |title=Championship League Snooker: Group 1 |url=https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-1/ |website=championshipleaguesnooker.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213132937/https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-1/ |url-status=live}}</ref><ref name="CLS_gp2">{{cite web |title=Championship League Snooker: Group 2 |url=https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-2/ |website=championshipleaguesnooker.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213133500/https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-2/ |url-status=live}}</ref><ref name="CLS_gp3">{{cite web |title=Championship League Snooker: Group 3 |url=https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-3/ |website=championshipleaguesnooker.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213133915/https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-3/ |url-status=live}}</ref><ref name="CLS_gp4">{{cite web |title=Championship League Snooker: Group 4 |url=https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-4/ |website=championshipleaguesnooker.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213134248/https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-4/ |url-status=live}}</ref><ref name="CLS_gp5">{{cite web |title=Championship League Snooker: Group 5 |url=https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-5/ |website=championshipleaguesnooker.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213134643/https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-5/ |url-status=live}}</ref><ref name="CLS_gp6">{{cite web |title=Championship League Snooker: Group 6 |url=https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-6/ |website=championshipleaguesnooker.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213135108/https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-6/ |url-status=live}}</ref><ref name="CLS_gp7">{{cite web |title=Championship League Snooker: Group 7 |url=https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-7/ |website=championshipleaguesnooker.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213135704/https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/group-7/ |url-status=live}}</ref><ref name="CLS_gpW">{{cite web |title=Championship League Snooker: Winners' Group |url=https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/winners/ |website=championshipleaguesnooker.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213140051/https://championshipleaguesnooker.co.uk/invitational/2026-championship-league-snooker-invitational/winners/ |url-status=live}}</ref>}}{{refn|<ref name="WST_matches_g1">{{cite web |title=Championship League Group 1 matches |url=https://www.wst.tv/matches/6662033c-6257-4556-8b46-551ec0887d89 |work=[[World Snooker Tour]] |date=3 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213141544/https://www.wst.tv/matches/6662033c-6257-4556-8b46-551ec0887d89 |url-status=live}}</ref><ref name="WST_matches_g2">{{cite web |title=Championship League Group 2 matches |url=https://www.wst.tv/matches/14e646a7-6b7a-439d-9d01-8715e889288c |work=[[World Snooker Tour]] |date=5 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213142116/https://www.wst.tv/matches/14e646a7-6b7a-439d-9d01-8715e889288c |url-status=live}}</ref><ref name="WST_matches_g3">{{cite web |title=Championship League Group 3 matches |url=https://www.wst.tv/matches/475fc156-cd4a-466c-8140-2d0ba31c40e0 |work=[[World Snooker Tour]] |date=7 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213142556/https://www.wst.tv/matches/475fc156-cd4a-466c-8140-2d0ba31c40e0 |url-status=live}}</ref><ref name="WST_matches_g4">{{cite web |title=Championship League Group 4 matches |url=https://www.wst.tv/matches/50d9c970-fc51-41ce-8aeb-f738731f8c29 |work=[[World Snooker Tour]] |date=9 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213143009/https://www.wst.tv/matches/50d9c970-fc51-41ce-8aeb-f738731f8c29 |url-status=live}}</ref><ref name="WST_matches_g5">{{cite web |title=Championship League Group 5 matches |url=https://www.wst.tv/matches/be569e1c-adea-407e-aa05-0e24a4bb0134 |work=[[World Snooker Tour]] |date=20 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213144914/https://www.wst.tv/matches/be569e1c-adea-407e-aa05-0e24a4bb0134 |url-status=live}}</ref><ref name="WST_matches_g6">{{cite web |title=Championship League Group 6 matches |url=https://www.wst.tv/matches/440d1c49-1eca-4b74-99b9-e82d35b31c62 |work=[[World Snooker Tour]] |date=22 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213162832/https://www.wst.tv/matches/440d1c49-1eca-4b74-99b9-e82d35b31c62 |url-status=live}}</ref><ref name="WST_matches_g7">{{cite web |title=Championship League Group 7 matches |url=https://www.wst.tv/matches/65c0ba85-e61e-48a3-916e-d19383079c54 |work=[[World Snooker Tour]] |date=24 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213163301/https://www.wst.tv/matches/65c0ba85-e61e-48a3-916e-d19383079c54 |url-status=live}}</ref><ref name="WST_matches_gW">{{cite web |title=Championship League Winners Group matches |url=https://www.wst.tv/matches/b6583421-3ea1-4240-9eb1-0434ebd56ba5 |work=[[World Snooker Tour]] |date=11 February 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213163620/https://www.wst.tv/matches/b6583421-3ea1-4240-9eb1-0434ebd56ba5 |url-status=live}}</ref>}}
+
+===Broadcasters===
+The event was broadcast by Eurasian Broadcasting in Ukraine and the Commonwealth of Independent States; [[Fox Sports (Australia)|Fox Sports]] in Australia; [[Nova Sport (Czech Republic and Slovakia)|Nova Sport]] in Czechia and Slovakia; Rigour Media in China; [[PCCW]] in Hong Kong; [[Viaplay Group|Viaplay]] in Iceland and the Netherlands; Reddentes in Thailand; [[Sky (New Zealand)|Sky NZ]] in New Zealand (on 10 and 11 February); [[TV3 Group (Baltics)|TV3]] in the Baltics; [[Viasat (Nordic television service)|Viasat]] in Scandinavia; and by [[Matchroom Sport|Matchroom.live]] in all other territories. Additionally, table one was streamed live on the Matchroom Pool [[YouTube]] channel available in the United Kingdom, with table two being available worldwide on the Matchroom Multi Sport YouTube channel.<ref name="CLS_info" />
+
+===Prize fund===
+The breakdown of prize money for the 2026 Championship League is as follows:<ref name="CLS_inv_format" /><ref name="CLS_info" />
+{{div col}}
+*'''Groups 1–7'''
+**Winner: £3,000
+**Runner-up: £2,000
+**Semi-final: £1,000
+**Frame-win (league stage): £100
+**Frame-win (play-offs): £300
+**Highest break: £500
+*'''Winners' Group'''
+**Winner: £10,000
+**Runner-up: £5,000
+**Semi-final: £3,000
+**Frame-win (league stage): £200
+**Frame-win (play-offs): £300
+**Highest break: £1,000
+{{div col end}}
+*'''Maximum possible tournament total''': £205,000 <small>(if ''all'' match results are 3{{nbnd}}2)</small><!--
+100x7x21x5 + 300x7x3x5 + 500x7 + 1000x7x2 + 2000x7 + 3000x7
++ 200x21x5 + 300x3x5 + 1000 + 3000x2 + 5000 + 10000 = 205000
+-->
+*'''Minimum possible tournament total''': £152,800 <small>(if ''all'' match results are 3{{nbnd}}0)</small><!--
+100x7x21x3 + 300x7x3x3 + 500x7 + 1000x7x2 + 2000x7 + 3000x7
++ 200x21x3 + 300x3x3 + 1000 + 3000x2 + 5000 + 10000 = 152800
+-->
+
+==Group 1==
+Group 1 was played on 2 and 3 January 2026.<ref name="CLS_gp1" /><ref name="WST_matches_g1" /> At the end of the first day [[Joe O'Connor (snooker player)|Joe O'Connor]] and [[Jackson Page]] led the table, both with three wins out of four.<ref>{{cite web |title=O'Connor and Page make strong starts |url=https://www.wst.tv/news/2026/january/02/o-connor-and-page-make-strong-starts/ |website=[[World Snooker Tour]] |date=2 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213164458/https://www.wst.tv/news/2026/january/02/o-connor-and-page-make-strong-starts/ |url-status=live}}</ref> [[Tom Ford (snooker player)|Tom Ford]] won the group and qualified for the Winners' Group.<ref>{{cite web |title=Ford wins opening group |url=https://www.wst.tv/news/2026/january/03/ford-wins-opening-group/ |website=[[World Snooker Tour]] |date=3 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213165022/https://www.wst.tv/news/2026/january/03/ford-wins-opening-group/ |url-status=live}}</ref> [[Chris Wakelin]] made the first [[maximum break]] of his professional career in the first frame of his 3{{nbnd}}2 league match win against [[Pang Junxu]]. It was the 17th maximum of the current season and the 234th official 147.<ref name="s.o_gp1" /><ref name="G1_147_Wakelin">{{cite web |title=Chris Wakelin produces record-extending 147 maximum break on first snooker day of the new year |url=https://www.totallysnookered.com/sport/snooker/tournaments/championship-league-snooker-invitational/chris-wakelin-produces-record-extending-147-maximum-break-on-first-snooker-day-of-the-new-year-5461497 |website=totallysnookered.com |first=Michael |last=Day |date=2 January 2026 |access-date=2 January 2026 |archive-date=2 January 2026 |archive-url=https://web.archive.org/web/20260102203358/https://www.totallysnookered.com/sport/snooker/tournaments/championship-league-snooker-invitational/chris-wakelin-produces-record-extending-147-maximum-break-on-first-snooker-day-of-the-new-year-5461497 |url-status=live}}</ref><ref name="si_cent_g1">{{cite web |title=Centuries: Championship League Group One: 14 |url=https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-one-14 |website=snookerinfo.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-one-14 |url-status=live}}</ref>
+
+===Group 1 league matches===
+====2 January====
+{{div col}}
+* Chris Wakelin 0–'''3 Elliot Slessor'''
+* '''Joe O'Connor 3'''–1 Hossein Vafaei
+* Chris Wakelin 1–'''3 Tom Ford'''
+* Pang Junxu 2–'''3 Jackson Page'''
+* Elliot Slessor 0–'''3 Joe O'Connor'''
+* Hossein Vafaei 1–'''3 Jackson Page'''
+* '''Pang Junxu 3'''–1 Tom Ford
+* '''Chris Wakelin 3'''–2 Joe O'Connor
+* Tom Ford 2–'''3 Jackson Page'''
+* '''Elliot Slessor 3'''–0 Hossein Vafaei
+* '''Chris Wakelin 3'''–2 Pang Junxu
+* '''Joe O'Connor 3'''–1 Jackson Page
+{{div col end}}
+
+====3 January====
+{{div col}}
+* Elliot Slessor 2–'''3 Jackson Page'''
+* '''Chris Wakelin 3'''–2 Hossein Vafaei
+* Joe O'Connor 1–'''3 Pang Junxu'''
+* '''Tom Ford 3'''–0 Hossein Vafaei
+* '''Chris Wakelin 3'''–2 Jackson Page
+* Elliot Slessor 1–'''3 Tom Ford'''
+* Pang Junxu 2–'''3 Hossein Vafaei'''
+* '''Joe O'Connor 3'''–2 Tom Ford
+* '''Elliot Slessor 3'''–0 Pang Junxu
+{{div col end}}
+
+===Group 1 table===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA={{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}}
+|name_BBB={{flagathlete|[[Jackson Page]]|WAL}}
+|name_CCC={{flagathlete|[[Chris Wakelin]]|ENG}}
+|name_DDD={{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}}
+|name_EEE={{flagathlete|[[Elliot Slessor]]|ENG}}
+|name_FFF={{flagathlete|[[Pang Junxu]]|CHN}}
+|name_GGG={{flagathlete|[[Hossein Vafaei]]|IRN}}
+|win_AAA=4 |loss_AAA=2 |gf_AAA=15 |ga_AAA=10
+|win_BBB=4 |loss_BBB=2 |gf_BBB=15 |ga_BBB=13
+|win_CCC=4 |loss_CCC=2 |gf_CCC=13 |ga_CCC=14
+|win_DDD=3 |loss_DDD=3 |gf_DDD=14 |ga_DDD=11
+|win_EEE=3 |loss_EEE=3 |gf_EEE=12 |ga_EEE=9
+|win_FFF=2 |loss_FFF=4 |gf_FFF=12 |ga_FFF=14
+|win_GGG=1 |loss_GGG=5 |gf_GGG=7 |ga_GGG=17
+|split4=yes
+|split5=yes
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC= |status_DDD=W |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=Qualification to Group 1 play-off
+|col_PO=blue1 |text_PO=Advanced into Group 2
+|col_rel=red1 |text_rel=Eliminated from the competition
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 1 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp1" /><ref name="CLS_gp1" />
+}}
+
+===Group 1 play-offs===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| {{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}}
+| 1
+| {{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}}
+| 3
+|| {{flagathlete|[[Jackson Page]]|WAL}}
+| 3
+| {{flagathlete|[[Chris Wakelin]]|ENG}}
+| 2
+<!--final-->
+|| {{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}}
+| 3
+| {{flagathlete|[[Jackson Page]]|WAL}}
+| 1
+}}
+
+==Group 2==
+Group 2 was played on 4 and 5 January 2026. [[Ali Carter]] withdrew and was replaced by [[Noppon Saengkham]].<ref name="CLS_gp2" /><ref name="WST_matches_g2" /> At the end of the first day [[Gary Wilson (snooker player)|Gary Wilson]] led the table with three wins out of four.<ref>{{cite web |title=Wilson leads group two |url=https://www.wst.tv/news/2026/january/04/wilson-leads-group/ |website=[[World Snooker Tour]] |date=4 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213165846/https://www.wst.tv/news/2026/january/04/wilson-leads-group/ |url-status=live}}</ref> [[Elliot Slessor]] won the group and qualified for the Winners' Group.<ref>{{cite web |title=Slessor seals group two |url=https://www.wst.tv/news/2026/january/05/slessor-seals-group-two-1/ |website=[[World Snooker Tour]] |date=5 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213170602/https://www.wst.tv/news/2026/january/05/slessor-seals-group-two-1/ |url-status=live}}</ref> Slessor also made the highest break in the group, a 138.<ref name="s.o_gp2" /><ref name="si_cent_g2">{{cite web |title=Centuries: Championship League Group Two: 14 |url=https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-two-14 |website=snookerinfo.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-two-14 |url-status=live}}</ref>
+
+===Group 2 league matches===
+====4 January====
+{{div col}}
+* '''Elliot Slessor 3'''–0 Noppon Saengkham
+* '''Gary Wilson 3'''–2 David Gilbert
+* '''Joe O'Connor 3'''–1 Jackson Page
+* Chris Wakelin 0–'''3 Gary Wilson'''
+* David Gilbert 2–'''3 Noppon Saengkham'''
+* '''Elliot Slessor 3'''–1 Joe O'Connor
+* '''Chris Wakelin 3'''–1 Jackson Page
+* Gary Wilson 2–'''3 Noppon Saengkham'''
+* Elliot Slessor 0–'''3 David Gilbert'''
+* '''Chris Wakelin 3'''–1 Joe O'Connor
+* '''Joe O'Connor 3'''–2 Noppon Saengkham
+* '''Gary Wilson 3'''–0 Jackson Page
+{{div col end}}
+
+====5 January====
+{{div col}}
+* David Gilbert 2–'''3 Joe O'Connor'''
+* Gary Wilson 0–'''3 Elliot Slessor'''
+* Jackson Page 0–'''3 Noppon Saengkham'''
+* Chris Wakelin 1–'''3 Elliot Slessor'''
+* '''Gary Wilson 3'''–2 Joe O'Connor
+* '''Chris Wakelin 3'''–2 David Gilbert
+* Elliot Slessor 0–'''3 Jackson Page'''
+* '''David Gilbert 3'''–1 Jackson Page
+* Chris Wakelin 1–'''3 Noppon Saengkham'''
+{{div col end}}
+
+===Group 2 table===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA={{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}}
+|name_BBB={{flagathlete|[[Noppon Saengkham]]|THA}}
+|name_CCC={{flagathlete|[[Elliot Slessor]]|ENG}}
+|name_DDD={{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}}
+|name_EEE={{flagathlete|[[Chris Wakelin]]|ENG}}
+|name_FFF={{flagathlete|[[David Gilbert (snooker player)|David Gilbert]]|ENG}}
+|name_GGG={{flagathlete|[[Jackson Page]]|WAL}}
+|win_AAA=4 |loss_AAA=2 |gf_AAA=14 |ga_AAA=10
+|win_BBB=4 |loss_BBB=2 |gf_BBB=14 |ga_BBB=11
+|win_CCC=4 |loss_CCC=2 |gf_CCC=12 |ga_CCC=8
+|win_DDD=3 |loss_DDD=3 |gf_DDD=13 |ga_DDD=14
+|win_EEE=3 |loss_EEE=3 |gf_EEE=11 |ga_EEE=13
+|win_FFF=2 |loss_FFF=4 |gf_FFF=14 |ga_FFF=13
+|win_GGG=1 |loss_GGG=5 |gf_GGG=6 |ga_GGG=15
+|split4=yes
+|split5=yes
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC=W |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=Qualification to Group 2 play-off
+|col_PO=blue1 |text_PO=Advanced into Group 3
+|col_rel=red1 |text_rel=Eliminated from the competition
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 2 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp2" /><ref name="CLS_gp2" />
+}}
+
+===Group 2 play-offs===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| {{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}}
+| 3
+| {{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}}
+| 1
+|| {{flagathlete|[[Noppon Saengkham]]|THA}}
+| 0
+| {{flagathlete|[[Elliot Slessor]]|ENG}}
+| 3
+<!--final-->
+|| {{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}}
+| 1
+| {{flagathlete|[[Elliot Slessor]]|ENG}}
+| 3
+}}
+
+==Group 3==
+Group 3 was played on 6 and 7 January 2026. [[Noppon Saengkham]] withdrew due to competing in the [[2026 German Masters]] qualifying and was replaced by [[Antoni Kowalski]].<ref name="CLS_gp3" /><ref name="WST_matches_g3" /> [[Si Jiahui]] won the group and qualified for the Winners' Group.<ref>{{cite web |title=Si fights back to win group |url=https://www.wst.tv/news/2026/january/07/si-fights-back-to-win-group/ |website=[[World Snooker Tour]] |date=7 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213181243/https://www.wst.tv/news/2026/january/07/si-fights-back-to-win-group/ |url-status=live}}</ref> [[Chris Wakelin]] made the highest break in the group, a 140.<ref name="s.o_gp3" /><ref name="si_cent_g3">{{cite web |title=Centuries: Championship League Group Three: 27 |url=https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-three-27 |website=snookerinfo.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-three-27 |url-status=live}}</ref>
+
+===Group 3 league matches===
+====6 January====
+{{div col}}
+* '''Xiao Guodong 3'''–0 Si Jiahui
+* Chris Wakelin 1–'''3 Yuan Sijun'''
+* '''Joe O'Connor 3'''–0 Antoni Kowalski
+* '''Xiao Guodong 3'''–2 Gary Wilson
+* Si Jiahui 1–'''3 Yuan Sijun'''
+* '''Chris Wakelin 3'''–1 Antoni Kowalski
+* '''Xiao Guodong 3'''–2 Yuan Sijun
+* '''Gary Wilson 3'''–2 Joe O'Connor
+* Chris Wakelin 2–'''3 Si Jiahui'''
+* Gary Wilson 2–'''3 Antoni Kowalski'''
+* Xiao Guodong 0–'''3 Joe O'Connor'''
+* '''Yuan Sijun 3'''–2 Antoni Kowalski
+{{div col end}}
+
+====7 January====
+{{div col}}
+* '''Xiao Guodong 3'''–2 Chris Wakelin
+* Si Jiahui 1–'''3 Antoni Kowalski'''
+* Joe O'Connor 2–'''3 Yuan Sijun'''
+* '''Chris Wakelin 3'''–2 Gary Wilson
+* '''Si Jiahui 3'''–2 Gary Wilson
+* '''Xiao Guodong 3'''–0 Antoni Kowalski
+* Chris Wakelin 0–'''3 Joe O'Connor'''
+* '''Gary Wilson 3'''–1 Yuan Sijun
+* '''Si Jiahui 3'''–1 Joe O'Connor
+{{div col end}}
+
+===Group 3 table===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA={{flagathlete|[[Xiao Guodong]]|CHN}}
+|name_BBB={{flagathlete|[[Yuan Sijun]]|CHN}}
+|name_CCC={{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}}
+|name_DDD={{flagathlete|[[Si Jiahui]]|CHN}}
+|name_EEE={{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}}
+|name_FFF={{flagathlete|[[Chris Wakelin]]|ENG}}
+|name_GGG={{flagathlete|[[Antoni Kowalski]]|POL}}
+|win_AAA=5 |loss_AAA=1 |gf_AAA=15 |ga_AAA=9
+|win_BBB=4 |loss_BBB=2 |gf_BBB=15 |ga_BBB=12
+|win_CCC=3 |loss_CCC=3 |gf_CCC=14 |ga_CCC=9
+|win_DDD=3 |loss_DDD=3 |gf_DDD=11 |ga_DDD=14
+|win_EEE=2 |loss_EEE=4 |gf_EEE=14 |ga_EEE=15
+|win_FFF=2 |loss_FFF=4 |gf_FFF=11 |ga_FFF=15
+|win_GGG=2 |loss_GGG=4 |gf_GGG=9 |ga_GGG=15
+|split4=yes
+|split5=yes
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC= |status_DDD=W |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=Qualification to Group 3 play-off
+|col_PO=blue1 |text_PO=Advanced into Group 4
+|col_rel=red1 |text_rel=Eliminated from the competition
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 3 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp3" /><ref name="CLS_gp3" />
+}}
+
+===Group 3 play-offs===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| {{flagathlete|[[Xiao Guodong]]|CHN}}
+| 2
+| {{flagathlete|[[Si Jiahui]]|CHN}}
+| 3
+|| {{flagathlete|[[Yuan Sijun]]|CHN}}
+| 1
+| {{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}}
+| 3
+<!--final-->
+|| {{flagathlete|[[Si Jiahui]]|CHN}}
+| 3
+| {{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}}
+| 2
+}}
+
+==Group 4==
+Group 4 was played on 8 and 9 January 2026. [[Joe O'Connor (snooker player)|Joe O'Connor]] and [[Yuan Sijun]] both withdrew, due to competing in the [[2026 German Masters]] qualifying. They were replaced by [[Ben Woollaston]] and [[Matthew Selt]] respectively.<ref name="CLS_gp4" /><ref name="WST_matches_g4" /> Selt won the group and qualified for the Winners' Group.<ref>{{cite web |title=Selt through to Winners' Group |url=https://www.wst.tv/news/2026/january/09/Selt-Through-To-Winners-Group/ |website=[[World Snooker Tour]] |date=9 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213182904/https://www.wst.tv/news/2026/january/09/Selt-Through-To-Winners-Group/ |url-status=live}}</ref> Selt also made the first [[maximum break]] of his professional career in his league match loss to [[Xiao Guodong]]. It was the 18th maximum of the current season and the 235th official 147.<ref name="s.o_gp4" /><ref name="G4_147_Selt">{{cite web |title=Selt makes first 147 |url=https://www.wst.tv/news/2026/january/09/selt-makes-first-147/ |website=[[World Snooker Tour]] |date=9 January 2026 |access-date=9 January 2026 |archive-date=9 January 2026 |archive-url=https://web.archive.org/web/20260109093844/https://www.wst.tv/news/2026/january/09/selt-makes-first-147/ |url-status=live}}</ref><ref name="si_cent_g4">{{cite web |title=Centuries: Championship League Group Four: 22 |url=https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-four-22 |website=snookerinfo.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-four-22 |url-status=live}}</ref>
+
+===Group 4 league matches===
+====8 January====
+{{div col}}
+* '''Kyren Wilson 3'''–2 Zhao Xintong
+* '''Neil Robertson 3'''–2 Gary Wilson
+* Ben Woollaston 0–'''3 Matthew Selt'''
+* Zhao Xintong 0–'''3 Xiao Guodong'''
+* Neil Robertson 2–'''3 Matthew Selt'''
+* '''Kyren Wilson 3'''–2 Gary Wilson
+* Xiao Guodong 1–'''3 Ben Woollaston'''
+* '''Zhao Xintong 3'''–2 Gary Wilson
+* Kyren Wilson 2–'''3 Neil Robertson'''
+* '''Xiao Guodong 3'''–2 Matthew Selt
+* '''Zhao Xintong 3'''–1 Ben Woollaston
+* '''Gary Wilson 3'''–1 Matthew Selt
+{{div col end}}
+
+====9 January====
+{{div col}}
+* Kyren Wilson 0–'''3 Matthew Selt'''
+* '''Neil Robertson 3'''–2 Zhao Xintong
+* '''Gary Wilson 3'''–0 Ben Woollaston
+* Neil Robertson 2–'''3 Xiao Guodong'''
+* '''Zhao Xintong 3'''–2 Matthew Selt
+* '''Kyren Wilson 3'''–1 Xiao Guodong
+* Neil Robertson 1–'''3 Ben Woollaston'''
+* '''Xiao Guodong 3'''–0 Gary Wilson
+* '''Kyren Wilson 3'''–1 Ben Woollaston
+{{div col end}}
+
+===Group 4 table===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA={{flagathlete|[[Xiao Guodong]]|CHN}}
+|name_BBB={{flagathlete|[[Kyren Wilson]]|ENG}}
+|name_CCC={{flagathlete|[[Matthew Selt]]|ENG}}
+|name_DDD={{flagathlete|[[Neil Robertson]]|AUS}}
+|name_EEE={{flagathlete|[[Zhao Xintong]]|CHN}}
+|name_FFF={{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}}
+|name_GGG={{flagathlete|[[Ben Woollaston]]|ENG}}
+|win_AAA=4 |loss_AAA=2 |gf_AAA=14 |ga_AAA=10
+|win_BBB=4 |loss_BBB=2 |gf_BBB=14 |ga_BBB=12
+|win_CCC=3 |loss_CCC=3 |gf_CCC=14 |ga_CCC=11
+|win_DDD=3 |loss_DDD=3 |gf_DDD=14 |ga_DDD=15
+|win_EEE=3 |loss_EEE=3 |gf_EEE=13 |ga_EEE=14
+|win_FFF=2 |loss_FFF=4 |gf_FFF=12 |ga_FFF=13
+|win_GGG=2 |loss_GGG=4 |gf_GGG=8 |ga_GGG=14
+|split4=yes
+|split5=yes
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC=W |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=Qualification to Group 4 play-off
+|col_PO=blue1 |text_PO=Advanced into Group 5
+|col_rel=red1 |text_rel=Eliminated from the competition
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 4 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp4" /><ref name="CLS_gp4" />
+}}
+
+===Group 4 play-offs===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| {{flagathlete|[[Xiao Guodong]]|CHN}}
+| 2
+| {{flagathlete|[[Neil Robertson]]|AUS}}
+| 3
+|| {{flagathlete|[[Kyren Wilson]]|ENG}}
+| 1
+| {{flagathlete|[[Matthew Selt]]|ENG}}
+| 3
+<!--final-->
+|| {{flagathlete|[[Neil Robertson]]|AUS}}
+| 1
+| {{flagathlete|[[Matthew Selt]]|ENG}}
+| 3
+}}
+
+==Group 5==
+Group 5 was played on 19 and 20 January 2026. [[Kyren Wilson]] withdrew after playing in the final of [[2026 Masters (snooker)|the Masters]] the previous day. He was replaced by [[Oliver Lines]].<ref name="CLS_gp5" /><ref name="WST_matches_g5" /> [[Mark Selby]] won the group and qualified for the Winners' Group.<ref>{{cite web |title=Selby wins group five |url=https://www.wst.tv/news/2026/january/20/selby-wins-group-1/ |website=[[World Snooker Tour]] |date=20 January 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213183606/https://www.wst.tv/news/2026/january/20/selby-wins-group-1/ |url-status=live}}</ref> [[Wu Yize]] made the highest break in the group, a 143.<ref name="s.o_gp5" /><ref name="si_cent_g5">{{cite web |title=Centuries: Championship League Group Five: 23 |url=https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-five-23 |website=snookerinfo.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-five-23 |url-status=live}}</ref>
+
+===Group 5 league matches===
+====19 January====
+{{div col}}
+* '''Mark Selby 3'''–1 Xiao Guodong
+* '''Zhao Xintong 3'''–2 Wu Yize
+* Neil Robertson 0–'''3 Zhao Xintong'''
+* '''Stuart Bingham 3'''–2 Oliver Lines
+* Xiao Guodong 2–'''3 Wu Yize'''
+* '''Mark Selby 3'''–1 Oliver Lines
+* '''Zhao Xintong 3'''–1 Xiao Guodong
+* Neil Robertson 1–'''3 Stuart Bingham'''
+* '''Mark Selby 3'''–1 Wu Yize
+* Neil Robertson 2–'''3 Oliver Lines'''
+* '''Xiao Guodong 3'''–0 Oliver Lines
+* '''Zhao Xintong 3'''–2 Stuart Bingham
+{{div col end}}
+
+====20 January====
+{{div col}}
+* Mark Selby 2–'''3 Zhao Xintong'''
+* Wu Yize 1–'''3 Oliver Lines'''
+* '''Neil Robertson 3'''–2 Mark Selby
+* '''Xiao Guodong 3'''–1 Stuart Bingham
+* Neil Robertson 2–'''3 Wu Yize'''
+* '''Zhao Xintong 3'''–2 Oliver Lines
+* '''Mark Selby 3'''–0 Stuart Bingham
+* '''Neil Robertson 3'''–2 Xiao Guodong
+* '''Wu Yize 3'''–1 Stuart Bingham
+{{div col end}}
+
+===Group 5 table===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA={{flagathlete|[[Zhao Xintong]]|CHN}}
+|name_BBB={{flagathlete|[[Mark Selby]]|ENG}}
+|name_CCC={{flagathlete|[[Wu Yize]]|CHN}}
+|name_DDD={{flagathlete|[[Xiao Guodong]]|CHN}}
+|name_EEE={{flagathlete|[[Oliver Lines]]|ENG}}
+|name_FFF={{flagathlete|[[Neil Robertson]]|AUS}}
+|name_GGG={{flagathlete|[[Stuart Bingham]]|ENG}}
+|win_AAA=6 |loss_AAA=0 |gf_AAA=18 |ga_AAA=9
+|win_BBB=4 |loss_BBB=2 |gf_BBB=16 |ga_BBB=9
+|win_CCC=3 |loss_CCC=3 |gf_CCC=13 |ga_CCC=14
+|win_DDD=2 |loss_DDD=4 |gf_DDD=12 |ga_DDD=13
+|win_EEE=2 |loss_EEE=4 |gf_EEE=11 |ga_EEE=15
+|win_FFF=2 |loss_FFF=4 |gf_FFF=11 |ga_FFF=16
+|win_GGG=2 |loss_GGG=4 |gf_GGG=10 |ga_GGG=15
+|split4=yes
+|split5=yes
+|status_text_W=Group winner
+|status_AAA= |status_BBB=W |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=Qualification to Group 5 play-off
+|col_PO=blue1 |text_PO=Advanced into Group 6
+|col_rel=red1 |text_rel=Eliminated from the competition
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 5 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp5" /><ref name="CLS_gp5" />
+}}
+
+===Group 5 play-offs===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| {{flagathlete|[[Zhao Xintong]]|CHN}}
+| 3
+| {{flagathlete|[[Xiao Guodong]]|CHN}}
+| 0
+|| {{flagathlete|[[Mark Selby]]|ENG}}
+| 3
+| {{flagathlete|[[Wu Yize]]|CHN}}
+| 0
+<!--final-->
+|| {{flagathlete|[[Zhao Xintong]]|CHN}}
+| 1
+| {{flagathlete|[[Mark Selby]]|ENG}}
+| 3
+}}
+
+==Group 6==
+Group 6 was played on 21 and 22 January 2026.<ref name="CLS_gp6" /><ref name="WST_matches_g6" /> [[Wu Yize]] won the group and qualified for the Winners' Group.<ref>{{cite web |title=Wu wins group six as Zhao fires in maximum |url=https://www.wst.tv/news/2026/january/22/wu-wins-1/ |website=[[World Snooker Tour]] |date=22 January 2026 |access-date=13 February 2026 |archive-date=22 January 2026 |archive-url=https://web.archive.org/web/20260122214335/https://www.wst.tv/news/2026/january/22/wu-wins-1/ |url-status=live}}</ref> [[Xiao Guodong]] made the third [[maximum break]] of his professional career in his league match loss to [[Oliver Lines]].<ref name="G6_147_Xiao">{{cite web |title=Xiao Guodong v Oliver Lines |url=https://www.wst.tv/match-centre/35377b3e-e3f4-4746-ad34-787bf509132d |website=[[World Snooker Tour]] |date=21 January 2026 |access-date=22 January 2026 |archive-date=22 January 2026 |archive-url=https://web.archive.org/web/20260122092558/https://www.wst.tv/match-centre/35377b3e-e3f4-4746-ad34-787bf509132d |url-status=live}}</ref> [[Wu Yize]] made the first maximum break of his professional career in his league match against Lines.<ref name="G6_147_Wu">{{cite web |title=Wu Yize v Oliver Lines |url=https://www.wst.tv/match-centre/91fa71dd-5a0b-4c1c-b320-6ab5f09cb457 |website=[[World Snooker Tour]] |date=21 January 2026 |access-date=22 January 2026 |archive-date=22 January 2026 |archive-url=https://web.archive.org/web/20260122092514/https://www.wst.tv/match-centre/91fa71dd-5a0b-4c1c-b320-6ab5f09cb457 |url-status=live}}</ref><ref>{{cite web |title=Wu and Xiao make Championship League maximums |url=https://www.wst.tv/news/2026/january/21/xiao-makes-/ |website=[[World Snooker Tour]] |date=21 January 2026 |access-date=13 February 2026 |archive-date=22 January 2026 |archive-url=https://web.archive.org/web/20260122120011/https://www.wst.tv/news/2026/january/21/xiao-makes-/ |url-status=live}}</ref> [[Zhao Xintong]] made the first maximum break of his professional career in his semi-final match against [[Jak Jones]].<ref name="G6_147_Zhao">{{cite web |title=Zhao Xintong v Jak Jones |url=https://www.wst.tv/match-centre/ee4bf9b0-b306-42b6-87a0-dc28e6173c57 |website=[[World Snooker Tour]] |date=22 January 2026 |access-date=23 January 2026 |archive-date=23 January 2026 |archive-url=https://web.archive.org/web/20260123080843/https://www.wst.tv/match-centre/ee4bf9b0-b306-42b6-87a0-dc28e6173c57 |url-status=live}}</ref> They were the 19th, 20th and 21st maximums of the current season and the 236th, 237th and 238th official maximums.<ref name="s.o_gp6" /><ref name="si_cent_g6">{{cite web |title=Centuries: Championship League Group Six: 34 |url=https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-six-34 |website=snookerinfo.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-six-34 |url-status=live}}</ref>
+
+===Group 6 league matches===
+====21 January====
+{{div col}}
+* Jack Lisowski 1–'''3 Zhang Anda'''
+* '''Zhao Xintong 3'''–2 Jak Jones
+* Xiao Guodong 2–'''3 Oliver Lines'''
+* '''Wu Yize 3'''–1 Jack Lisowski
+* '''Jak Jones 3'''–2 Zhang Anda
+* Zhao Xintong 0–'''3 Xiao Guodong'''
+* Jak Jones 1–'''3 Jack Lisowski'''
+* '''Wu Yize 3'''–1 Oliver Lines
+* '''Zhao Xintong 3'''–1 Zhang Anda
+* Xiao Guodong 1–'''3 Wu Yize'''
+* Xiao Guodong 1–'''3 Jak Jones'''
+* '''Jack Lisowski 3'''–2 Oliver Lines
+{{div col end}}
+
+====22 January====
+{{div col}}
+* Xiao Guodong 0–'''3 Zhang Anda'''
+* '''Zhao Xintong 3'''–1 Jack Lisowski
+* Zhao Xintong 0–'''3 Wu Yize'''
+* '''Jak Jones 3'''–2 Oliver Lines
+* '''Wu Yize 3'''–2 Zhang Anda
+* '''Xiao Guodong 3'''–2 Jack Lisowski
+* '''Zhao Xintong 3'''–1 Oliver Lines
+* Wu Yize 2–'''3 Jak Jones'''
+* '''Zhang Anda 3'''–1 Oliver Lines
+{{div col end}}
+
+===Group 6 table===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA={{flagathlete|[[Wu Yize]]|CHN}}
+|name_BBB={{flagathlete|[[Jak Jones]]|WAL}}
+|name_CCC={{flagathlete|[[Zhao Xintong]]|CHN}}
+|name_DDD={{flagathlete|[[Zhang Anda]]|CHN}}
+|name_EEE={{flagathlete|[[Jack Lisowski]]|ENG}}
+|name_FFF={{flagathlete|[[Xiao Guodong]]|CHN}}
+|name_GGG={{flagathlete|[[Oliver Lines]]|ENG}}
+|win_AAA=5 |loss_AAA=1 |gf_AAA=17 |ga_AAA=8
+|win_BBB=4 |loss_BBB=2 |gf_BBB=15 |ga_BBB=13
+|win_CCC=4 |loss_CCC=2 |gf_CCC=12 |ga_CCC=11
+|win_DDD=3 |loss_DDD=3 |gf_DDD=14 |ga_DDD=11
+|win_EEE=2 |loss_EEE=4 |gf_EEE=11 |ga_EEE=15
+|win_FFF=2 |loss_FFF=4 |gf_FFF=10 |ga_FFF=14
+|win_GGG=1 |loss_GGG=5 |gf_GGG=10 |ga_GGG=17
+|split4=yes
+|split5=yes
+|status_text_W=Group winner
+|status_AAA=W |status_BBB= |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=Qualification to Group 6 play-off
+|col_PO=blue1 |text_PO=Advanced into Group 7
+|col_rel=red1 |text_rel=Eliminated from the competition
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=PO |result6=rel |result7=rel
+|update=Complete
+|source=Group 6 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp6" /><ref name="CLS_gp6" />
+}}
+
+===Group 6 play-offs===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| {{flagathlete|[[Wu Yize]]|CHN}}
+| 3
+| {{flagathlete|[[Zhang Anda]]|CHN}}
+| 0
+|| {{flagathlete|[[Jak Jones]]|WAL}}
+| 0
+| {{flagathlete|[[Zhao Xintong]]|CHN}}
+| 3
+<!--final-->
+|| {{flagathlete|[[Wu Yize]]|CHN}}
+| 3
+| {{flagathlete|[[Zhao Xintong]]|CHN}}
+| 1
+}}
+
+==Group 7==
+Group 7 was played on 23 and 24 January 2026. [[Zhou Yuelong]] and [[Zhao Xintong]] both withdrew and were replaced by [[Ryan Day (snooker player)|Ryan Day]] and [[Xu Si]] respectively.<ref name="CLS_gp7" /><ref name="WST_matches_g7" /> [[Zhang Anda]] won the group and qualified for the Winners' Group.<ref>{{cite web |title=Zhang wins group seven |url=https://www.wst.tv/news/2026/january/24/Zhang-Wins-Group-Seven/ |website=[[World Snooker Tour]] |date=24 January 2026 |access-date=13 February 2026 |archive-date=6 February 2026 |archive-url=https://web.archive.org/web/20260206234222/https://www.wst.tv/news/2026/january/24/Zhang-Wins-Group-Seven/ |url-status=live}}</ref> Zhang made the highest break in the group, a 140.<ref name="s.o_gp7" /><ref name="si_cent_g7">{{cite web |title=Centuries: Championship League Group Seven: 18 |url=https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-seven-18 |website=snookerinfo.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#championship-league-invitational-group-seven-18 |url-status=live}}</ref>
+
+===Group 7 league matches===
+====23 January====
+{{div col}}
+* Zhang Anda 1–'''3 Lei Peifan'''
+* '''Jack Lisowski 3'''–1 Ryan Day
+* Jimmy Robertson 1–'''3 Xu Si'''
+* '''Jak Jones 3'''–0 Ryan Day
+* '''Zhang Anda 3'''–0 Xu Si
+* '''Jack Lisowski 3'''–0 Lei Peifan
+* Jak Jones 2–'''3 Jimmy Robertson'''
+* Lei Peifan 0–'''3 Ryan Day'''
+* Jak Jones 2–'''3 Xu Si'''
+* Jack Lisowski 0–'''3 Zhang Anda'''
+* '''Lei Peifan 3'''–2 Xu Si
+* Jimmy Robertson 1–'''3 Ryan Day'''
+{{div col end}}
+
+====24 January====
+{{div col}}
+* '''Zhang Anda 3'''–1 Ryan Day
+* '''Jack Lisowski 3'''–2 Xu Si
+* '''Jak Jones 3'''–2 Zhang Anda
+* Lei Peifan 1–'''3 Jimmy Robertson'''
+* Jak Jones 1–'''3 Jack Lisowski'''
+* Ryan Day 1–'''3 Xu Si'''
+* Zhang Anda 1–'''3 Jimmy Robertson'''
+* Jak Jones 1–'''3 Lei Peifan'''
+* Jack Lisowski 1–'''3 Jimmy Robertson'''
+{{div col end}}
+
+===Group 7 table===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA={{flagathlete|[[Jimmy Robertson (snooker player)|Jimmy Robertson]]|ENG}}
+|name_BBB={{flagathlete|[[Jack Lisowski]]|ENG}}
+|name_CCC={{flagathlete|[[Zhang Anda]]|CHN}}
+|name_DDD={{flagathlete|[[Xu Si]]|CHN}}
+|name_EEE={{flagathlete|[[Lei Peifan]]|CHN}}
+|name_FFF={{flagathlete|[[Jak Jones]]|WAL}}
+|name_GGG={{flagathlete|[[Ryan Day (snooker player)|Ryan Day]]|WAL}}
+|win_AAA=4 |loss_AAA=2 |gf_AAA=14 |ga_AAA=11
+|win_BBB=4 |loss_BBB=2 |gf_BBB=13 |ga_BBB=10
+|win_CCC=3 |loss_CCC=3 |gf_CCC=13 |ga_CCC=10
+|win_DDD=3 |loss_DDD=3 |gf_DDD=13 |ga_DDD=13
+|win_EEE=3 |loss_EEE=3 |gf_EEE=10 |ga_EEE=13
+|win_FFF=2 |loss_FFF=4 |gf_FFF=12 |ga_FFF=14
+|win_GGG=2 |loss_GGG=4 |gf_GGG=9 |ga_GGG=13
+|split4=yes
+|status_text_W=Group winner
+|status_AAA= |status_BBB= |status_CCC=W |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=Qualification to Group 7 play-off
+|col_rel=red1 |text_rel=Eliminated from the competition
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=rel |result6=rel |result7=rel
+|update=Complete
+|source=Group 7 results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gp7" /><ref name="CLS_gp7" />
+}}
+
+===Group 7 play-offs===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| {{flagathlete|[[Jimmy Robertson (snooker player)|Jimmy Robertson]]|ENG}}
+| 0
+| {{flagathlete|[[Xu Si]]|CHN}}
+| 3
+|| {{flagathlete|[[Jack Lisowski]]|ENG}}
+| 2
+| {{flagathlete|[[Zhang Anda]]|CHN}}
+| 3
+<!--final-->
+|| {{flagathlete|[[Xu Si]]|CHN}}
+| 1
+| {{flagathlete|[[Zhang Anda]]|CHN}}
+| 3
+}}
+
+==Winners' Group==
+The Winners' Group was played on 10 and 11 February 2026.<ref name="CLS_gpW" /><ref name="WST_matches_gW" /> [[Mark Selby]] won the group and the tournament.<ref>{{cite web |title=Selby retains league title |url=https://www.wst.tv/news/2026/february/11/selby-retains-league-title-/ |website=[[World Snooker Tour]] |date=11 February 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213190624/https://www.wst.tv/news/2026/february/11/selby-retains-league-title-/ |url-status=live}}</ref><ref>{{cite web |title=Selby makes it three in a row with BetVictor Championship League invitational triumph |url=https://championshipleaguesnooker.co.uk/selby-makes-it-three-in-a-row-with-betvictor-championship-league-invitational-triumph/ |website=championshipleaguesnooker.co.uk |date=12 February 2026 |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213191110/https://championshipleaguesnooker.co.uk/selby-makes-it-three-in-a-row-with-betvictor-championship-league-invitational-triumph/ |url-status=live}}</ref><ref name="WST_Selby_Wu">{{cite web |title=Championship League final: Mark Selby v Wu Yize |url=https://www.wst.tv/match-centre/6587c376-67ea-4a0a-80d4-57c884e6403d |work=[[World Snooker Tour]] |date=11 February 2026 |access-date=15 February 2026 |archive-date=15 February 2026 |archive-url=https://web.archive.org/web/20260215124948/https://www.wst.tv/match-centre/6587c376-67ea-4a0a-80d4-57c884e6403d |url-status=live}}</ref> [[Wu Yize]] made the highest break in the group, a 146.<ref name="si_cent_gW">{{cite web |title=Centuries: Championship League Winners' Group: 21 |url=https://snookerinfo.co.uk/2025-26/#championship-league-invitational-winners-group-21 |website=snookerinfo.co.uk |access-date=13 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#championship-league-invitational-winners-group-21 |url-status=live}}</ref><ref name="s.o_gpW" />
+
+===Winners' Group league matches===
+====10 February====
+{{div col}}
+* '''Si Jiahui 3'''–1 Matthew Selt
+* Mark Selby 1–'''3 Tom Ford'''
+* '''Wu Yize 3'''–1 Zhang Anda
+* Si Jiahui 2–'''3 Elliot Slessor'''
+* Elliot Slessor 1–'''3 Tom Ford'''
+* '''Mark Selby 3'''–2 Matthew Selt
+* '''Zhang Anda 3'''–1 Tom Ford
+* '''Mark Selby 3'''–2 Wu Yize
+* '''Mark Selby 3'''–1 Si Jiahui
+* '''Elliot Slessor 3'''–1 Matthew Selt
+* Wu Yize 2–'''3 Tom Ford'''
+* '''Elliot Slessor 3'''–2 Zhang Anda
+{{div col end}}
+
+====11 February====
+{{div col}}
+* Wu Yize 0–'''3 Elliot Slessor'''
+* '''Mark Selby 3'''–0 Zhang Anda
+* '''Si Jiahui 3'''–2 Zhang Anda
+* Tom Ford 1–'''3 Matthew Selt'''
+* '''Wu Yize 3'''–2 Si Jiahui
+* Mark Selby 1–'''3 Elliot Slessor'''
+* Zhang Anda 1–'''3 Matthew Selt'''
+* '''Wu Yize 3'''–1 Matthew Selt
+* '''Si Jiahui 3'''–1 Tom Ford
+{{div col end}}
+
+===Winners' Group table===
+{{#invoke:Sports table|main|style=WL
+|team_header=Player
+|ranking_style=wins
+|for_against_style=frames
+|team1=AAA
+|team2=BBB
+|team3=CCC
+|team4=DDD
+|team5=EEE
+|team6=FFF
+|team7=GGG
+|name_AAA={{flagathlete|[[Elliot Slessor]]|ENG}}
+|name_BBB={{flagathlete|[[Mark Selby]]|ENG}}
+|name_CCC={{flagathlete|[[Si Jiahui]]|CHN}}
+|name_DDD={{flagathlete|[[Wu Yize]]|CHN}}
+|name_EEE={{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}}
+|name_FFF={{flagathlete|[[Matthew Selt]]|ENG}}
+|name_GGG={{flagathlete|[[Zhang Anda]]|CHN}}
+|win_AAA=5 |loss_AAA=1 |gf_AAA=16 |ga_AAA=9
+|win_BBB=4 |loss_BBB=2 |gf_BBB=14 |ga_BBB=11
+|win_CCC=3 |loss_CCC=3 |gf_CCC=14 |ga_CCC=13
+|win_DDD=3 |loss_DDD=3 |gf_DDD=13 |ga_DDD=13
+|win_EEE=3 |loss_EEE=3 |gf_EEE=12 |ga_EEE=13
+|win_FFF=2 |loss_FFF=4 |gf_FFF=11 |ga_FFF=14
+|win_GGG=1 |loss_GGG=5 |gf_GGG=9 |ga_GGG=16
+|split4=yes
+|status_text_W=Group winner
+|status_AAA= |status_BBB=W |status_CCC= |status_DDD= |status_EEE= |status_FFF= |status_GGG=
+|col_WC=green1 |text_WC=Qualification to Winners' Group play-off
+|col_rel=red1 |text_rel=Eliminated from the competition
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=rel |result6=rel |result7=rel
+|update=Complete
+|source=Winners' Group results from ''snooker.org'' and ''championshipleaguesnooker.co.uk''<ref name="s.o_gpW" /><ref name="CLS_gpW" />
+}}
+
+===Winners' Group play-offs===
+{{#invoke:RoundN|main|columns=2
+|team-width=220
+|bold_winner=high
+|RD1=Semi-finals<br/>Best of 5 frames
+|RD2=Final<br/>Best of 5 frames
+<!--semi-finals-->
+|| {{flagathlete|[[Elliot Slessor]]|ENG}}
+| 2
+| {{flagathlete|[[Wu Yize]]|CHN}}
+| 3
+|| {{flagathlete|[[Mark Selby]]|ENG}}
+| 3
+| {{flagathlete|[[Si Jiahui]]|CHN}}
+| 0
+<!--final-->
+|| {{flagathlete|[[Wu Yize]]|CHN}}
+| 1
+| {{flagathlete|[[Mark Selby]]|ENG}}
+| 3
+}}
+
+==Final==
+{| class="wikitable" style="font-size: 90%; margin: 1em auto 1em auto;"
+|-
+| colspan="3" align="center" bgcolor="#ffd700" | '''Final:''' Best of 5 frames. Referee: Andrew Barklam<br/>[[Leicester Arena]], [[Leicester]], England, 11 February 2026.<ref name="WST_Selby_Wu" />
+|-
+| width="160" align="right" | [[Wu Yize]]<br/>{{CHN}}
+| width="100" align="center" | 1{{ndash}}'''3'''
+| width="160" align="left" | '''[[Mark Selby]]'''<br/>{{ENG}}
+|-
+| colspan="3" align="center" style="font-size: 100%;" | ''Frame scores:'' 1{{ndash}}'''70''', 0{{ndash}}'''128''' (128), '''81'''{{ndash}}45, 0{{ndash}}'''92'''
+|-
+| align="right" | (''frame 3'') 69
+| align="center" | Highest break
+| '''128''' (''frame 2'')
+|-
+| align="right" | 0
+| align="center" | Century breaks
+| '''1'''
+|-
+|}
+
+==Century breaks==
+A total of 173{{efn|Number of century breaks for each group:<br/>Group{{nbsp}}1:{{nbsp}}14; Group{{nbsp}}2:{{nbsp}}14; Group{{nbsp}}3:{{nbsp}}27; Group{{nbsp}}4:{{nbsp}}22; Group{{nbsp}}5:{{nbsp}}23; Group{{nbsp}}6:{{nbsp}}34; Group{{nbsp}}7:{{nbsp}}18; Winners'{{nbsp}}Group:{{nbsp}}21.}}{{efn|Players who made nine or more centuries:<br/>[[Wu Yize|Wu{{nbsp}}Yize]]:{{nbsp}}14; [[Zhang Anda|Zhang{{nbsp}}Anda]]:{{nbsp}}14; [[Mark Selby|Mark{{nbsp}}Selby]]:{{nbsp}}14; [[Joe O'Connor (snooker player)|Joe{{nbsp}}O'Connor]]:{{nbsp}}14; [[Xiao Guodong|Xiao{{nbsp}}Guodong]]:{{nbsp}}13; [[Zhao Xintong|Zhao{{nbsp}}Xintong]]:{{nbsp}}11; [[Gary Wilson (snooker player)|Gary{{nbsp}}Wilson]]:{{nbsp}}11; [[Jak Jones|Jak{{nbsp}}Jones]]:{{nbsp}}9.}} [[century break]]s were made during the tournament. These included five [[maximum break]]s.{{refn|<ref name="si_cent_g1" /><ref name="si_cent_g2" /><ref name="si_cent_g3" /><ref name="si_cent_g4" /><ref name="si_cent_g5" /><ref name="si_cent_g6" /><ref name="si_cent_g7" /><ref name="si_cent_gW" />}}
+{{div col}}
+* '''[[Maximum break|147]]''' <small>(6)</small>, '''146''' <small>(W)</small>, '''143''' <small>(5)</small>, 130, 127, 121, 119, 108, 107, 104, 104, 101, 101, 100 {{ndash}} [[Wu Yize]]<ref name="G6_147_Wu" />
+* '''[[Maximum break|147]]''' <small>(6)</small>, 140, 137, 127, 124, 124, 115, 113, 111, 110, 107 {{ndash}} [[Zhao Xintong]]<ref name="G6_147_Zhao" />
+* '''[[Maximum break|147]]''' <small>(1)</small>, '''140''' <small>(3)</small>, 130, 126, 108 {{ndash}} [[Chris Wakelin]]<ref name="G1_147_Wakelin" />
+* '''[[Maximum break|147]]''' <small>(6)</small>, 136, 134, 134, 131, 128, 121, 118, 110, 107, 105, 101, 100 {{ndash}} [[Xiao Guodong]]<ref name="G6_147_Xiao" />
+* '''[[Maximum break|147]]''' <small>(4)</small>, 133, 122, 121, 116, 109, 104 {{ndash}} [[Matthew Selt]]<ref name="G4_147_Selt" />
+* 143, '''140''' <small>(7)</small>, 137, 133, 130, 130, 127, 120, 116, 115, 111, 104, 101, 100 {{ndash}} [[Zhang Anda]]
+* 139, 135, 129, 126, 108, 103 {{ndash}} [[Tom Ford (snooker player)|Tom Ford]]
+* '''138''' <small>(2)</small>, 138, 128, 108 {{ndash}} [[Elliot Slessor]]
+* 137, 137, 134, 131, 130, 128, 123, 123, 122, 122, 109, 106, 104, 101 {{ndash}} [[Mark Selby]]
+* 137, 134, 120, 119, 117, 105, 103, 102, 100, 100, 100 {{ndash}} [[Gary Wilson (snooker player)|Gary Wilson]]
+* 137, 122, 110, 106 {{ndash}} [[Si Jiahui]]
+* 136, 134, 133, 102, 100 {{ndash}} [[Oliver Lines]]
+* 135, 129, 111 {{ndash}} [[David Gilbert (snooker player)|David Gilbert]]
+* 134, 134, 131, 130, 124, 120, 108 {{ndash}} [[Neil Robertson]]
+* 134, 134, 121, 118 {{ndash}} [[Jimmy Robertson (snooker player)|Jimmy Robertson]]
+* 133, 129, 127 {{ndash}} [[Kyren Wilson]]
+* 132, 130, 112 {{ndash}} [[Yuan Sijun]]
+* 131, 120, 115, 108, 107, 104, 104, 103, 101 {{ndash}} [[Jak Jones]]
+* 129, 126, 125, 123, 123, 121, 118, 106, 106, 103, 102, 101, 100, 100 {{ndash}} [[Joe O'Connor (snooker player)|Joe O'Connor]]
+* 127, 102 {{ndash}} [[Antoni Kowalski]]
+* 121, 106 {{ndash}} [[Xu Si]]
+* 121 {{ndash}} [[Hossein Vafaei]]
+* 118, 101 {{ndash}} [[Ben Woollaston]]
+* 114, 103, 101, 101, 101, 100 {{ndash}} [[Jack Lisowski]]
+* 113 {{ndash}} [[Lei Peifan]]
+* 108, 106, 102 {{ndash}} [[Jackson Page]]
+* 107, 102 {{ndash}} [[Pang Junxu]]
+* 106 {{ndash}} [[Ryan Day (snooker player)|Ryan Day]]
+* 104 {{ndash}} [[Noppon Saengkham]]
+* 101 {{ndash}} [[Stuart Bingham]]
+{{div col end}}
+<small>Note: '''Bold''' = highest break in the indicated group.</small>
+
+==Winnings==
+{{sticky header}}
+{| class="wikitable sortable sticky-header" style="text-align:center;"
+<!-- NOTE: FOR GROUP WINNERS GREEN USE style="background:#88ff88;" -->
+|-
+! No.
+! Player<ref name="CLS_inv_format" />{{efn|Table updated at end of play on 11 February.}}
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! W
+! Total
+|-
+| 1
+| style="text-align:left;" data-sort-value="Selby, Mark"| {{flagathlete|[[Mark Selby]]|ENG}} {{tooltip|(6)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#88ff88;"| 6,400
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#88ff88;"| 14,600
+| 21,000
+|-
+| data-sort-value=2| 2<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Wu, Yize"| {{flagathlete|[[Wu Yize]]|CHN}} {{tooltip|(13)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| '''2,800'''
+| style="background:#88ff88;"| '''6,667'''
+| style="background:#e6e6f2;"| 
+| '''9,800'''
+| 19,267
+|-
+| data-sort-value=3| 3<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Slessor, Elliot"| {{flagathlete|[[Elliot Slessor]]|ENG}} {{tooltip|(20)|player ranking}}
+| 1,200
+| style="background:#88ff88;"| '''6,500'''
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 6,800
+| 14,500
+|-
+| data-sort-value=4| 4<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Si, Jiahui"| {{flagathlete|[[Si Jiahui]]|CHN}} {{tooltip|(16)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#88ff88;"| 5,900
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 5,800
+| 11,700
+|-
+| data-sort-value=5| 5<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Zhao, Xintong"| {{flagathlete|[[Zhao Xintong]]|CHN}} {{tooltip|(9)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 1,300
+| 5,000
+| '''4,567'''
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 10,867
+|-
+| data-sort-value=6| 6<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Zhang, Anda"| {{flagathlete|[[Zhang Anda]]|CHN}} {{tooltip|(23)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,400
+| style="background:#88ff88;"| '''6,600'''
+| 1,800
+| 10,800
+|-
+| data-sort-value=7| 7<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="O'Connor, Joe"| {{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}} {{tooltip|(26)|player ranking}}
+| 2,800
+| 2,600
+| 4,900
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 10,300
+|-
+| data-sort-value=8| 8<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Xiao, Guodong"| {{flagathlete|[[Xiao Guodong]]|CHN}} {{tooltip|(11)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 3,100
+| 3,000
+| 2,200
+| '''1,167'''
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 9,467
+|-
+| data-sort-value=9| 9<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Selt, Matthew"| {{flagathlete|[[Matthew Selt]]|ENG}} {{tooltip|(37)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#88ff88;"| '''6,700'''
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,200
+| 8,900
+|-
+| data-sort-value=10| 10<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Ford, Tom"| {{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}} {{tooltip|(28)|player ranking}}
+| style="background:#88ff88;"| 6,200
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,400
+| 8,600
+|-
+| data-sort-value=11| 11<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Wilson, Gary"| {{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} {{tooltip|(17)|player ranking}}
+| style="background:#e6e6f2;"| 
+| 4,600
+| 1,400
+| 1,200
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 7,200
+|-
+| data-sort-value=12| 12<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Wakelin, Chris"| {{flagathlete|[[Chris Wakelin]]|ENG}} {{tooltip|(14)|player ranking}}
+| '''3,400'''
+| 1,100
+| '''1,600'''
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 6,100
+|-
+| data-sort-value=13| 13<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Robertson, Neil"| {{flagathlete|[[Neil Robertson]]|AUS}} {{tooltip|(3)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 4,600
+| 1,100
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 5,700
+|-
+| data-sort-value=14| 14<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Page, Jackson"| {{flagathlete|[[Jackson Page]]|WAL}} {{tooltip|(33)|player ranking}}
+| 4,700
+| 600
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 5,300
+|-
+| data-sort-value=15| 15<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Xu, Si"| {{flagathlete|[[Xu Si]]|CHN}} {{tooltip|(39)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 4,500
+| style="background:#e6e6f2;"| 
+| 4,500
+|-
+| data-sort-value=16| 16<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Lisowski, Jack"| {{flagathlete|[[Jack Lisowski]]|ENG}} {{tooltip|(22)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 1,100
+| 2,900
+| style="background:#e6e6f2;"| 
+| 4,000
+|-
+| data-sort-value=17| 17<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Jones, Jak"| {{flagathlete|[[Jak Jones]]|WAL}} {{tooltip|(19)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,500
+| 1,200
+| style="background:#e6e6f2;"| 
+| 3,700
+|-
+| data-sort-value=18| 18<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Yuan, Sijun"| {{flagathlete|[[Yuan Sijun]]|CHN}} {{tooltip|(31)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,800
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,800
+|-
+| data-sort-value=19| 19<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Wilson, Kyren"| {{flagathlete|[[Kyren Wilson]]|ENG}} {{tooltip|(2)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,700
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,700
+|-
+| data-sort-value=20| 20<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Saengkham, Noppon"| {{flagathlete|[[Noppon Saengkham]]|THA}} {{tooltip|(38)|player ranking}}
+| style="background:#e6e6f2;"| 
+| 2,400
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,400
+|-
+| data-sort-value=21| =<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Robertson, Jimmy"| {{flagathlete|[[Jimmy Robertson (snooker player)|Jimmy Robertson]]|ENG}} {{tooltip|(34)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,400
+| style="background:#e6e6f2;"| 
+| 2,400
+|-
+| data-sort-value=22| 22<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Lines, Oliver"| {{flagathlete|[[Oliver Lines]]|ENG}} {{tooltip|(58)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 1,100
+| 1,000
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 2,100
+|-
+| data-sort-value=23| 23<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Gilbert, David"| {{flagathlete|[[David Gilbert (snooker player)|David Gilbert]]|ENG}} {{tooltip|(24)|player ranking}}
+| style="background:#e6e6f2;"| 
+| 1,400
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 1,400
+|-
+| data-sort-value=24| 24<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Pang, Junxu"| {{flagathlete|[[Pang Junxu]]|CHN}} {{tooltip|(27)|player ranking}}
+| 1,200
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 1,200
+|-
+| data-sort-value=25| 25<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Bingham, Stuart"| {{flagathlete|[[Stuart Bingham]]|ENG}} {{tooltip|(18)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 1,000
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 1,000
+|-
+| data-sort-value=26| =<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Lei, Peifan"| {{flagathlete|[[Lei Peifan]]|CHN}} {{tooltip|(29)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 1,000
+| style="background:#e6e6f2;"| 
+| 1,000
+|-
+| data-sort-value=27| 27<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Day, Ryan"| {{flagathlete|[[Ryan Day (snooker player)|Ryan Day]]|WAL}} {{tooltip|(35)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 900
+| style="background:#e6e6f2;"| 
+| 900
+|-
+| data-sort-value=28| =<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Kowalski, Antoni"| {{flagathlete|[[Antoni Kowalski]]|POL}} {{tooltip|(72)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 900
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 900
+|-
+| data-sort-value=29| 29<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Woollaston, Ben"| {{flagathlete|[[Ben Woollaston]]|ENG}} {{tooltip|(36)|player ranking}}
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 800
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 800
+|-
+| data-sort-value=30| 30<!-- SORT ONLY NEEDED FOR "=" -->
+| style="text-align:left;" data-sort-value="Vafaei, Hossein"| {{flagathlete|[[Hossein Vafaei]]|IRN}} {{tooltip|(32)|player ranking}}
+| 700
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| style="background:#e6e6f2;"| 
+| 700
+|- class=sortbottom
+| style="background:#e6e6f2;"|
+| style="text-align:right; background:#e6e6f2;"| Total prize money:
+| style="background:#e6e6f2;"| 20,200
+| style="background:#e6e6f2;"| 19,200
+| style="background:#e6e6f2;"| 20,600
+| style="background:#e6e6f2;"| 20,300
+| style="background:#e6e6f2;"| 19,600
+| style="background:#e6e6f2;"| 19,400
+| style="background:#e6e6f2;"| 19,500
+| style="background:#e6e6f2;"| 43,400
+| style="background:#e6e6f2;"| 182,200
+|}
+{| class="wikitable" style="font-size:85%;"
+|- style="background:#88ff88;"
+| Green: Won the Group.
+|-
+| '''Bold''': Highest break in the Group.
+|-
+| Numbers in parentheses: [[Snooker world rankings|World ranking]] prior to tournament start, 2 January 2026.
+|- style="background:#e6e6f2;"
+| ''All prize money in [[GBP]].''{{efn|Source (championshipleaguesnooker.co.uk) does not always include high-break prize money in totals.<ref name="CLS_inv_format" />}}
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://championshipleaguesnooker.co.uk/ Matchroom Sport – Championship League Snooker]
+* [https://www.youtube.com/@MatchroomPool1/streams Table one channel stream] on [[YouTube]]
+* [https://www.youtube.com/@MatchroomMultiSport/streams Table two channel stream] on [[YouTube]]
+
+{{Championship League}}
+{{2025–26 snooker season}}
+
+[[Category:Championship League]]
+[[Category:2026 in snooker]]
+[[Category:2026 in English sport]]
+[[Category:Sport in Leicester]]
+[[Category:January 2026 sports events in the United Kingdom|Championship League (invitational)]]
+[[Category:February 2026 sports events in the United Kingdom|Championship League (invitational)]]

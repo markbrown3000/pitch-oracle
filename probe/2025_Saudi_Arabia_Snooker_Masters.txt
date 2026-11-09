@@ -1,0 +1,1001 @@
+{{Short description|Snooker tournament}}
+{{good article}}
+{{Use dmy dates|date=May 2025}}
+{{Infobox individual snooker tournament
+|tournament_name=2025 [[Saudi Arabia Snooker Masters]]
+|logo=[[File:2025 Saudi Arabia Snooker Masters logo.png|360px]]
+|dates={{Start and end dates|2025|8|8|2025|8|16|df=y}}
+|venue=[[Prince Abdullah Al-Faisal Sports City]]
+|location=[[Jeddah]]
+|country=Saudi Arabia|organisation=[[World Snooker Tour]]
+|format=[[List of snooker ranking tournaments|Ranking event]]
+|Total prize fund=£2,302,000
+|winners_share=£500,000
+|defending_champion=
+|highest_break={{ubl|{{flagathlete|[[Thepchaiya Un-Nooh]]|THA}} ([[maximum break|147]])|{{flagathlete|[[Ronnie O'Sullivan]]|ENG}} ([[maximum break|147]] x2)}}
+|winner={{flagathlete|[[Neil Robertson]]|AUS}}
+|runner_up={{flagathlete|[[Ronnie O'Sullivan]]|ENG}}
+|score=10{{ndash}}9
+|previous=[[2024 Saudi Arabia Snooker Masters|2024]]
+|next=
+}}
+
+The '''2025 Saudi Arabia Snooker Masters''' was a professional [[snooker]] tournament that took place from 8 to 16 August 2025 at Green Halls, [[Prince Abdullah Al-Faisal Sports City]], in [[Jeddah]], Saudi Arabia. The second and last edition of the tournament, which had first been staged in [[Riyadh]] in [[2024 Saudi Arabia Snooker Masters|2024]], it was the second [[List of snooker ranking tournaments|ranking event]] of the [[2025–26 snooker season]], following the [[2025 Championship League (ranking)|2025 Championship League]] and preceding the [[2025 Wuhan Open (snooker)|2025 Wuhan Open]]. It featured 144 participants, including 16 regional wildcard players. The tournament was broadcast by local channels in Saudi Arabia and by other broadcasters globally. The winner received £500,000 from a total prize fund of £2,302,000. 
+
+[[Judd Trump]] was the defending champion, having defeated [[Mark Williams (snooker player)|Mark Williams]] 10–9 in the [[2024 Saudi Arabia Snooker Masters|2024 final]], but he lost 3–5 to [[Oliver Lines]] in the fifth round (the last 32). [[Neil Robertson]] led [[Ronnie O'Sullivan]] 7–2 in the best-of-19-frame final. O'Sullivan took seven of the next eight frames to lead 9–8, but Robertson won the last two frames for a 10–9 victory, securing the 26th ranking title of his professional career. As in 2024, the final of the event went to a {{cuegloss|deciding frame}}.
+
+The tournament produced 91 [[Century break|century breaks]], including three [[maximum break]]s. [[Thepchaiya Un-Nooh]] made the fifth maximum of his career in his third-round match against [[Jordan Brown (snooker player)|Jordan Brown]], and O'Sullivan made the 16th and 17th maximums of his career in his semi-final match against [[Chris Wakelin]]. O'Sullivan became the second player to make two maximums in the same match, following [[Jackson Page]] at the [[2025 World Snooker Championship|2025 World Championship]] qualifiers, and the first to make two maximums in the same session or on the same day. He won a £147,000 bonus for making two maximums across the season's four eligible tournaments and earned two-thirds of the event's £50,000 maximum break prize, with the other third going to Un-Nooh. The maximums were O'Sullivan's first in almost seven years—following his 15th official 147 at the [[2018 English Open (snooker)|2018 English Open]]—and made him the oldest player to record an official maximum break, at the age of 49 years and 253 days. The maximums made at the event were respectively the third, fourth, and fifth of the season and the 220th, 221st, and 222nd official maximums in professional snooker history. O'Sullivan also made the 1,300th century break of his career at the tournament, while [[Mark Selby]] made his 900th career century.
+
+== Overview ==
+Organised by the [[World Snooker Tour]] and the Saudi Arabian Billiard & Snooker Federation (SABSF), the [[Saudi Arabia Snooker Masters]] was held under the supervision of the [[Ministry of Sport (Saudi Arabia)|Ministry of Sport for Saudi Arabia]].<ref name="WST_announcement">{{cite web |date=20 July 2025 |title=Snooker's Greatest Stars Set For Battle On The Baize In Jeddah |url=https://www.wst.tv/news/2025/july/20/Snooker-s-Greatest-Stars-Set-For-Battle-On-The-Baize-In-Jeddah/ |url-status=live |archive-url=https://web.archive.org/web/20250801082852/https://www.wst.tv/news/2025/july/20/Snooker-s-Greatest-Stars-Set-For-Battle-On-The-Baize-In-Jeddah/ |archive-date=1 August 2025 |website=[[World Snooker Tour]]}}</ref> First staged in September 2024 in [[Riyadh]], it was the first [[List of snooker ranking tournaments|ranking]] tournament held in Saudi Arabia and was promoted as snooker's "fourth major" alongside the three [[Triple Crown (snooker)|Triple Crown]] events—the [[World Snooker Championship|World Championship]], the [[UK Championship]] and the [[Masters (snooker)|Masters]].<ref>{{Cite web |date=14 February 2024 |title=Saudi Arabia Snooker Masters: New 'fourth major' to launch this August on World Snooker Tour |url=https://www.skysports.com/more-sports/snooker/news/12040/13071247/saudi-arabia-snooker-masters-new-fourth-major-to-launch-this-august-on-world-snooker-tour |access-date=23 July 2025 |website=Sky Sports|archive-url=https://web.archive.org/web/20260423084310/https://www.skysports.com/more-sports/snooker/news/12040/13071247/saudi-arabia-snooker-masters-new-fourth-major-to-launch-this-august-on-world-snooker-tour|archive-date=23 April 2026|url-status=live}}</ref> When the tournament was launched in 2024, its prize fund of over £2 million was the second-largest after the World Championship,<ref name="BBC_announcement">{{cite news |date=13 February 2024 |title=Saudi Arabia Snooker Masters: New tournament to offer £2m prize fund and become 'fourth major' |url=https://www.bbc.com/sport/snooker/68284600 |url-status=live |archive-url=https://web.archive.org/web/20240222154915/https://www.bbc.com/sport/snooker/68284600 |archive-date=22 February 2024 |access-date=2 March 2024 |work=[[BBC Sport]]}}</ref> while its winner's prize of £500,000 was equivalent to that at the World Championship.<ref>{{Cite web |last= |first= |date=2024-08-13 |title=Top prize of £500,000 at Saudi Arabia Snooker Masters |url=https://www.wst.tv/news/2024/august/13/top-prize-of--500-000-at-saudi-arabia-snooker-masters--/|access-date=2025-07-21 |website=World Snooker Tour |language=en|archive-url=https://web.archive.org/web/20260423084316/https://www.wst.tv//news/2024/august/13/top-prize-of--500-000-at-saudi-arabia-snooker-masters--/|archive-date=23 April 2026|url-status=live}}</ref> [[Judd Trump]] won the inaugural event, where he came from 62 points behind in the {{Cuegloss|deciding frame}} of the final to defeat [[Mark Williams (snooker player)|Mark Williams]] on the last {{Cuegloss|black ball}}.<ref name="Judd_2024">{{Cite web |date=7 September 2024 |title=Trump edges out Williams for Saudi Arabia title|url=https://www.bbc.com/sport/snooker/articles/clyn533qg1eo |access-date=23 April 2026|website=[[BBC Sport]] |language=en-GB |archive-date=30 November 2024 |archive-url=https://web.archive.org/web/20241130085958/https://www.bbc.com/sport/snooker/articles/clyn533qg1eo |url-status=live }}</ref> In May 2025, it was announced that the tournament would move to [[Jeddah]], where the 2025 edition took place from 8 to 16 August 2025 at Green Halls, [[Prince Abdullah Al-Faisal Sports City]].<ref>{{Cite web |date=2025-05-11 |title=Jeddah To Host 2025 Saudi Arabia Snooker Masters |url=https://www.wst.tv/news/2025/may/11/jeddah-to-host-2025-saudi-arabia-snooker-masters/ |access-date=2025-05-19 |website=World Snooker Tour |language=en|archive-url=https://web.archive.org/web/20260423084320/https://www.wst.tv/news/2025/may/11/jeddah-to-host-2025-saudi-arabia-snooker-masters/|archive-date=23 April 2026|url-status=live}}</ref><ref name="WST_announcement" /> It was the second [[List of snooker ranking tournaments|ranking event]] of the [[2025–26 snooker season]], following the [[2025 Championship League (ranking)|2025 Championship League]] and preceding the [[2025 Wuhan Open (snooker)|2025 Wuhan Open]].<ref>{{Cite web |title=Calendar 2025/2026|url=https://www.snooker.org/res/index.asp?template=2&season=2025 |access-date=2025-07-19 |website=snooker.org |language=en |archive-date=24 July 2025 |archive-url=https://web.archive.org/web/20250724075449/https://www.snooker.org/res/index.asp?season=2025&template=2 |url-status=live }}</ref> In April 2026, the World Snooker Tour announced that the tournament had been cancelled by mutual agreement between the Saudi Arabian Billiard & Snooker Federation and Matchroom Sport, making the 2025 edition the last to be staged.<ref>{{Cite web |date=25 April 2026 |title=Saudi Arabia Snooker Masters |url=https://www.wst.tv/news/2026/april/25/saudi-arabia-snooker-masters/ |access-date=25 April 2026 |website=[[World Snooker Tour]] |language=en |archive-date=3 October 2026 |archive-url=https://web.archive.org/web/20261003061621/https://www.wst.tv/news/2026/april/25/saudi-arabia-snooker-masters/ |url-status=live }}</ref>
+
+=== Participants ===
+A total of 144 players entered the tournament, including 16 regional wildcard players. The wildcards included eleven players from Saudi Arabia (Omar Alajlani, Ayman Alamri, Saud Albaker, Fahad Alghamdi, Musaad Almisfir, Abdullah Alotayyani, Ziyad Alqabbani, Abdullah Alshammari, Ahmed Aseeri, Abdulraouf Saigh, and Musab Sayegh), two from Pakistan (Adeel Aqdus and Asif Mukhtar), and one each from Bahrain, Egypt, and the United Arab Emirates (Habib Subah Humood, Hesham Shawky, and Mohammed Al Joker respectively).<ref name="WST_announcement"/>
+
+Due to a fixture clash with the [[2025 World Games]], which took place from 7 to 17 August in [[Chengdu]], China, the world number 13 [[Xiao Guodong]] and the reigning World Women's Champion [[Bai Yulu]] did not enter.<ref>{{Cite web |date=2025-07-21 |title=Xiao Guodong and Bai Yulu skip Saudi Arabia Masters to play in a home World Games |url=https://www.totallysnookered.com/sport/snooker/tournaments/saudi-arabia-snooker-masters/xiao-guodong-and-bai-yulu-skip-big-money-saudi-arabia-snooker-masters-to-play-in-world-games-on-home-soil-5232889 |access-date=2025-07-24 |website=Totally Snookered |language=en|archive-url=https://web.archive.org/web/20260423084324/https://www.totallysnookered.com/sport/snooker/tournaments/saudi-arabia-snooker-masters/xiao-guodong-and-bai-yulu-skip-big-money-saudi-arabia-snooker-masters-to-play-in-world-games-on-home-soil-5232889|archive-date=23 April 2026|url-status=live}}</ref> Both players went on to win gold medals in [[snooker at the 2025 World Games]], in the men's event and [[Snooker at the 2025 World Games – women's six-red|women's event]] respectively. On giving up the opportunity to compete in the Saudi Arabia Snooker Masters, Xiao said: "For me, national honour comes above everything else. Any time I get the chance to represent my country, I will give it my all—my only goal is the gold medal."<ref>{{cite web |date=14 August 2025 |title=Xiao and Bai strike gold for China |url=https://www.wst.tv/news/2025/august/14/xiao-and-bai-strike-gold-for-china/ |access-date=14 August 2025 |website=[[World Snooker Tour]]|archive-url=https://web.archive.org/web/20260423084328/https://www.wst.tv/news/2025/august/14/xiao-and-bai-strike-gold-for-china/|archive-date=23 April 2026|url-status=live}}</ref> [[Luca Brecel]], the [[2023 World Snooker Championship|2023 World Champion]], withdrew from the tournament for medical reasons and his third-round opponent, [[Sanderson Lam]], received a walkover.<ref name="brecel_wd" />
+
+=== Format ===
+The tournament used a tiered format similar to the [[World Snooker Championship|World Championship]] and [[UK Championship]], with the top 16 players in the [[snooker world rankings]], as they stood after the [[2025 Championship League (ranking)|2025 Championship League]], being [[Seeding (sports)|seeded]] through to the last 32, the fifth round of the tournament.{{efn|This included [[Ali Carter]] (ranked 17th) because of the withdrawal of [[Xiao Guodong]] (ranked 13th).}} The first four rounds featured all lower-ranked players as well as the invited regional wildcards and [[2025 Q School#Q School Order of Merit|Q School top-ups]]. Players seeded 49 to 80 received byes into the second round, and players seeded 17 to 48 received byes into the third round.<ref name="s.o_main"/>
+
+The first three rounds were played as the best of 7 {{cuegloss|frame|frames}} while the fourth and fifth rounds were the best of 9 frames. The last 16, quarter-finals and semi-finals were the best of 11 frames and the final was the best of 19 frames, played over two {{cuegloss|session|sessions}}.<ref name="s.o_main"/>
+
+=== Broadcasters ===
+The tournament was broadcast by [[Saudi Sports Company]] (SSC) and [[Shahid (streaming platform)|Shahid]] domestically in Saudi Arabia. It was broadcast by [[TNT Sports]] and [[Discovery+]] in the United Kingdom and Ireland; by [[Eurosport]] in mainland Europe; by Discovery+ in Germany, Italy, and Austria; and by [[HBO Max]] in other European territories. It was broadcast by {{ill|Migu (streaming service)|lt=Migu|zh|咪咕}}, [[Huya Live|Huya]], the CBSA-WPBSA Academy [[WeChat]] channel, and the CBSA-WPBSA Academy [[Douyin]] channel in mainland China; by [[Now TV (Hong Kong)|Now TV]] in Hong Kong; by [[True Sports|TrueSports]] in Thailand; by Sportcast in Taiwan; and by [[TAP Sports]] in the Philippines. In all other territories, it was broadcast by [[World Snooker Tour#WST Play|WST Play]].<ref>{{Cite web |date=5 August 2025 |title=How to watch the Saudi Arabia Snooker Masters |url=https://www.wst.tv/news/2025/august/05/how-to-watch-the-saudi-arabia-snooker-masters/ |access-date=5 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423085840/https://www.wst.tv/news/2025/august/05/how-to-watch-the-saudi-arabia-snooker-masters/|archive-date=23 April 2026|url-status=live}}</ref>
+
+=== Prize fund ===
+The prize fund for the tournament is detailed below.<ref name="WST_announcement"/> In addition, during the [[2025–26 snooker season]], a player who made two [[maximum break]]s across the four qualifying events—the 2025 Saudi Arabia Snooker Masters, the [[2025 UK Championship]] (including qualifiers), the [[2026 Masters (snooker)|2026 Masters]], and the [[2026 World Snooker Championship|2026 World Championship]] (including qualifiers)—would win a bonus of £147,000. The bonus could be won up to three times, including multiple times by the same player.<ref>{{Cite web |date=4 August 2025 |title=Huge 147 bonus chance starts at Saudi Arabia Snooker Masters |url=https://www.wst.tv/news/2025/august/04/snooker-s-huge-147-bonus-chance-starts-at-saudi-arabia-snooker-masters/ |access-date=4 August 2025 |website=[[World Snooker Tour]] |language=en |archive-date=7 August 2025 |archive-url=https://web.archive.org/web/20250807223903/https://www.wst.tv/news/2025/august/04/snooker-s-huge-147-bonus-chance-starts-at-saudi-arabia-snooker-masters/ |url-status=live }}</ref>
+{{div col}}
+* Winner: £500,000
+* Runner-up: £200,000
+* Semi-final: £100,000
+* Quarter-final: £50,000
+* Last 16: £30,000
+* Last 32: £20,000
+* Last 48: £11,000
+* Last 80: £7,000
+* Last 112: £4,000
+* Last 144: £2,000
+* [[Maximum break|147]] break: £50,000
+{{div col end}}
+* Total: £2,302,000
+
+== Summary ==
+
+=== First round (last 144) ===
+[[File:Ken Doherty PHC 2012-3.jpg|thumb|[[Ken Doherty]] ''(pictured in 2012)'' defeated fellow veteran [[Jimmy White]] 4–1 in the first round. It was their first professional meeting since the [[2010 World Snooker Championship|2010 World Championship]] qualifiers.]]
+The first round was scheduled to be played on 8 August as the best of seven {{cuegloss|frame|frames}}. It featured the 16 regional wildcard players, amateur top-up players from the [[2025 Q School#Q School Order of Merit|Q School Order of Merit]], and players seeded 81 and below.<ref name=":5">{{Cite web |date=2025-08-10 |title=2025 Saudi Arabia Snooker Masters: Draw, format, schedule, how to watch, prize money |url=https://www.totallysnookered.com/sport/snooker/tournaments/saudi-arabia-snooker-masters/what-is-the-draw-format-match-schedule-and-prize-money-for-the-2025-saudi-arabia-snooker-masters-5240799 |access-date=2025-08-11 |website=Totally Snookered |language=en|archive-url=https://web.archive.org/web/20250918024704/https://www.totallysnookered.com/sport/snooker/tournaments/saudi-arabia-snooker-masters/what-is-the-draw-format-match-schedule-and-prize-money-for-the-2025-saudi-arabia-snooker-masters-5240799|archive-date=18 September 2025|url-status=live}}</ref> Due to technical issues, seven first-round matches were postponed until the morning of 9 August, when they were played in an untelevised session.<ref>{{Cite web |date=9 August 2025 |title=Postponed Matches |url=https://www.wst.tv/news/2025/august/08/postponed-matches/ |access-date=10 August 2025 |website=[[World Snooker Tour]] |language=en |archive-date=10 August 2025 |archive-url=https://web.archive.org/web/20250810161125/https://www.wst.tv/news/2025/august/08/postponed-matches/ |url-status=live }}</ref> Veteran players [[Ken Doherty]], aged 55, and [[Jimmy White]], aged 63, met in professional competition for the first time since the [[2010 World Snooker Championship|2010 World Championship]] qualifying rounds.<ref>{{Cite web |last=Day |first=Michael |date=2025-07-20 |title=Snooker icons White and Doherty to clash on pro tour over 34 years on from first duel |url=https://www.totallysnookered.com/sport/snooker/tournaments/saudi-arabia-snooker-masters/snooker-legends-jimmy-white-and-ken-doherty-to-clash-on-pro-tour-over-34-years-on-from-first-meeting-5232933 |access-date=2025-08-08 |website=Totally Snookered |language=en |archive-date=29 July 2025 |archive-url=https://web.archive.org/web/20250729164939/https://www.totallysnookered.com/sport/snooker/tournaments/saudi-arabia-snooker-masters/snooker-legends-jimmy-white-and-ken-doherty-to-clash-on-pro-tour-over-34-years-on-from-first-meeting-5232933 |url-status=live }}</ref> Doherty won the match 4–1, making three {{Cuegloss|half-century}} breaks of 96, 59, and 64.<ref name=":1">{{Cite web |date=8 August 2025 |title=Saudi Arabia Snooker Masters day one: Doherty wins battle of veterans |url=https://www.wst.tv/news/2025/august/08/saudi-arabia-snooker-masters-day-one--doherty-wins-battle-of-veterans/ |access-date=8 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423084932/https://www.wst.tv/news/2025/august/08/saudi-arabia-snooker-masters-day-one--doherty-wins-battle-of-veterans/|archive-date=23 April 2026|url-status=live}}</ref><ref>{{Cite web |date=8 August 2025 |title=2025 Saudi Arabia Snooker Masters: Ken Doherty v Jimmy White |url=https://www.wst.tv/match-centre/5dde9e28-00bb-4c1c-90c9-ef5433f68a66 |access-date=8 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423084927/https://www.wst.tv/match-centre/5dde9e28-00bb-4c1c-90c9-ef5433f68a66|archive-date=23 April 2026|url-status=live}}</ref> [[Reanne Evans]], a 12-time [[World Women's Snooker Championship|World Women's Champion]], defeated [[Kreishh Gurbaxani]] 4–2. It was her third consecutive professional victory of the season in knock-out tournaments, following her wins in the qualifying rounds of the [[2025 Wuhan Open (snooker)|2025 Wuhan Open]] (held in June) and the [[2025 British Open]].<ref name=":0" /> Evans was the only female player to reach the second round, as [[Mink Nutcharut]] lost 1–4 to amateur player Umut Dikme and [[Ng On-yee]] lost 3–4 to [[Hatem Yassen]].<ref name=":1" /><ref>{{Cite web |date=9 August 2025 |title=2025 Saudi Arabia Snooker Masters: Hatem Yassen v Ng On-yee |url=https://www.wst.tv/match-centre/add765ef-b710-44c9-94e1-8cbaa9d7606b |access-date=10 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423084916/https://www.wst.tv/match-centre/add765ef-b710-44c9-94e1-8cbaa9d7606b|archive-date=23 April 2026|url-status=live}}</ref> 
+
+[[Sahil Nayyar]], who had earned a two-year tour card by winning the 2024 Pan-American Open Championship, secured his first professional victory with a 4–1 win over wildcard player Habib Subah Humood.<ref>{{Cite web |date=2025-07-02 |title=Meet The New Pros: Sahil Nayyar |url=https://www.wst.tv/news/2025/july/02/meet-the-new-pros--sahil-nayyar/|access-date=2025-08-08 |website=World Snooker Tour |language=en|archive-url=https://web.archive.org/web/20260423084913/https://www.wst.tv//news/2025/july/02/meet-the-new-pros--sahil-nayyar/|archive-date=23 April 2026|url-status=live}}</ref><ref name=":0" /> [[Michał Szubarczyk]], aged 14, who had recently become the youngest ever professional snooker player, also recorded his first win on the tour by defeating Ryan Davies 4–2. [[Dylan Emery]] led [[Florian Nüßle]] 3–0. Nüßle recovered to tie the scores, but Emery won the {{Cuegloss|deciding frame}} on the {{Cuegloss|colours}}. [[Steven Hallworth]] recorded a [[Whitewash (sport)|whitewash]] victory over wildcard player Omar Alajlani, Saudi Arabia's top-ranked amateur. Hesham Shawky was the only wildcard player to reach the second round, after a 4–2 win over [[Jiang Jun]].<ref name=":0">{{Cite web |date=8 August 2025 |title=Saudi Arabia Snooker Masters day one: Evans keeps streak going |url=https://www.wst.tv/news/2025/august/08/saudi-arabia-snooker-masters-day-one--evans-keeps-streak-going/ |access-date=8 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423084922/https://www.wst.tv/news/2025/august/08/saudi-arabia-snooker-masters-day-one--evans-keeps-streak-going/|archive-date=23 April 2026|url-status=live}}</ref> [[Chang Bingyu]], who had [[List of snooker players investigated for match-fixing#Chinese match-fixing ring|served a two-year ban for match-fixing offences]],<ref>{{Cite news |date=2023-06-06 |title=Snooker match-fixing scandal: Liang Wenbo and Li Hang handed lifetime bans |url=https://www.bbc.com/sport/snooker/65641122 |access-date=2026-10-04 |work=BBC Sport |language=en-GB}}</ref> and then earned a new professional tour card by winning the 2025 Asia-Pacific Snooker Championship, defeated [[Marco Fu]] in a deciding frame.<ref>{{Cite web |last=Watterson |first=Ryan |date=2025-04-03 |title=Chang Bingyu Wins Asia-Pacific Snooker Championship Crown |url=https://worldsnookerfederation.org/chang-bingyu-wins-asia-pacific-snooker-championship-crown/ |access-date=2025-08-12 |website=WSF |language=en-GB|archive-url=https://web.archive.org/web/20260423084732/https://www.worldsnookerfederation.org/chang-bingyu-wins-asia-pacific-snooker-championship-crown/|archive-date=23 April 2026|url-status=live}}</ref><ref name=":1" /> [[Iulian Boiko]] advanced with a 4–2 win over [[Liu Wenwei]].<ref name=":1" />
+
+=== Second round (last 112) ===
+The second round was played on 9 August as the best of seven frames. It featured the winners of the first round against players seeded 49 to 80.<ref name=":5" /> Szubarczyk made a 93 break in the fourth frame against [[Bulcsú Révész]] and went on to win the match in a deciding frame, commenting afterwards that "I need to improve my {{cuegloss|safety}}". Evans lost two of the first three frames against [[Liam Davies (snooker player)|Liam Davies]] but then won three consecutive frames for a 4–2 victory.<ref name=":2">{{Cite web |date=2025-08-09 |title=Saudi Arabia Snooker Masters Day Two: Wonderkid Wins Again |url=https://www.wst.tv/news/2025/august/09/Saudi-Arabia-Snooker-Masters-Day-Two--Wonderkid-Wins-Again/|access-date=2025-08-09 |website=World Snooker Tour |language=en|archive-url=https://web.archive.org/web/20260423084727/https://www.wst.tv//news/2025/august/09/Saudi-Arabia-Snooker-Masters-Day-Two--Wonderkid-Wins-Again/|archive-date=23 April 2026|url-status=live}}</ref><ref>{{Cite web |date=9 August 2025 |title=2025 Saudi Arabia Snooker Masters: Liam Davies v Reanne Evans |url=https://www.wst.tv/match-centre/bc28eb9f-86c5-46f2-ae9e-34c460416c0c |access-date=9 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423084721/https://www.wst.tv/match-centre/bc28eb9f-86c5-46f2-ae9e-34c460416c0c|archive-date=23 April 2026|url-status=live}}</ref> [[Stan Moody]] trailed [[Liam Highfield]] 2–3 but produced back-to-back centuries of 130 and 109 to win the match 4–3. The deciding frame between Hallworth and [[Michael Holt (snooker player)|Michael Holt]] came down to a safety battle on the last {{Cuegloss|pink ball}}. After a safety error from Holt, Hallworth potted the pink in a {{Cuegloss|centre pocket|middle pocket}} to secure a 4–3 win.<ref name=":2" /> 
+
+[[Ben Mertens]] made an 87 break in the deciding frame to defeat [[Ross Muir]]. [[Sam Craigie]], who had not competed the previous season due to injury, but had been awarded a new two-year tour card on medical grounds, made centuries of 122 and 104 as he whitewashed [[Mark Davis (snooker player)|Mark Davis]]. "In practice I feel better than ever, and today was the first time I have shown that in a match," he said afterwards.<ref name=":2" /><ref>{{Cite web |last=Huart |first=Matt |date=2025-06-09 |title=Sam Craigie Tour Card |url=https://wpbsa.com/sam-craigie-tour-card/ |access-date=2025-08-10 |website=WPBSA |language=en-GB|archive-url=https://web.archive.org/web/20260423084719/https://www.wpbsa.com/sam-craigie-tour-card/|archive-date=23 April 2026|url-status=live}}</ref> Boiko made five half-centuries as he defeated [[Zak Surety]] 4–1. Doherty lost a deciding frame to [[Artemijs Žižins]] after he missed a {{Cuegloss|long pot}} on the last {{cuegloss|red ball|red}} and went {{Cuegloss|in-off}}. [[Julien Leclercq (snooker player)|Julien Leclercq]] advanced with a 4–1 win over Dikme. [[Chatchapong Nasa]], playing his first season on the professional tour, arrived late for his match against [[David Lilley (snooker player)|David Lilley]], a former [[World Seniors Championship|World Seniors Champion]]. Nasa was docked the first frame, but he won the match after taking the deciding frame on the colours.<ref name=":3">{{Cite web |date=9 August 2025 |title=Saudi Arabia Snooker Masters day two: Boiko seeking breakthrough |url=https://www.wst.tv/news/2025/august/09/Saudi-Arabia-Snooker-Masters-Day-Two--Boiko-Seeking-Breakthrough/ |access-date=9 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423084712/https://www.wst.tv/news/2025/august/09/Saudi-Arabia-Snooker-Masters-Day-Two--Boiko-Seeking-Breakthrough/|archive-date=23 April 2026|url-status=live}}</ref><ref>{{Cite web|title=David Lilley|url=https://seniorssnooker.com/player/david-lilley/|access-date=17 September 2025|website=[[World Seniors Tour]]|language=en|archive-date=15 June 2025|archive-url=https://web.archive.org/web/20250615083242/https://seniorssnooker.com/player/david-lilley/|url-status=live}}</ref>
+
+=== Third round (last 80) ===
+[[File:Thepchaiya Un-Nooh at Snooker German Masters (DerHexer) 2013-01-30 21.jpg|thumb|[[Thepchaiya Un-Nooh]] ''(pictured in 2013)'' made the fifth [[maximum break]] of his career. Later in the tournament, he attempted another maximum to win a £147,000 bonus but missed the 13th red.]]
+
+The third round was played on 10 August as the best of seven frames. It featured the winners of the second round against players seeded 17 to 48.<ref name=":5" /> [[Thepchaiya Un-Nooh]] made the fifth [[maximum break]] of his career in his whitewash victory over [[Jordan Brown (snooker player)|Jordan Brown]], becoming the 15th player in professional snooker history to reach the milestone of five maximums. It was the third maximum break of the season and the 220th official maximum in professional snooker history.<ref name="Max 220">{{cite web |title=Un-Nooh fires 147 in Jeddah |url=https://www.wst.tv/news/2025/august/10/saudi-arabia-snooker-masters-day-three--/ |work=[[World Snooker Tour]] |date=10 August 2025 |access-date=10 August 2025 |archive-date=12 August 2025 |archive-url=https://web.archive.org/web/20250812081719/https://www.wst.tv/news/2025/august/10/saudi-arabia-snooker-masters-day-three--/ |url-status=live}}</ref>
+
+[[Jack Lisowski]] made breaks of 81 and 88 as he whitewashed Evans. Hallworth trailed [[Jimmy Robertson (snooker player)|Jimmy Robertson]] 0–2 and 1–3 but tied the scores at 3–3 and then won the deciding frame with a {{Cuegloss|clearance}} on the colours. The match between [[Oliver Lines]] and [[Matthew Selt]] also went to a deciding frame, which culminated in a safety battle on the last pink. Lines secured victory by potting pink and black after Selt went in-off the pink. [[Stuart Bingham]] defeated Szubarczyk 4–1, and Moody made a 142 break as he defeated [[Ryan Day (snooker player)|Ryan Day]] 4–2. [[Aaron Hill (snooker player)|Aaron Hill]] made a 120 break against [[Robert Milkins]] and won the match in a deciding frame. [[Gary Wilson (snooker player)|Gary Wilson]] also advanced after winning a decider against [[Gao Yang (snooker player)|Gao Yang]].<ref name="Max 220" /> 
+
+[[Hossein Vafaei]] made a 135 break as he defeated Leclercq 4–1. He spoke afterwards about undergoing treatment for a spinal problem that had caused pain in his neck, shoulder, and left arm for the previous seven months. "I have had physiotherapy and I am doing exercises to help but it needs time to heal," he said. Chang led [[Daniel Wells (snooker player)|Daniel Wells]] 3–0 and was on the verge of a whitewash victory, leading by 64 points in frame four. However, Wells won the frame with a 73 clearance and went on to tie the scores at 3–3, helped by a 131 break in the sixth. In the decider, Wells established a 63-point lead, but Chang recovered to win the frame and match on the colours. Boiko progressed by beating [[Jackson Page]] 4–2, while [[Louis Heathcote]] advanced with a whitewash win over [[Lei Peifan]]. [[Wu Yize]] defeated [[Ashley Hugill]] 4–1, and [[Ben Woollaston]] beat Nasa by the same score. [[Stephen Maguire]], who had recently won the [[2025 Championship League (ranking)|2025 Championship League]], came from 2–3 behind against [[Allan Taylor (snooker player)|Allan Taylor]] to win the match in a deciding frame.<ref name=":4">{{Cite web |date=10 August 2025 |title=Saudi Arabia Snooker Masters day three: Vafaei back on track |url=https://www.wst.tv/news/2025/august/10/saudi-arabia-snooker-masters-day-three--vafaei-back-on/ |access-date=10 August 2025 |website=[[World Snooker Tour]] |language=en |archive-date=11 August 2025 |archive-url=https://web.archive.org/web/20250811152102/https://www.wst.tv/news/2025/august/10/saudi-arabia-snooker-masters-day-three--vafaei-back-on/ |url-status=live }}</ref>
+
+=== Fourth round (last 48) ===
+The fourth round was played on 11 August as the best of nine frames. It featured all 32 winners from the third round.<ref name=":5" /> [[Joe O'Connor (snooker player)|Joe O'Connor]], runner-up in the 2025 Championship League, made breaks of 97, 69, and 112 as he whitewashed [[Sanderson Lam]]. Maguire whitewashed [[Anthony McGill]], making breaks of 52, 128, 81, 52, 64, and 64. Afterwards, he called the match "the best I have played this season by a mile." Woollaston lost the first two frames against Lisowski but recovered to win the match in a deciding frame. "Beating [<nowiki/>[[Mark Selby]]] at the [<nowiki/>[[2025 World Snooker Championship|2025 World Championship]]] gave me a lot of confidence in my safety play," said Woollaston afterwards. <ref name=":6">{{Cite web |date=11 August 2025 |title=Saudi Arabia Snooker Masters day four: O'Connor to face Rocket in Jeddah |url=https://www.wst.tv/news/2025/august/11/Saudi-Arabia-Snooker-Masters-Day-Four--O-Connor-To-Face-Rocket-In-Jeddah/ |access-date=11 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423084709/https://www.wst.tv/news/2025/august/11/Saudi-Arabia-Snooker-Masters-Day-Four--O-Connor-To-Face-Rocket-In-Jeddah/|archive-date=23 April 2026|url-status=live}}</ref>
+
+Un-Nooh lost the first frame against the [[2024 World Snooker Championship|2024 World Championship]] runner-up [[Jak Jones]] but took five consecutive frames with breaks of 57, 67, 95, 110, and 103 for a 5–1 victory. [[Yuan Sijun]] whitewashed Moody, making a highest break of 89, and Lines made a 106 century as he defeated [[Noppon Saengkham]] 5–2. [[Elliot Slessor]] recovered from 1–4 behind to defeat [[Lan Yuhao]] in a deciding frame. Wu made breaks of 73, 105, 124, 73, and 95 as he beat [[Matthew Stevens]] 5–1. Four players who started in the first round—[[Farakh Ajaib]], Boiko, Chang, and Hallworth—advanced to the fifth round.<ref name=":6" /> Ajaib beat [[Jamie Jones (snooker player)|Jamie Jones]] 5–2, and Boiko defeated Heathcote in a deciding frame. Chang defeated [[David Gilbert (snooker player)|David Gilbert]] 5–3, and Hallworth defeated [[Zhou Yuelong]] by the same score. [[Martin O'Donnell (snooker player)|Martin O'Donnell]] also progressed with a 5–3 win over Vafaei.<ref name=":9">{{Cite web |title=Results (Saudi Arabia Masters 2025)|url=https://www.snooker.org/res/index.asp?template=22&event=2350 |access-date=2025-08-11 |website=snooker.org |language=en|archive-url=https://web.archive.org/web/20260423085510/https://www.snooker.org/res/index.asp?template=22&event=2350|archive-date=23 April 2026|url-status=live}}</ref>
+
+=== Fifth round (last 32) ===
+[[File:Judd Trump at Snooker German Masters (Martin Rulsch) 2014-02-01 18 (cropped).jpg|thumb|The [[List of world number one snooker players|world number one]] and defending champion [[Judd Trump]] ''(pictured in 2014)'' lost 3–5 to the world number 68 [[Oliver Lines]].]]
+The fifth round was played on 12 August as the best of nine frames. It featured the 16 winners from the fourth round against the top 16 seeds.<ref name=":5" /> Facing the world number 68 Lines, the [[List of world number one snooker players|world number one]] and defending champion [[Judd Trump]] won the first frame, but Lines then made breaks of 125, 63, and 71 as he won four consecutive frames. Trump won the next two, making a 102 century in the seventh, but Lines secured a 5–3 victory with a 100 century in frame eight. "I am really proud of the way I played today," said Lines afterwards, calling the win the best of his career.<ref name=":7">{{Cite web |date=12 August 2025 |title=2025 Saudi Arabia Snooker Masters: Judd Trump v Oliver Lines |url=https://www.wst.tv/match-centre/8afe1f28-6019-443d-9434-d9ecc974da72 |access-date=12 August 2025 |website=[[World Snooker Tour]] |language=en |archive-date=23 August 2025 |archive-url=https://web.archive.org/web/20250823053615/https://www.wst.tv/match-centre/8afe1f28-6019-443d-9434-d9ecc974da72 |url-status=live }}</ref><ref name=":8">{{Cite web |date=12 August 2025 |title=Saudi Arabia Snooker Masters day five: Trump flattened by Lines |url=https://www.wst.tv/news/2025/august/12/Saudi-Arabia-Snooker-Masters-Day-Five--Trump-Flattened-By-Lines/ |access-date=12 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423085503/https://www.wst.tv/news/2025/august/12/Saudi-Arabia-Snooker-Masters-Day-Five--Trump-Flattened-By-Lines/|archive-date=23 April 2026|url-status=live}}</ref> Trailing Slessor 3–4, [[John Higgins]] attempted a maximum break in frame eight but missed the 13th red. In the deciding frame, Higgins had an opportunity to make a match-winning clearance from 47 points behind, but he missed the last red while on a break of 34. Slessor went on to secure a 5–4 victory.<ref name=":8" /> 
+
+[[Shaun Murphy]] defeated Un-Nooh 5–1, making two centuries of 125 and 118. Un-Nooh had an opportunity to make his second maximum of the tournament in frame five, which would have won him a £147,000 bonus, but he missed the 13th red. Bingham made five half-centuries as he defeated [[Zhang Anda]] 5–2. Afterwards, he commented that his weight loss of {{convert|3.5|st|lb kg|abbr=off}} that year had benefited his form, saying: "I was having trouble with my knee and back and that is better now." [[Neil Robertson]] made three centuries of 120, 114, and 106 as he defeated Woollaston 5–2. [[Mark Williams (snooker player)|Mark Williams]] beat Yuan 5–3, and Selby defeated [[Long Zehuang]] by the same score. Recent [[2025 Shanghai Masters]] runner-up [[Ali Carter]] made a 132 century in the deciding frame to beat Gary Wilson 5–4.<ref name=":8" />
+
+Playing with a new [[Cue stick|cue]] made by [[Sunny Akani]], [[Ronnie O'Sullivan]] whitewashed O'Connor, making breaks of 116, 89, 53, and 90 in the last four frames. [[Zhao Xintong]], the reigning World Champion, also recorded a whitewash win, making breaks of 92, 132, 97, 94, and 106 as he defeated Hallworth in 55 minutes. The world number two [[Kyren Wilson]], recent winner of the 2025 Shanghai Masters, fell 2–4 behind against Boiko but made three half-century breaks to secure a 5–4 win. [[Chris Wakelin]] beat Ajaib 5–1, and [[Ding Junhui]] defeated Maguire 5–2. [[Si Jiahui]], a semi-finalist the previous year, beat Wu 5–3, and [[Barry Hawkins]] defeated O'Donnell by the same score. From 1–3 behind against Chang, [[Mark Allen (snooker player)|Mark Allen]] won three frames in a row to lead 4–3, but Chang won the last two frames for a 5–4 victory. The last remaining player in the event who started in the first round, Chang reached the last 16 of a ranking tournament for the first time.<ref name=":10">{{Cite web |date=12 August 2025 |title=Saudi Arabia Snooker Masters day five: O'Sullivan storms to 5-0 win |url=https://www.wst.tv/news/2025/august/12/Saudi-Arabia-Snooker-Masters-Day-Five--O-Sullivan-Storms-To-5-0-Win/ |access-date=12 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423085458/https://www.wst.tv/news/2025/august/12/Saudi-Arabia-Snooker-Masters-Day-Five--O-Sullivan-Storms-To-5-0-Win/|archive-date=23 April 2026|url-status=live}}</ref>
+
+=== Sixth round (last 16) ===
+[[File:Mark Selby 2020.jpg|thumb|[[Mark Selby]] ''(pictured in 2020)'' made his 900th [[century break]] in professional competition, becoming the fifth player to reach that milestone.]]
+The sixth round was played on 13 August as the best of 11 frames.<ref name=":5" /> In the second frame of his match against Neil Robertson, Selby made his 900th century break in professional competition, becoming the fifth player to reach that milestone.<ref name="Selby_900">{{cite web |title=Selby makes 900th career century |url=https://www.wst.tv/news/2025/august/13/selby-makes-900th-career-century/ |work=[[World Snooker Tour]] |date=13 August 2025 |access-date=13 August 2025 |archive-date=13 August 2025 |archive-url=https://web.archive.org/web/20250813131443/https://www.wst.tv/news/2025/august/13/selby-makes-900th-career-century/ |url-status=live}}</ref> Robertson made breaks of 70 and 111 to lead 3–1 at the mid-session interval. Selby won three consecutive frames with half-century breaks to lead 4–3, but Robertson also took three frames in a row, making breaks of 83 and 137, as he secured a 6–4 win. It was the second consecutive year Robertson had eliminated Selby from the tournament. Facing Murphy, Williams won the first two frames and then recovered from 61 points behind to take the third with a 74 clearance. The next two frames were shared. Williams produced a 30 clearance to win the sixth frame on the last black and made a 102 century in the seventh to complete a 6–1 victory.<ref name=":11">{{Cite web |date=13 August 2025 |title=Saudi Arabia Snooker Masters day six: Williams thumps Murphy |url=https://www.wst.tv/news/2025/august/13/Saudi-Arabia-Snooker-Masters-Day-Six--Williams-Thumps-Murphy/ |access-date=2025-08-13 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423085452/https://www.wst.tv/news/2025/august/13/Saudi-Arabia-Snooker-Masters-Day-Six--Williams-Thumps-Murphy/|archive-date=23 April 2026|url-status=live}}</ref> During the match, Williams played some shots with his eyes closed. "Everything's a blur and I do it to see how well I am cueing," he explained after the match.<ref>{{Cite web |last=Castle |first=Will |date=13 August 2025 |title=Mark Williams explains logic behind 'blind shots' that helped him ease past Shaun Murphy |url=https://www.independent.co.uk/sport/snooker/mark-williams-shaun-murphy-saudi-arabia-snooker-masters-b2807006.html |access-date=16 September 2025 |website=[[The Independent]]|archive-url=https://web.archive.org/web/20260423085446/https://www.independent.co.uk/sport/snooker/mark-williams-shaun-murphy-saudi-arabia-snooker-masters-b2807006.html|archive-date=23 April 2026|url-status=live}}</ref>
+
+Bingham trailed Slessor 1–4 but then won four consecutive frames for a 5–4 lead. However, Slessor took frame 10 on the colours and then won the decider with a 72 break. "I missed a few chances from 4–1 so my back was against the wall," Slessor said afterwards. Carter trailed Lines 1–3 but won five consecutive frames for a 6–3 victory. "I played great after the interval, against an up-and-comer who had a good win over Judd Trump," said Carter afterwards.<ref name=":11" />
+
+Facing O'Sullivan, the world number 104 Chang made five half-century breaks as he took a 5–2 lead. O'Sullivan made a 103 century to win the eighth frame and also took the ninth. Chang had a match-winning opportunity in frame 10 but missed the penultimate red, and O'Sullivan cleared to tie the scores at 5–5. O'Sullivan won the decider with a 125 century to reach the 148th ranking quarter-final of his career. "I lost my confidence and lost my swagger and that's something you can't fake," commented O'Sullivan on his recent struggles for form. "I just don't have that enough now. I wish I could turn the clock back and appreciate it more."<ref name=":12">{{Cite web |date=13 August 2025 |title=Saudi Arabia Snooker Masters day six: Rocket completes huge fight-back |url=https://www.wst.tv/news/2025/august/13/Saudi-Arabia-Snooker-Masters-Day-Six--Rocket-Completes-Huge-Fight-Back/ |access-date=13 August 2025 |website=[[World Snooker Tour]] |language=en |archive-date=20 August 2025 |archive-url=https://web.archive.org/web/20250820043509/https://www.wst.tv/news/2025/august/13/Saudi-Arabia-Snooker-Masters-Day-Six--Rocket-Completes-Huge-Fight-Back/ |url-status=live }}</ref><ref>{{cite news |title=O'Sullivan storms back to beat Chang in Saudi Arabia |url=https://www.bbc.com/sport/snooker/articles/cx2pd46401zo |work=[[BBC Sport]] |date=13 August 2025 |access-date=14 August 2025 |archive-date=18 August 2025 |archive-url=https://web.archive.org/web/20250818065923/https://www.bbc.com/sport/snooker/articles/cx2pd46401zo |url-status=live }}</ref> Wilson made five half-century breaks as he defeated Si 6–3. Wakelin won three of the first four frames against Zhao, but then lost four frames in a row to trail 3–5. However, Wakelin took the last three frames for a 6–5 victory. Hawkins also trailed Ding 3–5 but made breaks of 99 and 84 to tie the scores and then won the match in a deciding frame.<ref name=":12" />
+
+=== Quarter-finals ===
+[[File:Mark Williams at Snooker German Masters (DerHexer) 2015-02-05 02.jpg|thumb|The previous year's runner-up [[Mark Williams (snooker player)|Mark Williams]] ''(pictured in 2015)'' lost 5–6 to [[Elliot Slessor]] at the quarter-final stage.]]
+The quarter-finals were played on 14 August as the best of 11 frames.<ref name=":5" /> Facing Williams, Slessor made breaks including 62, 130, and 70 as he moved 5–2 ahead. Williams won frame eight with a 74 break. Slessor had a match-winning chance in the ninth but missed a red while on a break of 60, and Williams recovered to take the frame on the last black. Williams made a 51 break in the tenth frame to tie the scores at 5–5. The decider came down to the colours. After Williams went in-off while playing a safety shot, Slessor potted {{cuegloss|yellow ball|yellow}}, {{cuegloss|green ball|green}}, and {{cuegloss|brown ball|brown}} to win a fourth consecutive match in a deciding frame, following his 5–4 victories over Lan and Higgins and his 6–5 win over Bingham. He reached the fifth ranking semi-final of his career. "It's definitely a match I would have lost from that position three or four months ago," commented Slessor afterwards.<ref name=":13">{{Cite web |date=14 August 2025 |title=Saudi Arabia Snooker Masters day seven: Sless is more! Elliot floors Williams |url=https://www.wst.tv/news/2025/august/14/Saudi-Arabia-Snooker-Masters-Day-Seven--Sless-Is-More--Elliot-Floors-Williams/ |access-date=2025-08-14 |website=[[World Snooker Tour]] |language=en |archive-date=17 August 2025 |archive-url=https://web.archive.org/web/20250817101143/https://www.wst.tv/news/2025/august/14/Saudi-Arabia-Snooker-Masters-Day-Seven--Sless-Is-More--Elliot-Floors-Williams/ |url-status=live }}</ref> 
+
+Playing Carter, Robertson made a 139 century as he took a 4–2 lead. Carter won frame seven with an 80 break and came from 46 points behind to take the eighth on the last black, tying the scores at 4–4. However, Robertson won the ninth with a 71 break and also took the tenth for a 6–4 victory, securing his 54th ranking semi-final appearance. Robertson afterwards attributed his improved for to his work with a psychologist and with fellow professional player [[Joe Perry (snooker player)|Joe Perry]]. "I felt it was a matter of time before things would turn around," he said.<ref name=":13" />
+
+O'Sullivan lost the first frame against Wilson but made breaks of 88 and 116 as he took a 2–1 lead. Wilson responded with breaks of 75 and 67 to move 3–2 ahead, but O'Sullivan tied the scores at 3–3 after Wilson missed the penultimate red in frame six. Wilson produced half-centuries of 69 and 80 to lead 5–3, but O'Sullivan made back-to-back centuries of 110 and 118 to tie the scores. After Wilson missed a pot on the pink in the decider, O'Sullivan made a 46 break and went on to secure the frame, reaching his 95th ranking semi-final. "It was a tough match. I had to rely on [Wilson] to make a few mistakes," said O'Sullivan afterwards. In his match against Hawkins, Wakelin made four half-centuries as he took a 4–1 lead, but Hawkins tied the scores at 4–4 and 5–5. Wakelin made a 55 break in the decider and went on to secure victory, reaching his fifth ranking semi-final. "It was very difficult. [Hawkins] is one of the toughest players on the tour, so I'm thrilled to come through 6–5," said Wakelin afterwards.<ref name=":14">{{Cite web |date=14 August 2025 |title=Saudi Arabia Snooker Masters day seven: Fireworks from O'Sullivan In Jeddah |url=https://www.wst.tv/news/2025/august/14/Saudi-Arabia-Snooker-Masters-Day-Seven--Fireworks-From-O-Sullivan-In-Jeddah/ |access-date=14 August 2025 |website=[[World Snooker Tour]] |language=en |archive-date=16 August 2025 |archive-url=https://web.archive.org/web/20250816014536/https://www.wst.tv/news/2025/august/14/Saudi-Arabia-Snooker-Masters-Day-Seven--Fireworks-From-O-Sullivan-In-Jeddah/ |url-status=live }}</ref><ref>{{cite web |title=The 'Ding Curse' continues with Chris Wakelin advancing to last four |url=https://snookerhq.com/2025/08/15/ding-junhui-curse-chris-wakelin-saudi-arabia-masters/ |website=snookerhq.com |first=David |last=Caulfield |date=15 August 2025 |access-date=15 August 2025|archive-url=https://web.archive.org/web/20260423085450/https://snookerhq.com/2025/08/15/ding-junhui-curse-chris-wakelin-saudi-arabia-masters/|archive-date=23 April 2026|url-status=live}}</ref>
+
+=== Semi-finals ===
+[[File:Ronnie O'Sullivan PHC 2011-1.png|thumb|[[Ronnie O'Sullivan]] ''(pictured in 2011)'' made two [[maximum break]]s in the same match, the 16th and 17th of his career, and won a £147,000 bonus. He became the oldest player to make an official maximum.]]
+The semi-finals were played on 15 August as the best of 11 frames.<ref name=":5" /> Facing Slessor in the first semi-final, Robertson won the first two frames. Slessor took the third with a 92 break, but Robertson responded with a 93 break in the fourth to move 3–1 in front at the mid-session interval. Robertson also took frame five, extending his lead to 4–1, but Slessor won frame six and established a 31-point lead in frame seven before he lost position. With two reds remaining, Slessor left a scoring opportunity while {{Cuegloss|escape|escaping}} from a snooker, and Robertson won the frame to move 5–2 ahead. Slessor took frame eight with a 64 break, but Robertson made a 93 break in the ninth to secure a 6–3 victory.<ref>{{Cite web |date=15 August 2025 |title=2025 Saudi Arabia Snooker Masters: Neil Robertson v Elliot Slessor |url=https://www.wst.tv/match-centre/3e175586-3b18-4a3a-806e-e814f16006d3 |access-date=15 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423085319/https://www.wst.tv/match-centre/3e175586-3b18-4a3a-806e-e814f16006d3|archive-date=23 April 2026|url-status=live}}</ref> "The start was crucial today. I could see [Slessor] was a bit nervous and I was able to use my experience," said Robertson afterwards. "The clearance to go 5–2 ahead was the killer blow. After that I was just looking for one chance." Defeat for Slessor meant that he had lost all five ranking semi-finals he had contested. Despite winning his largest ever prize of £100,000 and advancing from 29th to 23rd in the world rankings,<ref name=":20">{{Cite web |date=18 August 2025 |title=Johnstone's Paint world rankings update: Red-hot Robertson up to third |url=https://www.wst.tv/news/2025/august/18/johnstone-s-paint-world-rankings-update--robertson-up-to-third/ |access-date=18 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423085314/https://www.wst.tv/news/2025/august/18/johnstone-s-paint-world-rankings-update--robertson-up-to-third/|archive-date=23 April 2026|url-status=live}}</ref> he said he was "devastated" and stated: "It makes me question whether I will ever be a winner."<ref>{{cite web |title=Robertson into 39th ranking final |url=https://www.wst.tv/news/2025/august/15/Robertson-Into-39th-Ranking-Final/ |website=[[World Snooker Tour]] |date=15 August 2025 |access-date=15 August 2025|archive-url=https://web.archive.org/web/20260423085308/https://www.wst.tv/news/2025/august/15/Robertson-Into-39th-Ranking-Final/|archive-date=23 April 2026|url-status=live}}</ref><ref name=":15">{{Cite web |last=Sutcliffe |first=Steve |date=2025-08-15 |title=O'Sullivan makes two 147 breaks in semi-final win |url=https://www.bbc.com/sport/snooker/articles/c39dp0v7ny1o |access-date=2025-08-15 |website=BBC Sport |language=en-GB |archive-date=15 August 2025 |archive-url=https://web.archive.org/web/20250815234723/https://www.bbc.com/sport/snooker/articles/c39dp0v7ny1o |url-status=live }}</ref> 
+
+Facing Wakelin in the second semi-final, O'Sullivan made a maximum break in the opening frame, the 16th of his professional career and his first in almost seven years, following his 15th official 147 at the [[2018 English Open (snooker)|2018 English Open]]. O'Sullivan then made another {{Cuegloss|total clearance}} of 142 to win the second frame. Wakelin won frame three with a 70 break, but O'Sullivan took frame four, also with a 70 break, to lead 3–1 at the mid-session interval. Wakelin won the fifth frame with a 125 century and also took the sixth to tie the scores at 3–3. In frame seven, O'Sullivan made his second maximum break of the match and the 17th of his career. He became the second player, after Page in the 2025 World Championship qualifiers, to make two maximums in the same match and the first player to make two maximums in the same session or on the same day. O'Sullivan's maximums were the fourth and fifth of the season and the 221st and 222nd official maximums in professional competition.<ref name="Max 221 & 222">{{cite web |title=O'Sullivan makes two 147s in same match to earn huge bonus, and reaches final |url=https://www.wst.tv/news/2025/august/15/O-Sullivan-Makes-Two-147s-In-Same-Match-To-Earn-Huge-Bonus--And-Reaches-Final/ |website=[[World Snooker Tour]] |date=15 August 2025 |access-date=15 August 2025 |archive-date=15 August 2025 |archive-url=https://web.archive.org/web/20250815210327/https://www.wst.tv/news/2025/august/15/O-Sullivan-Makes-Two-147s-In-Same-Match-To-Earn-Huge-Bonus--And-Reaches-Final/ |url-status=live}}</ref> Aged 49 years and 253 days, he became the oldest player to record an official maximum.<ref name=":15" /> O'Sullivan won two-thirds of the tournament's £50,000 maximum break prize—the other third going to Un-Nooh for his maximum in the third round—plus a £147,000 bonus for making two maximums across that season's four eligible tournaments, for a total of £180,333.<ref name=":19">{{cite news |title=Robertson edges out O'Sullivan to claim Saudi title |url=https://www.bbc.com/sport/snooker/articles/c754vkp26y1o |website=[[BBC Sport]] |first=Steve |last=Sutcliffe |date=16 August 2025 |access-date=17 August 2025 |archive-date=17 August 2025 |archive-url=https://web.archive.org/web/20250817081019/https://www.bbc.com/sport/snooker/articles/c754vkp26y1o |url-status=live}}</ref> O'Sullivan took the eighth frame with breaks of 67 and 50 before completing a 6–3 victory with a 134 break, his fourth century of the match.<ref name="Max 221 & 222"/><ref name=":15" /><ref>{{Cite web |date=15 August 2025 |title=2025 Saudi Arabia Snooker Masters: Ronnie O'Sullivan v Chris Wakelin |url=https://www.wst.tv/match-centre/8f07040f-815c-45b4-b4b2-c8f9d1b805ce |access-date=15 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423085303/https://www.wst.tv/match-centre/8f07040f-815c-45b4-b4b2-c8f9d1b805ce|archive-date=23 April 2026|url-status=live}}</ref><ref>{{Cite web |date=15 August 2025 |title=Ronnie O'Sullivan makes two maximum 147 breaks in stunning semi-final victory at Saudi Arabia Masters |url=https://www.skysports.com/snooker/news/12040/13412497/ronnie-osullivan-makes-two-maximum-147-breaks-in-stunning-semi-final-victory-at-saudi-arabia-masters |access-date=15 August 2025 |website=[[Sky Sports]] |language=en|archive-url=https://web.archive.org/web/20250815233302/https://www.skysports.com/snooker/news/12040/13412497/ronnie-osullivan-makes-two-maximum-147-breaks-in-stunning-semi-final-victory-at-saudi-arabia-masters|archive-date=15 August 2025|url-status=dead}}</ref>  
+
+"It's crazy really, I have never played that well in a match before," said O'Sullivan. "I felt that focus last night against [Wilson] and I tried to take the same attitude into tonight."<ref name="Max 221 & 222" /> Wakelin, like Slessor, earned his biggest ever prize of £100,000 and advanced from 16th to 13th in the world rankings following the event.<ref name=":20" /> He said afterwards: "I was just dominated from the first ball. [O'Sullivan] was incredible."<ref name="Max 221 & 222" /> [[Tatiana Woollaston]], who refereed the match, said she had been "incredibly lucky and privileged" to have officiated O'Sullivan's maximum breaks, adding that she and Wakelin had "shared a few glances at the table in appreciation of what we were witnessing." Other players praised O'Sullivan's achievement on social media.<ref name=":21">{{cite web |title=Players react to O'Sullivan's incredible 147 double |url=https://www.wst.tv/news/2025/august/16/players-react-to-o-sullivan-s-incredible-147-double/ |website=[[World Snooker Tour]] |date=16 August 2025 |access-date=18 August 2025 |archive-date=6 September 2025 |archive-url=https://web.archive.org/web/20250906164634/https://www.wst.tv/news/2025/august/16/players-react-to-o-sullivan-s-incredible-147-double/ |url-status=live }}</ref>
+
+=== Final ===
+[[File:Neil Robertson at Snooker German Masters (DerHexer) 2015-02-05 02.jpg|thumb|[[Neil Robertson]] ''(pictured in 2015)'' defeated [[Ronnie O'Sullivan]] 10–9 in the final to claim his 26th ranking title and advance from eighth to third in the world rankings.]]
+The final was played on 16 August as the best of 19 frames, held over two sessions, between the world number five O'Sullivan and the world number eight Robertson.<ref name=":5" /> O'Sullivan contested his 65th ranking final, while Robertson played in his 39th. O'Sullivan had won 19 of their 31 previous meetings.<ref name=":16" /> Julian Bell, who had officiated on the World Snooker Tour since 2018, refereed his first ranking event final.<ref>{{Cite web |date=15 August 2025 |title=For Whom the Bell Tolls: Julian set for first final |url=https://www.wst.tv/news/2025/august/15/For-Whom-The-Bell-Tolls--Julian-Set-For-First-Final/ |access-date=16 August 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260423085150/https://www.wst.tv/news/2025/august/15/For-Whom-The-Bell-Tolls--Julian-Set-For-First-Final/|archive-date=23 April 2026|url-status=live}}</ref> Robertson won the opening frame with a 76 break. O'Sullivan took the second with a 92 break, but Robertson responded with breaks of 108 and 81 to lead 3–1 at the mid-session interval. O'Sullivan won frame five with a 67 break, but Robertson took the sixth with breaks of 41 and 34. In the seventh frame, Robertson made a 39 break after a safety error from O'Sullivan; he later made a {{Cuegloss|plant}} and compiled a frame-winning break of 40. In the eighth, O'Sullivan was on a break of 24 when he missed a {{Cuegloss|cut shot|cut}} on the {{cuegloss|blue ball|blue}} to the middle pocket. Robertson took the frame with a 61 break to end the first session with a 6–2 lead.<ref name=":16">{{Cite web |date=16 August 2025 |title=Robertson in control of Jeddah final |url=https://www.wst.tv/news/2025/august/16/Robertson-In-Control-Of-Jeddah-Final/ |access-date=16 August 2025 |website=[[World Snooker Tour]] |language=en |archive-date=22 August 2025 |archive-url=https://web.archive.org/web/20250822114553/https://www.wst.tv/news/2025/august/16/Robertson-In-Control-Of-Jeddah-Final/ |url-status=live }}</ref><ref name=":17">{{Cite web |date=16 August 2025 |title=2025 Saudi Arabia Snooker Masters: Neil Robertson v Ronnie O'Sullivan |url=https://www.wst.tv/match-centre/3fd2233c-c27a-4c56-89f8-07c3788655a4 |access-date=16 August 2025 |website=[[World Snooker Tour]] |language=en |archive-date=25 August 2025 |archive-url=https://web.archive.org/web/20250825111117/https://www.wst.tv/match-centre/3fd2233c-c27a-4c56-89f8-07c3788655a4 |url-status=live }}</ref>
+
+When play resumed, Robertson took frame nine with a 97 break to lead by five at 7–2, but O'Sullivan won the 10th with a 139 total clearance, the 1,300th century break of his professional career,<ref name="s.o_main" /><ref name=":18">{{Cite web |date=16 August 2025 |title=Robertson beats O'Sullivan in immense Saudi final |url=https://www.wst.tv/news/2025/august/16/Robertson-Beats-O-Sullivan-In-Immense-Saudi-Final/ |access-date=16 August 2025 |website=[[World Snooker Tour]] |language=en |archive-date=17 August 2025 |archive-url=https://web.archive.org/web/20250817075455/https://www.wst.tv/news/2025/august/16/Robertson-Beats-O-Sullivan-In-Immense-Saudi-Final/ |url-status=live }}</ref> and then made breaks of 97, 89, 57, and 80 to tie the scores at 7–7. Robertson made a 75 break in the 15th to regain the lead at 8–7. O'Sullivan won the 16th frame on the colours after laying a snooker on the brown and also took the 17th with a 64 break for a 9–8 advantage. Having lost seven of the last eight frames, Robertson made a 101 century in frame 18 to tie the scores at 9–9, meaning that the final of the event went to a deciding frame for a second consecutive year.<ref name=":19" /> O'Sullivan made a 31 break in the decider but failed to split the {{Cuegloss|pack}}; he subsequently made a safety error, and Robertson won the frame and tournament with an 87 clearance.<ref name=":17" /><ref name=":18" /> It was Robertson's 26th career ranking title. His winner's prize of £500,000 took him from eighth to third in the world rankings, while O'Sullivan as runner-up received £200,000 and advanced from fifth to fourth in the rankings.<ref name=":19" /><ref name=":20" /> "This surpasses winning the [[World Snooker Championship|World Championship]]," said Robertson afterwards. "I have had to answer a lot of questions like whether I can still beat someone like [O'Sullivan] in a final of this magnitude." O'Sullivan commented: "[Robertson] deserved to win. He was the better player. I just tried to hang on to him and make a game of it."<ref name=":18" />
+
+==Final rounds==
+The draw for the final rounds is shown below. Numbers in parentheses after the players' names denote the players' [[seed (sports)|seeding]]. Players in bold denote match winners.<ref name="s.o_main">{{cite web |title=Saudi Arabia Masters 2025 |url=https://www.snooker.org/res/index.asp?event=2350 |website=snooker.org |date=31 July 2025|archive-url=https://web.archive.org/web/20260423084339/https://www.snooker.org/res/index.asp?event=2350|archive-date=23 April 2026|url-status=live}}</ref><ref name="WST_draw">{{cite web |title=Saudi Arabia Snooker Masters 2025&nbsp;– Draw |url=https://www.wst.tv/matches/34ca357d-bed6-4501-b8cd-aa94e5f7ff16?tab=1 |website=[[World Snooker Tour]] |access-date=1 August 2025|archive-url=https://web.archive.org/web/20260423085145/https://www.wst.tv/matches/34ca357d-bed6-4501-b8cd-aa94e5f7ff16?|archive-date=23 April 2026|url-status=live}}</ref><ref>{{cite web |title=Saudi Arabia Masters: Flowchart |url=https://www.snooker.org/res/brackets.asp?event=2350 |website=snooker.org|date=10 August 2025 |access-date=10 August 2025|archive-url=https://web.archive.org/web/20260423085138/https://www.snooker.org/res/brackets.asp?event=2350|archive-date=23 April 2026|url-status=live}}</ref>
+
+{{32TeamBracket-Info
+| boldwinner=high
+| paramstyle=numbered
+| team-width = auto
+| RD1 = '''Round 5 (Last 32)'''<br/>Best of 9 frames
+| RD2 = '''Round 6 (Last 16)'''<br/>Best of 11 frames
+| RD3 = '''Quarter-finals'''<br/>Best of 11 frames
+| RD4 = '''Semi-finals'''<br/>Best of 11 frames
+| RD5 = '''Final'''<br/>Best of 19 frames
+<!-- LAST 32 -->
+<!-- Match1 -->
+|
+|{{flagathlete|[[Judd Trump]]|ENG}} {{tooltip|(1)|player seeding}}
+|3
+|{{flagathlete|[[Oliver Lines]]|ENG}} {{tooltip|(64)|player seeding}}
+|5
+<!-- Match2 -->
+|
+|{{flagathlete|[[Ali Carter]]|ENG}} {{tooltip|(16)|player seeding}}
+|5
+|{{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} {{tooltip|(17)|player seeding}}
+|4
+<!-- Match3 -->
+|
+|{{flagathlete|[[Neil Robertson]]|AUS}} {{tooltip|(9)|player seeding}}
+|5
+|{{flagathlete|[[Ben Woollaston]]|ENG}} {{tooltip|(41)|player seeding}}
+|2
+<!-- Match4 -->
+|
+|{{flagathlete|[[Mark Selby]]|ENG}} {{tooltip|(8)|player seeding}}
+|5
+|{{flagathlete|[[Long Zehuang]]|CHN}} {{tooltip|(57)|player seeding}}
+|3
+<!-- Match5 -->
+|
+|{{flagathlete|[[John Higgins]]|SCO}} {{tooltip|(5)|player seeding}}
+|4
+|{{flagathlete|[[Elliot Slessor]]|ENG}} {{tooltip|(28)|player seeding}}
+|5
+<!-- Match6 -->
+|
+|{{flagathlete|[[Zhang Anda]]|CHN}} {{tooltip|(12)|player seeding}}
+|2
+|{{flagathlete|[[Stuart Bingham]]|ENG}} {{tooltip|(21)|player seeding}}
+|5
+<!-- Match7 -->
+|
+|{{flagathlete|[[Shaun Murphy]]|ENG}} {{tooltip|(13)|player seeding}}
+|5
+|{{flagathlete|[[Thepchaiya Un-Nooh]]|THA}} {{tooltip|(45)|player seeding}}
+|1
+<!-- Match8 -->
+|
+|{{flagathlete|[[Mark Williams (snooker player)|Mark Williams]]|WAL}} {{tooltip|(4)|player seeding}}
+|5
+|{{flagathlete|[[Yuan Sijun]]|CHN}} {{tooltip|(29)|player seeding}}
+|3
+<!-- Match9 -->
+|
+|{{flagathlete|[[Kyren Wilson]]|ENG}} {{tooltip|(3)|player seeding}}
+|5
+|{{flagathlete|[[Iulian Boiko]]|UKR}} {{tooltip|(104)|player seeding}}
+|4
+<!-- Match10 -->
+|
+|{{flagathlete|[[Si Jiahui]]|CHN}} {{tooltip|(14)|player seeding}}
+|5
+|{{flagathlete|[[Wu Yize]]|CHN}} {{tooltip|(19)|player seeding}}
+|3
+<!-- Match11 -->
+|
+|{{flagathlete|[[Mark Allen (snooker player)|Mark Allen]]|NIR}} {{tooltip|(11)|player seeding}}
+|4
+|{{flagathlete|[[Chang Bingyu]]|CHN}} {{tooltip|(114)|player seeding}}
+|5
+<!-- Match12 -->
+|
+|{{flagathlete|[[Ronnie O'Sullivan]]|ENG}} {{tooltip|(6)|player seeding}}
+|5
+|{{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}} {{tooltip|(27)|player seeding}}
+|0
+<!-- Match13 -->
+|
+|{{flagathlete|[[Ding Junhui]]|CHN}} {{tooltip|(7)|player seeding}}
+|5
+|{{flagathlete|[[Stephen Maguire]]|SCO}} {{tooltip|(26)|player seeding}}
+|2
+<!-- Match14 -->
+|
+|{{flagathlete|[[Barry Hawkins]]|ENG}} {{tooltip|(10)|player seeding}}
+|5
+|{{flagathlete|[[Martin O'Donnell (snooker player)|Martin O'Donnell]]|ENG}} {{tooltip|(42)|player seeding}}
+|3
+<!-- Match15 -->
+|
+|{{flagathlete|[[Chris Wakelin]]|ENG}} {{tooltip|(15)|player seeding}}
+|5
+|{{flagathlete|[[Farakh Ajaib]]|PAK}} {{tooltip|(82)|player seeding}}
+|1
+<!-- Match16 -->
+|
+|{{flagathlete|[[Zhao Xintong]]|CHN}} {{tooltip|(2)|player seeding}}
+|5
+|{{flagathlete|[[Steven Hallworth]]|ENG}} {{tooltip|(100)|player seeding}}
+|0
+<!-- LAST 16 -->
+<!-- Match1 -->
+|
+|{{flagicon|ENG}} [[Oliver Lines]] {{tooltip|(64)|player seeding}}
+|3
+|{{flagicon|ENG}} [[Ali Carter]] {{tooltip|(16)|player seeding}}
+|6
+<!-- Match2 -->
+|
+|{{flagicon|AUS}} [[Neil Robertson]] {{tooltip|(9)|player seeding}} 
+|6
+|{{flagicon|ENG}} [[Mark Selby]] {{tooltip|(8)|player seeding}}
+|4
+<!-- Match3 -->
+|
+|{{flagicon|ENG}} [[Elliot Slessor]] {{tooltip|(28)|player seeding}}
+|6
+|{{flagicon|ENG}} [[Stuart Bingham]] {{tooltip|(21)|player seeding}}
+|5
+<!-- Match4 -->
+|
+|{{flagicon|ENG}} [[Shaun Murphy]] {{tooltip|(13)|player seeding}}
+|1
+|{{flagicon|WAL}} [[Mark Williams (snooker player)|Mark Williams]] {{tooltip|(4)|player seeding}}
+|6
+<!-- Match5 -->
+|
+|{{flagicon|ENG}} [[Kyren Wilson]] {{tooltip|(3)|player seeding}}
+|6
+|{{flagicon|CHN}} [[Si Jiahui]] {{tooltip|(14)|player seeding}}
+|3
+<!-- Match6 -->
+|
+|{{flagicon|CHN}} [[Chang Bingyu]] {{tooltip|(114)|player seeding}}
+|5
+|{{flagicon|ENG}} [[Ronnie O'Sullivan]] {{tooltip|(6)|player seeding}} 
+|6
+<!-- Match7 -->
+|
+|{{flagicon|CHN}} [[Ding Junhui]] {{tooltip|(7)|player seeding}}
+|5
+|{{flagicon|ENG}} [[Barry Hawkins]] {{tooltip|(10)|player seeding}}
+|6
+<!-- Match8 -->
+|
+|{{flagicon|ENG}} [[Chris Wakelin]] {{tooltip|(15)|player seeding}}
+|6
+|{{flagicon|CHN}} [[Zhao Xintong]] {{tooltip|(2)|player seeding}}
+|5
+<!-- QUARTER-FINALS -->
+<!-- Match1 -->
+|
+|{{flagicon|ENG}} [[Ali Carter]] {{tooltip|(16)|player seeding}}
+|4
+|{{flagicon|AUS}} [[Neil Robertson]] {{tooltip|(9)|player seeding}}
+|6
+<!-- Match2 -->
+|
+|{{flagicon|ENG}} [[Elliot Slessor]] {{tooltip|(28)|player seeding}}
+|6
+|{{flagicon|WAL}} [[Mark Williams (snooker player)|Mark Williams]] {{tooltip|(4)|player seeding}}
+|5
+<!-- Match3 -->
+|
+|{{flagicon|ENG}} [[Kyren Wilson]] {{tooltip|(3)|player seeding}}
+|5
+|{{flagicon|ENG}} [[Ronnie O'Sullivan]] {{tooltip|(6)|player seeding}} 
+|6
+<!-- Match4 -->
+|
+|{{flagicon|ENG}} [[Barry Hawkins]] {{tooltip|(10)|player seeding}}
+|5
+|{{flagicon|ENG}} [[Chris Wakelin]] {{tooltip|(15)|player seeding}}
+|6
+<!-- SEMI-fINALS -->
+<!-- Match1 -->
+|
+|{{flagicon|AUS}} [[Neil Robertson]] {{tooltip|(9)|player seeding}}
+|6
+|{{flagicon|ENG}} [[Elliot Slessor]] {{tooltip|(28)|player seeding}}
+|3
+<!-- Match2 -->
+|
+|{{flagicon|ENG}} [[Ronnie O'Sullivan]] {{tooltip|(6)|player seeding}}
+|6
+|{{flagicon|ENG}} [[Chris Wakelin]] {{tooltip|(15)|player seeding}}
+|3
+<!-- FINAL -->
+|
+|{{flagicon|AUS}} [[Neil Robertson]] {{tooltip|(9)|player seeding}}
+|10
+|{{flagicon|ENG}} [[Ronnie O'Sullivan]] {{tooltip|(6)|player seeding}}
+|9
+}}
+
+==Early rounds==
+The results of the early rounds are shown below. Numbers in parentheses after the players' names denote the players' [[seed (sports)|seeding]], an "a" indicates amateur players who were not on the main [[World Snooker Tour]]. Players in bold denote match winners.<ref name="s.o_main"/><ref name="WST_draw"/>
+
+{{2NTeam-NTeamBracket
+| boldwinner=high
+| rounds=4
+| brackets=16
+| team-width = auto
+| RD1-teams=4
+| RD2-teams=4
+| RD3-teams=4
+| seeds = no
+| RD1 = '''Round 1 (Last 144)'''<br/>Best of 7 frames
+| RD2 = '''Round 2 (Last 112)'''<br/>Best of 7 frames
+| RD3 = '''Round 3 (Last 80)'''<br/>Best of 7 frames
+| RD4 = '''Round 4 (Last 48)'''<br/>Best of 9 frames
+
+<!--Round 1-->
+| RD1-team01={{flagathlete|[[Florian Nüßle]]|AUT}} {{tooltip|(103)|player seeding}}
+| RD1-score01=3
+| RD1-team02={{flagathlete|[[Dylan Emery]]|WAL}} {{tooltip|(105)|player seeding}}
+| RD1-score02=4
+
+| RD1-team03={{flagathlete|[[Liam Pullen]]|ENG}} {{tooltip|(108)|player seeding}}
+| RD1-score03=4
+| RD1-team04={{flagathlete|Ahmed Aseeri|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score04=1
+
+| RD1-team05={{flagathlete|[[Robbie McGuigan]]|NIR}} {{tooltip|(81)|player seeding}}
+| RD1-score05=1
+| RD1-team06={{flagathlete|[[Gao Yang (snooker player)|Gao Yang]]|CHN}} {{tooltip|(117)|player seeding}}
+| RD1-score06=4
+
+| RD1-team07={{flagathlete|[[Leone Crowley]]|IRL}} {{tooltip|(109)|player seeding}}
+| RD1-score07=4
+| RD1-team08={{flagathlete|Ziyad Alqabbani|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score08=2
+
+| RD1-team09={{flagathlete|[[Chatchapong Nasa]]|THA}} {{tooltip|(119)|player seeding}}
+| RD1-score09=4
+| RD1-team10={{flagathlete|Fahad Alghamdi|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score10=0
+
+| RD1-team11={{flagathlete|[[Kreishh Gurbaxani]]|IND}} {{tooltip|(87)|player seeding}}
+| RD1-score11=2
+| RD1-team12={{flagathlete|[[Reanne Evans]]|ENG}} {{tooltip|(98)|player seeding}}
+| RD1-score12=4
+
+| RD1-team13={{flagathlete|[[Zhao Hanyang]]|CHN}} {{tooltip|(112)|player seeding}}
+| RD1-score13=4
+| RD1-team14={{flagathlete|Musab Sayegh|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score14=0
+
+| RD1-team15={{flagathlete|[[Jonas Luz]]|BRA}} {{tooltip|(88)|player seeding}}
+| RD1-score15=4
+| RD1-team16={{flagathlete|Musaad Almisfir|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score16=3
+
+| RD1-team17={{flagathlete|[[Ross Muir]]|SCO}} {{tooltip|(101)|player seeding}}
+| RD1-score17=4
+| RD1-team18={{flagathlete|Abdulraouf Saigh|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score18=0
+
+| RD1-team19={{flagathlete|[[Mateusz Baranowski]]|POL}} {{tooltip|(110)|player seeding}}
+| RD1-score19=1
+| RD1-team20={{flagathlete|[[Lan Yuhao]]|CHN}} {{tooltip|(123)|player seeding}}
+| RD1-score20=4
+
+| RD1-team21={{flagathlete|[[Michał Szubarczyk]]|POL}} {{tooltip|(121)|player seeding}}
+| RD1-score21=4
+| RD1-team22={{flagathlete|Ryan Davies|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score22=2
+
+| RD1-team23={{flagathlete|[[Sam Craigie]]|ENG}} {{tooltip|(96)|player seeding}}
+| RD1-score23=4
+| RD1-team24={{flagathlete|[[Xu Yichen]]|CHN}} {{tooltip|(115)|player seeding}}
+| RD1-score24=2
+
+| RD1-team25={{flagathlete|[[Sahil Nayyar]]|CAN}} {{tooltip|(122)|player seeding}}
+| RD1-score25=4
+| RD1-team26={{flagathlete|Habib Subah Humood|BHR}} {{tooltip|(a)|amateur player}}
+| RD1-score26=1
+
+| RD1-team27={{flagathlete|[[Huang Jiahao]]|CHN}} {{tooltip|(84)|player seeding}}
+| RD1-score27=4
+| RD1-team28={{flagathlete|Abdullah Alshammari|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score28=1
+
+| RD1-team29={{flagathlete|[[Liam Highfield]]|ENG}} {{tooltip|(93)|player seeding}}
+| RD1-score29=4
+| RD1-team30={{flagathlete|Mohammed Al Joker|UAE}} {{tooltip|(a)|amateur player}}
+| RD1-score30=0
+
+| RD1-team31={{flagathlete|[[Jiang Jun]]|CHN}} {{tooltip|(107)|player seeding}}
+| RD1-score31=2
+| RD1-team32={{flagathlete|Hesham Shawky|EGY}} {{tooltip|(a)|amateur player}}
+| RD1-score32=4
+
+| RD1-team33={{flagathlete|[[Louis Heathcote]]|ENG}} {{tooltip|(102)|player seeding}}
+| RD1-score33=4
+| RD1-team34={{flagathlete|Ayman Alamri|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score34=0
+
+| RD1-team35={{flagathlete|[[Iulian Boiko]]|UKR}} {{tooltip|(104)|player seeding}}
+| RD1-score35=4
+| RD1-team36={{flagathlete|[[Liu Wenwei]]|CHN}} {{tooltip|(120)|player seeding}}
+| RD1-score36=2
+
+| RD1-team37={{flagathlete|[[Mitchell Mann]]|ENG}} {{tooltip|(83)|player seeding}}
+| RD1-score37=1
+| RD1-team38={{flagathlete|[[Ashley Hugill]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score38=4
+
+| RD1-team39={{flagathlete|[[Ian Burns (snooker player)|Ian Burns]]|ENG}} {{tooltip|(95)|player seeding}}
+| RD1-score39=2
+| RD1-team40={{flagathlete|[[David Grace (snooker player)|David Grace]]|ENG}} {{tooltip|(94)|player seeding}}
+| RD1-score40=4
+
+| RD1-team41={{flagathlete|[[Chang Bingyu]]|CHN}} {{tooltip|(114)|player seeding}}
+| RD1-score41=4
+| RD1-team42={{flagathlete|[[Marco Fu]]|HKG}} {{tooltip|(91)|player seeding}}
+| RD1-score42=3
+
+| RD1-team43={{flagathlete|[[Ken Doherty]]|IRL}} {{tooltip|(85)|player seeding}}
+| RD1-score43=4
+| RD1-team44={{flagathlete|[[Jimmy White]]|ENG}} {{tooltip|(92)|player seeding}}
+| RD1-score44=1
+
+| RD1-team45={{flagathlete|[[Connor Benzey]]|ENG}} {{tooltip|(118)|player seeding}}
+| RD1-score45=4
+| RD1-team46={{flagathlete|Adeel Aqdus|PAK}} {{tooltip|(a)|amateur player}}
+| RD1-score46=0
+
+| RD1-team47={{flagathlete|[[Hatem Yassen]]|EGY}} {{tooltip|(89)|player seeding}}
+| RD1-score47=4
+| RD1-team48={{flagathlete|[[Ng On-yee]]|HKG}} {{tooltip|(113)|player seeding}}
+| RD1-score48=3
+
+| RD1-team49={{flagathlete|[[Mohammed Shehab]]|UAE}} {{tooltip|(90)|player seeding}}
+| RD1-score49=4
+| RD1-team50={{flagathlete|Abdullah Alotayyani|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score50=2
+
+| RD1-team51={{flagathlete|[[Oliver Brown (snooker player)|Oliver Brown]]|ENG}} {{tooltip|(97)|player seeding}}
+| RD1-score51=4
+| RD1-team52={{flagathlete|Patrick Whelan|ENG}} {{tooltip|(a)|amateur player}}
+| RD1-score52=2
+
+| RD1-team53={{flagathlete|[[Mink Nutcharut]]|THA}} {{tooltip|(86)|player seeding}}
+| RD1-score53=1
+| RD1-team54={{flagathlete|Umut Dikme|GER}} {{tooltip|(a)|amateur player}}
+| RD1-score54=4
+
+| RD1-team55={{flagathlete|[[Yao Pengcheng]]|CHN}} {{tooltip|(111)|player seeding}}
+| RD1-score55=3
+| RD1-team56={{flagathlete|[[Alexander Ursenbacher]]|SUI}} {{tooltip|(99)|player seeding}}
+| RD1-score56=4
+
+| RD1-team57={{flagathlete|[[Fergal Quinn (snooker player)|Fergal Quinn]]|NIR}} {{tooltip|(116)|player seeding}}
+| RD1-score57=4
+| RD1-team58={{flagathlete|[[Mahmoud El Hareedy]]|EGY}} {{tooltip|(124)|player seeding}}
+| RD1-score58=2
+
+| RD1-team59={{flagathlete|[[Farakh Ajaib]]|PAK}} {{tooltip|(82)|player seeding}}
+| RD1-score59=4
+| RD1-team60={{flagathlete|Saud Albaker|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score60=0
+
+| RD1-team61={{flagathlete|[[Steven Hallworth]]|ENG}} {{tooltip|(100)|player seeding}}
+| RD1-score61=4
+| RD1-team62={{flagathlete|Omar Alajlani|KSA}} {{tooltip|(a)|amateur player}}
+| RD1-score62=0
+
+| RD1-team63={{flagathlete|[[Liam Graham (snooker player)|Liam Graham]]|SCO}} {{tooltip|(106)|player seeding}}
+| RD1-score63=4
+| RD1-team64={{flagathlete|Asif Mukhtar|PAK}} {{tooltip|(a)|amateur player}}
+| RD1-score64=0
+
+<!--Round 2-->
+| RD2-team01={{flagathlete|[[Gong Chenzhi]]|CHN}} {{tooltip|(65)|player seeding}}
+| RD2-score01=4
+| RD2-team02={{flagathlete|[[Dylan Emery]]|WAL}} {{tooltip|(105)|player seeding}}
+| RD2-score02=2
+
+| RD2-team03={{flagathlete|[[Oliver Lines]]|ENG}} {{tooltip|(64)|player seeding}}
+| RD2-score03=4
+| RD2-team04={{flagathlete|[[Liam Pullen]]|ENG}} {{tooltip|(108)|player seeding}}
+| RD2-score04=1
+
+| RD2-team05={{flagathlete|[[Chris Totten]]|SCO}} {{tooltip|(80)|player seeding}}
+| RD2-score05=0
+| RD2-team06={{flagathlete|[[Gao Yang (snooker player)|Gao Yang]]|CHN}} {{tooltip|(117)|player seeding}}
+| RD2-score06=4
+
+| RD2-team07={{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} {{tooltip|(49)|player seeding}}
+| RD2-score07=4
+| RD2-team08={{flagathlete|[[Leone Crowley]]|IRL}} {{tooltip|(109)|player seeding}}
+| RD2-score08=1
+
+| RD2-team09={{flagathlete|[[David Lilley (snooker player)| David Lilley]]|ENG}} {{tooltip|(56)|player seeding}}
+| RD2-score09=3
+| RD2-team10={{flagathlete|[[Chatchapong Nasa]]|THA}} {{tooltip|(119)|player seeding}}
+| RD2-score10=4
+
+| RD2-team11={{flagathlete|[[Liam Davies (snooker player)|Liam Davies]]|WAL}} {{tooltip|(73)|player seeding}}
+| RD2-score11=2
+| RD2-team12={{flagathlete|[[Reanne Evans]]|ENG}} {{tooltip|(98)|player seeding}}
+| RD2-score12=4
+
+| RD2-team13={{flagathlete|[[Long Zehuang]]|CHN}} {{tooltip|(57)|player seeding}}
+| RD2-score13=4
+| RD2-team14={{flagathlete|[[Zhao Hanyang]]|CHN}} {{tooltip|(112)|player seeding}}
+| RD2-score14=3
+
+| RD2-team15={{flagathlete|[[Amir Sarkhosh]]|IRN}} {{tooltip|(72)|player seeding}}
+| RD2-score15=4
+| RD2-team16={{flagathlete|[[Jonas Luz]]|BRA}} {{tooltip|(88)|player seeding}}
+| RD2-score16=0
+
+| RD2-team17={{flagathlete|[[Ben Mertens]]|BEL}} {{tooltip|(69)|player seeding}}
+| RD2-score17=4
+| RD2-team18={{flagathlete|[[Ross Muir]]|SCO}} {{tooltip|(101)|player seeding}}
+| RD2-score18=3
+
+| RD2-team19={{flagathlete|[[Ishpreet Singh Chadha]]|IND}} {{tooltip|(60)|player seeding}}
+| RD2-score19=1
+| RD2-team20={{flagathlete|[[Lan Yuhao]]|CHN}} {{tooltip|(123)|player seeding}}
+| RD2-score20=4
+
+| RD2-team21={{flagathlete|[[Bulcsú Révész]]|HUN}} {{tooltip|(76)|player seeding}}
+| RD2-score21=3
+| RD2-team22={{flagathlete|[[Michał Szubarczyk]]|POL}} {{tooltip|(121)|player seeding}}
+| RD2-score22=4
+
+| RD2-team23={{flagathlete|[[Mark Davis (snooker player)|Mark Davis]]|ENG}} {{tooltip|(53)|player seeding}}
+| RD2-score23=0
+| RD2-team24={{flagathlete|[[Sam Craigie]]|ENG}} {{tooltip|(96)|player seeding}}
+| RD2-score24=4
+
+| RD2-team25={{flagathlete|[[Jordan Brown (snooker player)|Jordan Brown]]|NIR}} {{tooltip|(52)|player seeding}}
+| RD2-score25=4
+| RD2-team26={{flagathlete|[[Sahil Nayyar]]|CAN}} {{tooltip|(122)|player seeding}}
+| RD2-score26=1
+
+| RD2-team27={{flagathlete|[[Cheung Ka Wai]]|HKG}} {{tooltip|(77)|player seeding}}
+| RD2-score27=1
+| RD2-team28={{flagathlete|[[Huang Jiahao]]|CHN}} {{tooltip|(84)|player seeding}}
+| RD2-score28=4
+
+| RD2-team29={{flagathlete|[[Stan Moody]]|ENG}} {{tooltip|(61)|player seeding}}
+| RD2-score29=4
+| RD2-team30={{flagathlete|[[Liam Highfield]]|ENG}} {{tooltip|(93)|player seeding}}
+| RD2-score30=3
+
+| RD2-team31={{flagathlete|[[Antoni Kowalski]]|POL}} {{tooltip|(68)|player seeding}}
+| RD2-score31=4
+| RD2-team32={{flagathlete|Hesham Shawky|EGY}} {{tooltip|(a)|amateur player}}
+| RD2-score32=2
+
+| RD2-team33={{flagathlete|[[Sunny Akani]]|THA}} {{tooltip|(67)|player seeding}}
+| RD2-score33=0
+| RD2-team34={{flagathlete|[[Louis Heathcote]]|ENG}} {{tooltip|(102)|player seeding}}
+| RD2-score34=4
+
+| RD2-team35={{flagathlete|[[Zak Surety]]|ENG}} {{tooltip|(62)|player seeding}}
+| RD2-score35=1
+| RD2-team36={{flagathlete|[[Iulian Boiko]]|UKR}} {{tooltip|(104)|player seeding}}
+| RD2-score36=4
+
+| RD2-team37={{flagathlete|[[Haydon Pinhey]]|ENG}} {{tooltip|(78)|player seeding}}
+| RD2-score37=0
+| RD2-team38={{flagathlete|[[Ashley Hugill]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD2-score38=4
+
+| RD2-team39={{flagathlete|[[Matthew Stevens]]|WAL}} {{tooltip|(51)|player seeding}}
+| RD2-score39=4
+| RD2-team40={{flagathlete|[[David Grace (snooker player)|David Grace]]|ENG}} {{tooltip|(94)|player seeding}}
+| RD2-score40=1
+
+| RD2-team41={{flagathlete|[[Scott Donaldson]]|SCO}} {{tooltip|(54)|player seeding}}
+| RD2-score41=3
+| RD2-team42={{flagathlete|[[Chang Bingyu]]|CHN}} {{tooltip|(114)|player seeding}}
+| RD2-score42=4
+
+| RD2-team43={{flagathlete|[[Artemijs Žižins]]|LAT}} {{tooltip|(75)|player seeding}}
+| RD2-score43=4
+| RD2-team44={{flagathlete|[[Ken Doherty]]|IRL}} {{tooltip|(85)|player seeding}}
+| RD2-score44=3
+
+| RD2-team45={{flagathlete|[[Sanderson Lam]]|ENG}} {{tooltip|(59)|player seeding}}
+| RD2-score45=4
+| RD2-team46={{flagathlete|[[Connor Benzey]]|ENG}} {{tooltip|(118)|player seeding}}
+| RD2-score46=0
+
+| RD2-team47={{flagathlete|[[Wang Yuchen (snooker player)|Wang Yuchen]]|HKG}} {{tooltip|(70)|player seeding}}
+| RD2-score47=4
+| RD2-team48={{flagathlete|[[Hatem Yassen]]|EGY}} {{tooltip|(89)|player seeding}}
+| RD2-score48=0
+
+| RD2-team49={{flagathlete|[[Allan Taylor (snooker player)|Allan Taylor]]|ENG}} {{tooltip|(71)|player seeding}}
+| RD2-score49=4
+| RD2-team50={{flagathlete|[[Mohammed Shehab]]|UAE}} {{tooltip|(90)|player seeding}}
+| RD2-score50=3
+
+| RD2-team51={{flagathlete|[[Anthony McGill]]|SCO}} {{tooltip|(58)|player seeding}}
+| RD2-score51=4
+| RD2-team52={{flagathlete|[[Oliver Brown (snooker player)|Oliver Brown]]|ENG}} {{tooltip|(97)|player seeding}}
+| RD2-score52=1
+
+| RD2-team53={{flagathlete|[[Julien Leclercq (snooker player)|Julien Leclercq]]|BEL}} {{tooltip|(74)|player seeding}}
+| RD2-score53=4
+| RD2-team54={{flagathlete|Umut Dikme|GER}} {{tooltip|(a)|amateur player}}
+| RD2-score54=1
+
+| RD2-team55={{flagathlete|[[Liu Hongyu (snooker player)|Liu Hongyu]]|CHN}} {{tooltip|(55)|player seeding}}
+| RD2-score55=4
+| RD2-team56={{flagathlete|[[Alexander Ursenbacher]]|SUI}} {{tooltip|(99)|player seeding}}
+| RD2-score56=1
+
+| RD2-team57={{flagathlete|[[Jamie Jones (snooker player)|Jamie Jones]]|WAL}} {{tooltip|(50)|player seeding}}
+| RD2-score57=4
+| RD2-team58={{flagathlete|[[Fergal Quinn (snooker player)|Fergal Quinn]]|NIR}} {{tooltip|(116)|player seeding}}
+| RD2-score58=2
+
+| RD2-team59={{flagathlete|[[Haris Tahir]]|PAK}} {{tooltip|(79)|player seeding}}
+| RD2-score59=0
+| RD2-team60={{flagathlete|[[Farakh Ajaib]]|PAK}} {{tooltip|(82)|player seeding}}
+| RD2-score60=4
+
+| RD2-team61={{flagathlete|[[Michael Holt (snooker player)|Michael Holt]]|ENG}} {{tooltip|(63)|player seeding}}
+| RD2-score61=3
+| RD2-team62={{flagathlete|[[Steven Hallworth]]|ENG}} {{tooltip|(100)|player seeding}}
+| RD2-score62=4
+
+| RD2-team63={{flagathlete|[[Duane Jones (snooker player)|Duane Jones]]|WAL}} {{tooltip|(66)|player seeding}}
+| RD2-score63=4
+| RD2-team64={{flagathlete|[[Liam Graham (snooker player)|Liam Graham]]|SCO}} {{tooltip|(106)|player seeding}}
+| RD2-score64=0
+
+<!--Round 3-->
+| RD3-team01={{flagathlete|[[Noppon Saengkham]]|THA}} {{tooltip|(32)|player seeding}}
+| RD3-score01=4
+| RD3-team02={{flagathlete|[[Gong Chenzhi]]|CHN}} {{tooltip|(65)|player seeding}}
+| RD3-score02=3
+
+| RD3-team03={{flagathlete|[[Matthew Selt]]|ENG}} {{tooltip|(33)|player seeding}}
+| RD3-score03=3
+| RD3-team04={{flagathlete|[[Oliver Lines]]|ENG}} {{tooltip|(64)|player seeding}}
+| RD3-score04=4
+
+| RD3-team05={{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} {{tooltip|(17)|player seeding}}
+| RD3-score05=4
+| RD3-team06={{flagathlete|[[Gao Yang (snooker player)|Gao Yang]]|CHN}} {{tooltip|(117)|player seeding}}
+| RD3-score06=3
+
+| RD3-team07={{flagathlete|[[Robert Milkins]]|ENG}} {{tooltip|(48)|player seeding}}
+| RD3-score07=3
+| RD3-team08={{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} {{tooltip|(49)|player seeding}}
+| RD3-score08=4
+
+| RD3-team09={{flagathlete|[[Ben Woollaston]]|ENG}} {{tooltip|(41)|player seeding}}
+| RD3-score09=4
+| RD3-team10={{flagathlete|[[Chatchapong Nasa]]|THA}} {{tooltip|(119)|player seeding}}
+| RD3-score10=1
+
+| RD3-team11={{flagathlete|[[Jack Lisowski]]|ENG}} {{tooltip|(24)|player seeding}}
+| RD3-score11=4
+| RD3-team12={{flagathlete|[[Reanne Evans]]|ENG}} {{tooltip|(98)|player seeding}}
+| RD3-score12=0
+
+| RD3-team13={{flagathlete|[[Xu Si]]|CHN}} {{tooltip|(40)|player seeding}}
+| RD3-score13=0
+| RD3-team14={{flagathlete|[[Long Zehuang]]|CHN}} {{tooltip|(57)|player seeding}}
+| RD3-score14=4
+
+| RD3-team15={{flagathlete|[[Pang Junxu]]|CHN}} {{tooltip|(25)|player seeding}}
+| RD3-score15=4
+| RD3-team16={{flagathlete|[[Amir Sarkhosh]]|IRN}} {{tooltip|(72)|player seeding}}
+| RD3-score16=2
+
+| RD3-team17={{flagathlete|[[Elliot Slessor]]|ENG}} {{tooltip|(28)|player seeding}}
+| RD3-score17=4
+| RD3-team18={{flagathlete|[[Ben Mertens]]|BEL}} {{tooltip|(69)|player seeding}}
+| RD3-score18=1
+
+| RD3-team19={{flagathlete|[[Lyu Haotian]]|CHN}} {{tooltip|(37)|player seeding}}
+| RD3-score19=0
+| RD3-team20={{flagathlete|[[Lan Yuhao]]|CHN}} {{tooltip|(123)|player seeding}}
+| RD3-score20=4
+
+| RD3-team21={{flagathlete|[[Stuart Bingham]]|ENG}} {{tooltip|(21)|player seeding}}
+| RD3-score21=4
+| RD3-team22={{flagathlete|[[Michał Szubarczyk]]|POL}} {{tooltip|(121)|player seeding}}
+| RD3-score22=1
+
+| RD3-team23={{flagathlete|[[He Guoqiang (snooker player)|He Guoqiang]]|CHN}} {{tooltip|(44)|player seeding}}
+| RD3-score23=1
+| RD3-team24={{flagathlete|[[Sam Craigie]]|ENG}} {{tooltip|(96)|player seeding}}
+| RD3-score24=4
+
+| RD3-team25={{flagathlete|[[Thepchaiya Un-Nooh]]|THA}} {{tooltip|(45)|player seeding}}
+| RD3-score25=4
+| RD3-team26={{flagathlete|[[Jordan Brown (snooker player)|Jordan Brown]]|NIR}} {{tooltip|(52)|player seeding}}
+| RD3-score26=0
+
+| RD3-team27={{flagathlete|[[Jak Jones]]|WAL}} {{tooltip|(20)|player seeding}}
+| RD3-score27=4
+| RD3-team28={{flagathlete|[[Huang Jiahao]]|CHN}} {{tooltip|(84)|player seeding}}
+| RD3-score28=1
+
+| RD3-team29={{flagathlete|[[Ryan Day (snooker player)|Ryan Day]]|WAL}} {{tooltip|(36)|player seeding}}
+| RD3-score29=2
+| RD3-team30={{flagathlete|[[Stan Moody]]|ENG}} {{tooltip|(61)|player seeding}}
+| RD3-score30=4
+
+| RD3-team31={{flagathlete|[[Yuan Sijun]]|CHN}} {{tooltip|(29)|player seeding}}
+| RD3-score31=4
+| RD3-team32={{flagathlete|[[Antoni Kowalski]]|POL}} {{tooltip|(68)|player seeding}}
+| RD3-score32=1
+
+| RD3-team33={{flagathlete|[[Lei Peifan]]|CHN}} {{tooltip|(30)|player seeding}}
+| RD3-score33=0
+| RD3-team34={{flagathlete|[[Louis Heathcote]]|ENG}} {{tooltip|(102)|player seeding}}
+| RD3-score34=4
+
+| RD3-team35={{flagathlete|[[Jackson Page]]|WAL}} {{tooltip|(35)|player seeding}}
+| RD3-score35=2
+| RD3-team36={{flagathlete|[[Iulian Boiko]]|UKR}} {{tooltip|(104)|player seeding}}
+| RD3-score36=4
+
+| RD3-team37={{flagathlete|[[Wu Yize]]|CHN}} {{tooltip|(19)|player seeding}}
+| RD3-score37=4
+| RD3-team38={{flagathlete|[[Ashley Hugill]]|ENG}} {{tooltip|(a)|amateur player}}
+| RD3-score38=1
+
+| RD3-team39={{flagathlete|[[Robbie Williams (snooker player)|Robbie Williams]]|ENG}} {{tooltip|(46)|player seeding}}
+| RD3-score39=1
+| RD3-team40={{flagathlete|[[Matthew Stevens]]|WAL}} {{tooltip|(51)|player seeding}}
+| RD3-score40=4
+
+| RD3-team41={{flagathlete|[[Daniel Wells (snooker player)|Daniel Wells]]|WAL}} {{tooltip|(43)|player seeding}}
+| RD3-score41=3
+| RD3-team42={{flagathlete|[[Chang Bingyu]]|CHN}} {{tooltip|(114)|player seeding}}
+| RD3-score42=4
+
+| RD3-team43={{flagathlete|[[David Gilbert (snooker player)|David Gilbert]]|ENG}} {{tooltip|(22)|player seeding}}
+| RD3-score43=4
+| RD3-team44={{flagathlete|[[Artemijs Žižins]]|LAT}} {{tooltip|(75)|player seeding}}
+| RD3-score44=2
+
+| RD3-team45={{flagathlete|[[Luca Brecel]]|BEL}} {{tooltip|(38)|player seeding}}{{efn|[[Luca Brecel]] withdrew for medical reasons and so [[Sanderson Lam]] received a walkover.<ref name="brecel_wd">{{cite web |title=Brecel withdraws from Saudi Arabia Snooker Masters |url=https://www.wst.tv/news/2025/august/09/brecel-withdraws-from-saudi-arabia-snooker-masters/ |work=[[World Snooker Tour]] |date=9 August 2025 |access-date=9 August 2025|archive-url=https://web.archive.org/web/20260423084332/https://www.wst.tv/news/2025/august/09/brecel-withdraws-from-saudi-arabia-snooker-masters/|archive-date=23 April 2026|url-status=live}}</ref>}}
+| RD3-score45=w/d
+| RD3-team46={{flagathlete|'''[[Sanderson Lam]]'''|ENG}} {{tooltip|(59)|player seeding}}
+| RD3-score46='''w/o'''
+
+| RD3-team47={{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}} {{tooltip|(27)|player seeding}}
+| RD3-score47=4
+| RD3-team48={{flagathlete|[[Wang Yuchen (snooker player)|Wang Yuchen]]|HKG}} {{tooltip|(70)|player seeding}}
+| RD3-score48=3
+
+| RD3-team49={{flagathlete|[[Stephen Maguire]]|SCO}} {{tooltip|(26)|player seeding}}
+| RD3-score49=4
+| RD3-team50={{flagathlete|[[Allan Taylor (snooker player)|Allan Taylor]]|ENG}} {{tooltip|(71)|player seeding}}
+| RD3-score50=3
+
+| RD3-team51={{flagathlete|[[Ricky Walden]]|ENG}} {{tooltip|(39)|player seeding}}
+| RD3-score51=2
+| RD3-team52={{flagathlete|[[Anthony McGill]]|SCO}} {{tooltip|(58)|player seeding}}
+| RD3-score52=4
+
+| RD3-team53={{flagathlete|[[Hossein Vafaei]]|IRN}} {{tooltip|(23)|player seeding}}
+| RD3-score53=4
+| RD3-team54={{flagathlete|[[Julien Leclercq (snooker player)|Julien Leclercq]]|BEL}} {{tooltip|(74)|player seeding}}
+| RD3-score54=1
+
+| RD3-team55={{flagathlete|[[Martin O'Donnell (snooker player)|Martin O'Donnell]]|ENG}} {{tooltip|(42)|player seeding}}
+| RD3-score55=4
+| RD3-team56={{flagathlete|[[Liu Hongyu (snooker player)|Liu Hongyu]]|CHN}} {{tooltip|(55)|player seeding}}
+| RD3-score56=3
+
+| RD3-team57={{flagathlete|[[Fan Zhengyi]]|CHN}} {{tooltip|(47)|player seeding}}
+| RD3-score57=3
+| RD3-team58={{flagathlete|[[Jamie Jones (snooker player)|Jamie Jones]]|WAL}} {{tooltip|(50)|player seeding}}
+| RD3-score58=4
+
+| RD3-team59={{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}} {{tooltip|(18)|player seeding}}
+| RD3-score59=2
+| RD3-team60={{flagathlete|[[Farakh Ajaib]]|PAK}} {{tooltip|(82)|player seeding}}
+| RD3-score60=4
+
+| RD3-team61={{flagathlete|[[Jimmy Robertson (snooker player)|Jimmy Robertson]]|ENG}} {{tooltip|(34)|player seeding}}
+| RD3-score61=3
+| RD3-team62={{flagathlete|[[Steven Hallworth]]|ENG}} {{tooltip|(100)|player seeding}}
+| RD3-score62=4
+
+| RD3-team63={{flagathlete|[[Zhou Yuelong]]|CHN}} {{tooltip|(31)|player seeding}}
+| RD3-score63=4
+| RD3-team64={{flagathlete|[[Duane Jones (snooker player)|Duane Jones]]|WAL}} {{tooltip|(66)|player seeding}}
+| RD3-score64=1
+
+<!--Round 4-->
+| RD4-team01={{flagathlete|[[Noppon Saengkham]]|THA}} {{tooltip|(32)|player seeding}}
+| RD4-score01=2
+| RD4-team02={{flagathlete|[[Oliver Lines]]|ENG}} {{tooltip|(64)|player seeding}}
+| RD4-score02=5
+
+| RD4-team03={{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} {{tooltip|(17)|player seeding}}
+| RD4-score03=5
+| RD4-team04={{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} {{tooltip|(49)|player seeding}}
+| RD4-score04=2
+
+| RD4-team05={{flagathlete|[[Ben Woollaston]]|ENG}} {{tooltip|(41)|player seeding}}
+| RD4-score05=5
+| RD4-team06={{flagathlete|[[Jack Lisowski]]|ENG}} {{tooltip|(24)|player seeding}}
+| RD4-score06=4
+
+| RD4-team07={{flagathlete|[[Long Zehuang]]|CHN}} {{tooltip|(57)|player seeding}}
+| RD4-score07=5
+| RD4-team08={{flagathlete|[[Pang Junxu]]|CHN}} {{tooltip|(25)|player seeding}}
+| RD4-score08=3
+
+| RD4-team09={{flagathlete|[[Elliot Slessor]]|ENG}} {{tooltip|(28)|player seeding}}
+| RD4-score09=5
+| RD4-team10={{flagathlete|[[Lan Yuhao]]|CHN}} {{tooltip|(123)|player seeding}}
+| RD4-score10=4
+
+| RD4-team11={{flagathlete|[[Stuart Bingham]]|ENG}} {{tooltip|(21)|player seeding}}
+| RD4-score11=5
+| RD4-team12={{flagathlete|[[Sam Craigie]]|ENG}} {{tooltip|(96)|player seeding}}
+| RD4-score12=4
+
+| RD4-team13={{flagathlete|[[Thepchaiya Un-Nooh]]|THA}} {{tooltip|(45)|player seeding}}
+| RD4-score13=5
+| RD4-team14={{flagathlete|[[Jak Jones]]|WAL}} {{tooltip|(20)|player seeding}}
+| RD4-score14=1
+
+| RD4-team15={{flagathlete|[[Stan Moody]]|ENG}} {{tooltip|(61)|player seeding}}
+| RD4-score15=0
+| RD4-team16={{flagathlete|[[Yuan Sijun]]|CHN}} {{tooltip|(29)|player seeding}}
+| RD4-score16=5
+
+| RD4-team17={{flagathlete|[[Louis Heathcote]]|ENG}} {{tooltip|(102)|player seeding}}
+| RD4-score17=4
+| RD4-team18={{flagathlete|[[Iulian Boiko]]|UKR}} {{tooltip|(104)|player seeding}}
+| RD4-score18=5
+
+| RD4-team19={{flagathlete|[[Wu Yize]]|CHN}} {{tooltip|(19)|player seeding}}
+| RD4-score19=5
+| RD4-team20={{flagathlete|[[Matthew Stevens]]|WAL}} {{tooltip|(51)|player seeding}}
+| RD4-score20=1
+
+| RD4-team21={{flagathlete|[[Chang Bingyu]]|CHN}} {{tooltip|(114)|player seeding}}
+| RD4-score21=5
+| RD4-team22={{flagathlete|[[David Gilbert (snooker player)|David Gilbert]]|ENG}} {{tooltip|(22)|player seeding}}
+| RD4-score22=3
+
+| RD4-team23={{flagathlete|[[Sanderson Lam]]|ENG}} {{tooltip|(59)|player seeding}}
+| RD4-score23=0
+| RD4-team24={{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}} {{tooltip|(27)|player seeding}}
+| RD4-score24=5
+
+| RD4-team25={{flagathlete|[[Stephen Maguire]]|SCO}} {{tooltip|(26)|player seeding}}
+| RD4-score25=5
+| RD4-team26={{flagathlete|[[Anthony McGill]]|SCO}} {{tooltip|(58)|player seeding}}
+| RD4-score26=0
+
+| RD4-team27={{flagathlete|[[Hossein Vafaei]]|IRN}} {{tooltip|(23)|player seeding}}
+| RD4-score27=3
+| RD4-team28={{flagathlete|[[Martin O'Donnell (snooker player)|Martin O'Donnell]]|ENG}} {{tooltip|(42)|player seeding}}
+| RD4-score28=5
+
+| RD4-team29={{flagathlete|[[Jamie Jones (snooker player)|Jamie Jones]]|WAL}} {{tooltip|(50)|player seeding}}
+| RD4-score29=2
+| RD4-team30={{flagathlete|[[Farakh Ajaib]]|PAK}} {{tooltip|(82)|player seeding}}
+| RD4-score30=5
+
+| RD4-team31={{flagathlete|[[Steven Hallworth]]|ENG}} {{tooltip|(100)|player seeding}}
+| RD4-score31=5
+| RD4-team32={{flagathlete|[[Zhou Yuelong]]|CHN}} {{tooltip|(31)|player seeding}}
+| RD4-score32=3
+}}
+:<small>'''Note''': w/d=withdrawn; '''w/o'''=[[walkover]]</small>
+
+==Final: frame scores==
+{| class="wikitable" style="font-size: 95%; margin: 1em auto 1em auto;"
+|-
+| colspan = "3" align="center" bgcolor="#ffd700" | '''Final:''' Best of 19 {{cuegloss|frame|frames}}. Referee: Julian Bell<br/>[[Prince Abdullah Al-Faisal Sports City]], [[Jeddah]], Saudi Arabia, 16 August 2025
+|-
+| width="260" align="right" | '''[[Neil Robertson]]''' {{tooltip|(9)|player seeding}}<br/>{{AUS}}
+| width="100" align="center" | '''10'''{{ndash}}9
+| width="260" | [[Ronnie O'Sullivan]] {{tooltip|(6)|player seeding}}<br/>{{ENG}}
+|-
+| colspan="3" align="center" style="font-size: 100%;" | ''Afternoon:'' '''105'''{{ndash}}0, 0{{ndash}}'''92''', '''108'''{{ndash}}4 (108), '''81'''{{ndash}}0, 5{{ndash}}'''75''', '''75'''{{ndash}}7, '''80'''{{ndash}}8, '''61'''{{ndash}}24<br/>''Evening:'' '''97'''{{ndash}}40, 0{{ndash}}'''139''' (139), 1{{ndash}}'''97''', 0{{ndash}}'''89''', 1{{ndash}}'''104''', 40{{ndash}}'''80''', '''75'''{{ndash}}0, 46{{ndash}}'''62''', 31{{ndash}}'''85''', '''101'''{{ndash}}16 (101), '''91'''{{ndash}}39
+|-
+| align="right" | (''frame 3'') 108
+| align="center" | Highest break
+| '''139''' (''frame 10'')
+|-
+| align="right" | '''2'''
+| align="center" | Century breaks
+| 1
+|-
+|}
+
+==Century breaks==
+A total of 91 [[century break]]s were made during the tournament.<ref name="SI_cent">{{cite web |title=Tournament Centuries |url=https://snookerinfo.co.uk/2025-26/#saudi-arabia-masters-91 |website=snookerinfo.co.uk |date=13 May 2025 |access-date=3 October 2026 |archive-date=4 September 2025 |archive-url=https://web.archive.org/web/20250904044224/https://snookerinfo.co.uk/2025-26/#saudi-arabia-masters-91 |url-status=live }}</ref><ref>{{Cite web|title=Saudi Arabia Snooker Masters 2025 - Centuries |url=https://www.wst.tv/matches/34ca357d-bed6-4501-b8cd-aa94e5f7ff16?tab=2 |access-date=3 October 2026 |website=[[World Snooker Tour]] |language=en |archive-date=3 October 2026 |archive-url=https://web.archive.org/web/20261003063621/https://www.wst.tv/matches/34ca357d-bed6-4501-b8cd-aa94e5f7ff16?tab=2 |url-status=live }}</ref>
+{{div col}}
+* [[Maximum break|147]], 147, 142, 139, 134, 125, 118, 116, 116, 110, 103 {{ndash}} [[Ronnie O'Sullivan]]<ref name="Max 221 & 222" />
+* [[Maximum break|147]], 110, 103 {{ndash}} [[Thepchaiya Un-Nooh]]<ref name="Max 220" />
+* 142, 130, 109 {{ndash}} [[Stan Moody]]
+* 139, 137, 120, 114, 111, 108, 106, 101 {{ndash}} [[Neil Robertson]]
+* 137 {{ndash}} [[Jak Jones]]
+* 135 {{ndash}} [[Hossein Vafaei]]
+* 132, 116 {{ndash}} [[Ali Carter]]
+* 132, 106 {{ndash}} [[Zhao Xintong]]
+* 131, 103 {{ndash}} [[Farakh Ajaib]]
+* 131 {{ndash}} [[Long Zehuang]]
+* 131 {{ndash}} [[Daniel Wells (snooker player)|Daniel Wells]]
+* 130, 101 {{ndash}} [[Elliot Slessor]]
+* 129, 128, 101 {{ndash}} [[Stephen Maguire]]
+* 129 {{ndash}} [[Florian Nüßle]]
+* 128, 119, 100 {{ndash}} [[Chang Bingyu]]
+* 128 {{ndash}} [[Si Jiahui]]
+* 127, 101 {{ndash}} [[Yuan Sijun]]
+* 127 {{ndash}} [[Ricky Walden]]
+* 125, 118 {{ndash}} [[Shaun Murphy]]
+* 125, 116, 106, 100 {{ndash}} [[Oliver Lines]]
+* 125, 106, 102 {{ndash}} [[Chris Wakelin]]
+* 124, 105, 105 {{ndash}} [[Wu Yize]]
+* 123 {{ndash}} [[Sanderson Lam]]
+* 122, 104 {{ndash}} [[Sam Craigie]]
+* 122 {{ndash}} [[Liam Highfield]]
+* 120 {{ndash}} [[Aaron Hill (snooker player)|Aaron Hill]]
+* 119 {{ndash}} [[Martin O'Donnell (snooker player)|Martin O'Donnell]]
+* 119 {{ndash}} [[Mark Selby]]
+* 116 {{ndash}} [[Liu Hongyu (snooker player)|Liu Hongyu]]
+* 114, 104 {{ndash}} [[Louis Heathcote]]
+* 113 {{ndash}} [[Ian Burns (snooker player)|Ian Burns]]
+* 113 {{ndash}} [[Ding Junhui]]
+* 112, 107 {{ndash}} [[Joe O'Connor (snooker player)|Joe O'Connor]]
+* 112, 103 {{ndash}} [[Steven Hallworth]]
+* 111, 108 {{ndash}} [[Anthony McGill]]
+* 109 {{ndash}} [[Ben Mertens]]
+* 106 {{ndash}} [[Jiang Jun]]
+* 104 {{ndash}} [[Chatchapong Nasa]]
+* 103 {{ndash}} [[Hatem Yassen]]
+* 102 {{ndash}} [[Mark Allen (snooker player)|Mark Allen]]
+* 102 {{ndash}} [[Gao Yang (snooker player)|Gao Yang]]
+* 102 {{ndash}} [[Judd Trump]]
+* 102 {{ndash}} [[Mark Williams (snooker player)|Mark Williams]]
+* 100 {{ndash}} [[Jordan Brown (snooker player)|Jordan Brown]]
+* 100 {{ndash}} [[Dylan Emery]]
+* 100 {{ndash}} [[Barry Hawkins]]
+* 100 {{ndash}} [[Matthew Stevens]]
+* 100 {{ndash}} [[Alexander Ursenbacher]]
+{{div col end}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Saudi Arabia Snooker Masters}}
+{{2025–26 snooker season}}
+
+[[Category:Saudi Arabia Snooker Masters]]
+[[Category:2025 in snooker]]
+[[Category:Snooker ranking tournaments]]
+[[Category:Sport in Jeddah]]
+[[Category:August 2025 sports events in Saudi Arabia|Saudi Arabia Snooker Masters]]

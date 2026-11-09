@@ -1,0 +1,421 @@
+{{Short description|Snooker tournament}}
+{{Use British English|date=July 2025}}
+{{Use dmy dates|date=July 2025}}
+{{Infobox individual snooker tournament
+|tournament_name=2026 [[World Grand Prix (snooker)|World Grand Prix]]
+|logo=[[File:2026 World Grand Prix (snooker) logo.jpg|300px]]
+|dates={{Start and end dates|2026|2|3|2026|2|8|df=y}}
+|venue=[[Kai Tak Sports Park|Kai Tak Arena]], Hong Kong
+|organisation=[[World Snooker Tour]]
+|format=[[List of snooker ranking tournaments|Ranking event]]
+|Total prize fund=£700,000
+|winners_share=£180,000
+|defending_champion=
+|highest_break={{flagathlete|[[Zhao Xintong]]|CHN}} (145)
+|winner={{flagathlete|[[Zhao Xintong]]|CHN}}
+|runner_up={{flagathlete|[[Zhang Anda]]|CHN}}
+|score=10{{ndash}}6
+|previous=[[2025 World Grand Prix (snooker)|2025]]
+|next=<!--[[2027 World Grand Prix (snooker)|2027]]-->
+|caption=Part of the [[Players Series]]
+}}
+
+The '''2026 World Grand Prix''' was a professional [[snooker]] tournament that took place from 3 to 8 February 2026 at the [[Kai Tak Sports Park|Kai Tak Arena]], Hong Kong. It featured the top 32 players on the one-year [[Snooker world rankings|ranking list]], as it stood after the [[2025 Scottish Open (snooker)|2025 Scottish Open]]. The 12th edition of the tournament since it was first staged in [[2015 World Grand Prix (snooker)|2015]], it was the 13th [[List of snooker ranking tournaments|ranking event]] of the [[2025–26 snooker season]], following the [[2026 German Masters]] and preceding the [[2026 Players Championship (snooker)|2026 Players Championship]]. It was the first of three events in the [[Players Series]], preceding the 2026 Players Championship and the [[2026 Tour Championship]]. The tournament was broadcast by [[TNT Sports]] and [[Discovery+]] in the United Kingdom and Ireland, by [[Eurosport]] in mainland Europe, by local channels in Asia, and by [[WST Play]] in all other territories. The winner received £180,000 from a total prize fund of £700,000.
+
+[[Neil Robertson]] was the defending champion, having defeated [[Stuart Bingham]] 10–0 in the [[2025 World Grand Prix (snooker)|2025 final]], but he lost 1–5 to [[Jak Jones]] in the last 32. The tournament set records for the number of players from mainland China in the latter stages of a ranking event, with a record nine reaching the last 16 and a record six advancing to the quarter-finals. For the first time at any ranking tournament, all four semi-finalists were from mainland China. The reigning World Champion [[Zhao Xintong]] made five [[century break]]s in the final as he defeated [[Zhang Anda]] 10–6 to win his first World Grand Prix title and fourth ranking title. The tournament produced a total of 37 centuries, of which the highest was a 145 by Zhao in the final.
+
+==Overview==
+The [[World Grand Prix (snooker)|World Grand Prix]] is a professional ranking [[snooker]] tournament that was first staged in [[2015 World Grand Prix (snooker)|2015]] as a non-ranking event; the inaugural champion was [[Judd Trump]], who came from 4–7 behind to defeat [[Ronnie O'Sullivan]] 10–7 in the final.<ref>{{Cite news |date=22 March 2015 |title=Judd Trump claims Grand Prix title after comeback against Ronnie O’Sullivan |url=https://www.theguardian.com/sport/2015/mar/22/ronnie-osullivan-judd-trump-grand-prix-final |access-date=20 December 2025 |work=[[The Guardian]] |language=en-GB|archive-url=https://web.archive.org/web/20260418063133/https://www.theguardian.com/sport/2015/mar/22/ronnie-osullivan-judd-trump-grand-prix-final|archive-date=18 April 2026|url-status=live}}</ref> The tournament became a [[List of snooker ranking tournaments|ranking event]] the following year. In 2019, it became one of three tournaments in the [[Players Series]], together with the [[Players Championship (snooker)|Players Championship]] and the [[Tour Championship (snooker)|Tour Championship]]. Held in Wales in 2015 and 2016 and in England from 2017 to 2024, the tournament moved to Hong Kong in 2025.<ref>{{Cite web |date=29 January 2026 |title=History of the World Grand Prix |url=https://www.wst.tv/news/2026/january/29/history-of-the-world-grand-prix/ |access-date=2 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418063139/https://www.wst.tv/news/2026/january/29/history-of-the-world-grand-prix/|archive-date=18 April 2026|url-status=live}}</ref>
+
+The 2026 edition of the tournament—its 12th staging since the inaugural edition in 2015—took place from 3 to 8 February at the [[Kai Tak Sports Park|Kai Tak Arena]], Hong Kong.<ref>{{Cite web |title=Tournaments 2025–26 |url=https://www.wst.tv/tournaments |access-date=20 July 2025 |website=[[World Snooker Tour]] |language=en |archive-date=5 December 2025 |archive-url=https://web.archive.org/web/20251205154034/https://www.wst.tv/tournaments/ |url-status=live }}</ref> It was the 13th ranking event of the [[2025–26 snooker season]], following the [[2026 German Masters]] and preceding the [[2026 Players Championship (snooker)|2026 Players Championship]].<ref>{{Cite web |title=Calendar 2025/2026 |url=https://www.snooker.org/res/index.asp?template=2 |access-date=20 July 2025 |website=snooker.org |language=en |archive-date=31 October 2023 |archive-url=https://web.archive.org/web/20231031171438/https://www.snooker.org/res/index.asp?template=2 |url-status=live }}</ref> It was the first of three events in the [[Players Series]], preceding the 2026 Players Championship and the [[2026 Tour Championship]]. [[Neil Robertson]] was the defending champion, having defeated [[Stuart Bingham]] 10–0 in the [[2025 World Grand Prix (snooker)|2025 final]] to win his second World Grand Prix title.<ref>{{Cite web |last=Collins |first=Ben |date=9 March 2025 |title=World Grand Prix: Neil Robertson beats Stuart Bingham in Hong Kong 10-0 for second title |url=https://www.bbc.com/sport/snooker/articles/cp9y7yl1g89o |access-date=2 January 2026 |website=[[BBC Sport]] |language=en-GB |archive-date=20 September 2025 |archive-url=https://web.archive.org/web/20250920012315/https://www.bbc.com/sport/snooker/articles/cp9y7yl1g89o |url-status=live }}</ref>
+
+=== Format ===
+Matches were played as the best of 9 {{cuegloss|frames}} up to and including the quarter-finals. The semi-finals were the best of 11 frames, and the final was the best of 19 frames, played over two {{cuegloss|session|sessions}}.<ref name="snooker.org_main">{{cite web |date=20 December 2025 |title=World Grand Prix (2026) |url=https://www.snooker.org/res/index.asp?event=2349 |access-date=20 December 2025 |website=snooker.org |archive-date=14 November 2025 |archive-url=https://web.archive.org/web/20251114012707/https://www.snooker.org/res/index.asp?event=2349 |url-status=live }}</ref>
+
+===Seeding list===
+The tournament featured the top 32 players on the one-year [[Snooker world rankings|ranking list]] as it stood after the [[2025 Scottish Open (snooker)|2025 Scottish Open]].<ref>{{Cite web |date=15 December 2025 |title=The race to Hong Kong |url=https://www.wst.tv/news/2025/december/15/the-race-to-hong-kong/ |access-date=20 December 2025 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418063140/https://www.wst.tv/news/2025/december/15/the-race-to-hong-kong/|archive-date=18 April 2026|url-status=live}}</ref> Unlike other events where the defending champion is [[Seed (sports)|seeded]] first, the reigning [[World Snooker Championship|World Champion]] second, and the rest based on the world rankings, the qualification and seedings in the [[Players Series]] tournaments are determined by the one-year ranking list. The below list shows the top 32 players who earned the most ranking points from the beginning of the 2025–26 season until the conclusion of the 2025 Scottish Open:<ref>{{cite web |title=World Grand Prix Rankings |url=https://www.snooker.org/res/index.asp?template=43&season=2025 |website=snooker.org |date=20 December 2025 |access-date=20 December 2025 |archive-date=18 December 2025 |archive-url=https://web.archive.org/web/20251218091600/https://www.snooker.org/res/index.asp?template=43&season=2025 |url-status=live }}</ref>
+
+<div style=display:inline-table>
+{| class="wikitable sortable" style="font-size: 95%"
+! Seed !! Player !! Points
+|-
+! align=center| 1
+| data-sort-value="Robertson"|{{flagathlete|[[Neil Robertson]]|AUS}} || align=right | 589,300
+|-
+! align=center| 2
+| data-sort-value="Selby"|{{flagathlete|[[Mark Selby]]|ENG}} || align=right | 378,950
+|-
+! align=center| 3
+| data-sort-value="Murphy"|{{flagathlete|[[Shaun Murphy]]|ENG}} || align=right | 309,900
+|-
+! align=center| 4
+| data-sort-value="Williams"| {{flagathlete|[[Mark Williams (snooker player)|Mark Williams]]|WAL}} || align=right | 294,400
+|-
+! align=center| 5
+| data-sort-value="Wu"| {{flagathlete|[[Wu Yize]]|CHN}} || align=right | 251,300
+|-
+! align=center| 6
+| data-sort-value="O'Sullivan"| {{flagathlete|[[Ronnie O'Sullivan]]|ENG}} || align=right | 231,350
+|-
+! align=center| 7
+| data-sort-value="Wakelin"| {{flagathlete|[[Chris Wakelin]]|ENG}} || align=right | 219,800
+|-
+! align=center| 8
+| data-sort-value="Trump"| {{flagathlete|[[Judd Trump]]|ENG}} || align=right | 194,350
+|-
+! align=center| 9
+| data-sort-value="Allen"| {{flagathlete|[[Mark Allen (snooker player)|Mark Allen]]|NIR}} || align=right | 183,350
+|-
+! align=center| 10
+| data-sort-value="Slessor"| {{flagathlete|[[Elliot Slessor]]|ENG}} || align=right | 169,900
+|-
+! align=center| 11
+| data-sort-value="Xiao"| {{flagathlete|[[Xiao Guodong]]|CHN}} || align=right | 164,800
+|-
+! align=center| 12
+| data-sort-value="Lisowski"| {{flagathlete|[[Jack Lisowski]]|ENG}} || align=right | 150,000
+|-
+! align=center| 13
+| data-sort-value="Hawkins"| {{flagathlete|[[Barry Hawkins]]|ENG}} || align=right | 148,400
+|-
+! align=center| 14
+| data-sort-value="WilsonG"| {{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} || align=right | 146,900
+|-
+! align=center| 15
+| data-sort-value="Higgins"| {{flagathlete|[[John Higgins]]|SCO}} || align=right | 144,600
+|-
+! align=center| 16
+| data-sort-value="Zhou"| {{flagathlete|[[Zhou Yuelong]]|CHN}} || align=right | 129,600
+|}
+</div>
+<div style=display:inline-table>
+{| class="wikitable sortable" style="font-size: 95%"
+! Seed !! Player !! Points
+|-
+! align=center| 17
+| data-sort-value="Maguire"| {{flagathlete|[[Stephen Maguire]]|SCO}} || align=right | 122,800
+|-
+! align=center| 18
+| data-sort-value="Zhao"| {{flagathlete|[[Zhao Xintong]]|CHN}} || align=right | 108,150
+|-
+! align=center| 19
+| data-sort-value="Si"| {{flagathlete|[[Si Jiahui]]|CHN}} || align=right | 106,200
+|-
+! align=center| 20
+| data-sort-value="Ding"| {{flagathlete|[[Ding Junhui]]|CHN}} || align=right | 104,850
+|-
+! align=center| 21
+| data-sort-value="Chang"| {{flagathlete|[[Chang Bingyu]]|CHN}} || align=right | 104,100
+|-
+! align=center| 22
+| data-sort-value="WilsonK"| {{flagathlete|[[Kyren Wilson]]|ENG}} || align=right | 102,700
+|-
+! align=center| 23
+| data-sort-value="Bingham"| {{flagathlete|[[Stuart Bingham]]|ENG}} || align=right | 97,900
+|-
+! align=center| 24
+| data-sort-value="Carter"| {{flagathlete|[[Ali Carter]]|ENG}} || align=right | 90,250
+|-
+! align=center| 25
+| data-sort-value="Yuan"| {{flagathlete|[[Yuan Sijun]]|CHN}} || align=right | 89,300
+|-
+! align=center| 26
+| data-sort-value="Un-Nooh"| {{flagathlete|[[Thepchaiya Un-Nooh]]|THA}} || align=right | 83,500
+|-
+! align=center| 27
+| data-sort-value="O'Connor"| {{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}} || align=right | 83,050 
+|-
+! align=center| 28
+| data-sort-value="McGill"| {{flagathlete|[[Anthony McGill]]|SCO}} || align=right | 82,600
+|-
+! align=center| 29
+| data-sort-value="Zhang"| {{flagathlete|[[Zhang Anda]]|CHN}} || align=right | 76,400
+|-
+! align=center| 30
+| data-sort-value="Pang"| {{flagathlete|[[Pang Junxu]]|CHN}} || align=right | 71,700
+|-
+! align=center| 31
+| data-sort-value="Hill"| {{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} || align=right | 70,700
+|-
+! align=center| 32
+| data-sort-value="Jones"| {{flagathlete|[[Jak Jones]]|WAL}} || align=right | 70,000
+|}
+</div>
+
+=== Broadcasters ===
+The tournament was broadcast in the United Kingdom and Ireland by [[TNT Sports]] and [[Discovery+]]. It was broadcast in mainland Europe by [[Eurosport]], with streaming coverage on Discovery+ in Germany, Italy, and Austria and on [[HBO Max]] in other European territories. It was broadcast in mainland China by {{ill|Migu (streaming service)|lt=Migu|zh|咪咕}}, [[Huya Live|Huya]], the CBSA-WPBSA Academy WeChat channel, and CBSA-WPBSA Academy Douyin; in Hong Kong by [[Now TV (Hong Kong)|Now TV]]; in Malaysia and Brunei by [[Astro SuperSport]]; in Taiwan by Sportcast; in Thailand by [[True Sports]]; and in the Philippines by [[TAP Sports]]. In territories where no other coverage was available, it was broadcast by [[World Snooker Tour#WST Play|WST Play]].<ref>{{Cite web |date=27 January 2026 |title=How to watch the 2026 World Grand Prix |url=https://www.wst.tv/news/2026/january/27/how-to-watch-the-2026-world-grand-prix/ |access-date=2 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418063144/https://www.wst.tv/news/2026/january/27/how-to-watch-the-2026-world-grand-prix/|archive-date=18 April 2026|url-status=live}}</ref>
+
+===Prize fund===
+The breakdown of prize money for the event is shown below:<ref>{{Cite web |title=World Grand Prix |url=https://www.wst.tv/worldgrandprix |access-date=9 January 2026 |website=[[World Snooker Tour]] |language=en |archive-date=21 January 2024 |archive-url=https://web.archive.org/web/20240121222143/https://www.wst.tv/worldgrandprix/ |url-status=live }}</ref>
+{{div col}}
+* Winner: £180,000
+* Runner-up: £80,000
+* Semi-final: £35,000
+* Quarter-final: £20,000
+* Last 16: £15,000
+* Last 32: £10,000
+* Highest break: £10,000
+{{div col end}}
+* Total: £700,000
+
+== Summary ==
+
+=== Last 32 ===
+[[File:Kyren Wilson Masters 2026 4.jpg|thumb|[[Kyren Wilson]] ''(pictured in 2026)'' lost to [[Xiao Guodong]] and did not qualify to defend his title at the [[2026 Players Championship (snooker)|2026 Players Championship]].]]
+[[Xiao Guodong]] faced [[Kyren Wilson]], recent winner of the [[2026 Masters (snooker)|2026 Masters]]. Xiao made a {{cuegloss|break}} of 87 to win the opening {{Cuegloss|frame|}}, but Wilson tied the scores with an 83 break in frame two. Xiao won frame three with an 86 break, recovered from 56 points behind to win frame four, and then took frame five on the {{Cuegloss|colours}} as he moved into a 4–1 lead. Wilson won frame six, but Xiao secured a 5–2 victory in frame seven. The result meant that Wilson remained outside the top 16 on the one-year [[Snooker world rankings|ranking list]] after the event and did not qualify to defend his title at the [[2026 Players Championship (snooker)|2026 Players Championship]]. "It was very hard because [Wilson] is a top player," said Xiao afterwards. "I had to keep my concentration as there were a lot of close frames." [[Zhou Yuelong]] made a [[century break]] of 116 as he defeated [[Stephen Maguire]] 5–2, and [[Elliot Slessor]] won five frames in a row to beat the [[2025 World Grand Prix (snooker)|previous year]]'s runner-up [[Stuart Bingham]] by the same score. [[Mark Selby]] made breaks of 60, 100, 82, 94, and 76 in a [[Whitewash (sport)|whitewash]] victory over [[Aaron Hill (snooker player)|Aaron Hill]].<ref>{{Cite web |date=3 February 2026 |title=World Grand Prix 2026 day one—first session round-up |url=https://www.wst.tv/news/2026/february/03/world-grand-prix-2026-day-one---first-session-round-up/ |access-date=3 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418063148/https://www.wst.tv/news/2026/february/03/world-grand-prix-2026-day-one---first-session-round-up/|archive-date=18 April 2026|url-status=live}}</ref>
+
+[[Wu Yize]] trailed [[Anthony McGill]] 1–3 but made breaks of 65 and 77 to tie the scores at 3–3. In frame seven, Wu attempted a [[maximum break]] but missed a {{Cuegloss|double}} on the last {{cuegloss|red}}, ending the break on 112. Wu completed a 5–3 win with an 81 break in frame eight. [[Chang Bingyu]] also trailed [[Jack Lisowski]] 1–3 but recovered to win the match in a {{Cuegloss|deciding frame}}. [[Zhang Anda]] made breaks including 57, 124, 76, and 75 as he beat [[Mark Williams (snooker player)|Mark Williams]] 5–2, while [[Barry Hawkins]] made a 141 break as he defeated [[Ding Junhui]] 5–3. "Any time you beat Ding here with the support he gets is good for confidence," Hawkins commented afterwards. "I was all over the place for the first four frames, cueing terribly, I was lucky to be 2–2 rather than 3–1 down. After the interval I was more aggressive and cued a lot better."<ref>{{Cite web |date=3 February 2026 |title=World Grand Prix 2026 day one—evening session round-up |url=https://www.wst.tv/news/2026/february/03/world-grand-prix-2026-day-one---evening-session-round-up/ |access-date=3 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418063152/https://www.wst.tv/news/2026/february/03/world-grand-prix-2026-day-one---evening-session-round-up/|archive-date=18 April 2026|url-status=live}}</ref>
+
+[[File:Neil Robertson 2025.jpg|thumb|The defending champion [[Neil Robertson]] ''(pictured in 2025)'' lost 1–5 to [[Jak Jones]].]]
+The defending champion [[Neil Robertson]] lost 1–5 to [[Jak Jones]], who had recently returned to competition after injuring his right hand. "The hand is still painful but it is healing well," Jones said afterwards. "I broke two of the bones and that's not an injury you want as a snooker player." The world number one [[Judd Trump]], who had won the [[2026 German Masters]] final three days before, lost 2–5 to the world number 31 [[Yuan Sijun]]. [[Si Jiahui]] beat [[Gary Wilson (snooker player)|Gary Wilson]], also by a 5–2 scoreline, while [[Chris Wakelin]] whitewashed [[Thepchaiya Un-Nooh]]. [[Ali Carter]] recovered from 1–3 behind to beat [[Mark Allen (snooker player)|Mark Allen]] in a deciding frame, and [[Pang Junxu]] made breaks including 73, 134, and 130 as he defeated [[Shaun Murphy]] 5–1.<ref name="WST_day2" />
+
+The reigning World Champion [[Zhao Xintong]] lost two of the first three frames against [[John Higgins]] but then made breaks including 60, 121, and 73 as he took a 4–3 lead. Frame eight went to a {{Cuegloss|re-spotted black}}, which Zhao potted to secure a 5–3 win. "Towards the end, [Higgins] gave me a few relatively easier chances and I managed to take them, so I think I was quite fortunate today," said Zhao afterwards. "I just tried to play in the way I normally do and stick to the style I believe in. I have confidence in my own game, and I feel that if I can perform to my normal level and show my form, then I can beat anyone." [[Ronnie O'Sullivan]] lost the first two frames against [[Joe O'Connor (snooker player)|Joe O'Connor]] but won five of the next six, making breaks including 65, 72, and 72 as he secured a 5–3 victory. "I don't think a lack of sharpness is my problem because I have always played less tournaments than other players," said O'Sullivan afterwards. "I think my bad game is a lot worse than it used to be, and my good is not as good."<ref name="WST_day2">{{Cite web |date=4 February 2026 |title=World Grand Prix 2026 day two round-up |url=https://www.wst.tv/news/2026/february/04/world-grand-prix-2026-day-two-round-up/ |access-date=4 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418063156/https://www.wst.tv/news/2026/february/04/world-grand-prix-2026-day-two-round-up/|archive-date=18 April 2026|url-status=live}}</ref>
+
+=== Last 16 ===
+[[File:Xiao Guodong Masters 2026 2.jpg|thumb|[[Xiao Guodong]] ''(pictured in 2026)'' was among a record nine players from mainland China in the last 16. He made a {{Cuegloss|total clearance}} of 144 as he defeated three-time winner [[Ronnie O'Sullivan]].]]
+Nine players from mainland China reached the last 16 of the tournament, a record for any [[List of snooker ranking tournaments|ranking event]].<ref name="WST_day2" /> Facing three-time [[World Grand Prix (snooker)|World Grand Prix]] winner O'Sullivan, Xiao produced a {{Cuegloss|total clearance}} of 144 to win the opening frame and then made a 78 break to take frame two. O'Sullivan produced breaks of 74 and 79 as he tied the scores at 3–3, but Xiao won the last two frames with breaks of 58 and 66 to secure a 5–3 victory. "Ronnie [O'Sullivan] is my idol," said Xiao afterwards. "I want him to do well and win tournaments. But this is sport and whenever I play, I want to win." Wakelin trailed Slessor 2–4 but then took three consecutive frames to win the match 5–4. Facing Pang, Si made breaks including  93, 121, and 122 as he won the first four frames. Pang responded with breaks of 78, 105, and 118 as he reduced Si's lead to 4–3, but Si took frame eight on the colours for a 5–3 victory. Facing Zhang, Hawkins recovered from 1–3 behind to tie the scores at 3–3, but Zhang then made breaks of 82 and 97 to advance, also by a 5–3 scoreline.<ref>{{Cite web |date=5 February 2026 |title=World Grand Prix day three—first session round-up |url=https://www.wst.tv/news/2026/february/05/world-grand-prix-day-three---first-session-round-up/ |access-date=5 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418064814/https://www.wst.tv/news/2026/february/05/world-grand-prix-day-three---first-session-round-up/|archive-date=18 April 2026|url-status=live}}</ref><ref>{{Cite web |last=Botcherby |first=Elizabeth |date=5 February 2026 |title=Xiao 'sorry' for beating idol O'Sullivan in Hong Kong |url=https://www.bbc.com/sport/snooker/articles/cq84ldkneggo |access-date=18 April 2026 |website=[[BBC Sport]] |language=en-GB|archive-url=https://web.archive.org/web/20260418062854/https://www.bbc.com/sport/snooker/articles/cq84ldkneggo|archive-date=18 April 2026|url-status=live}}</ref>
+
+Selby made breaks of 90, 109, 73, and 56 as he took a 4–1 lead over Zhao, who then produced breaks of 81, 140, and 112 to tie the scores at 4–4. In the deciding frame, Zhao was on a break of 45 when he missed the {{Cuegloss|black ball|black}}, but he secured the frame and match after Selby missed a red. Carter lost the first two frames against Yuan but then made breaks including 53, 138, 62, and 66 as he took five consecutive frames to win the match 5–2. Zhou produced breaks including 139, 78, 61, and 99 as he beat Jones 5–1. Facing Chang, Wu made a century of 130 to win the opening frame. Chang won frame two with an 88 break, but Wu produced two 64 breaks as he took a 3–1 lead. Chang made breaks of 57 and 134 to tie the scores at 3–3, but Wu took the last two frames with breaks of 69 and 72, winning 5–3.<ref name="WST_day3">{{Cite web |date=5 February 2026 |title=World Grand Prix day three—evening session round-up |url=https://www.wst.tv/news/2026/february/05/world-grand-prix-day-three---evening-session-round-up/ |access-date=5 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418063205/https://www.wst.tv/news/2026/february/05/world-grand-prix-day-three---evening-session-round-up/|archive-date=18 April 2026|url-status=live}}</ref><ref>{{Cite web |last=Day |first=Michael |date=5 February 2026 |title=Record-breaking line-up for China at World Grand Prix as Zhao produces big comeback |url=https://www.totallysnookered.com/sport/snooker/tournaments/world-grand-prix/record-breaking-line-up-for-china-at-world-grand-prix-as-zhao-produces-incredible-comeback-5504765 |access-date=5 February 2026 |website=Totally Snookered |language=en|archive-url=https://web.archive.org/web/20260418064810/https://www.totallysnookered.com/sport/snooker/tournaments/world-grand-prix/record-breaking-line-up-for-china-at-world-grand-prix-as-zhao-produces-incredible-comeback-5504765|archive-date=18 April 2026|url-status=live}}</ref>
+
+=== Quarter-finals ===
+[[File:Zhou Yuelong PHC 2015-7.jpg|thumb|[[Zhou Yuelong]] ''(pictured in 2015)'' was among a record six players from mainland China in the quarter-finals. He defeated [[Ali Carter]], helped by a {{Cuegloss|fluke}} in the {{Cuegloss|deciding frame}}.]]
+Six players from mainland China reached the quarter-finals, setting a new record for a ranking event. The previous record had been five, set at the [[2022 Championship League (ranking)|2022 Championship League]].<ref name="WST_day3" /> Zhang made breaks of 97, 92, and 74 as he took a 3–1 lead over Wu at the mid-session interval. Wu won frame five with a century of 101, but Zhang produced breaks of 52 and 135 to win 5–2 and reach the fourth ranking semi-final of his career. "There were a few scrappy moments, but I didn't make many mistakes and generally played quite consistently," said Zhang afterwards. "I didn't give him too many chances, and honestly I didn't expect to win 5–2, because Wu has been in great form and full of confidence recently." Xiao made breaks of 72, 97, 122, 67, and 78 as he defeated Si, also by a 5–2 scoreline. "Today I felt a bit tired, with jet lag and poor sleep, but once you enter a tournament, you have to maintain the right mindset and commit fully," said Xiao, who reached his 12th ranking semi-final. "Since the start of January I have played more than 30 matches. I don't think I've ever played this many before."<ref>{{Cite web |date=6 February 2026 |title=Zhang and Xiao reach semis in Hong Kong |url=https://www.wst.tv/news/2026/february/06/zhang-and-xiao-reach-semis-in-hong-kong/ |access-date=6 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418064803/https://www.wst.tv/news/2026/february/06/zhang-and-xiao-reach-semis-in-hong-kong/|archive-date=18 April 2026|url-status=live}}</ref>
+
+Zhou led Carter 3–1 at the mid-session interval, but Carter then made three consecutive 88 breaks as he moved 4–3 ahead. Carter had an opportunity to win the match in frame eight but missed the {{Cuegloss|green ball|green}} while on a break of 41, and Zhou won the frame with a 66 {{Cuegloss|clearance}}. In the decider, Carter made a break of 20 before missing a red. Zhou {{Cuegloss|fluke|fluked}} a red and then produced a break of 56, which helped him secure the frame and match. "I had a bit of luck on my side, but most importantly I managed to hold my nerve under pressure," Zhou said afterwards. Zhao took a 4–1 lead over Wakelin, who responded with breaks of 91, 76, and 118 to tie the scores at 4–4. Wakelin {{Cuegloss|snookers required|required five snookers}} in the deciding frame but secured 15 {{Cuegloss|penalty points}} from {{Cuegloss|foul|fouls}} to require only one snooker. However, Zhao sealed victory by potting the last red. "Of course I'm thrilled to advance, though honestly neither of us played well from start to finish," Zhao said afterwards. "When I was leading 4–1 and he started closing the gap, I did wonder what would happen if I lost. But I kept telling myself to take it slowly, shot by shot, and finish decisively when possible."<ref name="WST_allChina">{{Cite web |date=6 February 2026 |title=Zhou and Zhao complete historic all-Chinese line-up |url=https://www.wst.tv/news/2026/february/06/zhou/ |access-date=6 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418064759/https://www.wst.tv/news/2026/february/06/zhou/|archive-date=18 April 2026|url-status=live}}</ref><ref name="BBC_allChina">{{Cite web |last=Skelton |first=Jack |date=6 February 2026 |title=Historic all-Chinese semi-finals at World Grand Prix|url=https://www.bbc.com/sport/snooker/articles/cy595nq6kpeo |access-date=6 February 2026 |website=[[BBC Sport]] |language=en-GB|archive-url=https://web.archive.org/web/20260418062952/https://www.bbc.com/sport/snooker/articles/cy595nq6kpeo|archive-date=18 April 2026|url-status=live}}</ref><ref>{{Cite web |last=Day |first=Michael |date=6 February 2026 |title=Snooker history made at the World Grand Prix with all-Chinese semi-final line-up |url=https://www.totallysnookered.com/sport/snooker/tournaments/world-grand-prix/snooker-history-made-at-the-world-grand-prix-with-all-chinese-semi-final-line-up-5506552 |access-date=6 February 2026 |website=Totally Snookered |language=en|archive-url=https://web.archive.org/web/20260418064756/https://www.totallysnookered.com/sport/snooker/tournaments/world-grand-prix/snooker-history-made-at-the-world-grand-prix-with-all-chinese-semi-final-line-up-5506552|archive-date=18 April 2026|url-status=live}}</ref>
+
+=== Semi-finals ===
+[[File:Zhang Anda 2025 (2)(cropped 1).jpg|thumb|For the first time in a ranking tournament, all four semi-finalists were from mainland China. [[Zhang Anda]] ''(pictured in 2025)'' defeated [[Zhou Yuelong]] on the last {{Cuegloss|black ball|black}} of a {{Cuegloss|deciding frame}}.]]
+For the first time, all four semi-finalists at a professional ranking snooker tournament were from mainland China.<ref name="BBC_allChina" /> England and Scotland were the only previous countries to have produced all four semi-finalists at a ranking event.<ref name="WST_allChina" /> In the first semi-final, which lasted almost four and a half hours, Zhang faced Zhou. In a closely fought match, the players were never separated by more than one frame, as Zhang came from behind three times to tie the scores at 4–4. Zhang then made a century of 121 to lead 5–4, but Zhou made an 82 break to tie the scores again at 5–5. In the decider, Zhang missed the last red while playing the shot with the {{Cuegloss|rest}}. Zhou cleared to the {{Cuegloss|brown ball|brown}} but failed to get position on the {{Cuegloss|blue ball|blue}}, which would have been {{Cuegloss|match ball}}. During a {{Cuegloss|safety}} exchange, Zhou went {{Cuegloss|in-off}} the blue, and Zhang potted the last three balls, winning the match on the last black. Defeat for Zhou meant that he was still seeking his maiden ranking title, having lost five ranking semi-finals and four ranking finals. "I was nervous in the last frame and I'm still nervous here," Zhang said in his post-match interview, noting that his hands were still shaking. "I don't know why I'm playing so well this week. Maybe just because my family are here. They give me more confidence and I love Hong Kong. I can speak [[Cantonese]] here so it is like a second home."<ref name="WST_Zhang_inFinal">{{Cite web |date=7 February 2026 |title=Zhang triumphs in black ball thriller |url=https://www.wst.tv/news/2026/february/07/zhang-triumphs-in-black-ball-thriller/ |access-date=7 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418064318/https://www.wst.tv/news/2026/february/07/zhang-triumphs-in-black-ball-thriller/|archive-date=18 April 2026|url-status=live}}</ref><ref name="BBC_ZZ_Final">{{Cite web |last=Nelson |first=Craig |date=7 February 2026 |title=Zhang to face Zhao in World Grand Prix final |url=https://www.bbc.com/sport/snooker/articles/c5y2yq15lz0o |access-date=7 February 2026 |website=[[BBC Sport]] |language=en-GB|archive-url=https://web.archive.org/web/20260418062937/https://www.bbc.com/sport/snooker/articles/c5y2yq15lz0o|archive-date=18 April 2026|url-status=live}}</ref>
+
+In the second semi-final, Zhao played Xiao. Zhao led by 56 points in the opener, but Xiao produced a 65 clearance to win the frame on the last black. Zhao made breaks of 55 and 69 to win the next two frames, but Xiao tied the scores at 2–2 at the mid-session interval. Zhao then won three consecutive frames to lead 5–2. Xiao won frame eight, but Zhao made a century of 121 in frame nine to complete a 6–3 victory. "I played much better today than yesterday," said Zhao after the match. "I made some good adjustments in all aspects. I was able to stay within my own rhythm. As a result, my overall performance was quite good." Anticipating the final against Zhang, he commented: "I hope the fans will continue to support me. Especially yesterday, I could really feel the atmosphere and support from the audience and that was a huge help to me... I lost to [Zhang] not long ago, so tomorrow I will definitely give it my best." By reaching the final, both Zhang and Zhao ensured that they would finish the event within the top 16 on the one-year ranking list and thus qualify for the 2026 Players Championship.<ref name="BBC_ZZ_Final" /><ref name="WST_Zhao_inFinal"/>
+
+=== Final ===
+[[File:Zhao Xintong PHC 2016-2.jpg|thumb|World Champion [[Zhao Xintong]] ''(pictured in 2016)'' defeated [[Zhang Anda]] 10–6 to win his fourth [[List of snooker ranking tournaments|ranking title]]. He made five [[century break]]s in the final, including the tournament's highest break of 145.]]
+The final took place on 8 February as the best of 19 frames, played over two {{Cuegloss|session|sessions}}, between Zhao and Zhang. Both players were competing in the fourth ranking final of their careers. It was their third meeting in professional competition, Zhang having won both previous encounters at the [[2015 Australian Goldfields Open]] qualifiers and the [[2025 UK Championship]]. After the players shared the first two frames, Zhao took frame three with a 75 break, but Zhang made breaks of 91 and 84 to move 3–2 ahead. Zhao produced back-to-back centuries of 130 and 145 to lead 4–3, but Zhang made an 84 break in frame eight to tie the scores at 4–4 after the first session.<ref>{{Cite web |date=8 February 2026 |title=All square in Hong Kong final |url=https://www.wst.tv/news/2026/february/08/all-square-in-hong-kong-final/ |access-date=8 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418064311/https://www.wst.tv/news/2026/february/08/all-square-in-hong-kong-final/|archive-date=18 April 2026|url-status=live}}</ref> Zhao began the second session with breaks of 85 and 75 as he opened up a two-frame lead for the first time at 6–4. Zhang won frame 11 with a 53 break, but Zhao made a century of 111 to lead 7–5 at the mid-session interval. Zhang won frame 13, in which he attempted a maximum break but missed the 10th black, ending the break on 73. Zhao then won three consecutive frames with breaks of 134, 65, and 131 to complete a 10–6 victory. Zhao made five centuries in the final and nine in the tournament overall.<ref name="WST_ZX_win">{{Cite web |date=8 February 2026 |title=Zhao makes five centuries to win Hong Kong final |url=https://www.wst.tv/news/2026/february/08/zhao-makes-five-centuries-to-win-hong-kong-final-/ |access-date=8 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418064307/https://www.wst.tv/news/2026/february/08/zhao-makes-five-centuries-to-win-hong-kong-final-/|archive-date=18 April 2026|url-status=live}}</ref><ref name="BBC_ZX_win">{{Cite web |last=Nelson |first=Craig |date=8 February 2026 |title=Zhao wins all-Chinese World Grand Prix final |url=https://www.bbc.com/sport/snooker/articles/crl4rkplkn8o |access-date=18 April 2026|website=[[BBC Sport]] |language=en-GB|archive-url=https://web.archive.org/web/20260418062922/https://www.bbc.com/sport/snooker/articles/crl4rkplkn8o|archive-date=18 April 2026|url-status=live}}</ref>
+
+Victory gave Zhao his first World Grand Prix title and his fourth ranking title, following his wins at the [[2021 UK Championship]], the [[2022 German Masters]], and the [[2025 World Snooker Championship]]. It meant that he had won all four of the ranking finals he had contested.<ref name="WST_Zhao_inFinal">{{Cite web |date=7 February 2026 |title=Zhao makes Hong Kong final |url=https://www.wst.tv/news/2026/february/07/zhao-makes-hong-kong-final/ |access-date=7 February 2026 |website=[[World Snooker Tour]] |language=en|archive-url=https://web.archive.org/web/20260418064304/https://www.wst.tv/news/2026/february/07/zhao-makes-hong-kong-final/|archive-date=18 April 2026|url-status=live}}</ref> He moved up one place to seventh in the world rankings. Defeat for Zhang meant that he had lost three of his four ranking finals, although he moved up three places to 20th in the world rankings. "We both played very well today, our scoring was at a high level throughout the match," said Zhao afterwards. "Perhaps later on I managed to take a few more chances. My mindset settled down nicely and my rhythm improved, which allowed me to play better and better. I was waiting for that one chance in every frame, then my aim was to push on and put pressure on him by getting well ahead. In the second half of the match, I was able to do that consistently, which made me very happy with my performance."<ref name="WST_ZX_win" /> However, Zhao added that he was still struggling with the pressure of competing as World Champion. "Mentally I still feel there is room to learn from the very top players," he said. "This season so far, although I've had some good results, I feel that my overall consistency hasn't been as strong as the very best."<ref name="BBC_ZX_win" />
+
+== Tournament draw ==
+The draw for the tournament is shown below. Numbers in parentheses after the players' names denote the players' [[seed (sports)|seedings]], and players in bold denote match winners. The last-32, last-16 and quarter-final matches were played over the best of 9 {{cuegloss|frames}}; the semi-finals were the best of 11 frames, and the final was the best of 19 frames, played over two {{cuegloss|session|sessions}}.<ref>{{cite web |title=World Grand Prix 2026 matches |url=https://www.wst.tv/matches/c4e778f6-79bd-4c16-8c9b-68d0a9a630e4 |work=[[World Snooker Tour]] |access-date=3 February 2026|archive-url=https://web.archive.org/web/20260418064300/https://www.wst.tv/matches/c4e778f6-79bd-4c16-8c9b-68d0a9a630e4|archive-date=18 April 2026|url-status=live}}</ref><ref name="snooker.org_brackets">{{cite web |title=World Grand Prix 2026 bracket |url=https://www.snooker.org/res/index.asp?template=65&event=2349 |website=snooker.org |access-date=3 February 2026|archive-url=https://web.archive.org/web/20260418064316/https://www.snooker.org/res/index.asp?template=65&event=2349|archive-date=18 April 2026|url-status=live}}</ref>
+
+{{32TeamBracket-Info
+|boldwinner = high
+|team-width = auto
+|paramstyle = numbered
+| RD1 = '''Last 32'''<br/>Best of 9 frames
+| RD2 = '''Last 16'''<br/>Best of 9 frames
+| RD3 = '''Quarter-finals'''<br/>Best of 9 frames
+| RD4 = '''Semi-finals'''<br/>Best of 11 frames
+| RD5 = '''Final'''<br/>Best of 19 frames
+
+<!-- Last 32 -->
+|| {{flagathlete|[[Neil Robertson]]|AUS}} {{tooltip|(1)|player seeding}}
+| 1
+| {{flagathlete|[[Jak Jones]]|WAL}} {{tooltip|(32)|player seeding}}
+| 5
+
+|| {{flagathlete|[[Zhou Yuelong]]|CHN}} {{tooltip|(16)|player seeding}}
+| 5
+| {{flagathlete|[[Stephen Maguire]]|SCO}} {{tooltip|(17)|player seeding}}
+| 2
+
+|| {{flagathlete|[[Mark Allen (snooker player)|Mark Allen]]|NIR}} {{tooltip|(9)|player seeding}}
+| 4
+| {{flagathlete|[[Ali Carter]]|ENG}} {{tooltip|(24)|player seeding}}
+| 5
+
+|| {{flagathlete|[[Judd Trump]]|ENG}} {{tooltip|(8)|player seeding}}
+| 2
+| {{flagathlete|[[Yuan Sijun]]|CHN}} {{tooltip|(25)|player seeding}}
+| 5
+
+|| {{flagathlete|[[Wu Yize]]|CHN}} {{tooltip|(5)|player seeding}}
+| 5
+| {{flagathlete|[[Anthony McGill]]|SCO}} {{tooltip|(28)|player seeding}}
+| 3
+
+|| {{flagathlete|[[Jack Lisowski]]|ENG}} {{tooltip|(12)|player seeding}}
+| 4
+| {{flagathlete|[[Chang Bingyu]]|CHN}} {{tooltip|(21)|player seeding}}
+| 5
+
+|| {{flagathlete|[[Barry Hawkins]]|ENG}} {{tooltip|(13)|player seeding}}
+| 5
+| {{flagathlete|[[Ding Junhui]]|CHN}} {{tooltip|(20)|player seeding}}
+| 3
+
+|| {{flagathlete|[[Mark Williams (snooker player)|Mark Williams]]|WAL}} {{tooltip|(4)|player seeding}}
+| 2
+| {{flagathlete|[[Zhang Anda]]|CHN}} {{tooltip|(29)|player seeding}}
+| 5
+
+|| {{flagathlete|[[Shaun Murphy]]|ENG}} {{tooltip|(3)|player seeding}}
+| 1
+| {{flagathlete|[[Pang Junxu]]|CHN}} {{tooltip|(30)|player seeding}}
+| 5
+
+|| {{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} {{tooltip|(14)|player seeding}}
+| 2
+| {{flagathlete|[[Si Jiahui]]|CHN}} {{tooltip|(19)|player seeding}}
+| 5
+
+|| {{flagathlete|[[Xiao Guodong]]|CHN}} {{tooltip|(11)|player seeding}}
+| 5
+| {{flagathlete|[[Kyren Wilson]]|ENG}} {{tooltip|(22)|player seeding}}
+| 2
+
+|| {{flagathlete|[[Ronnie O'Sullivan]]|ENG}} {{tooltip|(6)|player seeding}}
+| 5
+| {{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}} {{tooltip|(27)|player seeding}}
+| 3
+
+|| {{flagathlete|[[Chris Wakelin]]|ENG}} {{tooltip|(7)|player seeding}}
+| 5
+| {{flagathlete|[[Thepchaiya Un-Nooh]]|THA}} {{tooltip|(26)|player seeding}}
+| 0
+
+|| {{flagathlete|[[Elliot Slessor]]|ENG}} {{tooltip|(10)|player seeding}}
+| 5
+| {{flagathlete|[[Stuart Bingham]]|ENG}} {{tooltip|(23)|player seeding}}
+| 2
+
+|| {{flagathlete|[[John Higgins]]|SCO}} {{tooltip|(15)|player seeding}}
+| 3
+| {{flagathlete|[[Zhao Xintong]]|CHN}} {{tooltip|(18)|player seeding}}
+| 5
+
+|| {{flagathlete|[[Mark Selby]]|ENG}} {{tooltip|(2)|player seeding}}
+| 5
+| {{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} {{tooltip|(31)|player seeding}}
+| 0
+
+<!-- Last 16 -->
+|| {{flagicon|WAL}} [[Jak Jones]] {{tooltip|(32)|player seeding}}
+| 1
+| {{flagicon|CHN}} [[Zhou Yuelong]] {{tooltip|(16)|player seeding}}
+| 5
+
+|| {{flagicon|ENG}} [[Ali Carter]] {{tooltip|(24)|player seeding}}
+| 5
+| {{flagicon|CHN}} [[Yuan Sijun]] {{tooltip|(25)|player seeding}}
+| 2
+
+|| {{flagicon|CHN}} [[Wu Yize]] {{tooltip|(5)|player seeding}}
+| 5
+| {{flagicon|CHN}} [[Chang Bingyu]] {{tooltip|(21)|player seeding}}
+| 3
+
+|| {{flagicon|ENG}} [[Barry Hawkins]] {{tooltip|(13)|player seeding}}
+| 3
+| {{flagicon|CHN}} [[Zhang Anda]] {{tooltip|(29)|player seeding}}
+| 5
+
+|| {{flagicon|CHN}} [[Pang Junxu]] {{tooltip|(30)|player seeding}}
+| 3
+| {{flagicon|CHN}} [[Si Jiahui]] {{tooltip|(19)|player seeding}}
+| 5
+
+|| {{flagicon|CHN}} [[Xiao Guodong]] {{tooltip|(11)|player seeding}}
+| 5
+| {{flagicon|ENG}} [[Ronnie O'Sullivan]] {{tooltip|(6)|player seeding}}
+| 3
+
+|| {{flagicon|ENG}} [[Chris Wakelin]] {{tooltip|(7)|player seeding}}
+| 5
+| {{flagicon|ENG}} [[Elliot Slessor]] {{tooltip|(10)|player seeding}}
+| 4
+
+|| {{flagicon|CHN}} [[Zhao Xintong]] {{tooltip|(18)|player seeding}}
+| 5
+| {{flagicon|ENG}} [[Mark Selby]] {{tooltip|(2)|player seeding}}
+| 4
+
+<!-- Quarter-final -->
+|| {{flagicon|CHN}} [[Zhou Yuelong]] {{tooltip|(16)|player seeding}}
+| 5
+| {{flagicon|ENG}} [[Ali Carter]] {{tooltip|(24)|player seeding}}
+| 4
+
+|| {{flagicon|CHN}} [[Wu Yize]] {{tooltip|(5)|player seeding}}
+| 2
+| {{flagicon|CHN}} [[Zhang Anda]] {{tooltip|(29)|player seeding}}
+| 5
+
+|| {{flagicon|CHN}} [[Si Jiahui]] {{tooltip|(19)|player seeding}}
+| 2
+| {{flagicon|CHN}} [[Xiao Guodong]] {{tooltip|(11)|player seeding}}
+| 5
+
+|| {{flagicon|ENG}} [[Chris Wakelin]] {{tooltip|(7)|player seeding}}
+| 4
+| {{flagicon|CHN}} [[Zhao Xintong]] {{tooltip|(18)|player seeding}}
+| 5
+
+<!-- Semi-final -->
+|| {{flagicon|CHN}} [[Zhou Yuelong]] {{tooltip|(16)|player seeding}}
+| 5
+| {{flagicon|CHN}} [[Zhang Anda]] {{tooltip|(29)|player seeding}}
+| 6
+
+|| {{flagicon|CHN}} [[Xiao Guodong]] {{tooltip|(11)|player seeding}}
+| 3
+| {{flagicon|CHN}} [[Zhao Xintong]] {{tooltip|(18)|player seeding}}
+| 6
+
+<!-- Final -->
+|| {{flagicon|CHN}} [[Zhang Anda]] {{tooltip|(29)|player seeding}}
+| 6
+| {{flagicon|CHN}} [[Zhao Xintong]] {{tooltip|(18)|player seeding}}
+| 10
+}}
+
+===Final: frame scores===
+{| class="wikitable" style="font-size: 90%; margin: 1em auto 1em auto;"
+|-
+| colspan="3" align="center" bgcolor="#ffd700" | '''Final:''' Best of 19 frames. Referee: Zheng Weili<br/>[[Kai Tak Sports Park|Kai Tak Arena]], [[Kowloon City District|Kowloon City]], Hong Kong, 8 February 2026
+|-
+| width="260" align="right" | [[Zhang Anda]] {{tooltip|(29)|player seeding}}<br/>{{CHN}}
+| width="100" align="center" | 6{{ndash}}'''10'''
+| width="260" align="left" | '''[[Zhao Xintong]]''' {{tooltip|(18)|player seeding}}<br/>{{CHN}}
+|-
+| colspan="3" align="center" style="font-size: 100%;" | ''Afternoon:'' 1{{ndash}}'''77''', '''119'''{{ndash}}7, 0{{ndash}}'''83''', '''92'''{{ndash}}37, '''84'''{{ndash}}4, 0{{ndash}}'''130''' (130), 0{{ndash}}'''145''' (145), '''84'''{{ndash}}0<br/>''Evening:'' 31{{ndash}}'''85''', 0{{ndash}}'''75''', '''68'''{{ndash}}29, 27{{ndash}}'''111''' (111), '''83'''{{ndash}}35, 5{{ndash}}'''134''' (134), 20{{ndash}}'''66''', 0{{ndash}}'''131''' (131)
+|-
+| align="right" | (''frame 4'') 91
+| align="center" | Highest break
+| '''145''' (''frame 7'')
+|-
+| align="right" | 0
+| align="center" | Century breaks
+| '''5'''
+|-
+|}
+
+==Century breaks==
+A total of 37 [[century break]]s were made during the tournament.<ref name="SI_cent">{{cite web |title=Centuries: World Grand Prix - 37 |url=https://snookerinfo.co.uk/2025-26/#world-grand-prix-37 |website=snookerinfo.co.uk |access-date=8 February 2026 |archive-date=13 February 2026 |archive-url=https://web.archive.org/web/20260213150710/https://snookerinfo.co.uk/2025-26/#world-grand-prix-37 |url-status=live }}</ref>
+{{div col}}
+* 145, 140, 134, 131, 130, 121, 121, 112, 111 {{ndash}} [[Zhao Xintong]]
+* 144, 122 {{ndash}} [[Xiao Guodong]]
+* 141 {{ndash}} [[Barry Hawkins]]
+* 139, 116 {{ndash}} [[Zhou Yuelong]]
+* 138 {{ndash}} [[Ali Carter]]
+* 135, 124, 121, 102 {{ndash}} [[Zhang Anda]]
+* 134, 130, 118, 105 {{ndash}} [[Pang Junxu]]
+* 134 {{ndash}} [[Chang Bingyu]]
+* 130, 112, 101 {{ndash}} [[Wu Yize]]
+* 122, 121, 102 {{ndash}} [[Si Jiahui]]
+* 118 {{ndash}} [[Chris Wakelin]]
+* 116 {{ndash}} [[Ding Junhui]]
+* 109, 100 {{ndash}} [[Mark Selby]]
+* 108, 103 {{ndash}} [[Yuan Sijun]]
+* 100 {{ndash}} [[Gary Wilson (snooker player)|Gary Wilson]]
+{{div col end}}
+
+== References ==
+{{reflist}}{{World Grand Prix (snooker)}}{{Players Series}}{{2025–26 snooker season}}
+[[Category:World Grand Prix (snooker)]]
+[[Category:Players Series]]
+[[Category:Snooker ranking tournaments]]
+[[Category:2026 in snooker]]
+[[Category:Sports competitions in Hong Kong]]
+[[Category:Snooker competitions in Asia]]
+[[Category:February 2026 sports events in Asia|World Grand Prix (snooker)]]

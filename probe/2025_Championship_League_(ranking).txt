@@ -1,0 +1,1874 @@
+{{Short description|Snooker tournament, held June and July 2025}}
+{{Use dmy dates|date=May 2025}}
+{{Use British English|date=May 2025}}
+{{Infobox individual snooker tournament
+|tournament_name=2025 [[BetVictor]]<br/>[[Championship League]]
+|logo=[[File:2025 Championship League (ranking) logo.jpg|300px]]
+|dates={{Start and end dates|2025|06|30|2025|07|23|df=y}}
+|venue=[[Leicester Arena]]
+|location=[[Leicester]]
+|country=England
+|organisation=[[Matchroom Sport]]
+|format=[[List of snooker ranking tournaments|Ranking event]]
+|Total prize fund=£328,000
+|winners_share=£33,000
+|defending_champion=
+|highest_break={{flagathlete|[[Fan Zhengyi]]|CHN}} ([[Maximum break|147]])
+|winner={{flagathlete|[[Stephen Maguire]]|SCO}}
+|runner_up={{flagathlete|[[Joe O'Connor (snooker player)|Joe O'Connor]]|ENG}}
+|score=3{{ndash}}1
+|previous=[[2024 Championship League (ranking)|2024 (ranking)]]<br/>← [[2025 Championship League (invitational)|2025 (invitational)]]
+|next=[[2026 Championship League (ranking)|2026 (ranking)]] → <br/> [[2026 Championship League (invitational)|2026 (invitational)]]
+}}
+
+The '''2025 Championship League''' (officially the '''2025 BetVictor Championship League Snooker''') was a professional ranking [[snooker]] tournament that took place from 30 June to 23 July 2025 at the [[Leicester Arena]] in [[Leicester]], England.<ref>{{Cite web |title=Calendar 2025/2026 - snooker.org |url=https://www.snooker.org/res/index.asp?template=2&season=2025 |access-date=19 May 2025 |website=www.snooker.org |language=en}}</ref> It was the sixth staging of the ranking edition of the tournament, which was first held in [[2020 Championship League (ranking)|2020]]. Organised by [[Matchroom Sport]], it was the first [[List of snooker ranking tournaments|ranking event]] of the [[2025–26 snooker season]], preceding the [[2025 Saudi Arabia Snooker Masters]]. The winner received £33,000 from a total prize fund of £328,000.
+
+[[Ali Carter]] was the defending champion, having defeated [[Jackson Page]] 3{{nbnd}}1 in the final of the [[2024 Championship League (ranking)|previous ranking edition]],<ref>{{Cite web |date=3 July 2024 |title=Carter in a league of his own |url=https://www.wst.tv/news/2024/july/03/in-a-league-of-his-own/ |access-date=19 May 2025 |website=World Snooker Tour |language=en}}</ref> but he was eliminated in stage one.<ref name="WST_g6_g7" /> By topping her group in stage one, [[Ng On-yee]] became the first woman to reach the last 32 of a professional ranking event.<ref name="WST_g2_g32" /> [[Stephen Maguire]] won the tournament, beating [[Joe O'Connor (snooker player)|Joe O'Connor]] 3{{nbnd}}1 in the final to claim the seventh ranking title of his career and his first since winning the [[2020 Tour Championship]] over five years earlier. Maguire's win secured him a place in the [[2025 Champion of Champions]] tournament, while O'Connor's defeat meant that he had lost all three of the ranking finals he had played.<ref name="WST_gw1_gw2_final" /><ref>{{Cite web |date=23 July 2025 |title=Snooker: Stephen Maguire wins 2025 Championship League |url=https://www.bbc.com/sport/snooker/articles/c5yl13pz0xgo |access-date=24 July 2025 |website=BBC Sport |language=en-GB}}</ref>
+
+The event produced 109 [[century break]]s (86 in stage one, 19 in stage two, and 4 in stage three),<ref name="SI_cent" /> of which the highest was a [[maximum break]] by [[Fan Zhengyi]] in his stage one match against [[Xu Si]]. The second maximum of Fan's career, it was the first maximum of the season and the 218th official maximum in professional competition.<ref name="Max 218" />
+{{TOC limit|3}}
+
+==Format==
+The competition began with 32 rounds of group matches with each group consisting of four players. Two groups were played to a finish every day using a two{{nbh}}[[Billiard table|table]] setup in the arena. The groups were contested using a [[Round-robin tournament|round{{nbh}}robin]] format, with six matches played in each group. All matches in group play were played as best{{nbh}}of{{nbh}}four {{cuegloss|frame|frames}}, with three points awarded for a win and one point for a draw. Group positions were determined by points scored, frame difference and then head{{nbh}}to{{nbh}}head results between players who were tied. Places that were still tied were then determined by the highest {{cuegloss|break}} made in the group. If the highest break was also tied, the next highest break made by the players was used.<ref name="CLS_ranking2">{{cite web |title=Championship League Snooker |url=https://championshipleaguesnooker.co.uk/ranking/ |url-status=live |archive-url=https://web.archive.org/web/20240704083417/https://championshipleaguesnooker.co.uk/ranking/ |archive-date=4 July 2024 |access-date=4 July 2024 |work=championshipleaguesnooker.co.uk}}</ref><ref name="WST_explainer">{{cite web |date=11 June 2024 |title=BetVictor Championship League explainer |url=https://www.wst.tv/news/2024/june/11/betvictor-championship-league-explainer/ |url-status=live |archive-url=https://web.archive.org/web/20240611204205/https://www.wst.tv/news/2024/june/11/betvictor-championship-league-explainer/ |archive-date=11 June 2024 |access-date=11 June 2024 |work=[[World Snooker Tour]]}}</ref>
+
+The 32 players that topped the group tables qualified for the group winners' stage, consisting of eight groups of four players. The eight winners from the group winners' stage qualified for the two final groups, with the final taking place later on the same day.<ref name="CLS_ranking2" /> The winner received the Championship League title and a place in the [[2025 Champion of Champions]].
+
+===Participants===
+No player in the top eight of the [[Snooker world rankings|world rankings]] entered the event. Only five top-16 players featured—[[Barry Hawkins]], [[Zhang Anda]], [[Shaun Murphy]], [[Si Jiahui]], and [[Chris Wakelin]]. Outside the top 16, [[Hossein Vafaei]], [[Anthony McGill]], [[Ishpreet Singh Chadha]], [[Sunny Akani]], and [[Ken Doherty]] also did not enter. [[Luca Brecel]] and [[Jimmy White]] entered but subsequently withdrew. The tournament featured 24 amateur players, not currently on the [[World Snooker Tour]], indicated by (a) in the tables below.<ref name="s.o_main" />
+
+===Broadcasters===
+The event was broadcast by [[Fox Sports (Australia)|Fox Sports]] in Australia; [[Nova Sport (Czech Republic and Slovakia)|Nova]] in Czechia and Slovakia; Maincast in Ukraine; Rigour in China; [[Viaplay TV|Viaplay]] in Iceland, and the Netherlands; [[Viasat (Nordic television service)|Viasat]] in Scandinavia; and by [[Matchroom Sport|Matchroom]]'s [[YouTube]] channels in all other territories.<ref name="CLS_ranking">{{cite web |title=CHAMPIONSHIP LEAGUE SNOOKER RANKING EVENT 2025 RETURNS THIS SUMMER |url=https://championshipleaguesnooker.co.uk/betvictor-championship-league-snooker-ranking-event-2025-returns-this-summer/ |url-status=live |archive-url=https://web.archive.org/web/20250630111809/https://championshipleaguesnooker.co.uk/betvictor-championship-league-snooker-ranking-event-2025-returns-this-summer/ |archive-date=30 June 2025 |date=24 June 2025 |website=championshipleaguesnooker.co.uk}}</ref>  [[DAZN]] was not announced as one of the broadcast partners, contrary to the previous editions.
+
+=== Prize fund ===
+The breakdown of prize money for the tournament is shown below.<ref name="CLS_ranking" />
+
+{{col-begin|width=100%}}
+{{col-break|width=25%}}
+*'''Stage one'''
+*Winner: £3,000
+*Runner-up: £2,000
+*Third place: £1,000
+*Fourth place: £0
+{{col-break|width=25%}}
+*'''Stage two'''
+*Winner: £4,000
+*Runner-up: £3,000
+*Third place: £2,000
+*Fourth place: £1,000
+{{col-break|width=25%}}
+*'''Stage three'''
+*Winner: £6,000
+*Runner-up: £4,000
+*Third place: £2,000
+*Fourth place: £1,000
+{{col-break|width=25%}}
+*'''Final'''
+*Winner: £20,000
+*Runner-up: £10,000
+{{col-end}}
+
+* '''Tournament total''': £328,000
+
+<small>'''Note''': The champion received a total of £33,000 (£3,000 + £4,000 + £6,000 + £20,000).</small>
+
+==Stage one==
+Stage one consisted of 32 groups, each having four players. Numbers in parentheses after the players' names denote the players' [[seed (sports)|seeding]], and (a) indicates amateur players not on the main [[World Snooker Tour]]. Unlike other tournaments, where the defending champion is usually the top seed, the players were seeded according to their ranking, and the top 32 seeds were allocated to the 32 groups. One exception to this was Group 27, because [[Luca Brecel]], seeded 27, withdrew.<ref name="s.o_main">{{cite web |title=2025 Championship League (Ranking) |url=https://www.snooker.org/res/index.asp?event=2337 |access-date=29 June 2025 |website=snooker.org}}</ref>
+
+===Order of play===
+Order of play as follows:
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right" | 30 June || style="text-align:left" | [[#Group 15 matches|Group 15]]
+|-
+| style="text-align:right" | 30 June || style="text-align:left" | [[#Group 26 matches|Group 26]]
+|-
+| style="text-align:right" | 1 July || style="text-align:left" | [[#Group 3 matches|Group 3]]
+|-
+| style="text-align:right" | 1 July || style="text-align:left" | [[#Group 22 matches|Group 22]]
+|-
+| style="text-align:right" | 2 July || style="text-align:left" | [[#Group 18 matches|Group 18]]
+|-
+| style="text-align:right" | 2 July || style="text-align:left" | [[#Group 25 matches|Group 25]]
+|-
+| style="text-align:right" | 3 July || style="text-align:left" | [[#Group 9 matches|Group 9]]
+|-
+| style="text-align:right" | 3 July || style="text-align:left" | [[#Group 28 matches|Group 28]]
+|}
+</div>
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right" | 4 July || style="text-align:left" | [[#Group 2 matches|Group 2]]
+|-
+| style="text-align:right" | 4 July || style="text-align:left" | [[#Group 32 matches|Group 32]]
+|-
+| style="text-align:right" | 5 July || style="text-align:left" | [[#Group 11 matches|Group 11]]
+|-
+| style="text-align:right" | 5 July || style="text-align:left" | [[#Group 17 matches|Group 17]]
+|-
+| style="text-align:right" | 7 July || style="text-align:left" | [[#Group 6 matches|Group 6]]
+|-
+| style="text-align:right" | 7 July || style="text-align:left" | [[#Group 7 matches|Group 7]]
+|-
+| style="text-align:right" | 8 July || style="text-align:left" | [[#Group 13 matches|Group 13]]
+|-
+| style="text-align:right" | 8 July || style="text-align:left" | [[#Group 14 matches|Group 14]]
+|}
+</div>
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right" | 9 July || style="text-align:left" | [[#Group 12 matches|Group 12]]
+|-
+| style="text-align:right" | 9 July || style="text-align:left" | [[#Group 19 matches|Group 19]]
+|-
+| style="text-align:right" | 10 July || style="text-align:left" | [[#Group 10 matches|Group 10]]
+|-
+| style="text-align:right" | 10 July || style="text-align:left" | [[#Group 23 matches|Group 23]]
+|-
+| style="text-align:right" | 11 July || style="text-align:left" | [[#Group 8 matches|Group 8]]
+|-
+| style="text-align:right" | 11 July || style="text-align:left" | [[#Group 21 matches|Group 21]]
+|-
+| style="text-align:right" | 12 July || style="text-align:left" | [[#Group 4 matches|Group 4]]
+|-
+| style="text-align:right" | 12 July || style="text-align:left" | [[#Group 30 matches|Group 30]]
+|}
+</div>
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right" | 14 July || style="text-align:left" | [[#Group 1 matches|Group 1]]
+|-
+| style="text-align:right" | 14 July || style="text-align:left" | [[#Group 20 matches|Group 20]]
+|-
+| style="text-align:right" | 15 July || style="text-align:left" | [[#Group 24 matches|Group 24]]
+|-
+| style="text-align:right" | 15 July || style="text-align:left" | [[#Group 31 matches|Group 31]]
+|-
+| style="text-align:right" | 16 July || style="text-align:left" | [[#Group 5 matches|Group 5]]
+|-
+| style="text-align:right" | 16 July || style="text-align:left" | [[#Group 16 matches|Group 16]]
+|-
+| style="text-align:right" | 17 July || style="text-align:left" | [[#Group 27 matches|Group 27]]
+|-
+| style="text-align:right" | 17 July || style="text-align:left" | [[#Group 29 matches|Group 29]]
+|}
+</div>
+
+===Group 1===
+Group 1 was played on 14 July.<ref name="s1_w3_matches">{{cite web |title=BetVictor Championship League Snooker 2025 (Stage One/WK3) matches |url=https://www.wst.tv/matches/8d60145e-6c69-4e38-a558-fc7798ca9b5c |website=World Snooker Tour |access-date=30 June 2025}}</ref> [[Haydon Pinhey]] won the group and advanced to Stage 2 [[#Group A matches|Group A]], eliminating top seed [[Barry Hawkins]] from the tournament.<ref>{{cite web |title=Championship League Stage One Group 1 |url=https://www.snooker.org/res/index.asp?event=2377 |access-date=14 July 2025 |website=snooker.org}}</ref><ref name="WST_g1_g20">{{cite web |title=Pinhey pips Hawkins |url=https://www.wst.tv/news/2025/july/14/pinhey-pips-hawkins/ |website=World Snooker Tour |date=14 July 2025 |access-date=15 July 2025}}</ref>
+
+====Group 1 matches====
+{{div col}}
+* ''Barry Hawkins 2–2 John Astley''
+* Haydon Pinhey 1–'''3 Haris Tahir'''
+* ''Haydon Pinhey 2–2 John Astley''
+* '''Barry Hawkins 3'''–0 Haris Tahir
+* ''Haris Tahir 2–2 John Astley''
+* Barry Hawkins 0–'''3 Haydon Pinhey'''
+{{div col end}}
+
+====Group 1 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Haydon Pinhey]]'''|ENG}} <small>{{tooltip|1=(64)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 90 || '''4'''
+|-
+| 2 ||align=left| {{flagathlete|[[Barry Hawkins]]|ENG}} <small>{{tooltip|1=(1)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 83 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Haris Tahir]]|PAK}} <small>{{tooltip|1=(65)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 74 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[John Astley (snooker player)|John Astley]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 136 || 3
+|}
+
+===Group 2===
+Group 2 was played on 4 July.<ref name="s1_w1_matches">{{cite web |title=BetVictor Championship League Snooker 2025 (Stage One/WK1) matches |url=https://www.wst.tv/matches/70300b36-08ba-4d99-92cb-a54c822aa84b |website=World Snooker Tour |access-date=30 June 2025}}</ref> [[Zhang Anda]] won the group and advanced to Stage 2 [[#Group B matches|Group B]].<ref>{{cite web |title=Championship League Stage One Group 2 |url=https://www.snooker.org/res/index.asp?event=2378 |access-date=4 July 2025 |website=snooker.org}}</ref><ref name="WST_g2_g32">{{cite web |title=Superb Ng tops table |url=https://www.wst.tv/news/2025/july/04/Superb-Ng-Tops-Table/ |website=World Snooker Tour |date=4 July 2025 |access-date=5 July 2025}}</ref>
+
+====Group 2 matches====
+{{div col}}
+* '''Zhang Anda 3'''–1 George Pragnell
+* ''Cheung Ka Wai 2–2 Chris Totten''
+* ''Cheung Ka Wai 2–2 George Pragnell''
+* ''Zhang Anda 2–2 Chris Totten''
+* Chris Totten 1–'''3 George Pragnell'''
+* ''Zhang Anda 2–2 Cheung Ka Wai''
+{{div col end}}
+
+====Group 2 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Zhang Anda]]'''|CHN}} <small>{{tooltip|1=(2)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 107 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|George Pragnell|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 112 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Cheung Ka Wai]]|HKG}} <small>{{tooltip|1=(63)|2=player seeding}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 134 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Chris Totten]]|SCO}} <small>{{tooltip|1=(66)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 141 || 2
+|}
+
+===Group 3===
+Group 3 was played on 1 July.<ref name="s1_w1_matches" /> [[Alfie Burden]] won the group and advanced to Stage 2 [[#Group C matches|Group C]].<ref>{{cite web |title=Championship League Stage One Group 3 |url=https://www.snooker.org/res/index.asp?event=2389 |access-date=2 July 2025 |website=snooker.org}}</ref><ref name="WST_g3_g22">{{cite web |title=Selt sweeps to top group |url=https://www.wst.tv/news/2025/july/01/selt-sweeps-to-top-group-1/ |website=World Snooker Tour |date=1 July 2025 |access-date=2 July 2025}}</ref>
+
+====Group 3 matches====
+{{div col}}
+* Shaun Murphy 1–'''3 Alfie Burden'''
+* '''Bulcsú Révész 3'''–1 Robbie McGuigan
+* Bulcsú Révész 0–'''3 Alfie Burden'''
+* Shaun Murphy 1–'''3 Robbie McGuigan'''
+* '''Robbie McGuigan 3'''–1 Alfie Burden
+* Shaun Murphy 1–'''3 Bulcsú Révész'''
+{{div col end}}
+
+====Group 3 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Alfie Burden]]'''|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 2 || 0 || 1 || 7 || 4 || 3 || 97 || '''6'''
+|-
+| 2 ||align=left| {{flagathlete|[[Robbie McGuigan]]|NIR}} <small>{{tooltip|1=(67)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 5 || 2 || 136 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Bulcsú Révész]]|HUN}} <small>{{tooltip|1=(62)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 6 || 5 || 1 || 104 || 6
+|-
+| 4 ||align=left| {{flagathlete|[[Shaun Murphy]]|ENG}} <small>{{tooltip|1=(3)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 3 || 9 || −6 || 78 || 0
+|}
+
+===Group 4===
+Group 4 was played on 12 July.<ref name="s1_w2_matches">{{cite web |title=BetVictor Championship League Snooker 2025 (Stage One/WK2) matches |url=https://www.wst.tv/matches/0bdbb6be-e51e-4675-84cd-0d4b1fc9c087 |website=World Snooker Tour |access-date=30 June 2025}}</ref> [[Artemijs Žižins]] won the group and advanced to Stage 2 [[#Group D matches|Group D]].<ref>{{cite web |title=Championship League Stage One Group 4 |url=https://www.snooker.org/res/index.asp?event=2390 |access-date=12 July 2025 |website=snooker.org}}</ref><ref name="WST_g4_g30">{{cite web |title=Ace Artemijs knocks out Si |url=https://www.wst.tv/news/2025/july/12/Ace-Artemijs-Knocks-Out-Si/ |website=World Snooker Tour |date=12 July 2025 |access-date=12 July 2025}}</ref>
+
+====Group 4 matches====
+{{div col}}
+* '''Si Jiahui 3'''–0 Kayden Brierley
+* '''Artemijs Žižins 3'''–1 Farakh Ajaib
+* '''Artemijs Žižins 3'''–0 Kayden Brierley
+* ''Si Jiahui 2–2 Farakh Ajaib''
+* '''Farakh Ajaib 3'''–1 Kayden Brierley
+* Si Jiahui 0–'''3 Artemijs Žižins'''
+{{div col end}}
+
+====Group 4 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Artemijs Žižins]]'''|LVA}} <small>{{tooltip|1=(61)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 92 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Si Jiahui]]|CHN}} <small>{{tooltip|1=(4)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 114 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Farakh Ajaib]]|PAK}} <small>{{tooltip|1=(68)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 60 || 4
+|-
+| 4 ||align=left| {{flagathlete|Kayden Brierley|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 51 || 0
+|}
+:'''Note:''' Si Jiahui and Farakh Ajaib finished Group 4 equal on points and frame difference. Their head-to-head was a draw. Si made a higher break (114) and so was placed above Ajaib in the group.
+
+===Group 5===
+Group 5 was played on 16 July.<ref name="s1_w3_matches" /> [[Chris Wakelin]] won the group and advanced to Stage 2 [[#Group E matches|Group E]].<ref>{{cite web |title=Championship League Stage One Group 5 |url=https://www.snooker.org/res/index.asp?event=2391 |access-date=16 July 2025 |website=snooker.org}}</ref><ref name="WST_g5_g16">{{cite web |title=Wakelin clinches top spot |url=https://www.wst.tv/news/2025/july/16/wakelin-/ |website=World Snooker Tour |date=16 July 2025 |access-date=17 July 2025}}</ref>
+
+====Group 5 matches====
+{{div col}}
+* '''Chris Wakelin 3'''–1 Daniel Womersley
+* '''Julien Leclercq 3'''–0 Mitchell Mann
+* ''Julien Leclercq 2–2 Daniel Womersley''
+* '''Chris Wakelin 3'''–0 Mitchell Mann
+* ''Mitchell Mann 2–2 Daniel Womersley''
+* ''Chris Wakelin 2–2 Julien Leclercq''
+{{div col end}}
+
+====Group 5 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Chris Wakelin]]'''|ENG}} <small>{{tooltip|1=(5)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 136 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Julien Leclercq (snooker player)|Julien Leclercq]]|BEL}} <small>{{tooltip|1=(60)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 115 || 5
+|-
+| 3 ||align=left| {{flagathlete|Daniel Womersley|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 59 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Mitchell Mann]]|ENG}} <small>{{tooltip|1=(69)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 2 || 8 || −6 || 39 || 1
+|}
+
+===Group 6===
+Group 6 was played on 7 July.<ref name="s1_w2_matches" /> [[Liam Davies (snooker player)|Liam Davies]] won the group, beating the defending champion [[Ali Carter]], and advanced to Stage 2 [[#Group F matches|Group F]].<ref>{{cite web |title=Championship League Stage One Group 6 |url=https://www.snooker.org/res/index.asp?event=2392 |access-date=7 July 2025 |website=snooker.org}}</ref><ref name="WST_g6_g7">{{cite web |title=Davies downs the Captain |url=https://www.wst.tv/news/2025/july/07/davies-downs-the-captain/ |website=World Snooker Tour |date=7 July 2025 |access-date=8 July 2025}}</ref>
+
+====Group 6 matches====
+{{div col}}
+* '''Ali Carter 3'''–1 Jack Bradford
+* '''Liam Davies 3'''–1 Huang Jiahao
+* '''Liam Davies 3'''–1 Jack Bradford
+* '''Ali Carter 3'''–1 Huang Jiahao
+* Huang Jiahao 0–'''3 Jack Bradford'''
+* Ali Carter 1–'''3 Liam Davies'''
+{{div col end}}
+
+====Group 6 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Liam Davies (snooker player)|Liam Davies]]'''|WAL}} <small>{{tooltip|1=(59)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 3 || 6 || 135 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Ali Carter]]|ENG}} <small>{{tooltip|1=(6)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 5 || 2 || 119 || 6
+|-
+| 3 ||align=left| {{flagathlete|Jack Bradford|WAL}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 0 || 2 || 5 || 6 || −1 || 64 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Huang Jiahao]]|CHN}} <small>{{tooltip|1=(70)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 2 || 9 || −7 || 79 || 0
+|}
+
+===Group 7===
+Group 7 was played on 7 July.<ref name="s1_w2_matches" /> [[Amir Sarkhosh]] won the group and advanced to Stage 2 [[#Group G matches|Group G]].<ref>{{cite web |title=Championship League Stage One Group 7 |url=https://www.snooker.org/res/index.asp?event=2393 |access-date=7 July 2025 |website=snooker.org}}</ref><ref name="WST_g6_g7" />
+
+====Group 7 matches====
+{{div col}}
+* ''Gary Wilson 2–2 Alex Clenshaw''
+* ''Amir Sarkhosh 2–2 Bai Yulu''
+* '''Amir Sarkhosh 3'''–1 Alex Clenshaw
+* ''Gary Wilson 2–2 Bai Yulu''
+* ''Bai Yulu 2–2 Alex Clenshaw''
+* ''Gary Wilson 2–2 Amir Sarkhosh''
+{{div col end}}
+
+====Group 7 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Amir Sarkhosh]]'''|IRN}} <small>{{tooltip|1=(58)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 129 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|[[Gary Wilson (snooker player)|Gary Wilson]]|ENG}} <small>{{tooltip|1=(7)|2=player seeding}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 129 || 3
+|-
+| 3 ||align=left| {{flagathlete|[[Bai Yulu]]|CHN}} <small>{{tooltip|1=(71)|2=player seeding}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 96 || 3
+|-
+| 4 ||align=left| {{flagathlete|Alex Clenshaw|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 64 || 2
+|}
+:'''Note:''' Gary Wilson and Bai Yulu finished Group 7 equal on points and frame difference. Their head-to-head was a draw. Wilson made a higher break (129) and so was placed above Bai in the group.
+
+===Group 8===
+Group 8 was played on 11 July.<ref name="s1_w2_matches" /> [[Tom Ford (snooker player)|Tom Ford]] won the group and advanced to Stage 2 [[#Group H matches|Group H]].<ref>{{cite web |title=Championship League Stage One Group 8 |url=https://www.snooker.org/res/index.asp?event=2394 |access-date=11 July 2025 |website=snooker.org}}</ref><ref name="WST_g8_g21">{{cite web |title=Liu and Ford top tables |url=https://www.wst.tv/news/2025/july/11/Liu-And-Ford-Top-Tables-/ |website=World Snooker Tour |date=11 July 2025 |access-date=12 July 2025}}</ref>
+
+====Group 8 matches====
+{{div col}}
+* ''Tom Ford 2–2 Simon Blackwell''
+* ''Allan Taylor 2–2 Mink Nutcharut''
+* ''Allan Taylor 2–2 Simon Blackwell''
+* '''Tom Ford 3'''–0 Mink Nutcharut
+* Mink Nutcharut 1–'''3 Simon Blackwell'''
+* ''Tom Ford 2–2 Allan Taylor''
+{{div col end}}
+
+====Group 8 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Tom Ford (snooker player)|Tom Ford]]'''|ENG}} <small>{{tooltip|1=(8)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 132 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|Simon Blackwell|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 69 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Allan Taylor (snooker player)|Allan Taylor]]|ENG}} <small>{{tooltip|1=(57)|2=player seeding}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 80 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Mink Nutcharut]]|THA}} <small>{{tooltip|1=(72)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 78 || 1
+|}
+
+===Group 9===
+Group 9 was played on 3 July.<ref name="s1_w1_matches" /> [[Wu Yize]] won the group and advanced to Stage 2 [[#Group H matches|Group H]].<ref>{{cite web |title=Championship League Stage One Group 9 |url=https://www.snooker.org/res/index.asp?event=2395 |access-date=3 July 2025 |website=snooker.org}}</ref><ref name="WST_g9_g28">{{cite web |title=Wu and Walden off the mark |url=https://www.wst.tv/news/2025/july/03/Wu-And-Walden-Off-The-Mark/ |website=World Snooker Tour |date=3 July 2025 |access-date=4 July 2025}}</ref>
+
+====Group 9 matches====
+{{div col}}
+* ''Wu Yize 2–2 Craig Steadman''
+* '''Wang Yuchen 3'''–1 Kreishh Gurbaxani
+* Wang Yuchen 1–'''3 Craig Steadman'''
+* '''Wu Yize 3'''–0 Kreishh Gurbaxani
+* Kreishh Gurbaxani 1–'''3 Craig Steadman'''
+* '''Wu Yize 3'''–0 Wang Yuchen
+{{div col end}}
+
+====Group 9 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Wu Yize]]'''|CHN}} <small>{{tooltip|1=(9)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 2 || 6 || 94 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Craig Steadman]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 68 || 7
+|-
+| 3 ||align=left| {{flagathlete|[[Wang Yuchen (snooker player)|Wang Yuchen]]|HKG}} <small>{{tooltip|1=(56)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 7 || −3 || 140 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Kreishh Gurbaxani]]|IND}} <small>{{tooltip|1=(73)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 2 || 9 || −7 || 119 || 0
+|}
+
+===Group 10===
+Group 10 was played on 10 July.<ref name="s1_w2_matches" /> [[Ben Mertens]] won the group and advanced to Stage 2 [[#Group G matches|Group G]].<ref>{{cite web |title=Championship League Stage One Group 10 |url=https://www.snooker.org/res/index.asp?event=2396 |access-date=10 July 2025 |website=snooker.org}}</ref><ref name="WST_g10_g23">{{cite web |title=Mertens and Craigie into second stage |url=https://www.wst.tv/news/2025/july/10/Mertens-and-Craigie-Into-Second-Stage/ |website=World Snooker Tour |date=10 July 2025 |access-date=10 July 2025}}</ref>
+
+====Group 10 matches====
+{{div col}}
+* ''Jak Jones 2–2 Alfie Davies''
+* '''Ben Mertens 3'''–0 Jonas Luz
+* ''Ben Mertens 2–2 Alfie Davies''
+* '''Jak Jones 3'''–0 Jonas Luz
+* Jonas Luz 0–'''3 Alfie Davies'''
+* Jak Jones 0–'''3 Ben Mertens'''
+{{div col end}}
+
+====Group 10 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Ben Mertens]]'''|BEL}} <small>{{tooltip|1=(55)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 2 || 6 || 131 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|Alfie Davies|WAL}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 102 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Jak Jones]]|WAL}} <small>{{tooltip|1=(10)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 102 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Jonas Luz]]|BRA}} <small>{{tooltip|1=(74)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 0 || 9 || −9 || 22 || 0
+|}
+
+===Group 11===
+Group 11 was played on 5 July.<ref name="s1_w1_matches" /> [[Stuart Bingham]] won the group and advanced to Stage 2 [[#Group F matches|Group F]].<ref>{{cite web |title=Championship League Stage One Group 11 |url=https://www.snooker.org/res/index.asp?event=2397 |access-date=5 July 2025 |website=snooker.org}}</ref><ref name="WST_g11_g17">{{cite web |title=Bingham and Slessor dominate groups |url=https://www.wst.tv/news/2025/july/05/bingham-and-slessor-dominate-groups/ |website=World Snooker Tour |date=5 July 2025 |access-date=6 July 2025}}</ref>
+
+====Group 11 matches====
+{{div col}}
+* '''Stuart Bingham 3'''–0 Halim Hussain
+* '''Antoni Kowalski 3'''–1 Hatem Yassen
+* '''Antoni Kowalski 3'''–0 Halim Hussain
+* '''Stuart Bingham 3'''–0 Hatem Yassen
+* '''Hatem Yassen 3'''–0 Halim Hussain
+* '''Stuart Bingham 3'''–1 Antoni Kowalski
+{{div col end}}
+
+====Group 11 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Stuart Bingham]]'''|ENG}} <small>{{tooltip|1=(11)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 102 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Antoni Kowalski]]|POL}} <small>{{tooltip|1=(54)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 4 || 3 || 88 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Hatem Yassen]]|EGY}} <small>{{tooltip|1=(75)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 6 || −2 || 53 || 3
+|-
+| 4 ||align=left| {{flagathlete|Halim Hussain|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 0 || 3 || 0 || 9 || −9 || 42 || 0
+|}
+
+===Group 12===
+Group 12 was played on 9 July.<ref name="s1_w2_matches" /> [[David Gilbert (snooker player)|David Gilbert]] won the group and advanced to Stage 2 [[#Group E matches|Group E]].<ref>{{cite web |title=Championship League Stage One Group 12 |url=https://www.snooker.org/res/index.asp?event=2398 |access-date=9 July 2025 |website=snooker.org}}</ref><ref name="WST_g12_g19">{{cite web |title=Gilbert tops group by claiming final frame |url=https://www.wst.tv/news/2025/july/09/gilbert-edges-through/ |website=World Snooker Tour |date=9 July 2025 |access-date=9 July 2025}}</ref>
+
+====Group 12 matches====
+{{div col}}
+* '''David Gilbert 3'''–0 Paul Deaville
+* '''Duane Jones 3'''–1 Louis Heathcote
+* '''Duane Jones 3'''–0 Paul Deaville
+* '''David Gilbert 3'''–1 Louis Heathcote
+* '''Louis Heathcote 3'''–1 Paul Deaville
+* '''David Gilbert 3'''–1 Duane Jones
+{{div col end}}
+
+====Group 12 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[David Gilbert (snooker player)|David Gilbert]]'''|ENG}} <small>{{tooltip|1=(12)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 2 || 7 || 139 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Duane Jones (snooker player)|Duane Jones]]|WAL}} <small>{{tooltip|1=(53)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 4 || 3 || 118 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Louis Heathcote]]|ENG}} <small>{{tooltip|1=(86)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 5 || 7 || −2 || 128 || 3
+|-
+| 4 ||align=left| {{flagathlete|Paul Deaville|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 82 || 0
+|}
+
+===Group 13===
+Group 13 was played on 8 July.<ref name="s1_w2_matches" /> [[Jack Lisowski]] won the group and advanced to Stage 2 [[#Group D matches|Group D]].<ref>{{cite web |title=Championship League Stage One Group 13 |url=https://www.snooker.org/res/index.asp?event=2399 |access-date=8 July 2025 |website=snooker.org}}</ref><ref name="WST_g13_g14">{{cite web |title=Lisowski and Pang top groups |url=https://www.wst.tv/news/2025/july/08/lisowski-and-pang-top-groups/ |website=World Snooker Tour |date=8 July 2025 |access-date=8 July 2025}}</ref>
+
+====Group 13 matches====
+{{div col}}
+* '''Jack Lisowski 3'''–1 Ashley Carty
+* ''Gong Chenzhi 2–2 Ross Muir''
+* '''Gong Chenzhi 3'''–0 Ashley Carty
+* '''Jack Lisowski 3'''–0 Ross Muir
+* ''Ross Muir 2–2 Ashley Carty''
+* ''Jack Lisowski 2–2 Gong Chenzhi''
+{{div col end}}
+
+====Group 13 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Jack Lisowski]]'''|ENG}} <small>{{tooltip|1=(13)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 101 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Gong Chenzhi]]|CHN}} <small>{{tooltip|1=(52)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 103 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Ross Muir]]|SCO}} <small>{{tooltip|1=(85)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 66 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Ashley Carty]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 65 || 1
+|}
+
+===Group 14===
+Group 14 was played on 8 July.<ref name="s1_w2_matches" /> [[Pang Junxu]] won the group and advanced to Stage 2 [[#Group C matches|Group C]].<ref>{{cite web |title=Championship League Stage One Group 14 |url=https://www.snooker.org/res/index.asp?event=2400 |access-date=8 July 2025 |website=snooker.org}}</ref><ref name="WST_g13_g14" />
+
+====Group 14 matches====
+{{div col}}
+* '''Pang Junxu 3'''–0 Dean Young
+* ''Oliver Lines 2–2 Jiang Jun''
+* '''Oliver Lines 3'''–0 Dean Young
+* Pang Junxu 1–'''3 Jiang Jun'''
+* {{nowrap|Jiang Jun}} 1–'''3 Dean Young'''
+* '''Pang Junxu 3'''–0 Oliver Lines
+{{div col end}}
+
+====Group 14 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Pang Junxu]]'''|CHN}} <small>{{tooltip|1=(14)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 3 || 4 || 136 || '''6'''
+|-
+| 2 ||align=left| {{flagathlete|[[Jiang Jun]]|CHN}} <small>{{tooltip|1=(91)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 123 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Oliver Lines]]|ENG}} <small>{{tooltip|1=(51)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 74 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Dean Young (snooker player)|Dean Young]]|SCO}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 0 || 2 || 3 || 7 || −4 || 84 || 3
+|}
+:'''Note:''' Jiang Jun and Oliver Lines finished Group 14 equal on points and frame difference. Their head-to-head was a draw. Jiang made a higher break (123) and so was placed above Lines in the group.
+
+===Group 15===
+Group 15 was played on 30 June.<ref name="s1_w1_matches" /> [[Stephen Maguire]] won the group and advanced to Stage 2 [[#Group B matches|Group B]].<ref>{{cite web |title=Championship League Stage One Group 15 |url=https://www.snooker.org/res/index.asp?event=2401 |access-date=1 July 2025 |website=snooker.org}}</ref><ref name="WST_g15_g26">{{cite web |title=Maguire fires trio of wins |url=https://www.wst.tv/news/2025/june/30/maguire-fires-trio-of-wins/ |website=World Snooker Tour |date=30 June 2025 |access-date=2 July 2025}}</ref>
+
+====Group 15 matches====
+{{div col}}
+* '''Stephen Maguire 3'''–1 James Cahill
+* ''Michael Holt 2–2 Liam Graham''
+* '''Michael Holt 3'''–0 James Cahill
+* '''Stephen Maguire 3'''–0 Liam Graham
+* ''Liam Graham 2–2 James Cahill''
+* '''Stephen Maguire  3'''–0 Michael Holt
+{{div col end}}
+
+====Group 15 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Stephen Maguire]]'''|SCO}} <small>{{tooltip|1=(15)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 119 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Michael Holt (snooker player)|Michael Holt]]|ENG}} <small>{{tooltip|1=(50)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 89 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Liam Graham (snooker player)|Liam Graham]]|SCO}} <small>{{tooltip|1=(90)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 39 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[James Cahill (snooker player)|James Cahill]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 71 || 1
+|}
+
+===Group 16===
+Group 16 was played on 16 July.<ref name="s1_w3_matches" /> [[Joe O'Connor (snooker player)|Joe O'Connor]] won the group and advanced to Stage 2 [[#Group A matches|Group A]].<ref>{{cite web |title=Championship League Stage One Group 16 |url=https://www.snooker.org/res/index.asp?event=2402 |access-date=16 July 2025 |website=snooker.org}}</ref><ref name="WST_g5_g16" />
+
+====Group 16 matches====
+{{div col}}
+* '''Joe O'Connor 3'''–1 Andrew Pagett
+* '''Zak Surety 3'''–0 Liam Pullen
+* '''Zak Surety 3'''–1 Andrew Pagett
+* '''Joe O'Connor 3'''–0 Liam Pullen
+* '''Liam Pullen 3'''–1 Andrew Pagett
+* '''Joe O'Connor 3'''–0 Zak Surety
+{{div col end}}
+
+====Group 16 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Joe O'Connor (snooker player)|Joe O'Connor]]'''|ENG}} <small>{{tooltip|1=(16)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 1 || 8 || 116 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Zak Surety]]|ENG}} <small>{{tooltip|1=(49)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 6 || 4 || 2 || 110 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Liam Pullen]]|ENG}} <small>{{tooltip|1=(92)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 3 || 7 || −4 || 77 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Andrew Pagett]]|WAL}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 0 || 3 || 3 || 9 || −6 || 78 || 0
+|}
+
+===Group 17===
+Group 17 was played on 5 July.<ref name="s1_w1_matches" /> [[Elliot Slessor]] won the group and advanced to Stage 2 [[#Group A matches|Group A]].<ref>{{cite web |title=Championship League Stage One Group 17 |url=https://www.snooker.org/res/index.asp?event=2403 |access-date=5 July 2025 |website=snooker.org}}</ref><ref name="WST_g11_g17" />
+
+====Group 17 matches====
+{{div col}}
+* '''Elliot Slessor 3'''–1 Mark Lloyd
+* ''Stan Moody 2–2 Oliver Brown''
+* ''Stan Moody 2–2 Mark Lloyd''
+* '''Elliot Slessor 3'''–0 Oliver Brown
+* '''Oliver Brown 3'''–0 Mark Lloyd
+* '''Elliot Slessor 3'''–1 Stan Moody
+{{div col end}}
+
+====Group 17 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Elliot Slessor]]'''|ENG}} <small>{{tooltip|1=(17)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 2 || 7 || 113 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Oliver Brown (snooker player)|Oliver Brown]]|ENG}} <small>{{tooltip|1=(81)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 65 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Stan Moody]]|ENG}} <small>{{tooltip|1=(48)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 97 || 2
+|-
+| 4 ||align=left| {{flagathlete|Mark Lloyd|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 95 || 1
+|}
+
+===Group 18===
+Group 18 was played on 2 July.<ref name="s1_w1_matches" /> [[Yuan Sijun]] won the group and advanced to Stage 2 [[#Group B matches|Group B]].<ref>{{cite web |title=Championship League Stage One Group 18 |url=https://www.snooker.org/res/index.asp?event=2404 |access-date=2 July 2025 |website=snooker.org}}</ref><ref name="WST_g18_g25">{{cite web |title=Stevens pips Day to top spot |url=https://www.wst.tv/news/2025/july/02/stevens-edges-out-day/ |website=World Snooker Tour |date=2 July 2025 |access-date=3 July 2025}}</ref> In his 3{{nbnd}}0 win over [[Sanderson Lam]], Yuan scored centuries in all three frames, of 104, 123 and 106.<ref>{{cite web |title=Ton happy Yuan Sijun dominates Group 18 |url=https://snookerhq.com/2025/07/03/yuan-sijun-group-18-championship-league-snooker/ |website=snookerhq.com |first=David |last=Caulfield |date=3 July 2025 |access-date=3 July 2025}}</ref>
+
+====Group 18 matches====
+{{div col}}
+* '''Yuan Sijun 3'''–0 Stuart Carrington
+* ''Sanderson Lam 2–2 Alexander Ursenbacher''
+* ''Sanderson Lam 2–2 Stuart Carrington''
+* '''Yuan Sijun 3'''–0 Alexander Ursenbacher
+* Alexander Ursenbacher 1–'''3 Stuart Carrington'''
+* '''Yuan Sijun 3'''–0 Sanderson Lam
+{{div col end}}
+
+====Group 18 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Yuan Sijun]]'''|CHN}} <small>{{tooltip|1=(18)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 0 || 9 || 123 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Stuart Carrington]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 73 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Sanderson Lam]]|ENG}} <small>{{tooltip|1=(47)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 89 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Alexander Ursenbacher]]|SUI}} <small>{{tooltip|1=(83)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 73 || 1
+|}
+
+===Group 19===
+Group 19 was played on 9 July.<ref name="s1_w2_matches" /> [[Lei Peifan]] won the group and advanced to Stage 2 [[#Group C matches|Group C]].<ref>{{cite web |title=Championship League Stage One Group 19 |url=https://www.snooker.org/res/index.asp?event=2405 |access-date=9 July 2025 |website=snooker.org}}</ref><ref name="WST_g12_g19" />
+
+====Group 19 matches====
+{{div col}}
+* '''Lei Peifan 3'''–1 Ryan Davies
+* '''Long Zehuang 3'''–0 Mateusz Baranowski
+* Long Zehuang 1–'''3 Ryan Davies'''
+* '''Lei Peifan 3'''–0 Mateusz Baranowski
+* '''Mateusz Baranowski 3'''–1 Ryan Davies
+* ''Lei Peifan 2–2 Long Zehuang''
+{{div col end}}
+
+====Group 19 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Lei Peifan]]'''|CHN}} <small>{{tooltip|1=(19)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 120 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Long Zehuang]]|CHN}} <small>{{tooltip|1=(46)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 117 || 4
+|-
+| 3 ||align=left| {{flagathlete|Ryan Davies|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 0 || 2 || 5 || 7 || −2 || 92 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Mateusz Baranowski]]|POL}} <small>{{tooltip|1=(94)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 3 || 7 || −4 || 71 || 3
+|}
+
+===Group 20===
+Group 20 was played on 14 July.<ref name="s1_w3_matches" /> [[David Lilley (snooker player)|David Lilley]] won the group and advanced to Stage 2 [[#Group D matches|Group D]].<ref>{{cite web |title=Championship League Stage One Group 20 |url=https://www.snooker.org/res/index.asp?event=2406 |access-date=14 July 2025 |website=snooker.org}}</ref><ref name="WST_g1_g20" />
+
+====Group 20 matches====
+{{div col}}
+* Zhou Yuelong 1–'''3 Ashley Hugill'''
+* '''David Lilley 3'''–0 David Grace
+* ''David Lilley 2–2 Ashley Hugill''
+* '''Zhou Yuelong 3'''–1 David Grace
+* ''David Grace 2–2 Ashley Hugill''
+* Zhou Yuelong 1–'''3 David Lilley'''
+{{div col end}}
+
+====Group 20 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[David Lilley (snooker player)|David Lilley]]'''|ENG}} <small>{{tooltip|1=(45)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 128 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Ashley Hugill]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 100 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Zhou Yuelong]]|CHN}} <small>{{tooltip|1=(20)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 5 || 7 || −2 || 84 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[David Grace (snooker player)|David Grace]]|ENG}} <small>{{tooltip|1=(78)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 83 || 1
+|}
+
+===Group 21===
+Group 21 was played on 11 July.<ref name="s1_w2_matches" /> [[Liu Hongyu (snooker player)|Liu Hongyu]] won the group and advanced to Stage 2 [[#Group E matches|Group E]].<ref>{{cite web |title=Championship League Stage One Group 21 |url=https://www.snooker.org/res/index.asp?event=2407 |access-date=11 July 2025 |website=snooker.org}}</ref><ref name="WST_g8_g21" />
+
+====Group 21 matches====
+{{div col}}
+* ''Noppon Saengkham 2–2 Patrick Whelan''
+* '''Liu Hongyu 3'''–0 Ian Burns
+* '''Liu Hongyu 3'''–1 Patrick Whelan
+* ''Noppon Saengkham 2–2 Ian Burns''
+* '''Ian Burns 3'''–0 Patrick Whelan
+* ''Noppon Saengkham 2–2 Liu Hongyu''
+{{div col end}}
+
+====Group 21 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Liu Hongyu (snooker player)|Liu Hongyu]]'''|CHN}} <small>{{tooltip|1=(44)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 133 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Ian Burns (snooker player)|Ian Burns]]|ENG}} <small>{{tooltip|1=(79)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 72 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Noppon Saengkham]]|THA}} <small>{{tooltip|1=(21)|2=player seeding}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 96 || 3
+|-
+| 4 ||align=left| {{flagathlete|Patrick Whelan|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 78 || 1
+|}
+
+===Group 22===
+Group 22 was played on 1 July.<ref name="s1_w1_matches" /> [[Matthew Selt]] won the group and advanced to Stage 2 [[#Group F matches|Group F]].<ref>{{cite web |title=Championship League Stage One Group 22 |url=https://www.snooker.org/res/index.asp?event=2408 |access-date=2 July 2025 |website=snooker.org}}</ref><ref name="WST_g3_g22" />
+
+====Group 22 matches====
+{{div col}}
+* '''Matthew Selt 3'''–1 Umut Dikme
+* '''Scott Donaldson 3'''–1 Fergal Quinn
+* ''Scott Donaldson 2–2 Umut Dikme''
+* '''Matthew Selt 3'''–1 Fergal Quinn
+* Fergal Quinn 0–'''3 Umut Dikme'''
+* '''Matthew Selt 3'''–1 Scott Donaldson
+{{div col end}}
+
+====Group 22 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Matthew Selt]]'''|ENG}} <small>{{tooltip|1=(22)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 3 || 6 || 119 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|Umut Dikme|GER}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 107 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Scott Donaldson]]|SCO}} <small>{{tooltip|1=(43)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 89 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Fergal Quinn (snooker player)|Fergal Quinn]]|NIR}} <small>{{tooltip|1=(100)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 2 || 9 || −7 || 77 || 0
+|}
+
+===Group 23===
+Group 23 was played on 10 July.<ref name="s1_w2_matches" /> [[Sam Craigie]] won the group and advanced to Stage 2 [[#Group G matches|Group G]].<ref>{{cite web |title=Championship League Stage One Group 23 |url=https://www.snooker.org/res/index.asp?event=2409 |access-date=10 July 2025 |website=snooker.org}}</ref><ref name="WST_g10_g23" />
+
+====Group 23 matches====
+{{div col}}
+* Jimmy Robertson 0–3 '''Sam Craigie'''
+* '''Mark Davis 3'''–1 Connor Benzey
+* ''Mark Davis 2–2 Sam Craigie''
+* '''Jimmy Robertson 3'''–0 Connor Benzey
+* ''Connor Benzey 2–2 Sam Craigie''
+* ''Jimmy Robertson 2–2 Mark Davis''
+{{div col end}}
+
+====Group 23 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Sam Craigie]]'''|ENG}} <small>{{tooltip|1=(80)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 101 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|[[Mark Davis (snooker player)|Mark Davis]]|ENG}} <small>{{tooltip|1=(42)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 101 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Jimmy Robertson (snooker player)|Jimmy Robertson]]|ENG}} <small>{{tooltip|1=(23)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 92 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Connor Benzey]]|ENG}} <small>{{tooltip|1=(102)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 57 || 1
+|}
+
+===Group 24===
+Group 24 was played on 15 July.<ref name="s1_w3_matches" /> [[Liu Wenwei]] won the group and advanced to Stage 2 [[#Group H matches|Group H]].<ref>{{cite web |title=Championship League Stage One Group 24 |url=https://www.snooker.org/res/index.asp?event=2410 |access-date=15 July 2025 |website=snooker.org}}</ref><ref name="WST_g24_g31">{{cite web |title=Un-Nooh blasts past Minister of Defence |url=https://www.wst.tv/news/2025/july/15/un-nooh-blasts-past-minister-of-defence/ |website=World Snooker Tour |date=15 July 2025 |access-date=15 July 2025}}</ref>
+
+====Group 24 matches====
+{{div col}}
+* ''Jackson Page 2–2 Zack Richardson''
+* Jordan Brown 0–'''3 Liu Wenwei'''
+* ''Jordan Brown 2–2 Zack Richardson''
+* Jackson Page 1–'''3 Liu Wenwei'''
+* ''Liu Wenwei 2–2 Zack Richardson''
+* '''Jackson Page 3'''–1 Jordan Brown
+{{div col end}}
+
+====Group 24 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Liu Wenwei]]'''|CHN}} <small>{{tooltip|1=(103)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 134 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Jackson Page]]|WAL}} <small>{{tooltip|1=(24)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 98 || 4
+|-
+| 3 ||align=left| {{flagathlete|Zack Richardson|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small>{{efn|Zack Richardson replaced [[Jimmy White]] (seeded 76) who withdrew.<ref name="s.o_main" />}} || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 51 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Jordan Brown (snooker player)|Jordan Brown]]|NIR}} <small>{{tooltip|1=(41)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 69 || 1
+|}
+
+===Group 25===
+Group 25 was played on 2 July.<ref name="s1_w1_matches" /> [[Matthew Stevens]] won the group and advanced to Stage 2 [[#Group H matches|Group H]].<ref>{{cite web |title=Championship League Stage One Group 25 |url=https://www.snooker.org/res/index.asp?event=2411 |access-date=2 July 2025 |website=snooker.org}}</ref><ref name="WST_g18_g25" />
+
+====Group 25 matches====
+{{div col}}
+* '''Ryan Day 3'''–1 Lan Yuhao
+* '''Matthew Stevens 3'''–0 Xu Yichen
+* ''Matthew Stevens 2–2 Lan Yuhao''
+* '''Ryan Day 3'''–1 Xu Yichen
+* Xu Yichen 1–'''3 Lan Yuhao'''
+* Ryan Day 1–'''3 Matthew Stevens'''
+{{div col end}}
+
+====Group 25 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Matthew Stevens]]'''|WAL}} <small>{{tooltip|1=(40)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 80 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Ryan Day (snooker player)|Ryan Day]]|WAL}} <small>{{tooltip|1=(25)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 5 || 2 || 138 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Lan Yuhao]]|CHN}} <small>{{tooltip|1=(106)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 142 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Xu Yichen]]|CHN}} <small>{{tooltip|1=(99)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 2 || 9 || −7 || 120 || 0
+|}
+
+===Group 26===
+Group 26 was played on 30 June.<ref name="s1_w1_matches" /> [[Yao Pengcheng]] won the group and advanced to Stage 2 [[#Group G matches|Group G]].<ref>{{cite web |title=Championship League Stage One Group 26 |url=https://www.snooker.org/res/index.asp?event=2412 |access-date=1 July 2025 |website=snooker.org}}</ref><ref name="WST_g15_g26" />
+
+====Group 26 matches====
+{{div col}}
+* ''Lyu Haotian 2–2 Yao Pengcheng''
+* ''Jamie Jones 2–2 Zhao Hanyang''
+* Jamie Jones 1–'''3 Yao Pengcheng'''
+* '''Lyu Haotian 3'''–1 Zhao Hanyang
+* ''Zhao Hanyang 2–2 Yao Pengcheng''
+* Lyu Haotian 1–'''3 Jamie Jones'''
+{{div col end}}
+
+====Group 26 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Yao Pengcheng]]'''|CHN}} <small>{{tooltip|1=(95)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 58 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|[[Jamie Jones (snooker player)|Jamie Jones]]|WAL}} <small>{{tooltip|1=(39)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 86 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Lyu Haotian]]|CHN}} <small>{{tooltip|1=(26)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 95 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Zhao Hanyang]]|CHN}} <small>{{tooltip|1=(96)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 55 || 2
+|}
+:'''Note:''' Jamie Jones and Lyu Haotian finished Group 26 equal on points and frame difference. Jones won their head-to-head and so was placed above Lyu in the group.
+
+===Group 27===
+Group 27 was played on 17 July.<ref name="s1_w3_matches" /> [[Dylan Emery]] won the group and advanced to Stage 2 [[#Group F matches|Group F]].<ref>{{cite web |title=Championship League Stage One Group 27 |url=https://www.snooker.org/res/index.asp?event=2413 |access-date=17 July 2025 |website=snooker.org}}</ref><ref name="WST_g27_g29">{{cite web |title=Emery and Xu top tables to complete first phase |url=https://www.wst.tv/news/2025/july/17/Emery-And-Xu-Top-Tables-To-Complete-First-Phase/ |website=World Snooker Tour |date=17 July 2025 |access-date=17 July 2025}}</ref>
+
+====Group 27 matches====
+{{div col}}
+* '''Aaron Hill 3'''–0 Gary Thomson
+* ''Dylan Emery 2–2 Sahil Nayyar''
+* '''Dylan Emery 3'''–0 Gary Thomson
+* '''Aaron Hill 3'''–0 Sahil Nayyar
+* Sahil Nayyar 1–'''3 Gary Thomson'''
+* Aaron Hill 0–'''3 Dylan Emery'''
+{{div col end}}
+
+====Group 27 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Dylan Emery]]'''|WAL}} <small>{{tooltip|1=(89)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 2 || 6 || 126 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Aaron Hill (snooker player)|Aaron Hill]]|IRL}} <small>{{tooltip|1=(38)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 6 || 3 || 3 || 130 || 6
+|-
+| 3 ||align=left| {{flagathlete|Gary Thomson|SCO}} <small>{{tooltip|1=(a)|2=amateur player}}</small>{{efn|Gary Thomson replaced [[Luca Brecel]] (seeded 27) who withdrew.<ref name="s.o_main" />}} || 3 || 1 || 0 || 2 || 3 || 7 || −4 || 33 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Sahil Nayyar]]|CAN}} <small>{{tooltip|1=(105)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 39 || 1
+|}
+
+===Group 28===
+Group 28 was played on 3 July.<ref name="s1_w1_matches" /> [[Ricky Walden]] won the group and advanced to Stage 2 [[#Group E matches|Group E]].<ref>{{cite web |title=Championship League Stage One Group 28 |url=https://www.snooker.org/res/index.asp?event=2414 |access-date=3 July 2025 |website=snooker.org}}</ref><ref name="WST_g9_g28" />
+
+====Group 28 matches====
+{{div col}}
+* '''Ricky Walden 3'''–1 Chang Bingyu
+* ''Robert Milkins 2–2 Steven Hallworth''
+* ''Robert Milkins 2–2 Chang Bingyu''
+* ''Ricky Walden 2–2 Steven Hallworth''
+* Steven Hallworth 0–'''3 Chang Bingyu'''
+* '''Ricky Walden 3'''–1 Robert Milkins
+{{div col end}}
+
+====Group 28 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Ricky Walden]]'''|ENG}} <small>{{tooltip|1=(28)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 143 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Chang Bingyu]]|CHN}} <small>{{tooltip|1=(98)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 102 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Robert Milkins]]|ENG}} <small>{{tooltip|1=(37)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 137 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Steven Hallworth]]|ENG}} <small>{{tooltip|1=(84)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 79 || 2
+|}
+
+===Group 29===
+Group 29 was played on 17 July.<ref name="s1_w3_matches" /> [[Xu Si]] won the group and advanced to Stage 2 [[#Group D matches|Group D]].<ref>{{cite web |title=Championship League Stage One Group 29 |url=https://www.snooker.org/res/index.asp?event=2415 |access-date=17 July 2025 |website=snooker.org}}</ref><ref name="WST_g27_g29" /> [[Fan Zhengyi]] made a [[maximum break]] in the second frame of his match against Xu. It was the first maximum of the current season, the second 147 of Fan's professional career, and the 218th official maximum.<ref name="Max 218">{{cite web |title=Fan-tastic 147 |url=https://www.wst.tv/news/2025/july/17/fan-tastic-147/ |website=[[World Snooker Tour]] |date=17 July 2025 |access-date=23 July 2025 |archive-date=23 July 2025 |archive-url=https://web.archive.org/web/20250723115008/https://www.wst.tv/news/2025/july/17/fan-tastic-147/ |url-status=live}}</ref>
+
+====Group 29 matches====
+{{div col}}
+* '''Xu Si 3'''–0 Michał Szubarczyk
+* Fan Zhengyi 1–'''3 Liam Highfield'''
+* ''Fan Zhengyi 2–2 Michał Szubarczyk''
+* '''Xu Si 3'''–1 Liam Highfield
+* '''Liam Highfield 3'''–1 Michał Szubarczyk
+* ''Xu Si 2–2 Fan Zhengyi''
+{{div col end}}
+
+====Group 29 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Xu Si]]'''|CHN}} <small>{{tooltip|1=(29)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 107{{efn|name="XuSi107"|1=In the final frame of the match between [[Xu Si]] and [[Michał Szubarczyk]], Xu made a {{cuegloss|break}} of 100 and then potted the final {{cuegloss|black ball}}, but the {{cuegloss|cue ball}} went into the {{cuegloss|green pocket}}, and was therefore a {{cuegloss|foul}}. This can be seen in the [https://www.youtube.com/watch?v=n0dZ6YRcKVo video] of the match (at time-stamp 1:03:35). The {{cuegloss|in-off}} was not noticed by either player or by referee [[John Pellew (snooker referee)|John Pellew]] who recorded the break as a 107, which is as shown in the [https://www.wst.tv/match-centre/9af9c8d5-9208-4916-98e1-736af2942d09 WST match record] and recorded by SnookerInfo.<ref name="SI_cent" /> This error, however, made no difference to the outcome of the match or the group.}} || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Liam Highfield]]|ENG}} <small>{{tooltip|1=(77)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 5 || 2 || 86 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Fan Zhengyi]]|CHN}} <small>{{tooltip|1=(36)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || [[Maximum break|147]]<ref name="Max 218" /> || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Michał Szubarczyk]]|POL}} <small>{{tooltip|1=(104)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 91 || 1
+|}
+
+===Group 30===
+Group 30 was played on 12 July.<ref name="s1_w2_matches" /> [[Robbie Williams (snooker player)|Robbie Williams]] won the group and advanced to Stage 2 [[#Group C matches|Group C]].<ref>{{cite web |title=Championship League Stage One Group 30 |url=https://www.snooker.org/res/index.asp?event=2416 |access-date=12 July 2025 |website=snooker.org}}</ref><ref name="WST_g4_g30" />
+
+====Group 30 matches====
+{{div col}}
+* '''Ben Woollaston 3'''–1 Iulian Boiko
+* '''Robbie Williams 3'''–0 Florian Nüßle
+* ''Robbie Williams 2–2 Iulian Boiko''
+* '''Ben Woollaston 3'''–1 Florian Nüßle
+* '''Florian Nüßle 3'''–1 Iulian Boiko
+* Ben Woollaston 1–'''3 Robbie Williams'''
+{{div col end}}
+
+====Group 30 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Robbie Williams (snooker player)|Robbie Williams]]'''|ENG}} <small>{{tooltip|1=(35)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 110 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Ben Woollaston]]|ENG}} <small>{{tooltip|1=(30)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 5 || 2 || 108 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Florian Nüßle]]|AUT}} <small>{{tooltip|1=(87)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 7 || −3 || 100 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Iulian Boiko]]|UKR}} <small>{{tooltip|1=(88)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 4 || 8 || −4 || 103 || 1
+|}
+
+===Group 31===
+Group 31 was played on 15 July.<ref name="s1_w3_matches" /> [[Thepchaiya Un-Nooh]] won the group and advanced to Stage 2 [[#Group B matches|Group B]].<ref>{{cite web |title=Championship League Stage One Group 31 |url=https://www.snooker.org/res/index.asp?event=2417 |access-date=15 July 2025 |website=snooker.org}}</ref><ref name="WST_g24_g31" />
+
+====Group 31 matches====
+{{div col}}
+* '''Martin O'Donnell 3'''–0 Reanne Evans
+* ''Thepchaiya Un-Nooh 2–2 Gao Yang''
+* '''Thepchaiya Un-Nooh 3'''–0 Reanne Evans
+* '''Martin O'Donnell 3'''–1 Gao Yang
+* '''Gao Yang 3'''–1 Reanne Evans
+* Martin O'Donnell 0–'''3 Thepchaiya Un-Nooh'''
+{{div col end}}
+
+====Group 31 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Thepchaiya Un-Nooh]]'''|THA}} <small>{{tooltip|1=(34)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 2 || 6 || 98 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Martin O'Donnell (snooker player)|Martin O'Donnell]]|ENG}} <small>{{tooltip|1=(31)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 6 || 4 || 2 || 109 || 6
+|-
+| 3 ||align=left| {{flagathlete|[[Gao Yang (snooker player)|Gao Yang]]|CHN}} <small>{{tooltip|1=(101)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 131 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Reanne Evans]]|ENG}} <small>{{tooltip|1=(82)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 1 || 9 || −8 || 41 || 0
+|}
+
+===Group 32===
+Group 32 was played on 4 July.<ref name="s1_w1_matches" /> [[Ng On-yee]] won the group and advanced to Stage 2 [[#Group A matches|Group A]].<ref>{{cite web |title=Championship League Stage One Group 32 |url=https://www.snooker.org/res/index.asp?event=2418 |access-date=4 July 2025 |website=snooker.org}}</ref> By topping the group, Ng became the first woman to reach the last 32 of a professional ranking event.<ref name="WST_g2_g32" />
+
+====Group 32 matches====
+{{div col}}
+* ''Daniel Wells 2–2 Ng On-yee''
+* '''He Guoqiang 3'''–0 Leone Crowley
+* ''He Guoqiang 2–2 Ng On-yee''
+* ''Daniel Wells 2–2 Leone Crowley''
+* Leone Crowley 0–'''3 Ng On-yee'''
+* '''Daniel Wells 3'''–1 He Guoqiang
+{{div col end}}
+
+====Group 32 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Ng On-yee]]'''|HKG}} <small>{{tooltip|1=(97)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 4 || 3 || 57 || '''5'''
+|-
+| 2 ||align=left| {{flagathlete|[[Daniel Wells (snooker player)|Daniel Wells]]|WAL}} <small>{{tooltip|1=(32)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 126 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[He Guoqiang (snooker player)|He Guoqiang]]|CHN}} <small>{{tooltip|1=(33)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 88 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Leone Crowley]]|IRL}} <small>{{tooltip|1=(93)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 2 || 8 || −6 || 134 || 1
+|}
+
+==Stage two==
+Stage two consisted of eight groups, each having four players. Numbers in parentheses after the players' names denote the players' [[seed (sports)|seeding]], and (a) indicates amateur players not on the main [[World Snooker Tour]].<ref name="s.o_main" />
+
+===Order of play===
+Order of play as follows:
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right;" | 18 July || style="text-align:left;" | [[#Group A matches|Group A]]
+|-
+| style="text-align:right;" | 18 July || style="text-align:left;" | [[#Group B matches|Group B]]
+|-
+| style="text-align:right;" | 19 July || style="text-align:left;" | [[#Group C matches|Group C]]
+|-
+| style="text-align:right;" | 19 July || style="text-align:left;" | [[#Group D matches|Group D]]
+|}
+</div>
+<div style=display:inline-table>
+{| class="wikitable"
+! Date
+! Group
+|-
+| style="text-align:right;" | 21 July || style="text-align:left;" | [[#Group E matches|Group E]]
+|-
+| style="text-align:right;" | 21 July || style="text-align:left;" | [[#Group F matches|Group F]]
+|-
+| style="text-align:right;" | 22 July || style="text-align:left;" | [[#Group G matches|Group G]]
+|-
+| style="text-align:right;" | 22 July || style="text-align:left;" | [[#Group H matches|Group H]]
+|}
+</div>
+
+===Group A===
+Group A was played on 18 July.<ref name="s2_w1_matches">{{cite web |title=BetVictor Championship League Snooker 2025 (Stage Two/WK1) matches |url=https://www.wst.tv/matches/d24c59e5-ea03-49bd-b7ba-f80596de3d67 |website=World Snooker Tour |access-date=15 July 2025}}</ref> [[Joe O'Connor (snooker player)|Joe O'Connor]] won the group and advanced to Stage 3, [[#Winners' group 1 matches|Winners' group 1]].<ref>{{cite web |title=Championship League Stage Two Group A |url=https://www.snooker.org/res/index.asp?event=2381 |access-date=18 July 2025 |website=snooker.org}}</ref><ref name="WST_gA_gB">{{cite web |title=Maguire and O'Connor first into stage three |url=https://www.wst.tv/news/2025/july/18/Maguire-And-O-Connor-First-Into-Stage-Three/ |website=World Snooker Tour |date=18 July 2025 |access-date=18 July 2025}}</ref>
+
+====Group A matches====
+{{div col}}
+* '''Joe O'Connor 3'''–0 Ng On-yee
+* ''Elliot Slessor 2–2 Haydon Pinhey''
+* '''Elliot Slessor 3'''–1 Ng On-yee
+* '''Joe O'Connor 3'''–1 Haydon Pinhey
+* Haydon Pinhey 1–'''3 Ng On-yee'''
+* '''Joe O'Connor 3'''–1 Elliot Slessor
+{{div col end}}
+
+====Group A table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Joe O'Connor (snooker player)|Joe O'Connor]]'''|ENG}} <small>{{tooltip|1=(16)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 2 || 7 || 103 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Elliot Slessor]]|ENG}} <small>{{tooltip|1=(17)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 77 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Ng On-yee]]|HKG}} <small>{{tooltip|1=(97)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 4 || 7 || −3 || 113 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Haydon Pinhey]]|ENG}} <small>{{tooltip|1=(64)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 4 || 8 || −4 || 90 || 1
+|}
+
+===Group B===
+Group B was played on 18 July.<ref name="s2_w1_matches" /> [[Stephen Maguire]] won the group and advanced to Stage 3, [[#Winners' group 2 matches|Winners' group 2]].<ref>{{cite web |title=Championship League Stage Two Group B |url=https://www.snooker.org/res/index.asp?event=2382 |access-date=18 July 2025 |website=snooker.org}}</ref><ref name="WST_gA_gB" />
+
+====Group B matches====
+{{div col}}
+* '''Zhang Anda 3'''–0 Thepchaiya Un-Nooh
+* ''Stephen Maguire 2–2 Yuan Sijun''
+* '''Stephen Maguire 3'''–1 Thepchaiya Un-Nooh
+* ''Zhang Anda 2–2 Yuan Sijun''
+* ''Yuan Sijun 2–2 Thepchaiya Un-Nooh''
+* Zhang Anda 1–'''3 Stephen Maguire'''
+{{div col end}}
+
+====Group B table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Stephen Maguire]]'''|SCO}} <small>{{tooltip|1=(15)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 84 || 7
+|-
+| 2 ||align=left| {{flagathlete|[[Zhang Anda]]|CHN}} <small>{{tooltip|1=(2)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 93 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Yuan Sijun]]|CHN}} <small>{{tooltip|1=(18)|2=player seeding}}</small> || 3 || 0 || 3 || 0 || 6 || 6 || 0 || 88 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Thepchaiya Un-Nooh]]|THA}} <small>{{tooltip|1=(34)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 71 || 1
+|}
+
+===Group C===
+Group C was played on 19 July.<ref name="s2_w1_matches" /> [[Pang Junxu]] won the group and advanced to Stage 3, [[#Winners' group 2 matches|Winners' group 2]].<ref>{{cite web |title=Championship League Stage Two Group C |url=https://www.snooker.org/res/index.asp?event=2383 |access-date=19 July 2025 |website=snooker.org}}</ref><ref name="WST_gC_gD">{{cite web |title=Chinese duo reach final stage |url=https://www.wst.tv/news/2025/july/19/Chinese-Duo-Reach-Final-Stage/ |website=World Snooker Tour |date=19 July 2025 |access-date=19 July 2025}}</ref>
+
+====Group C matches====
+{{div col}}
+* '''Pang Junxu 3'''–1 Alfie Burden
+* ''Lei Peifan 2–2 Robbie Williams''
+* ''Lei Peifan 2–2 Alfie Burden''
+* Pang Junxu 0–'''3 Robbie Williams'''
+* Robbie Williams 0–'''3 Alfie Burden'''
+* '''Pang Junxu 3'''–1 Lei Peifan
+{{div col end}}
+
+====Group C table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Pang Junxu]]'''|CHN}} <small>{{tooltip|1=(14)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 6 || 5 || 1 || 132 || '''6'''
+|-
+| 3 ||align=left| {{flagathlete|[[Alfie Burden]]|ENG}} <small>{{tooltip|1=(a)|2=amateur player}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 63 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Robbie Williams (snooker player)|Robbie Williams]]|ENG}} <small>{{tooltip|1=(35)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 93 || 4
+|-
+| 2 ||align=left| {{flagathlete|[[Lei Peifan]]|CHN}} <small>{{tooltip|1=(19)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 68 || 2
+|}
+
+===Group D===
+Group D was played on 19 July.<ref name="s2_w1_matches" /> [[Xu Si]] won the group and advanced to Stage 3, [[#Winners' group 1 matches|Winners' group 1]].<ref>{{cite web |title=Championship League Stage Two Group D |url=https://www.snooker.org/res/index.asp?event=2384 |access-date=19 July 2025 |website=snooker.org}}</ref><ref name="WST_gC_gD" />
+
+====Group D matches====
+{{div col}}
+* ''Jack Lisowski 2–2 Artemijs Žižins''
+* '''Xu Si 3'''–0 David Lilley
+* '''Xu Si 3'''–0 Artemijs Žižins
+* Jack Lisowski 0–'''3 David Lilley'''
+* ''David Lilley 2–2 Artemijs Žižins''
+* ''Jack Lisowski 2–2 Xu Si''
+{{div col end}}
+
+====Group D table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Xu Si]]'''|CHN}} <small>{{tooltip|1=(29)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 2 || 6 || 102 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[David Lilley (snooker player)|David Lilley]]|ENG}} <small>{{tooltip|1=(45)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 92 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Jack Lisowski]]|ENG}} <small>{{tooltip|1=(13)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 69 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Artemijs Žižins]]|LVA}} <small>{{tooltip|1=(61)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 68 || 2
+|}
+:'''Note:''' Jack Lisowski and Artemijs Žižins finished Group D equal on points and frame difference. Their head-to-head was a draw. Lisowski made a higher break (69) and so was placed above Žižins in the group.
+
+===Group E===
+Group E was played on 21 July.<ref name="s2_w2_matches">{{cite web |title=BetVictor Championship League Snooker 2025 (Stage Two/WK2) matches |url=https://www.wst.tv/matches/1582b824-bd1b-4f33-8b38-086cb3c8a143 |website=World Snooker Tour |access-date=15 July 2025}}</ref> [[Ricky Walden]] won the group and advanced to Stage 3, [[#Winners' group 1 matches|Winners' group 1]].<ref>{{cite web |title=Championship League Stage Two Group E |url=https://www.snooker.org/res/index.asp?event=2385 |access-date=21 July 2025 |website=snooker.org}}</ref><ref name="WST_gE_gF">{{cite web |title=Selt edges into finale |url=https://www.wst.tv/news/2025/july/21/selt-edges-into-finale/ |website=World Snooker Tour |date=21 July 2025 |access-date=22 July 2025}}</ref>
+
+====Group E matches====
+{{div col}}
+* ''Chris Wakelin 2–2 Liu Hongyu''
+* David Gilbert 1–'''3 Ricky Walden'''
+* David Gilbert 1–'''3 Liu Hongyu'''
+* ''Chris Wakelin 2–2 Ricky Walden''
+* '''Ricky Walden 3'''–1 Liu Hongyu
+* Chris Wakelin 0–'''3 David Gilbert'''
+{{div col end}}
+
+====Group E table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Ricky Walden]]'''|ENG}} <small>{{tooltip|1=(28)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 116 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Liu Hongyu (snooker player)|Liu Hongyu]]|CHN}} <small>{{tooltip|1=(44)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 63 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[David Gilbert (snooker player)|David Gilbert]]|ENG}} <small>{{tooltip|1=(12)|2=player seeding}}</small> || 3 || 1 || 0 || 2 || 5 || 6 || −1 || 114 || 3
+|-
+| 4 ||align=left| {{flagathlete|[[Chris Wakelin]]|ENG}} <small>{{tooltip|1=(5)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 79 || 2
+|}
+
+===Group F===
+Group F was played on 21 July.<ref name="s2_w2_matches" /> [[Matthew Selt]] won the group and advanced to Stage 3, [[#Winners' group 2 matches|Winners' group 2]].<ref>{{cite web |title=Championship League Stage Two Group F |url=https://www.snooker.org/res/index.asp?event=2386 |access-date=21 July 2025 |website=snooker.org}}</ref><ref name="WST_gE_gF" />
+
+====Group F matches====
+{{div col}}
+* ''Stuart Bingham 2–2 Dylan Emery''
+* ''Matthew Selt 2–2 Liam Davies''
+* '''Matthew Selt 3'''–1 Dylan Emery
+* Stuart Bingham 1–'''3 Liam Davies'''
+* '''Liam Davies 3'''–1 Dylan Emery
+* Stuart Bingham 0–'''3 Matthew Selt'''
+{{div col end}}
+
+====Group F table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Matthew Selt]]'''|ENG}} <small>{{tooltip|1=(22)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 75 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Liam Davies (snooker player)|Liam Davies]]|WAL}} <small>{{tooltip|1=(59)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 4 || 4 || 126 || 7
+|-
+| 3 ||align=left| {{flagathlete|[[Dylan Emery]]|WAL}} <small>{{tooltip|1=(89)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 4 || 8 || −4 || 73 || 1
+|-
+| 4 ||align=left| {{flagathlete|[[Stuart Bingham]]|ENG}} <small>{{tooltip|1=(11)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 115 || 1
+|}
+
+===Group G===
+Group G was played on 22 July.<ref name="s2_w2_matches" /> [[Ben Mertens]] won the group and advanced to Stage 3, [[#Winners' group 2 matches|Winners' group 2]].<ref>{{cite web |title=Championship League Stage Two Group G |url=https://www.snooker.org/res/index.asp?event=2387 |access-date=22 July 2025 |website=snooker.org}}</ref><ref name="WST_gG_gH">{{cite web |title=Ford motors to final phase |url=https://www.wst.tv/news/2025/july/22/ford-motors-to-final-phase/ |website=World Snooker Tour |date=22 July 2025 |access-date=22 July 2025}}</ref>
+
+====Group G matches====
+{{div col}}
+* '''Ben Mertens 3'''–0 Yao Pengcheng
+* Amir Sarkhosh 0–3 '''Sam Craigie'''
+* Sam Craigie 0–'''3 Yao Pengcheng'''
+* Ben Mertens 0–'''3 Amir Sarkhosh'''
+* ''Amir Sarkhosh 2–2 Yao Pengcheng''
+* ''Ben Mertens 2–2 Sam Craigie''
+{{div col end}}
+
+====Group G table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Ben Mertens]]'''|BEL}} <small>{{tooltip|1=(55)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 111 || '''4'''
+|-
+| 2 ||align=left| {{flagathlete|[[Amir Sarkhosh]]|IRN}} <small>{{tooltip|1=(58)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 90 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Sam Craigie]]|ENG}} <small>{{tooltip|1=(80)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 69 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Yao Pengcheng]]|CHN}} <small>{{tooltip|1=(95)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 67 || 4
+|}
+:'''Note:''' All four players finished Group G equal on points and frame difference. Their positions in the group were determined by their highest breaks.
+
+===Group H===
+Group H was played on 22 July.<ref name="s2_w2_matches" /> [[Tom Ford (snooker player)|Tom Ford]] won the group and advanced to Stage 3, [[#Winners' group 1 matches|Winners' group 1]].<ref>{{cite web |title=Championship League Stage Two Group H |url=https://www.snooker.org/res/index.asp?event=2388 |access-date=22 July 2025 |website=snooker.org}}</ref><ref name="WST_gG_gH" />
+
+====Group H matches====
+{{div col}}
+* '''Tom Ford 3'''–0 Liu Wenwei
+* ''Wu Yize 2–2 Matthew Stevens''
+* '''Wu Yize 3'''–1 Liu Wenwei
+* ''Tom Ford 2–2 Matthew Stevens''
+* '''Matthew Stevens 3'''–1 Liu Wenwei
+* '''Tom Ford 3'''–1 Wu Yize
+{{div col end}}
+
+====Group H table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Tom Ford (snooker player)|Tom Ford]]'''|ENG}} <small>{{tooltip|1=(8)|2=player seeding}}</small> || 3 || 2 || 1 || 0 || 8 || 3 || 5 || 132 || '''7'''
+|-
+| 2 ||align=left| {{flagathlete|[[Matthew Stevens]]|WAL}} <small>{{tooltip|1=(40)|2=player seeding}}</small> || 3 || 1 || 2 || 0 || 7 || 5 || 2 || 116 || 5
+|-
+| 3 ||align=left| {{flagathlete|[[Wu Yize]]|CHN}} <small>{{tooltip|1=(9)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 6 || 0 || 132 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Liu Wenwei]]|CHN}} <small>{{tooltip|1=(103)|2=player seeding}}</small> || 3 || 0 || 0 || 3 || 2 || 9 || −7 || 65 || 0
+|}
+
+==Stage three==
+Stage three consisted of two groups, each having four players. Numbers in parentheses after the players' names denote the players' [[seed (sports)|seeding]].<ref name="s.o_main" /><ref>{{cite web |title=BetVictor Championship League: The final eight |url=https://www.wst.tv/news/2025/july/22/betvictor-championship-league--the-final-eight/ |website=World Snooker Tour |date=22 July 2025 |access-date=23 July 2025}}</ref>
+
+===Winners' group 1===
+Winners' group 1 was played on 23 July.<ref name="s3_final_matches">{{cite web |title=BetVictor Championship League Snooker 2025 (Stage Three & Final) matches |url=https://www.wst.tv/matches/be19bea7-4a6f-4487-9301-14a1ee31069e |website=World Snooker Tour |access-date=20 July 2025}}</ref> [[Joe O'Connor (snooker player)|Joe O'Connor]] won the group and advanced to the final.<ref>{{cite web |title=Championship League Stage Three Group A |url=https://www.snooker.org/res/index.asp?event=2379 |access-date=23 July 2025 |website=snooker.org}}</ref><ref name="WST_gw1_gw2_final">{{cite web |title=Maguire ends long drought to win seventh ranking title |url=https://www.wst.tv/news/2025/july/23/Maguire-Ends-Long-Drought-To-Win-Seventh-Ranking-Title/ |website=World Snooker Tour |date=23 July 2025 |access-date=23 July 2025}}</ref>
+
+====Winners' group 1 matches====
+{{div col}}
+* ''Tom Ford 2–2 Xu Si''
+* '''Joe O'Connor 3'''–1 Ricky Walden
+* '''Joe O'Connor 3'''–1 Xu Si
+* ''Tom Ford 2–2 Ricky Walden''
+* '''Ricky Walden 3'''–0 Xu Si
+* Tom Ford 0–3 '''Joe O'Connor'''
+{{div col end}}
+
+====Winners' group 1 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Joe O'Connor (snooker player)|Joe O'Connor]]'''|ENG}} <small>{{tooltip|1=(16)|2=player seeding}}</small> || 3 || 3 || 0 || 0 || 9 || 2 || 7 || 69 || '''9'''
+|-
+| 2 ||align=left| {{flagathlete|[[Ricky Walden]]|ENG}} <small>{{tooltip|1=(28)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 6 || 5 || 1 || 122 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Tom Ford (snooker player)|Tom Ford]]|ENG}} <small>{{tooltip|1=(8)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 120 || 2
+|-
+| 4 ||align=left| {{flagathlete|[[Xu Si]]|CHN}} <small>{{tooltip|1=(29)|2=player seeding}}</small> || 3 || 0 || 1 || 2 || 3 || 8 || −5 || 79 || 1
+|}
+
+===Winners' group 2===
+Winners' group 2 was played on 23 July.<ref name="s3_final_matches" /> [[Stephen Maguire]] won the group and advanced to the final.<ref>{{cite web |title=Championship League Stage Three Group B |url=https://www.snooker.org/res/index.asp?event=2380 |access-date=23 July 2025 |website=snooker.org}}</ref><ref name="WST_gw1_gw2_final" />
+
+====Winners' group 2 matches====
+{{div col}}
+* Pang Junxu 0–'''3 Ben Mertens'''
+* '''Stephen Maguire 3'''–0 Matthew Selt
+* '''Stephen Maguire 3'''–0 Ben Mertens
+* ''Pang Junxu 2–2 Matthew Selt''
+* ''Matthew Selt 2–2 Ben Mertens''
+* '''Pang Junxu 3'''–1 Stephen Maguire
+{{div col end}}
+
+====Winners' group 2 table====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=20|{{tooltip|1=Pos.|2=Position}}
+!width=260|Player
+!width=20|{{tooltip|1=P|2=Played}}
+!width=20|{{tooltip|1=W|2=Won}}
+!width=20|{{tooltip|1=D|2=Drawn}}
+!width=20|{{tooltip|1=L|2=Lost}}
+!width=20|{{tooltip|1=FW|2=Frames won}}
+!width=20|{{tooltip|1=FL|2=Frames lost}}
+!width=20|{{tooltip|1=FD|2=Frame difference}}
+!width=30|{{tooltip|1=HB|2=Highest break}}
+!width=20|{{tooltip|1=Pts.|2=Points}}
+|-style="background:#D0F0C0;"
+| 1 ||align=left| {{flagathlete|'''[[Stephen Maguire]]'''|SCO}} <small>{{tooltip|1=(15)|2=player seeding}}</small> || 3 || 2 || 0 || 1 || 7 || 3 || 4 || 78 || '''6'''
+|-
+| 2 ||align=left| {{flagathlete|[[Ben Mertens]]|BEL}} <small>{{tooltip|1=(55)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 5 || 0 || 115 || 4
+|-
+| 3 ||align=left| {{flagathlete|[[Pang Junxu]]|CHN}} <small>{{tooltip|1=(14)|2=player seeding}}</small> || 3 || 1 || 1 || 1 || 5 || 6 || −1 || 136 || 4
+|-
+| 4 ||align=left| {{flagathlete|[[Matthew Selt]]|ENG}} <small>{{tooltip|1=(22)|2=player seeding}}</small> || 3 || 0 || 2 || 1 || 4 || 7 || −3 || 97 || 2
+|}
+
+===Final===
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+| colspan="3" align="center" bgcolor="#ffd700" | '''Final:''' Best-of-five frames. Referee: [[John Pellew (snooker referee)|John Pellew]]<br/>[[Leicester Arena]], [[Leicester]], England, 23 July 2025
+|-
+| width="200" align="right" | [[Joe O'Connor (snooker player)|Joe O'Connor]]  <small>{{tooltip|1=(16)|2=player seeding}}</small><br/>{{ENG}}
+| width="100" align="center" | 1{{ndash}}'''3'''
+| width="200" align="left" | '''[[Stephen Maguire]]''' <small>{{tooltip|1=(15)|2=player seeding}}</small><ref>{{cite web |title=Stephen Maguire crowned 2025 BetVictor Championship League Snooker ranking champion |url=https://championshipleaguesnooker.co.uk/stephen-maguire-crowned-2025-betvictor-championship-league-snooker-ranking-champion/ |website=championshipleaguesnooker.co.uk |date=23 July 2025 |access-date=24 July 2025}}</ref><br/>{{SCO}}
+|-
+| colspan="3" align="center" | ''Frame scores:'' 0{{ndash}}'''102''', 32{{ndash}}'''70''', '''103'''{{ndash}}1, 0{{ndash}}'''89'''
+|-
+| align="right" | (''frame 3'') '''99'''
+| align="center" | Highest break
+| 89 (''frame 4'')
+|-
+| align="right" | ''0''
+| align="center" | Century breaks
+| ''0''
+|-
+|}
+
+==Century breaks==
+A total of 109 century breaks were made during the tournament with 86 in stage one,<ref>{{cite web |title=Centuries: Championship League Ranking Stage One – 86 |url=https://snookerinfo.co.uk/2025-26/#championship-league-ranking-stage-one-86 |website=snookerinfo.co.uk |access-date=18 May 2026}}</ref> 19 in stage two,<ref>{{cite web |title=Centuries: Championship League Ranking Stage Two – 19 |url=https://snookerinfo.co.uk/2025-26/#championship-league-ranking-stage-two-19 |website=snookerinfo.co.uk |access-date=18 May 2026}}</ref> and 4 in stage three.<ref name="SI_cent">{{cite web |title=Centuries: Championship League Ranking Stage Three – 4 |url=https://snookerinfo.co.uk/2025-26/#championship-league-ranking-stage-three-4 |website=snookerinfo.co.uk |access-date=18 May 2026}}</ref>
+{{div col}}
+* [[Maximum break|147]] {{ndash}} [[Fan Zhengyi]]<ref name="Max 218" />
+* 143, 122, 121, 116, 111, 104 {{ndash}} [[Ricky Walden]]
+* 142 {{ndash}} [[Lan Yuhao]]
+* 141, 111 {{ndash}} [[Chris Totten]]
+* 140, 125, 109 {{ndash}} [[Wang Yuchen (snooker player)|Wang Yuchen]]
+* 139, 129, 114, 105 {{ndash}} [[David Gilbert (snooker player)|David Gilbert]]
+* 138, 103 {{ndash}} [[Ryan Day (snooker player)|Ryan Day]]
+* 137 {{ndash}} [[Robert Milkins]]
+* 136, 136, 132, 109, 101 {{ndash}} [[Pang Junxu]]
+* 136, 128 {{ndash}} [[Robbie McGuigan]]
+* 136 {{ndash}} [[John Astley (snooker player)|John Astley]]
+* 136 {{ndash}} [[Chris Wakelin]]
+* 135, 126, 118, 116 {{ndash}} [[Liam Davies (snooker player)|Liam Davies]]
+* 134 {{ndash}} [[Cheung Ka Wai]]
+* 134 {{ndash}} [[Leone Crowley]]
+* 134 {{ndash}} [[Liu Wenwei]]
+* 133, 104 {{ndash}} [[Liu Hongyu (snooker player)|Liu Hongyu]]
+* 132, 132, 131, 120 {{ndash}} [[Tom Ford (snooker player)|Tom Ford]]
+* 132, 100 {{ndash}} [[Wu Yize]]
+* 131, 131, 130, 115, 111 {{ndash}} [[Ben Mertens]]
+* 131, 124 {{ndash}} [[Gao Yang (snooker player)|Gao Yang]]
+* 130, 100 {{ndash}} [[Aaron Hill (snooker player)|Aaron Hill]]
+* 129, 124 {{ndash}} [[Gary Wilson (snooker player)|Gary Wilson]]
+* 129, 106 {{ndash}} [[Amir Sarkhosh]]
+* 128, 120 {{ndash}} [[Louis Heathcote]]
+* 128 {{ndash}} [[David Lilley (snooker player)|David Lilley]]
+* 126, 103 {{ndash}} [[Dylan Emery]]
+* 126 {{ndash}} [[Daniel Wells (snooker player)|Daniel Wells]]
+* 123, 106, 104 {{ndash}} [[Yuan Sijun]]
+* 123 {{ndash}} [[Jiang Jun]]
+* 120 {{ndash}} [[Lei Peifan]]
+* 120 {{ndash}} [[Xu Yichen]]
+* 119, 103 {{ndash}} [[Ali Carter]]
+* 119, 100 {{ndash}} [[Matthew Selt]]
+* 119 {{ndash}} [[Kreishh Gurbaxani]]
+* 119 {{ndash}} [[Stephen Maguire]]
+* 118, 104 {{ndash}} [[Duane Jones (snooker player)|Duane Jones]]
+* 117 {{ndash}} [[Long Zehuang]]
+* 116, 103 {{ndash}} [[Joe O'Connor (snooker player)|Joe O'Connor]]
+* 116 {{ndash}} [[Matthew Stevens]]
+* 115, 102 {{ndash}} [[Stuart Bingham]]
+* 115 {{ndash}} [[Julien Leclercq (snooker player)|Julien Leclercq]]
+* 114 {{ndash}} [[Si Jiahui]]
+* 113 {{ndash}} [[Ng On-yee]]
+* 113 {{ndash}} [[Elliot Slessor]]
+* 112, 101 {{ndash}} George Pragnell
+* 110 {{ndash}} [[Zak Surety]]
+* 110 {{ndash}} [[Robbie Williams (snooker player)|Robbie Williams]]
+* 109, 101 {{ndash}} [[Martin O'Donnell (snooker player)|Martin O'Donnell]]
+* 108 {{ndash}} [[Ben Woollaston]]
+* 107, 102 {{ndash}} [[Xu Si]]{{efn|name="XuSi107"}}
+* 107 {{ndash}} Umut Dikme
+* 107 {{ndash}} [[Zhang Anda]]
+* 104 {{ndash}} [[Bulcsú Révész]]
+* 103 {{ndash}} [[Iulian Boiko]]
+* 103 {{ndash}} [[Gong Chenzhi]]
+* 102 {{ndash}} [[Chang Bingyu]]
+* 102 {{ndash}} Alfie Davies
+* 102 {{ndash}} [[Jak Jones]]
+* 101 {{ndash}} [[Sam Craigie]]
+* 101 {{ndash}} [[Mark Davis (snooker player)|Mark Davis]]
+* 101 {{ndash}} [[Jack Lisowski]]
+* 100 {{ndash}} [[Ashley Hugill]]
+* 100 {{ndash}} [[Florian Nüßle]]
+{{div col end}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://championshipleaguesnooker.co.uk/ Matchroom Sport – Championship League Snooker]
+* [https://www.youtube.com/@MatchroomPool1/streams Table one channel stream] on [[YouTube]]
+* [https://www.youtube.com/@MatchroomMultiSport/streams Table two channel stream] on [[YouTube]]
+
+{{Championship League}}
+{{Snooker tournaments}}
+{{2025–26 snooker season}}
+
+[[Category:Championship League]]
+[[Category:Snooker ranking tournaments]]
+[[Category:2025 in snooker]]
+[[Category:2025 in English sport]]
+[[Category:Sport in Leicester]]

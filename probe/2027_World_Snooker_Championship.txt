@@ -1,0 +1,267 @@
+{{Short description|Professional snooker tournament}}
+{{Use dmy dates|date=April 2026}}
+{{Use British English|date=April 2026}}
+{{Infobox individual snooker tournament
+| tournament_name = 2027 [[World Snooker Championship]]
+| logo = 
+| dates = {{Start and end dates|2027|4|17|2027|5|3|df=y}}
+| venue = [[Crucible Theatre]]
+| location = [[Sheffield]]
+| country = England
+| organisation = [[World Snooker Tour]]
+| format = [[List of snooker ranking tournaments|Ranking event]]
+| Total prize fund =£3,000,000 
+| winners_share =£625,000 
+| highest_break = 
+| winner = 
+| runner_up = 
+| score = 
+| previous = [[2026 World Snooker Championship|2026]]
+| next = 
+| defending_champion ={{flagathlete|[[Wu Yize]]|CHN}} 
+| caption = Part of the snooker [[Triple Crown (snooker)|Triple Crown]]
+}}
+
+The '''2027 World Snooker Championship''' is an upcoming professional [[snooker]] tournament that will take place from 17 April to 3 May 2027 at the [[Crucible Theatre]] in [[Sheffield]], England, the 51st consecutive year that the [[World Snooker Championship]] is staged at the venue. The tournament will be the centenary edition of the World Snooker Championship, which was first held in [[1927 World Snooker Championship|1927]]. Organised by the [[World Snooker Tour]], the tournament will be the 18th and final [[List of snooker ranking tournaments|ranking event]] of the [[2026–27 snooker season|2026–‍27 snooker season]].
+
+[[Wu Yize]] will be the defending champion, having defeated [[Shaun Murphy]] 18–17 in the [[2026 World Snooker Championship|2026 final]].
+
+== Background ==
+[[File:The Crucible Theatre during the 2026 World Snooker Championship.jpg|alt=The Crucible Theatre from outside|thumb|For the 51st consecutive year, the main stage of the tournament will be held at the [[Crucible Theatre]] (''pictured in 2026'') in [[Sheffield]], England.]]
+
+The inaugural [[1927 World Snooker Championship]], then known as the Professional Championship of Snooker, took place at various venues in England between November 1926 and May 1927. [[Joe Davis]] won the final, held at [[Camkin's Hall]] in [[Birmingham]] from 9 to 12&nbsp;May 1927, and went on to win all of the first 15 stagings of the tournament before retiring undefeated after the [[1946 World Snooker Championship|1946 edition]] (no tournaments were held from 1941 to 1945 because of [[World War II]]).<ref name="Everton-1986">{{cite book |last=Everton |first=Clive |title=The History of Snooker and Billiards |publisher=[[Transworld (publisher)|Partridge Press]] |location=[[Haywards Heath]] |date=1986 |isbn=978-1-85225-013-3 |page=50}}</ref><ref name="Turner-2008">{{cite web |last=Turner |first=Chris |title=World Professional Championship |url=http://www.cajt.pwp.blueyonder.co.uk/world.html |website=Chris Turner's Snooker Archive |year=2008 |access-date=31 March 2024 |archive-date=6 June 2016 |archive-url=https://web.archive.org/web/20160606102115/http://www.cajt.pwp.blueyonder.co.uk/world.html |url-status=dead}}</ref><ref>{{cite news |date=11 July 1978 |title=Joe Davis, a snooker champion who retired unbeaten, Was 77 |url=https://www.nytimes.com/1978/07/11/archives/joe-davis-a-snooker-champion-who-retired-unbeaten-was-77.html |url-status=live |archive-url=https://web.archive.org/web/20231022194142/https://www.nytimes.com/1978/07/11/archives/joe-davis-a-snooker-champion-who-retired-unbeaten-was-77.html |archive-date=22 October 2023 |access-date=31 March 2024 |work=[[The New York Times]] |language=en-US |issn=0362-4331}}</ref> The tournament went into abeyance after only two players contested the [[1952 World Snooker Championship|1952 edition]], due to a dispute between the Professional Billiards Players' Association (PBPA) and the [[Billiards Association and Control Council]] (BACC). The PBPA established an alternative tournament, the [[World Professional Match-play Championship|World Professional {{nowrap|Match-play}} Championship]], of which the six editions held between 1952 and 1957 are retroactively regarded as legitimate continuations of the World Snooker Championship. However, due to waning public interest in snooker during the {{nowrap|post-war}} era, that tournament was also discontinued, and the world title was uncontested between 1958 and 1963.<ref name="Everton-1986" /><ref name="Turner-2008" />
+
+Professional player [[Rex Williams]] was instrumental in reviving the World Snooker Championship on a challenge basis in 1964. [[John Pulman]], winner of the [[1957 World Professional Match-play Championship|1957 World Professional {{nowrap|Match-play}} Championship]], defended the world title across seven [[1964–68 World Snooker Championships|challenge matches between 1964 and 1968]]. The World Snooker Championship reverted to an annual knockout tournament for the [[1969 World Snooker Championship|1969 edition]], which marked the beginning of the championship's "modern era".<ref>{{cite web |last1=Nunns |first1=Hector |last2=Hendon |first2=David |title=Full history |url=https://wpbsa.com/about-us/history/full-history/ |website=[[WPBSA]] |access-date=31 March 2024 |archive-date=31 March 2024 |archive-url=https://web.archive.org/web/20240331092827/https://wpbsa.com/about-us/history/full-history/ |url-status=live}}</ref><ref>{{cite web |last=Wright |first=Joe |title=Who has won the most World Snooker Championship titles? Hendry, O'Sullivan, Davis and the players with the most trophies |url=https://www.sportingnews.com/us/snooker/news/most-world-snooker-championship-titles-hendry-osullivan-davis-trophies/joqsk1qyc3vivgpfptced4rl |website=[[The Sporting News]] |date=30 April 2023 |access-date=31 March 2024 |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114220848/https://www.sportingnews.com/us/snooker/news/most-world-snooker-championship-titles-hendry-osullivan-davis-trophies/joqsk1qyc3vivgpfptced4rl |url-status=live}}</ref> The [[1977 World Snooker Championship|1977 edition]] was the first staged at the [[Crucible Theatre]] in [[Sheffield]], where it has remained since.<ref name="WST_Tournament">{{cite web |title=Halo World Championship |url=https://www.wst.tv/worldchampionship |website=[[World Snooker Tour]] |access-date=17 April 2026 |archive-date=17 April 2026 |archive-url=https://web.archive.org/web/20260417181557/https://www.wst.tv/worldchampionship/ |url-status=live}}</ref><ref>{{cite web |title=World Snooker Championship in Sheffield |url=https://www.welcometosheffield.co.uk/visit/headline-events/world-snooker-championship/ |website=[[Sheffield City Council]] |access-date=31 March 2024 |archive-date=25 February 2024 |archive-url=https://web.archive.org/web/20240225012256/https://www.welcometosheffield.co.uk/visit/headline-events/world-snooker-championship/ |url-status=live}}</ref> As of 2027, the most successful players in the modern era are [[Stephen Hendry]] and [[Ronnie O'Sullivan]], each having won the title seven times.<ref>{{cite news |title=World Snooker Championship 2022: Ronnie O'Sullivan plays down record-equalling seventh title |url=https://www.bbc.com/sport/snooker/61301395 |last=Sutcliffe |first=Steve |work=[[BBC Sport]] |date=3 May 2022 |access-date=29 March 2024 |archive-date=22 October 2023 |archive-url=https://web.archive.org/web/20231022211824/https://www.bbc.com/sport/snooker/61301395 |url-status=live}}</ref> Hendry is the tournament's youngest winner, having captured his first title at the [[1990 World Snooker Championship|1990 event]], aged {{age in years and days|1969-01-13|1990-04-29|sep=and}}.<ref>{{cite news |last=Millington |first=Sarah |title=Looking back to 1990: when Stephen Hendry became a snooker champion |url=https://www.newsandstar.co.uk/news/24091190.looking-back-1990-stephen-hendry-became-snooker-champion/ |work=[[News and Star]] |date=2 February 2024 |access-date=31 March 2024 |archive-date=31 March 2024 |archive-url=https://web.archive.org/web/20240331125625/https://www.newsandstar.co.uk/news/24091190.looking-back-1990-stephen-hendry-became-snooker-champion/ |url-status=live |language=en}}</ref> O'Sullivan is the oldest winner, having won his seventh title at the [[2022 World Snooker Championship|2022 event]], aged {{age in years and days|1975-12-05|2022-05-02|sep=and}}.<ref>{{cite web |last=Hammer |first=Chris |title=Ronnie O'Sullivan's career statistics and records as he targets an eighth World Snooker Championship title at the Crucible |url=https://www.sportinglife.com/snooker/news/ronnie-osullivans-career-statistics-and-records-as-he-targets-an-eighth-world-snooker-championship-title-at-the-crucible/215166 |work=[[Sporting Life (British newspaper)|Sporting Life]] |date=22 January 2024 |access-date=31 March 2024 |archive-date=31 March 2024 |archive-url=https://web.archive.org/web/20240331130011/https://www.sportinglife.com/snooker/news/ronnie-osullivans-career-statistics-and-records-as-he-targets-an-eighth-world-snooker-championship-title-at-the-crucible/215166 |url-status=live |language=en-GB}}</ref> O'Sullivan, who made his 34th consecutive appearance at the [[2026 World Snooker Championship|2026 event]], has featured at the Crucible more times than any other player.<ref>{{Cite web |date=22 April 2025 |title=World Snooker Championship 2025: Ronnie O'Sullivan set for return |url=https://www.bbc.com/sport/snooker/articles/cx2y5ex9d7yo |access-date=22 April 2025 |website=[[BBC Sport]] |language=en-GB}}</ref><ref>{{Cite web |last=Day |first=Michael |date=21 April 2026 |title=O'Sullivan in control on record-extending 34th World Snooker Championship appearance |url=https://www.totallysnookered.com/sport/snooker/tournaments/world-championship/ronnie-osullivan-in-control-on-record-extending-34th-world-snooker-championship-appearance-7065257 |access-date=22 April 2026 |website=Totally Snookered |language=en}}</ref>
+
+== Overview ==
+The 2027 edition of the tournament—the 59th successive year that the [[World Snooker Championship]] is contested through the modern knockout format—will take place from 17 April to 3 May at the [[Crucible Theatre]] in [[Sheffield]], England.<ref>{{cite web|url=https://www.wst.tv/tickets/world-championship-2027/|title=World Championship 2027|work=[[World Snooker Tour]]|access-date=29 April 2026|language=en}}</ref> It will be the 51st consecutive year that the World Championship is staged at the venue.<ref>{{cite web |title=Embassy World Championship |url=http://www.snookerscene.co.uk/page.php?id=36 |url-status=dead |archive-url=https://web.archive.org/web/20130124071753/http://www.snookerscene.co.uk/page.php?id=36 |archive-date=24 January 2013 |access-date=31 March 2024 |website=[[Snooker Scene]]}}</ref><ref>{{cite web |date=2 March 2011 |title=History of the World Snooker Championship |url=http://www.worldsnooker.com/page/BetfredcomWorldChampionshipTournamentsArticle/0,,13165~2306123,00.html |url-status=dead |archive-url=https://web.archive.org/web/20131029195714/http://www.worldsnooker.com/page/BetfredcomWorldChampionshipTournamentsArticle/0,,13165~2306123,00.html |archive-date=29 October 2013 |access-date=31 March 2024 |website=[[World Snooker Tour]]}}</ref> Organised by the [[World Snooker Tour]], the tournament will be the 18th and final [[List of snooker ranking tournaments|ranking event]] of the [[2026–27 snooker season|2026–‍27 snooker season]], following the [[2027 Tour Championship]].<ref>{{cite web|url=https://www.snooker.org/res/index.asp?season=2026&template=2&tour=all|title=Calendar 2026/2027|website=snooker.org|access-date=29 April 2026|language=en}}</ref> [[Wu Yize]] will be the defending champion, having defeated [[Shaun Murphy]] 18–17 in the [[2026 World Snooker Championship|2026 final]].<ref>{{Cite web |last=Sutcliffe |first=Steve |date=4 May 2026 |title=World Snooker Championship 2026: Wu Yize holds off Shaun Murphy fightback to retain slender lead in final |url=https://www.bbc.com/sport/snooker/articles/c202n0gkgvxo |access-date=4 May 2026 |website=[[BBC Sport]] |language=en-GB}}</ref> Wu will be the 22nd player to face the so-called "[[Crucible curse]]", referring to the fact that no first-time champion has retained the title since the tournament moved to the Crucible in [[1977 World Snooker Championship|1977]].<ref>{{Cite web |last=Chowdhury |first=Tasnim |date=17 April 2025 |title=World Snooker Championship 2026: What is the Crucible curse? |url=https://www.bbc.com/sport/snooker/articles/cq5wjwlje43o |access-date=5 May 2026 |website=[[BBC Sport]] |language=en-GB}}</ref>
+
+=== Format ===
+The top 16 players from the [[snooker world rankings]], as they stand after the [[2027 Tour Championship]], will be seeded through to the main stage at the Crucible. The qualifying rounds will take place from 5 to 14 April at the [[English Institute of Sport, Sheffield|English Institute of Sport]] in Sheffield, featuring 128 professional and invited amateur competitors, 16 of whom will join the seeds at the Crucible.<ref>{{cite web|url=https://www.snooker.org/res/index.asp?event=2653|title=World Championship Qualifiers 2027|website=snooker.org|access-date=30 April 2026|language=en}}</ref>
+
+=== Prize fund ===
+The winner of the event will receive £625,000 from a total prize fund of £3,000,000.<ref>{{cite web|url=https://www.wst.tv/news/2026/april/20/world-championship-and-uk-championship-prize-money-increased-for-2026-27/|title=World Championship and UK Championship Prize Money Increased For 2026/27|work=[[World Snooker Tour]]|date=20 April 2026|access-date=29 April 2026|language=en}}</ref> The winner's prize will increase from £500,000 to £625,000, the first change since [[2019 World Snooker Championship|2019]]. The total prize fund will increase from £2,395,000 to £3,000,000, the first change since [[2020 World Snooker Championship|2020]].<ref>{{Cite web |last=Colman |first=Jonty |date=30 April 2026 |title=World Snooker Championship 2026: What is the prize money? |url=https://www.bbc.com/sport/snooker/articles/cy71ln1dpn5o |access-date=1 May 2026 |website=[[BBC Sport]] |language=en-GB}}</ref><!--
+
+== Main draw ==
+The draw for the main tournament is shown below. The numbers in parentheses after the players' names denote the [[Seeding (sports)|seedings]] for the 16 seeded players. The match winners are shown in bold.<ref>{{cite web |title=2026 Halo World Championship |url=https://www.snooker.org/res/index.asp?event=2214 |website=snooker.org |date=4 May 2026 |access-date=4 May 2026 |archive-date=4 May 2026 |archive-url=https://web.archive.org/web/20260504221222/https://www.snooker.org/res/index.asp?event=2214 |url-status=live}}</ref><ref>{{cite web |title=Halo World Championship 2026 matches |url=https://www.wst.tv/matches/e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3 |work=[[World Snooker Tour]] |date=4 May 2026 |access-date=5 May 2026 |archive-date=5 May 2026 |archive-url=https://web.archive.org/web/20260505085709/https://www.wst.tv/matches/e5bf7c96-fe75-49f9-bb48-1ee904e2f1f3? |url-status=live}}</ref><ref>{{cite web |title=2026 Halo World Championship Flowchart |url=https://www.snooker.org/res/index.asp?template=65&event=2214 |website=snooker.org |access-date=26 April 2026|archive-url=https://web.archive.org/web/20260623102545/https://www.snooker.org/res/index.asp?template=65&event=2214|archive-date=23 June 2026|url-status=live}}</ref>
+
+{{32TeamBracket-Info
+| boldwinner=high
+| paramstyle=numbered
+| team-width = auto
+| RD1 = '''Round 1 (Last 32)'''<br/>Best of 19 frames
+| RD2 = '''Round 2 (Last 16)'''<br/>Best of 25 frames
+| RD3 = '''Quarter-finals'''<br/>Best of 25 frames
+| RD4 = '''Semi-finals'''<br/>Best of 33 frames
+| RD5 = '''Final'''<br/>Best of 35 frames
+<!-\- Date-Place/Player 1/Score 1/Player 2/Score 2 -\->
+<!-\- LAST 32 -\->
+<!-\- Match1 -\->
+| 17 April
+|{{flagathlete|[[Wu Yize]]|CHN}} {{tooltip|(1)|player seeding}}
+|
+|
+|
+<!-\- Match2 -\->
+| April
+| {{tooltip|(16)|player seeding}}
+|
+|
+|
+<!-\- Match3 -\->
+| April
+| {{tooltip|(9)|player seeding}}
+|
+|
+|
+<!-\- Match4 -\->
+| April
+| {{tooltip|(8)|player seeding}}
+|
+|
+|
+<!-\- Match5 -\->
+| April
+| {{tooltip|(5)|player seeding}}
+|
+|
+|
+<!-\- Match6 -\->
+| April
+| {{tooltip|(12)|player seeding}}
+|
+|
+|
+<!-\- Match7 -\->
+| April
+| {{tooltip|(13)|player seeding}}
+|
+|
+|
+<!-\- Match8 -\->
+| April
+| {{tooltip|(4)|player seeding}}
+|
+|
+|
+<!-\- Match9 -\->
+| April
+| {{tooltip|(3)|player seeding}}
+|
+|
+|
+<!-\- Match10 -\->
+| April
+| {{tooltip|(14)|player seeding}}
+|
+|
+|
+<!-\- Match11 -\->
+| April
+| {{tooltip|(11)|player seeding}}
+|
+|
+|
+<!-\- Match12 -\->
+| April
+| {{tooltip|(6)|player seeding}}
+|
+|
+|
+<!-\- Match13 -\->
+| April 
+| {{tooltip|(7)|player seeding}}
+|
+|
+|
+<!-\- Match14 -\->
+| April
+| {{tooltip|(10)|player seeding}}
+|
+|
+|
+<!-\- Match15 -\->
+| April
+| {{tooltip|(15)|player seeding}}
+|
+|
+|
+<!-\- Match16 -\->
+| April
+| {{tooltip|(2)|player seeding}}
+|
+|
+|
+<!-\- LAST 16 -\->
+<!-\- Match1 -\->
+| April
+|
+|
+|
+|
+<!-\- Match2 -\->
+| April
+|
+|
+|
+|
+<!-\- Match3 -\->
+| April
+|
+|
+|
+|
+<!-\- Match4 -\->
+| April
+|
+|
+|
+|
+<!-\- Match5 -\->
+| April
+|
+|
+|
+|
+<!-\- Match6 -\->
+| April
+|
+|
+|
+|
+<!-\- Match7 -\->
+| April
+|
+|
+|
+|
+<!-\- Match8 -\->
+| April
+|
+|
+|
+|
+<!-\- QUARTER-FINALS -\->
+<!-\- Match1 -\->
+| 27 & 28 April
+|
+|
+|
+|
+<!-\- Match2 -\->
+| 27 & 28 April
+|
+|
+|
+|
+<!-\- Match3 -\->
+| 27 & 28 April
+|
+|
+|
+|
+<!-\- Match4 -\->
+| 27 & 28 April
+|
+|
+|{
+|
+<!-\- SEMI-fINALS -\->
+<!-\- Match1 -\->
+| 29 & 30 April,{{nbsp}}1  May
+|
+|
+|
+|
+<!-\- Match2 -\->
+| 29 & 30 April,{{nbsp}}1 May
+|
+|
+|
+|
+<!-\- FINAL -\->
+| 2 & 3 May
+|
+|
+|
+|
+}}
+
+=== Final: frame scores ===
+-->
+
+== References ==
+{{reflist}}
+
+{{World Snooker Championship}}
+{{2026–27 snooker season}}
+{{World championships in 2027}}
+
+{{DEFAULTSORT:World Snooker Championship, 2027}}
+[[Category:World Snooker Championships|2027]]
+[[Category:Snooker ranking tournaments]]
+[[Category:2027 in snooker|World Championship]]
+[[Category:2027 in English sport]]
+[[Category:2020s in Sheffield]]
+[[Category:April 2027 sports events in the United Kingdom]]
+[[Category:May 2027 sports events in the United Kingdom]]
