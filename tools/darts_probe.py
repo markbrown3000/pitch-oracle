@@ -10,9 +10,10 @@ for q in ["intitle:2026 darts", "intitle:2025 darts", "intitle:2026 PDC", "2026 
     d = json.loads(get(W + urllib.parse.urlencode({"action": "query", "list": "search", "srsearch": q, "srlimit": 100, "format": "json"})))
     titles |= {x["title"] for x in d["query"]["search"]}
 keep = sorted(t for t in titles if any(k in t for k in ("Dart", "dart", "PDC", "Players Championship", "World Matchplay", "UK Open", "Masters")) and ("2026" in t or "2025 Grand Slam" in t or "2025 Players Championship" in t or "2025 PDC" in t))
-for t in keep:
-    try:
-        d = json.loads(get(W + urllib.parse.urlencode({"action": "parse", "page": t, "prop": "wikitext", "format": "json", "redirects": 1})))
-        open("probe/" + t.replace(" ", "_").replace("/", "_") + ".txt", "w").write(d["parse"]["wikitext"]["*"])
-    except Exception as e: print("fail", t, e)
+import time
+for k in range(0, len(keep), 20):
+    chunk = keep[k:k+20]; time.sleep(2)
+    d = json.loads(get(W + urllib.parse.urlencode({"action": "query", "prop": "revisions", "rvprop": "content", "rvslots": "main", "titles": "|".join(chunk), "format": "json", "formatversion": 2, "redirects": 1})))
+    for pg in d["query"]["pages"]:
+        if pg.get("revisions"): open("probe/" + pg["title"].replace(" ", "_").replace("/", "_") + ".txt", "w").write(pg["revisions"][0]["slots"]["main"]["content"])
 print(len(keep), keep)
