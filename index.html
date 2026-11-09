@@ -409,10 +409,13 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
   </div>
   <div id="atView" hidden>
     <div class="bt-head">
-      <p>Every strong pick (60% or more, never a draw) as if we'd put the same stake on it at Bet365's odds before kick-off. Nothing is really staked; it shows what following the strong picks would have done.</p>
+      <p>Every strong pick (60% or more, never a draw) as if we'd put the same stake on it before kick-off, at Bet365's odds or at the best price any bookmaker offered (football-data.co.uk records both). Nothing is really staked; it shows what following the strong picks would have done.</p>
       <div class="frow" style="gap:10px">
         <div class="seg" role="group" aria-label="Stake on each bet" id="atStake">
           <button type="button" data-v="1" aria-pressed="false">£1</button><button type="button" data-v="5" aria-pressed="false">£5</button><button type="button" data-v="10" aria-pressed="true">£10</button><button type="button" data-v="15" aria-pressed="false">£15</button>
+        </div>
+        <div class="seg" role="group" aria-label="Which odds" id="atPrice">
+          <button type="button" data-v="b365" aria-pressed="true">Bet365 odds</button><button type="button" data-v="best" aria-pressed="false">Best price</button>
         </div>
         <div class="seg" role="group" aria-label="Which picks" id="atScope">
           <button type="button" data-v="live" aria-pressed="true">Live picks</button><button type="button" data-v="all" aria-pressed="false">With season replay</button>
@@ -1344,6 +1347,8 @@ const fdB365=(r,c)=>{const h=fdNum(r["B365"+c+"H"]),d=fdNum(r["B365"+c+"D"]),a=f
 const fdNum=x=>{const v=parseFloat(x);return isFinite(v)?v:null};
 function fdProb(h,d,a){h=fdNum(h);d=fdNum(d);a=fdNum(a);if(!(h>1&&d>1&&a>1))return null;
   const ih=1/h,id=1/d,ia=1/a,t=ih+id+ia;return {h:+(100*ih/t).toFixed(1),d:+(100*id/t).toFixed(1),a:+(100*ia/t).toFixed(1)}}
+const fdMax=(r,c)=>{const h=fdNum(r["Max"+c+"H"]),d=fdNum(r["Max"+c+"D"]),a=fdNum(r["Max"+c+"A"]);return h>1&&d>1&&a>1?{h,d,a}:null};
+const fdMaxOU=(r,c)=>{const o=fdNum(r["Max"+c+">2.5"]),u=fdNum(r["Max"+c+"<2.5"]);return o>1&&u>1?{o,u}:null};
 const fdB365OU=(r,c)=>{const o=fdNum(r["B365"+c+">2.5"]),u=fdNum(r["B365"+c+"<2.5"]);return o>1&&u>1?{o,u}:null};
 function fdOU(r){const o=fdNum(r["Avg>2.5"])||fdNum(r["B365>2.5"]),u=fdNum(r["Avg<2.5"])||fdNum(r["B365<2.5"]);
   return o>1&&u>1?+(100*(1/o)/((1/o)+(1/u))).toFixed(1):null}
@@ -1458,6 +1463,7 @@ function fdMerge(data,resultRows,fixtureRows){
       const c=fdProb(r.AvgCH||r.B365CH,r.AvgCD||r.B365CD,r.AvgCA||r.B365CA);if(c)extra.oddsClose=c;
       const ou=fdOU(r);if(ou!=null)extra.o25=ou;
       {const b=fdB365OU(r,"");if(b)extra.b365ou=b;const bc=fdB365OU(r,"C");if(bc)extra.b365ouc=bc}
+      {const x=fdMax(r,"");if(x)extra.max=x;const xc=fdMax(r,"C");if(xc)extra.maxc=xc;const xo=fdMaxOU(r,"");if(xo)extra.maxou=xo}
       {const b=fdB365(r,"");if(b)extra.b365=b;const bc=fdB365(r,"C");if(bc)extra.b365c=bc}
       if(fdNum(r.HST)!=null&&fdNum(r.AST)!=null){extra.hst=fdNum(r.HST);extra.ast=fdNum(r.AST)}
       if(fdNum(r.HxG)!=null&&fdNum(r.AxG)!=null){extra.hxg=+fdNum(r.HxG).toFixed(2);extra.axg=+fdNum(r.AxG).toFixed(2)}
@@ -1490,6 +1496,7 @@ function fdMerge(data,resultRows,fixtureRows){
       if(ou!=null){f.ou=ou;stats.ou++}
       {const b=fdB365(r,"")||fdB365(r,"C");if(b)f.b365=b}
       {const b=fdB365OU(r,"")||fdB365OU(r,"C");if(b)f.b365ou=b}
+      {const x=fdMax(r,"")||fdMax(r,"C");if(x)f.max=x;const xo=fdMaxOU(r,"")||fdMaxOU(r,"C");if(xo)f.maxou=xo}
       stats.fixtures++;
     });
     // drop fixtures that have now been played
@@ -2009,9 +2016,9 @@ async function loadSnooker(){
 document.querySelectorAll("#snStrength button").forEach(b=>b.onclick=()=>{sn.strength=b.dataset.v;try{localStorage.setItem("snStrength",sn.strength)}catch(e){}snRender()});
 
 /* ---------- Auto bet: every strong pick at Bet365's odds ---------- */
-const at={stake:10,scope:"live",all:false};
-try{const v=JSON.parse(localStorage.getItem("poAuto")||"null");if(v){at.stake=+v.stake||10;at.scope=v.scope||"live"}}catch(e){}
-const atSave=()=>{try{localStorage.setItem("poAuto",JSON.stringify({stake:at.stake,scope:at.scope}))}catch(e){}};
+const at={stake:10,scope:"live",all:false,price:"b365"};
+try{const v=JSON.parse(localStorage.getItem("poAuto")||"null");if(v){at.stake=+v.stake||10;at.scope=v.scope||"live";at.price=v.price==="best"?"best":"b365"}}catch(e){}
+const atSave=()=>{try{localStorage.setItem("poAuto",JSON.stringify({stake:at.stake,scope:at.scope,price:at.price}))}catch(e){}};
 function atBets(){
   const now=Date.now(),seen=new Map(),wait=[];let noPrice=0;
   const entries=Object.entries(state.preds||{}).filter(([id,x])=>x&&x.conf>=.6&&x.pick!=="X"&&(at.scope==="all"||!x.backtest));
@@ -2023,11 +2030,11 @@ function atBets(){
     if(!x.result||!["H","X","A"].includes(x.result.outcome)){
       if(x.backtest||!L||(x.start&&Date.parse(x.start)<now-4*864e5))continue; // cup ties have no Bet365 price in the data
       const f=L&&(L.fixtures||[]).find(ff=>ff.home===i.h&&ff.away===i.a);
-      wait.push({x,i,name,lg,date:x.start?keyFmt.format(new Date(x.start)):i.date,start:x.start,conf:x.conf,h:i.hn,a:i.an,odds:f&&f.b365?f.b365[OK[x.pick]]:null});seen.set(key,1);continue;
+      wait.push({x,i,name,lg,date:x.start?keyFmt.format(new Date(x.start)):i.date,start:x.start,conf:x.conf,h:i.hn,a:i.an,odds:f?((at.price==="best"&&f.max?f.max:f.b365)||{})[OK[x.pick]]||null:null});seen.set(key,1);continue;
     }
     const day=Date.parse(i.date+"T12:00:00Z");
     const mt=L&&(L.matches||[]).find(mm=>mm.home===i.h&&mm.away===i.a&&Math.abs(Date.parse(mm.date+"T12:00:00Z")-day)<=3*864e5);
-    const ob=mt&&(mt.b365||mt.b365c),o=ob&&ob[OK[x.pick]];
+    const ob=mt&&(at.price==="best"?(mt.max||mt.maxc||mt.b365||mt.b365c):(mt.b365||mt.b365c)),o=ob&&ob[OK[x.pick]];
     if(!(o>1)){noPrice++;continue}
     seen.set(key,{date:i.date,start:x.start||null,h:i.hn,a:i.an,name,lg,league:x.league,odds:o,conf:x.conf,win:x.pick===x.result.outcome,replay:!!x.backtest,score:mt.hs!=null?`${mt.hs}–${mt.as}`:""});
   }
@@ -2041,11 +2048,11 @@ const go={min:0.6,cache:null,key:null,busy:false};
 try{if(localStorage.getItem("poAutoMode")==="goals")ac.mode="goals";const v=+localStorage.getItem("poGoalsMin");if(v===0.65)go.min=v}catch(e){}
 /* replay every finished league match that has Bet365 over/under odds: rebuild the table as it stood before that day, predict, and settle */
 function goReplay(){
-  const key=(current&&current.generatedAt||"")+"|"+(current&&current.fdUpdatedAt||"")+"|"+Object.keys(state.leagues).length;
+  const key=(current&&current.generatedAt||"")+"|"+(current&&current.fdUpdatedAt||"")+"|"+Object.keys(state.leagues).length+"|"+at.price;
   if(go.key===key&&go.cache)return go.cache;
   const rows=[];
   for(const L of Object.values(state.leagues)){
-    const ms=(L.matches||[]).filter(x=>x.b365ou);if(!ms.length)continue;
+    const ms=(L.matches||[]).filter(x=>x.b365ou);go.price=at.price;if(!ms.length)continue;
     const games=(L.standings||[]).reduce((a,t)=>a+t.w+t.d+t.l,0)/2;if(Math.abs((L.matches||[]).length-games)>3)continue;   // needs the full season to rebuild tables
     const dates=[...new Set(ms.map(x=>x.date))].sort();
     for(const d of dates){
@@ -2055,7 +2062,7 @@ function goReplay(){
       let Rt;try{Rt=ratings({...L,standings:Object.values(T).sort((p,q)=>q.pts-p.pts),matches:before,results:[],homeStats:null,asof:d})}catch(e){continue}
       for(const x of ms.filter(y=>y.date===d)){const h=Rt[x.home],a=Rt[x.away];if(!h||!a)continue;
         const p=predict(h,a,null,x.odds,x.o25);const gp=goalsPick(p);if(!gp)continue;
-        rows.push({date:d,lg:L.name,h:h.team,a:a.team,score:`${x.hs}–${x.as}`,k:gp.k,c:gp.c,odds:x.b365ou[gp.k],win:gp.k==="o"?x.hs+x.as>2:x.hs+x.as<3})}
+        rows.push({date:d,lg:L.name,h:h.team,a:a.team,score:`${x.hs}–${x.as}`,k:gp.k,c:gp.c,odds:(go.price==="best"&&x.maxou?x.maxou:x.b365ou)[gp.k],win:gp.k==="o"?x.hs+x.as>2:x.hs+x.as<3})}
     }
   }
   rows.sort((p,q)=>p.date.localeCompare(q.date)||p.lg.localeCompare(q.lg));
@@ -2088,7 +2095,7 @@ function goRender(){
   // waiting: upcoming fixtures with a goals pick
   const ww=document.getElementById("goWait");ww.replaceChildren();const now=Date.now(),wait=[];
   for(const L of Object.values(state.leagues)){let Rt;try{Rt=ratings(L)}catch(e){continue}
-    for(const f of L.fixtures||[]){if(Date.parse(f.start)<now)continue;const h=Rt[f.home],a=Rt[f.away];if(!h||!a)continue;const p=predict(h,a,f.feed,f.odds,f.ou),gp=goalsPick(p);if(gp&&gp.c>=go.min)wait.push({f,L,h,a,gp,odds:f.b365ou&&f.b365ou[gp.k]})}}
+    for(const f of L.fixtures||[]){if(Date.parse(f.start)<now)continue;const h=Rt[f.home],a=Rt[f.away];if(!h||!a)continue;const p=predict(h,a,f.feed,f.odds,f.ou),gp=goalsPick(p);if(gp&&gp.c>=go.min)wait.push({f,L,h,a,gp,odds:((at.price==="best"&&f.maxou?f.maxou:f.b365ou)||{})[gp.k]})}}
   wait.sort((x,y)=>x.f.start.localeCompare(y.f.start));document.getElementById("goWaitWrap").hidden=!wait.length;
   wait.slice(0,40).forEach(w=>{const r=el("div","at-row wait");r.append(el("div","who",w.gp.name));const pl=el("div","pl",w.odds?dec2(w.odds):"–");const rn=el("div","run");rn.append(el("small",null,w.odds?"would win":"odds"),document.createTextNode(w.odds?btG(at.stake*(w.odds-1)):"not in yet"));
     r.append(pl,rn,el("div","meta",`${w.h.team} v ${w.a.team} · ${w.L.name} · ${shortDay.format(new Date(w.f.start))} ${hmFmt(new Date(w.f.start))} · ${pct(w.gp.c)}`));ww.append(r)});
@@ -2164,6 +2171,7 @@ function atRender(){
   document.getElementById("acView").hidden=ac.mode!=="acca";document.getElementById("atSingles").hidden=ac.mode!=="single";document.getElementById("goView").hidden=ac.mode!=="goals";
   document.getElementById("atScope").hidden=ac.mode==="goals";
   document.querySelectorAll("#atStake button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.v===at.stake)));
+  document.querySelectorAll("#atPrice button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===at.price)));
   document.querySelectorAll("#atScope button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===at.scope)));
   document.querySelectorAll("#acMin button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.v===ac.min)));
   if(ac.mode==="acca"){const {done,wait}=atBets();acRender(done,wait);return}
@@ -2216,6 +2224,7 @@ function atRender(){
   if(noPrice){list.append(el("p","bt-hint",`${noPrice} strong pick${noPrice===1?"":"s"} left out because the data has no Bet365 price for them (mostly cup ties).`))}
   const more=document.getElementById("atMore");more.hidden=rows.length<=30;more.textContent=at.all?"Show the latest 30":`Show all ${rows.length} bets`;
 }
+document.querySelectorAll("#atPrice button").forEach(b=>b.onclick=()=>{at.price=b.dataset.v;atSave();atRender()});
 document.querySelectorAll("#atStake button").forEach(b=>b.onclick=()=>{at.stake=+b.dataset.v;atSave();atRender()});
 document.querySelectorAll("#atScope button").forEach(b=>b.onclick=()=>{at.scope=b.dataset.v;atSave();atRender()});
 document.querySelectorAll("#goMin button").forEach(b=>b.onclick=()=>{go.min=+b.dataset.v;try{localStorage.setItem("poGoalsMin",String(go.min))}catch(e){}atRender()});
