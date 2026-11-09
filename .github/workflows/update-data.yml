@@ -24,6 +24,10 @@ jobs:
           curl -fsSL -A "$UA" -o data/new_leagues_data.xlsx https://www.football-data.co.uk/new/new_leagues_data.xlsx || true
           curl -fsSL -A "$UA" -o data/new_league_fixtures.csv https://www.football-data.co.uk/new_league_fixtures.csv || true
           ls -la data
+      - name: Make the compact copy the page downloads
+        run: |
+          pip install openpyxl
+          python3 tools/fd_compact.py
       - name: Save if anything changed
         run: |
           git config user.name "github-actions[bot]"

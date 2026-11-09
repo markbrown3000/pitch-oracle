@@ -1660,11 +1660,13 @@ function fdMerge(data,resultRows,fixtureRows){
 
 async function fdUpdate(base){
   const data=JSON.parse(JSON.stringify(base));
-  let rRows=null,src="";
-  try{rRows=await fdReadXlsx(await fdGetBytes(FD_SEASON_URL));src="season spreadsheet"}catch(e){}
+  let rRows=null,src="",compact=false;
+  // on the GitHub site, a compact copy of both spreadsheets (data/fd_rows.json, ~0.5 MB instead of ~8 MB) made by the data update
+  if(typeof ON_GH!=="undefined"&&ON_GH){try{const r=await fetch("data/fd_rows.json?t="+Date.now(),{cache:"no-store"});if(r.ok){const j=await r.json();rRows=[...(j.main||[]),...(j.new||[])];src="season spreadsheet";compact=rRows.length>0}}catch(e){}}
+  if(!compact)try{rRows=await fdReadXlsx(await fdGetBytes(FD_SEASON_URL));src="season spreadsheet"}catch(e){}
   if(!(rRows&&rRows.length)){try{rRows=fdParseCSV(await fdGet(FD_RESULTS_URL));src="latest results file"}catch(e){}}
   let fRows=null;try{fRows=fdParseCSV(await fdGet(FD_FIXTURES_URL))}catch(e){}
-  try{const n=await fdReadXlsx(await fdGetBytes(FD_NEW_URL));if(n.length)rRows=(rRows||[]).concat(n)}catch(e){}
+  if(!compact)try{const n=await fdReadXlsx(await fdGetBytes(FD_NEW_URL));if(n.length)rRows=(rRows||[]).concat(n)}catch(e){}
   try{const n=fdParseCSV(await fdGet(FD_NEWFX_URL));if(n.length)fRows=(fRows||[]).concat(n)}catch(e){}
   if(!(rRows&&rRows.length)&&!(fRows&&fRows.length))throw new Error("couldn't reach football-data.co.uk");
   setTuning(data.config||null);
