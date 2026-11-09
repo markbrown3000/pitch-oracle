@@ -1,7 +1,7 @@
 # Copies the Claude version's leagues + predictions (22 main leagues) into the GitHub page's built-in data,
 # so results reach the GitHub site the morning after the Claude refresh instead of waiting for football-data.co.uk.
 # Matches already on the site keep their extra fields (Bet365 odds etc.); new matches take Bet365 odds from data/fixtures.csv.
-# usage: python3 tools/sync_from_claude.py index.html <dir holding leagues/*.json and predictions/*.json> data/fixtures.csv
+# usage: python3 tools/sync_from_claude.py index.html <dir holding leagues/*.json, predictions/*.json and cups/*.json> data/fixtures.csv
 import json,sys,glob,csv,os
 p,D,FX=sys.argv[1:4]
 s=open(p,encoding='utf-8').read();k='window.PREDICTOR_BUILTIN=';i=s.index(k)+len(k);data,n=json.JSONDecoder().raw_decode(s[i:])
@@ -30,6 +30,9 @@ for f in glob.glob(D+'/leagues/*.json'):
             stat['new']+=1
             if 'b365' not in m and (c,m['date'],m['home'],m['away']) in b365: m['b365']=b365[(c,m['date'],m['home'],m['away'])];stat['b365']+=1
     data['leagues'][c]=L;stat['leagues']+=1
+cups=data.setdefault('cups',{})
+for f in glob.glob(D+'/cups/*.json'):
+    db=json.load(open(f));db=db.get('data',db);cups[os.path.basename(f)[:-5]]=db;stat['cups']=stat.get('cups',0)+1
 for f in glob.glob(D+'/predictions/*.json'):
     db=json.load(open(f));db=db.get('data',db);data['predictions'][os.path.basename(f)[:-5]]=db
 data['generatedAt']=__import__('datetime').datetime.now(__import__('datetime').timezone.utc).strftime('%Y-%m-%dT%H:%M:%S.000Z')
