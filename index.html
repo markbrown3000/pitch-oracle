@@ -303,6 +303,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <button type="button" data-s="football" aria-pressed="true">Football</button>
     <button type="button" data-s="tennis" aria-pressed="false">Tennis</button>
     <button type="button" data-s="darts" aria-pressed="false">Darts</button>
+    <button type="button" data-s="snooker" aria-pressed="false">Snooker</button>
     <button type="button" data-s="auto" aria-pressed="false">Auto bet</button>
     <button type="button" data-s="bets" aria-pressed="false">Bets</button>
   </div>
@@ -388,6 +389,24 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
       <p>Bet only what you can afford to lose. Free help: <a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a>.</p>
     </section>
   </div>
+  <div id="snView" hidden>
+    <div class="tn-status"><div class="asof" id="snAsof">Loading snooker…</div><div class="asof">Updates itself every three hours from Wikipedia's snooker event pages.</div></div>
+    <div class="fgroup" style="margin:6px 0 4px"><div class="label">Pick strength</div>
+      <div class="seg" role="group" aria-label="Pick strength" id="snStrength"><button type="button" data-v="strong" aria-pressed="true">Strong (70%+)</button><button type="button" data-v="lean" aria-pressed="false">Lean and up (60%+)</button><button type="button" data-v="all" aria-pressed="false">All</button></div></div>
+    <section id="snWhoWrap" hidden><div class="label" style="margin-top:14px">Who wins</div><div class="who" id="snWho"></div></section>
+    <div id="snMain"></div>
+    <div class="label" style="margin-top:22px">How the picks have done</div>
+    <div class="rec-top" id="snRec"></div>
+    <div id="snRecent"></div>
+    <div class="label" style="margin-top:22px">Player ratings</div>
+    <div class="tbl" id="snRank" style="margin:6px 0 18px"></div>
+    <section class="method">
+      <h3>How the snooker picks work</h3>
+      <p>Every ranking and invitation event this season and last that Wikipedia lists feeds a rating for each player, based on the frames they win and lose against whoever they play, with recent matches counting more. A player's chance of winning a match then follows from its length: a best-of-7 swings far more than a best-of-19 or the World Championship's best-of-35 final. "Who wins" plays out the rest of a knockout draw 20,000 times.</p>
+      <p>"Frame win %" in the ratings table is a player's chance of winning a frame against an average tour player. There are no free bookmaker prices for snooker, so these picks come from the ratings alone, and snooker isn't in Auto bet. Times aren't listed; matches show the day of their round. Tested on 950 matches this year, each predicted before it was played: the favourite won 67% of the time, and strong picks (70% or more) 76%.</p>
+      <p>Bet only what you can afford to lose. Free help: <a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a>.</p>
+    </section>
+  </div>
   <div id="atView" hidden>
     <div class="bt-head">
       <p>Every strong pick (60% or more, never a draw) as if we'd put the same stake on it at Bet365's odds before kick-off. Nothing is really staked; it shows what following the strong picks would have done.</p>
@@ -454,7 +473,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
         <form class="bt-form" id="btForm" novalidate>
           <div class="bt-f bt-c2"><label for="btDate">Date</label><input id="btDate" type="date"></div>
           <div class="bt-f bt-c2"><label for="btMarket">Bet type</label>
-            <select id="btMarket"><option>Match result</option><option>Next goal</option><option>Both teams to score</option><option>Over/under goals</option><option>Correct score</option><option>Accumulator</option><option>Tennis</option><option>Darts</option><option>Other</option></select></div>
+            <select id="btMarket"><option>Match result</option><option>Next goal</option><option>Both teams to score</option><option>Over/under goals</option><option>Correct score</option><option>Accumulator</option><option>Tennis</option><option>Darts</option><option>Snooker</option><option>Other</option></select></div>
           <div class="bt-f bt-c2"><label for="btBook">Bookmaker</label><input id="btBook" type="text" value="Bet365" autocomplete="off"></div>
           <div class="bt-f bt-c6"><label for="btEvent">Match or event</label><input id="btEvent" type="text" placeholder="e.g. Arsenal v Chelsea" autocomplete="off"></div>
           <div class="bt-f bt-c6"><label for="btSel">Your pick</label><input id="btSel" type="text" placeholder="e.g. Arsenal to win" autocomplete="off"></div>
@@ -1691,7 +1710,7 @@ tn.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:""};tn.q="";
 try{const f=JSON.parse(localStorage.getItem("tnF")||"null");if(f)Object.assign(tn.f,f)}catch(e){}
 
 try{const t=localStorage.getItem("tnTour");if(t&&TN_TOURS.some(x=>x[0]===t))tn.tour=t}catch(e){}
-let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis"||s==="bets"||s==="auto"||s==="darts")sport=s}catch(e){}
+let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis"||s==="bets"||s==="auto"||s==="darts"||s==="snooker")sport=s}catch(e){}
 function setSport(s){sport=s;try{localStorage.setItem("poSport",s)}catch(e){}renderSport()}
 function renderSport(){
   document.querySelectorAll("#sport button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.s===sport)));
@@ -1701,11 +1720,13 @@ function renderSport(){
   document.getElementById("btView").hidden=sport!=="bets";
   document.getElementById("atView").hidden=sport!=="auto";
   document.getElementById("dtView").hidden=sport!=="darts";
+  document.getElementById("snView").hidden=sport!=="snooker";
   document.getElementById("rota").hidden=sport==="bets"||sport==="auto";
-  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":sport==="bets"?"Your bet log":sport==="auto"?"Auto bet · every strong pick at Bet365 odds":sport==="darts"?"Match Predictor · PDC darts":"Match Predictor · 37 leagues";
+  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":sport==="bets"?"Your bet log":sport==="auto"?"Auto bet · every strong pick at Bet365 odds":sport==="darts"?"Match Predictor · PDC darts":sport==="snooker"?"Match Predictor · snooker":"Match Predictor · 37 leagues";
   if(sport==="bets")btRender();
   if(sport==="auto")atRender();
   if(sport==="darts")dtRender();
+  if(sport==="snooker")snRender();
   if(sport==="tennis")renderTennis();
 }
 document.querySelectorAll("#sport button").forEach(b=>b.onclick=()=>setSport(b.dataset.s));
@@ -1907,6 +1928,69 @@ async function loadDarts(){
   if(sport==="darts")dtRender();
 }
 document.querySelectorAll("#dtStrength button").forEach(b=>b.onclick=()=>{dt.strength=b.dataset.v;try{localStorage.setItem("dtStrength",dt.strength)}catch(e){}dtRender()});
+
+/* ---------- Snooker tab: data/snooker.json, built every three hours by tools/snooker.py ---------- */
+const SN_URL=(typeof ON_GH!=="undefined"&&ON_GH)?"data/snooker.json":"https://markbrown3000.github.io/pitch-oracle/data/snooker.json";
+const sn={doc:null,msg:"Loading snooker…",strength:"strong"};
+try{const v=localStorage.getItem("snStrength");if(v)sn.strength=v}catch(e){}
+const snTier=c=>c>=.7?"strong":c>=.6?"lean":"toss";
+const snKeep=c=>sn.strength==="all"||(sn.strength==="lean"?c>=.6:c>=.7);
+const snFmt=m=>m.bo?`Best of ${m.bo} ${m.unit||"frames"}`:"";
+function snFormEl(f){const s=el("span","dt-form");[...(f||"")].forEach(c=>s.append(el("span",c==="W"?"w":"l",c)));return s}
+function snCard(m){
+  const c=el("div","dt-m"),pa=m.p,fav=pa>=.5?"a":"b",conf=Math.max(pa,1-pa),t=snTier(conf);
+  const f=el("div","fmt");const l=el("span",null,[m.time?m.time+" UK":"",m.round,snFmt(m)].filter(Boolean).join(" · "));const tg=el("span","dt-tag "+(t==="strong"?"strong":""),t==="strong"?"Strong pick":t==="lean"?"Lean":"Toss-up");f.append(l,tg);c.append(f);
+  [["a",m.a,pa,m.avgA,m.formA],["b",m.b,1-pa,m.avgB,m.formB]].forEach(([sd,nm,p,avg,form])=>{
+    const r=el("div","dt-p"+(sd===fav?" dt-fav":""));r.append(el("span","dt-nm",nm),el("span","dt-pc",Math.round(100*p)+"%"));
+    const bar=el("div","dt-bar"),i=el("i");i.style.width=(100*p).toFixed(1)+"%";bar.append(i);r.append(bar);
+    const st=el("div","dt-st");if(avg)st.append(el("span",null,`Average ${avg.toFixed(1)}`));if(form){const fe=el("span",null,"Form ");fe.append(snFormEl(form));st.append(fe)}r.append(st);c.append(r)});
+  const acts=el("div","acts"),b=el("button","btn ghost","Log this bet");b.type="button";
+  b.onclick=()=>btPrefill({d:m.date,e:`${m.a} v ${m.b}`,s:`${fav==="a"?m.a:m.b} to win`,o:"",m:"Snooker",b:"Bet365",msg:"Filled in from Pitch Oracle's snooker pick. Type in the odds Bet365 shows, your stake (or tick Paper bet), then press Add bet.",n:`Pitch Oracle snooker pick, ${Math.round(100*conf)}% (${m.event}${m.round?", "+m.round:""})`});
+  acts.append(b);c.append(acts);return c;
+}
+function snRender(){
+  document.querySelectorAll("#snStrength button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===sn.strength)));
+  const D=sn.doc,main=document.getElementById("snMain");main.replaceChildren();
+  const asof=document.getElementById("snAsof");
+  if(!D){asof.textContent=sn.msg;main.append(el("div","empty","Snooker picks appear here after the first update, which runs every three hours."));return}
+  asof.textContent=`Updated ${dayFmt.format(new Date(D.updated))}, ${timeFmt.format(new Date(D.updated))} · ratings from ${D.matches.toLocaleString("en-GB")} matches since ${btDate(D.since)}`;
+  const wb=document.getElementById("snWho");wb.replaceChildren();const outs=D.outrights||[];document.getElementById("snWhoWrap").hidden=!outs.length;
+  outs.forEach(o=>{const card=el("div","who-card"),h=el("div","who-h");h.append(el("b",null,o.event.replace(/^20\d\d /,"")),el("span",null,`${o.field} players`));card.append(h);
+    const top=Math.max(...o.players.map(x=>x.win),1);
+    o.players.slice(0,8).forEach(x=>{const r=el("div","who-row"),bar=el("span","who-bar"),fill=el("i");fill.style.width=Math.max(2,100*x.win/top)+"%";bar.append(fill);
+      r.append(el("span","who-n",x.name),bar,el("span","who-p",(x.win<1?"<1":Math.round(x.win))+"%"));r.title=`Reaches the final ${Math.round(x.final)}%`+(x.sf!=null?` · the semi-finals ${Math.round(x.sf)}%`:"");card.append(r)});
+    card.append(el("div","who-foot","Chance of winning the event, from 20,000 play-throughs of the rest of the draw"));wb.append(card)});
+  const up=(D.upcoming||[]).filter(m=>snKeep(Math.max(m.p,1-m.p)));
+  if(!up.length)main.append(el("div","empty",(D.upcoming||[]).length?`No ${sn.strength==="strong"?"strong":"lean"} picks among the ${(D.upcoming||[]).length} matches drawn so far. Choose "All" above to see every match.`:"No snooker matches have been drawn yet. Each event's matches appear here once the draw is out, usually a few days before."));
+  const groups=[];up.forEach(m=>{const k=m.event+"|"+m.date;let g=groups.find(x=>x.k===k);if(!g)groups.push(g={k,event:m.event,date:m.date,ms:[]});g.ms.push(m)});
+  groups.forEach(g=>{const sec=el("section","dt-ev"),h=el("h2",null,g.event.replace(/^20\d\d /,""));h.append(el("small",null,dayFmt.format(new Date(g.date+"T12:00:00Z"))));sec.append(h);
+    const list=el("div","dt-list");g.ms.sort((x,y)=>Math.max(y.p,1-y.p)-Math.max(x.p,1-x.p)).forEach(m=>list.append(snCard(m)));sec.append(list);main.append(sec)});
+  // record
+  const rec=document.getElementById("snRec");rec.replaceChildren();const Rc=D.record||{};
+  const tile=(k,x,sub)=>{const t=el("div","stat");t.append(el("div","label",k),el("div","v",x&&x.n?Math.round(100*x.won/x.n)+"%":"–"),el("div","sub",x&&x.n?`${x.won} of ${x.n} right${sub?" · "+sub:""}`:sub||"none settled yet"));rec.append(t)};
+  const lv=Rc.live||{},rp=Rc.replay||{},sum=o=>({n:["strong","lean","toss"].reduce((a,k)=>a+(o[k]?.n||0),0),won:["strong","lean","toss"].reduce((a,k)=>a+(o[k]?.won||0),0)});
+  tile("Live strong picks",lv.strong,"since the tab started");tile("Live, all picks",sum(lv),"");
+  tile("Replay strong picks",rp.strong,Rc.replaySince?"since "+btDate(Rc.replaySince):"");tile("Replay, all picks",sum(rp),"each predicted before it was played");
+  const rb=document.getElementById("snRecent");rb.replaceChildren();
+  const recent=(D.recent&&D.recent.length?D.recent:D.replayRecent||[]).slice(0,15);
+  if(recent.length){const lab=el("div","label",D.recent&&D.recent.length?"Latest live picks":"Latest results (replay)");lab.style.marginTop="14px";rb.append(lab);
+    recent.forEach(x=>{const r=el("div","rrow"),conf=Math.max(x.p,1-x.p),pick=x.pick||(x.p>=.5?x.a:x.b);r.append(el("div","ko",btDate(x.date).replace(/ \d\d$/,"")));
+      const t=el("div",null);t.append(el("span","sc",`${x.a} ${x.score||"v"} ${x.b}`),el("span","pk",`Picked ${pick} at ${Math.round(100*conf)}% · ${x.event.replace(/^20\d\d /,"")}`));
+      r.append(t,el("span","res "+(x.win?"ok":"no"),x.win?"Right":"Wrong"));rb.append(r)})}
+  // ratings
+  const box=document.getElementById("snRank");box.replaceChildren();
+  const tb=el("table"),hr=el("tr");["#","Player","Frame win %","Form"].forEach(h=>hr.append(el("th",null,h)));const th=el("thead");th.append(hr);tb.append(th);const body=el("tbody");
+  (D.players||[]).slice(0,32).forEach((x,i)=>{const tr=el("tr");tr.append(el("td",null,String(i+1)),el("td",null,x.name),el("td",null,Math.round(100/(1+Math.exp(-x.r)))+"%"));const fd=el("td");fd.append(snFormEl(x.form));tr.append(fd);body.append(tr)});
+  tb.append(body);box.append(tb);
+}
+async function loadSnooker(){
+  try{const r=await fetch(SN_URL+"?t="+Date.now(),{cache:"no-store"});
+    if(r.ok){sn.doc=await r.json();{const fx=x=>{if(x&&x.event)x.event=x.event.replace(/ \((snooker|ranking)\)$/,"")};["upcoming","outrights","recent","replayRecent"].forEach(k=>(sn.doc[k]||[]).forEach(fx))}try{localStorage.setItem("snCache",JSON.stringify(sn.doc))}catch(e){}}
+    else sn.msg=r.status===404?"Waiting for the first snooker update.":"Couldn't load snooker.";
+  }catch(e){try{const c=JSON.parse(localStorage.getItem("snCache")||"null");if(c)sn.doc=c;else sn.msg="Couldn't load snooker (offline?)."}catch(e2){}}
+  if(sport==="snooker")snRender();
+}
+document.querySelectorAll("#snStrength button").forEach(b=>b.onclick=()=>{sn.strength=b.dataset.v;try{localStorage.setItem("snStrength",sn.strength)}catch(e){}snRender()});
 
 /* ---------- Auto bet: every strong pick at Bet365's odds ---------- */
 const at={stake:10,scope:"live",all:false};
@@ -2247,8 +2331,8 @@ state.f.strength="strong";   // each visit starts on Strong only
 ["dFrom","dTo","tFrom","tTo"].forEach(k=>document.getElementById(k).addEventListener("change",e=>{state.f[k]=e.target.value;if(k==="dFrom"&&state.f.dTo&&state.f.dTo<state.f.dFrom)state.f.dTo=state.f.dFrom;saveF();render()}));
 document.getElementById("clearF").onclick=()=>{state.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:"strong"};state.q="";state.askStrength=null;saveF();render()};
 document.getElementById("teamQ").addEventListener("input",e=>{state.q=e.target.value;state.open=null;render()});
-render();renderNext();setupRefresh();renderSport();loadTennis();loadDarts();
+render();renderNext();setupRefresh();renderSport();loadTennis();loadDarts();loadSnooker();
 loadData(false);
-document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota();loadTennis();loadDarts()}});
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota();loadTennis();loadDarts();loadSnooker()}});
 </script>
 </body></html>
