@@ -7,7 +7,7 @@ import darts_model as DM
 
 def outrights(ev_matches, R, stage=True, sims=20000, seed=7):
     """ev_matches: every bracket match parsed from one event page (played or not). Returns None if the draw can't be simulated."""
-    br = [m for m in ev_matches if m.get("br") is not None]
+    br = [m for m in ev_matches if m.get("br") is not None and re.match(r"\d+TeamBracket", m.get("tpl") or "")]   # qualifying mini-brackets are left out
     if not br: return None
     # the first round is RD1 of the biggest bracket template(s); split draws (two halves + a finals bracket) are joined in page order
     size = {}

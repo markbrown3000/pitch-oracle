@@ -27,7 +27,7 @@ def parse_flag(inner):
     return name, avg
 
 def best_of(text):
-    m = re.search(r"best of (\d+|[a-z-]+) (legs|sets)", text or "", re.I)
+    m = re.search(r"best of (\d+|[a-z-]+) (legs|sets|frames)", text or "", re.I)
     if not m: return None, None
     n = m.group(1).lower(); n = int(n) if n.isdigit() else WORDS.get(n)
     return n, m.group(2).lower()
@@ -43,6 +43,11 @@ def find_dates(text, year):
 
 def event_range(text, title):
     year = int(re.search(r"(20\d\d)", title).group(1))
+    se = re.search(r"\|\s*dates\s*=\s*\{\{\s*Start and end dates\s*\|\s*(\d{4})\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|\s*(\d{4})\s*\|\s*(\d+)\s*\|\s*(\d+)", text, re.I)
+    if se:
+        v = list(map(int, se.groups()))
+        try: return datetime.date(v[0], v[1], v[2]), datetime.date(v[3], v[4], v[5])
+        except ValueError: pass
     m = re.search(r"\|\s*dates\s*=([^\n]*)", text)
     ds = find_dates(m.group(1), year) if m else []
     if ds:
@@ -79,6 +84,31 @@ def score_int(s):
     m = re.match(r"^(\d+)", s)
     return int(m.group(1)) if m else None
 
+def numbered_to_named(body, tpl, P):
+    """Bracket templates with paramstyle=numbered list each match as '|| player | score | player | score', round after round.
+    Turn that into the RD{r}-team{k} / RD{r}-score{k} names the rest of the parser reads."""
+    m = re.match(r"(\d+)TeamBracket", tpl)
+    if not m: return P
+    size = int(m.group(1)); nr = max(1, size.bit_length() - 1)
+    vals = []; cur = None
+    body = re.sub(r"<!--.*?-->", "", body, flags=re.S)
+    for line in body.split("\n")[1:]:
+        st = line.strip()
+        if not st.startswith("|") or st.startswith("}}"): continue
+        if re.match(r"\|\s*[A-Za-z0-9_-]+\s*=", st) and not st.startswith("||"): continue   # named setting (RD1 = ..., boldwinner = ...)
+        if st.startswith("||"):
+            cur = [st[2:].strip()]; vals.append(cur)
+        elif cur is not None:
+            cur.append(st[1:].strip())
+    out = {k: v for k, v in P.items() if re.match(r"RD\d+$", k)}
+    i = 0
+    for r in range(1, nr + 1):
+        for j in range(size >> r):
+            if i >= len(vals): break
+            v = (vals[i] + ["", "", "", ""])[:4]; i += 1
+            out[f"RD{r}-team{2*j+1:02d}"], out[f"RD{r}-score{2*j+1:02d}"], out[f"RD{r}-team{2*j+2:02d}"], out[f"RD{r}-score{2*j+2:02d}"] = v
+    return out
+
 def parse_page(title, text):
     """-> list of dicts: event, round, a, b, sa, sb (None if not played), bo, unit, date, avga, avgb, section"""
     a0, b0 = event_range(text, title)
@@ -94,9 +124,12 @@ def parse_page(title, text):
         nx = min([p for p, t in heads if p > st] or [len(text)])
         return text[st:nx]
     spans = []
-    for bi, (s, e, body) in enumerate(template_blocks(text, r"\{\{(?:#invoke:bracket\|)?\s*\d+TeamBracket")):
+    for bi, (s, e, body) in enumerate(template_blocks(text, r"\{\{(?:#invoke:bracket\|)?\s*(?:\d+|2NTeam-N)TeamBracket")):
+        tpl = re.match(r"\{\{(?:#invoke:bracket\|)?\s*([^|\n}]+)", body).group(1).strip()
         spans.append((s, e))
         P = params(body)
+        if re.search(r"paramstyle\s*=\s*numbered", body) and not any(re.match(r"RD\d+-team", k) for k in P):
+            P = numbered_to_named(body, tpl, P)
         sec = section_at(s); stxt = section_text(s)
         sdates = find_dates(re.sub(r"<ref.*?(?:</ref>|/>)", "", stxt.split("{{")[0], flags=re.S), year)
         rounds = sorted({int(m.group(1)) for k in P for m in [re.match(r"RD(\d+)-team", k)] if m})
@@ -122,8 +155,8 @@ def parse_page(title, text):
                 if not na or not nb or na.lower() in ("bye", "tbd") or nb.lower() in ("bye", "tbd"): continue
                 sa = score_int(P.get(f"RD{r}-score{k:02d}", P.get(f"RD{r}-score{k}")))
                 sb = score_int(P.get(f"RD{r}-score{k+1:02d}", P.get(f"RD{r}-score{k+1}")))
-                matches.append(dict(event=title, round=re.sub(r"<[^>]*>|'''?|\(.*?\)|\{\{nowrap\|1=|\}\}", "", head).split("best of")[0].strip(" ()") or f"Round {r}",
-                                    section=sec, a=na, b=nb, sa=sa, sb=sb, bo=bo, unit=unit, date=d.isoformat() if d else None, avga=aa, avgb=ab, br=bi, rd=r, nr=nr, slot=k))
+                matches.append(dict(event=title, round=re.sub(r"\s+", " ", re.split(r"best of", re.sub(r"<[^>]*>", " ", re.sub(r"'''?|\(.*?\)|\{\{nowrap\|1=|\}\}", "", head)), flags=re.I)[0]).strip(" ()") or f"Round {r}",
+                                    section=sec, a=na, b=nb, sa=sa, sb=sb, bo=bo, unit=unit, date=d.isoformat() if d else None, avga=aa, avgb=ab, br=bi, rd=r, nr=nr, slot=k, tpl=tpl))
     # results tables outside brackets: flag | score | flag
     rest = list(text);
     for s, e in spans: rest[s:e] = [" "] * (e - s)

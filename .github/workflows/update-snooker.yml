@@ -1,0 +1,29 @@
+# Updates the Snooker tab's data (data/snooker.json) every three hours.
+# Results and draws come from Wikipedia's snooker event pages; the model is tools/darts_model.py rating frames won.
+name: Update snooker data
+on:
+  schedule:
+    - cron: "27 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/snooker.py", "tools/darts.py", "tools/darts_parse.py", "tools/darts_model.py", "tools/darts_extra.py", ".github/workflows/update-snooker.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: snooker
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install numpy
+      - name: Fetch results and draws, run the model
+        run: python3 tools/snooker.py
+      - name: Save if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add data/snooker.json data/snooker_state.json data/snooker_matches.json
+          git diff --cached --quiet || (git commit -m "Update snooker data" && (git push || (git pull --rebase && git push)))

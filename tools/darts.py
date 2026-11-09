@@ -15,7 +15,8 @@ SKIP = ("List of", "Challenge Tour", "Development Tour", "Women", "WDF", "World 
 # tuned on 2026 results (May–Nov), checked on Jan–Apr: see the stage factor in darts_model.fit
 KW = dict(avg_w=0.5, half_life=240, prior_sd=0.6, k_avg=0.07, stage_sd=0.2)
 def on_stage(ev): return not ("Players Championship" in ev and "Finals" not in ev)
-STATE = "data/darts_state.json"; OUT = "data/darts.json"
+STATE = "data/darts_state.json"; OUT = "data/darts.json"; MATCHES = "data/darts_matches.json"
+USE_MC = True   # Mastercaller: Players Championship rounds and TV order of play (darts only; snooker.py turns it off)
 
 def get(url, tries=4):
     for t in range(tries):
@@ -47,6 +48,8 @@ def fetch(ts):
         time.sleep(2)
     return pages
 
+def KEEP(t): return True
+
 def tier(c): return "strong" if c >= 0.70 else "lean" if c >= 0.60 else "toss"
 
 def main():
@@ -54,10 +57,11 @@ def main():
     src = sys.argv[1] if len(sys.argv) > 1 else None
     if src:   # local test: a folder of saved wikitext
         pages = {f[:-4].replace("_", " "): open(os.path.join(src, f)).read() for f in os.listdir(src) if f.endswith(".txt") and not any(s.replace(" ", "_") in f for s in SKIP)}
+        pages = {t: x for t, x in pages.items() if KEEP(t)}
     else:
         pages = fetch(titles(today))
     print(len(pages), "pages")
-    pcs = [] if src else darts_mc.update("data/darts_pc.json", today, max_fetch=80)
+    pcs = [] if (src or not USE_MC) else darts_mc.update("data/darts_pc.json", today, max_fetch=80)
     allm = list(pcs)
     for t, txt in pages.items():
         if pcs and "Players Championship series" in t: continue   # Mastercaller has every round of these
@@ -76,7 +80,7 @@ def main():
     print(len(D), "results,", len(up), "upcoming")
     R = DM.fit(D, today, **KW)
     # TV events on now or within ten days: add the order of play (UK times) and any drawn matches Wikipedia doesn't list yet
-    for t, txt in ([] if src else pages.items()):
+    for t, txt in ([] if (src or not USE_MC) else pages.items()):
         a0, b0 = event_range(txt, t)
         if not a0 or b0 < today - datetime.timedelta(days=1) or a0 > today + datetime.timedelta(days=10): continue
         dbo, dunit = best_of(re.sub(r"\{\{.*?\}\}", "", txt[:20000]))
@@ -153,7 +157,7 @@ def main():
            "upcoming": upcoming, "outrights": outr, "players": rank, "record": {"live": summary(live), "replay": summary(replay), "replaySince": since},
            "recent": recent, "replayRecent": sorted(replay, key=lambda x: x["date"], reverse=True)[:40]}
     os.makedirs("data", exist_ok=True)
-    json.dump(D, open("data/darts_matches.json", "w"), ensure_ascii=False, separators=(",", ":"))
+    json.dump(D, open(MATCHES, "w"), ensure_ascii=False, separators=(",", ":"))
     json.dump(out, open(OUT, "w"), ensure_ascii=False, separators=(",", ":"))
     json.dump(state, open(STATE, "w"), ensure_ascii=False, separators=(",", ":"))
     print("upcoming", len(upcoming), "players", len(rank), "replay", summary(replay), "live", summary(live))
