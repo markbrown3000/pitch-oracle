@@ -1,0 +1,15 @@
+{
+  "name": "Pitch Oracle: Match Predictor",
+  "short_name": "Pitch Oracle",
+  "description": "Match predictions for football, tennis, darts, snooker and US sports, with an auto-bet tracker and bet log.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1613",
+  "theme_color": "#0f1613",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

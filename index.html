@@ -7,6 +7,11 @@
 <meta name="apple-mobile-web-app-title" content="Pitch Oracle">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="theme-color" content="#0f1613">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Pitch Oracle">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="description" content="Home, draw and away chances for every match in 37 leagues across Europe, the Americas and Asia.">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="icon" type="image/png" href="icon-192.png">
@@ -2716,6 +2721,7 @@ state.f.strength="strong";   // each visit starts on Strong only
 document.getElementById("clearF").onclick=()=>{state.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:"strong"};state.q="";state.askStrength=null;saveF();render()};
 document.getElementById("teamQ").addEventListener("input",e=>{state.q=e.target.value;state.open=null;render()});
 render();renderNext();setupRefresh();renderSport();loadTennis();loadDarts();loadSnooker();loadUS();setTimeout(loadLive,1500);
+if(typeof ON_GH!=="undefined"&&ON_GH&&"serviceWorker" in navigator){try{navigator.serviceWorker.register("sw.js").catch(()=>{})}catch(e){}}   // works offline and can be added to the home screen
 loadData(false);
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota();loadTennis();loadDarts();loadSnooker();loadUS();loadLive()}});
 </script>
