@@ -22,5 +22,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
-          git add data/live_odds.json data/live_odds_log.json
+          git add data/live_odds.json data/live_odds_log.json data/espn_teams.json
           git diff --cached --quiet || (git commit -m "Update live football odds" && (git push || (git pull --rebase && git push)))

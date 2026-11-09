@@ -13,7 +13,7 @@ SLUGS = {"epl": "eng.1", "championship": "eng.2", "league_one": "eng.3", "league
          "austria": "aut.1", "denmark": "den.1", "switzerland": "sui.1", "poland": "pol.1", "romania": "rou.1", "norway": "nor.1",
          "sweden": "swe.1", "finland": "fin.1", "ireland": "irl.1", "brazil": "bra.1", "argentina": "arg.1", "mexico": "mex.1",
          "mls": "usa.1", "japan": "jpn.1", "china": "chn.1"}
-DAYS = 5
+DAYS = 8
 
 def get(url):
     for t in range(3):
@@ -60,6 +60,17 @@ def main():
                     out.append(row)
                 except Exception as ex: print("skip", code, ex)
         counts[code] = (n, priced)
+    # ESPN's team names per league (once a week), so the page's name matching can be checked
+    try: teams = json.load(open("data/espn_teams.json"))
+    except Exception: teams = {}
+    if teams.get("_at", "") < (today - datetime.timedelta(days=7)).isoformat():
+        for code, slug in SLUGS.items():
+            js = get(f"https://site.api.espn.com/apis/site/v2/sports/soccer/{slug}/teams")
+            try: teams[code] = sorted({(t["team"]["displayName"], t["team"].get("shortDisplayName") or "") for t in js["sports"][0]["leagues"][0]["teams"]})
+            except Exception: pass
+            time.sleep(0.25)
+        teams["_at"] = today.isoformat()
+        json.dump(teams, open("data/espn_teams.json", "w"), ensure_ascii=False)
     json.dump({"updated": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "matches": out}, open("data/live_odds.json", "w"), separators=(",", ":"))
     # log: first price seen and latest price before kick-off, for the fresh-v-stale check
     try: log = json.load(open("data/live_odds_log.json"))
