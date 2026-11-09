@@ -1,0 +1,1375 @@
+{{Short description|Series of darts tournaments}}
+{{Use British English|date=February 2026}}
+{{Use dmy dates|date=February 2026}}
+The '''2026 PDC Women's Series''' is a series of non-televised women's [[darts]] tournaments organised by the [[Professional Darts Corporation]] (PDC). A [[PDC secondary tours|secondary tour]] to the [[2026 PDC Pro Tour]], the seventh edition of the [[PDC Women's Series]] consists of 24 tournaments played over six weekends of four events each.<ref>{{Cite web |title=Women's Series |url=https://www.pdc.tv/tournament/womens-series |website=Professional Darts Corporation}}</ref> All female players who are outside of the top 64 of the [[PDC Order of Merit]], or are at least 16 years of age on the cut-off date of a Women's Series event, are eligible to compete in the Women's Series.<ref name="PDC OoM Rules">{{cite web |title=PDC Rankings Rules |url=https://www.pdc.tv/pdc-order-merit-rules-1 |website=Professional Darts Corporation}}</ref>
+
+In early April 2026, the Darts Regulation Authority, which governs the PDC, banned trans women from competing in women's events with immediate effect after they commissioned a report by Dr Emma Hilton about gender differences in darts.<ref>{{Cite web |date=9 April 2026 |title=Darts: Transgender women banned from women's PDC events |url=https://www.bbc.com/sport/darts/articles/c33lm6d154eo |access-date=18 April 2026 |website=BBC Sport |language=en-GB}}</ref>
+
+== Order of Merit ==
+According to the [[Professional Darts Corporation|PDC]]'s Order of Merit rules,<ref name="PDC OoM Rules"/> the Women's Series prizes are as follows:
+* The top three players on the Women's Series Order of Merit, who have not obtained qualification via another method, receive a place in the first round of the [[2027 PDC World Darts Championship]]. 
+* The top player on the Women's Series Order of Merit, who has not qualified via another method, receives a place at the 2026 Grand Slam of Darts.
+* The players in the top eight of the Women's Series Order of Merit, who have not obtained a PDC Tour Card before the Qualifying School (Q-School), receive free entry to the 2027 edition of Q-School.
+
+Additionally, earnings from Women's Series events held in late 2025 and early 2026 count towards the Women's World Matchplay Order of Merit. PDC Tour Card holder [[Beau Greaves]] and the next seven highest-ranked players on this ranking qualify for the [[2026 Women's World Matchplay]], a televised tournament held concurrently with the [[2026 World Matchplay]]. The [[Women's World Matchplay]] is an additional qualification route to major tournaments, with the winner qualifying for the 2026 Grand Slam of Darts and 2027 PDC World Darts Championship.<ref name="25WWMP">{{cite web |date=27 July 2025 |title=Women's World Matchplay Darts: Schedule, draw, dates as Beau Greaves, Fallon Sherrock, Noa-Lynn van Leuven headline in Blackpool |url=https://www.skysports.com/darts/news/12288/13381303/womens-world-matchplay-darts-schedule-draw-dates-as-beau-greaves-fallon-sherrock-noa-lynn-van-leuven-headline-in-blackpool |website=Sky Sports |access-date=8 February 2026}}</ref>
+
+{| class="wikitable" style=text-align:right; margin-left:1em"
+|+2026 Women's Series ranking top 10 ({{As of|2026|10|10|df=dmy}})<ref>{{cite web |title=Women's Series Order of Merit |url=https://www.dartsrankings.com/womens-series |website=dartsrankings.com |access-date=1 March 2026}}</ref>
+|-
+! Rank
+! Player
+! Prize money
+|- 
+|align=center|1 ||style="text-align:left"| {{flagathlete|[[Beau Greaves]]|ENG}} || £44,700
+|- 
+|align=center|2 ||style="text-align:left"| {{flagathlete|[[Lisa Ashton]]|ENG}} || £18,700
+|-
+|align=center|3 ||style="text-align:left"| {{flagathlete|[[Fallon Sherrock]]|ENG}} || £14,150
+|-
+|align=center|4 ||style="text-align:left"| {{flagathlete|[[Gemma Hayter (darts player)|Gemma Hayter]]|ENG}} || £11,400
+|-
+|align=center|5 ||style="text-align:left"| {{flagathlete|[[Vicky Pruim]]|SWE}} || £9,200
+|-
+|align=center|6 ||style="text-align:left"| {{flagathlete|[[Deta Hedman]]|ENG}} || £7,300
+|-
+|align=center|7 ||style="text-align:left"| {{flagathlete|Jade Gofford|ENG}} || £7,100
+|-
+|align=center|8 ||style="text-align:left"| {{flagathlete|[[Trina Gulliver]]|ENG}}  || £6,700
+|-
+|align=center|9 ||style="text-align:left"|{{nowrap|{{flagathlete|Kirsi Viinikaninen|FIN}}}} || £6,500
+|-
+|align=center|10 ||style="text-align:left"| {{flagathlete|[[Rhian O'Sullivan]]|WAL}} || £6,500
+|-
+|}
+
+== Prize money ==
+The total prize money for Women's Series events in 2026 increased to £15,000 per event from a previous total of £10,000 in 2025.<ref>{{cite web |title=PDC Women's Series 2025 WS 01 Leicester |url=https://mastercaller.com/tournaments/pdc-women-s-series/2025-ws-01-leicester |website=Mastercaller |access-date=8 February 2026}}</ref> The winner of each event receives £2,500. The prize fund breakdown is:<ref>{{cite web |last=Phillips |first=Josh |date=31 March 2025 |title=Biggest prize money increase in PDC history confirmed|url=https://www.pdc.tv/news/2025/march/31/biggest-prize-money-increase-pdc-history-confirmed |website=Professional Darts Corporation |access-date=17 July 2025}}</ref>
+
+{| class="wikitable"
+! colspan=2 | Stage <small>(no. of players)</small>
+! Prize money<br /><small>(Total: £15,000)</small>
+|-
+| '''Winner'''
+| align=center | <small>(1)</small>
+| align=center | £2,500
+|-
+| '''Runner-up'''
+| align=center | <small>(1)</small>
+| align=center | £1,000
+|-
+| '''Semi-finalists'''
+| align=center | <small>(2)</small>
+| align=center | £750
+|-
+| '''Quarter-finalists'''
+| align=center | <small>(4)</small>
+| align=center | £500
+|-
+| '''Last 16'''
+| align=center | <small>(8)</small>
+| align=center | £300
+|-
+| '''Last 32'''
+| align=center | <small>(16)</small>
+| align=center | £200
+|-
+| '''Last 64'''{{efn|Prize money for reaching the last 64 on the Women's Series is awarded only when there at least 128 participants.}}
+| align=center | <small>(32)</small>
+| align=center | £75
+|}
+
+==February==
+===Women's Series 1===
+Women's Series 1 was contested on Saturday 7 February 2026 at Halle 39 in [[Hildesheim]]. The tournament was won by [[Beau Greaves]], who won her 47th Women's Series title by defeating [[Lisa Ashton]] 5–2 in the final.<ref name="PDC01_02">{{cite web |last=Gorton|first=Josh|date=7 February 2026 |title= Greaves celebrates Women's Series milestone to kick off 2026 |url= https://www.pdc.tv/news/2026/february/07/Greaves-Womens-Series-milestone/ |website=Professional Darts Corporation |access-date=7 February 2026}}</ref><ref>{{cite web |date=7 February 2026 |title= PDC Women's Series - Event 01 |url= https://tv.dartconnect.com/event/pdcwomseries26e01/matches |website=DartConnect |access-date=7 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Beau Greaves|avg=89.25}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Fallon Sherrock|avg=86.37}}
+| RD1-score2  = 2
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Vicky Pruim|avg=71.59}}
+| RD1-score3  = 4
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Robyn Byrne|avg=70.44}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Silvia Lindner|avg=61.19}}
+| RD1-score5  = 2
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Steph Clarke|avg=63.18}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Aoife McCormack|avg=77.23}}
+| RD1-score7  = 1
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Lisa Ashton|avg=79.43}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Beau Greaves|avg=82.58}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Robyn Byrne|avg=74.93}}
+| RD2-score2  = 0
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Steph Clarke|avg=75.63}}
+| RD2-score3  = 1
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Lisa Ashton|avg=90.74}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Beau Greaves|avg=98.43}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Lisa Ashton|avg=92.61}}
+| RD3-score2  = 2
+}}
+
+===Women's Series 2===
+Women's Series 2 was contested on Saturday 7 February 2026 at Halle 39 in Hildesheim. The tournament was won by [[Beau Greaves]], who defeated [[Lisa Ashton]] 5–0 in the final. By winning the final, Greaves achieved her 100th consecutive win on the Women's Series. <ref name="PDC01_02">{{cite web |last=Gorton|first=Josh|date=7 February 2026 |title= Greaves celebrates Women's Series milestone to kick off 2026 |url= https://www.pdc.tv/news/2026/february/07/Greaves-Womens-Series-milestone/ |website=Professional Darts Corporation |access-date=7 February 2026}}</ref><ref>{{cite web |date=7 February 2026 |title= PDC Women's Series - Event 02 |url= https://tv.dartconnect.com/event/pdcwomseries26e02/matches |website=DartConnect |access-date=7 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Beau Greaves|avg=87.50}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Jade Gofford|avg=81.48}}
+| RD1-score2  = 3
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Gemma Hayter|avg=72.87}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Trina Gulliver|avg=65.56}}
+| RD1-score4  = 2
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Natalie Gilbert|avg=73.86}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Steph Clarke|avg=75.40}}
+| RD1-score6  = 3
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Angela Kirkwood|avg=77.44}}
+| RD1-score7  = 3
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Lisa Ashton|avg=76.11}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Beau Greaves|avg=93.14}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Gemma Hayter|avg=81.47}}
+| RD2-score2  = 2
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Natalie Gilbert|avg=73.61}}
+| RD2-score3  = 2
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Lisa Ashton|avg=77.34}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Beau Greaves|avg=89.46}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Lisa Ashton|avg=75.48}}
+| RD3-score2  = 0
+}}
+
+===Women's Series 3===
+Women's Series 3 was contested on Sunday 8 February 2026 at Halle 39 in Hildesheim. The tournament was won by [[Beau Greaves]], who defeated [[Fallon Sherrock]] 5–1 in the final.<ref name="PDC03_04">{{cite web |last=Gorton|first=Josh|date=8 February 2026 |title= Greaves continues unprecedented Women's Series run in Hildesheim |url= https://www.pdc.tv/news/2026/february/08/Greaves-continues-unprecedented-run/ |website=Professional Darts Corporation |access-date=8 February 2026}}</ref><ref>{{cite web |date=8 February 2026 |title= PDC Women's Series - Event 03 |url= https://tv.dartconnect.com/event/pdcwomseries26e03/matches |website=DartConnect |access-date=8 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Rhian O'Sullivan|avg=73.09}}
+| RD1-score1  = 3
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Deta Hedman|avg=69.92}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Beau Greaves|avg=98.70}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Lisa Ashton|avg=89.72}}
+| RD1-score4  = 1
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Denise Cassidy|flag=IRL|avg=65.54}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Trina Gulliver|avg=65.00}}
+| RD1-score6  = 4
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Fallon Sherrock|avg=87.66}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Jade Gofford|avg=83.16}}
+| RD1-score8  = 2
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Deta Hedman|avg=70.63}}
+| RD2-score1  = 0
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Beau Greaves|avg=90.54}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Denise Cassidy|flag=IRL|avg=76.77}}
+| RD2-score3  = 4
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Fallon Sherrock|avg=82.96}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Beau Greaves|avg=86.39}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Fallon Sherrock|avg=76.08}}
+| RD3-score2  = 1
+}}
+
+===Women's Series 4===
+Women's Series 4 was contested on Sunday 8 February 2026 at Halle 39 in Hildesheim. The tournament was won by [[Beau Greaves]], who defeated [[Lisa Ashton]] 5–0 in the final. Greaves ended the opening weekend of the 2026 Women's Series with her 17th consecutive title, extending her unbeaten streak to 113 matches.<ref name="PDC03_04">{{cite web |last=Gorton|first=Josh|date=8 February 2026 |title= Greaves continues unprecedented Women's Series run in Hildesheim |url= https://www.pdc.tv/news/2026/february/08/Greaves-continues-unprecedented-run/ |website=Professional Darts Corporation |access-date=8 February 2026}}</ref><ref>{{cite web |date=8 February 2026 |title= PDC Women's Series - Event 04 |url= https://tv.dartconnect.com/event/pdcwomseries26e04/matches |website=DartConnect |access-date=8 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Rhian O'Sullivan|avg=75.72}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Steph Clarke|avg=71.35}}
+| RD1-score2  = 2
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Robyn Byrne|avg=71.08}}
+| RD1-score3  = 2
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Lisa Ashton|avg=78.45}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Joanne Oldershaw|avg=65.48}}
+| RD1-score5  = 3
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Angela Kirkwood|avg=68.03}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Beau Greaves|avg=95.47}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Fallon Sherrock|avg=95.93}}
+| RD1-score8  = 4
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Rhian O'Sullivan|avg=77.07}}
+| RD2-score1  = 4
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Lisa Ashton|avg=72.86}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Angela Kirkwood|avg=73.79}}
+| RD2-score3  = 0
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Beau Greaves|avg=86.38}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Lisa Ashton|avg=75.92}}
+| RD3-score1  = 0
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Beau Greaves|avg=100.20}}
+| RD3-score2  = 5
+}}
+
+==March==
+===Women's Series 5===
+Women's Series 5 was contested on Saturday 21 March 2026 at the Robin Park Leisure Centre in [[Wigan]]. [[Beau Greaves]]' 114-match winning streak ended during this event as she lost 4–1 to [[Fallon Sherrock]] in the second round. The tournament was won by [[Lisa Ashton]], who defeated Sherrock 5–3 in the final.<ref name="PDC05_06">{{cite web |last=Gorton|first=Josh|date=21 March 2026 |title= Greaves' record-breaking Women's Series run halted in Wigan |url= https://www.pdc.tv/news/2026/march/21/Greaves-record-breaking-run-halted-in-Wigan/ |website=Professional Darts Corporation |access-date=21 March 2026}}</ref><ref>{{cite web |date=21 March 2026 |title= PDC Women's Series - Event 05 |url= https://tv.dartconnect.com/event/pdcwomseries26e05/matches |website=DartConnect |access-date=21 March 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Kirsi Viinikainen|avg=80.40}}
+| RD1-score1  = 4
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Lisa Ashton|avg=83.36}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Aileen de Graaf|avg=86.12}}
+| RD1-score3  = 3
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Gemma Hayter|avg=90.64}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Fallon Sherrock|avg=82.58}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|txt=Vicky Martin|flag=ENG|avg=63.00}}
+| RD1-score6  = 0
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Robyn Byrne|avg=72.20}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Vicky Pruim|avg=73.52}}
+| RD1-score8  = 3
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Lisa Ashton|avg=85.45}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Gemma Hayter|avg=68.80}}
+| RD2-score2  = 2
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Fallon Sherrock|avg=86.81}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Robyn Byrne|avg=84.27}}
+| RD2-score4  = 4
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Lisa Ashton|avg=90.32}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Fallon Sherrock|avg=88.46}}
+| RD3-score2  = 3
+}}
+
+===Women's Series 6===
+Women's Series 6 was contested on Saturday 21 March 2026 at the Robin Park Leisure Centre in Wigan. The tournament was won by [[Beau Greaves]], who defeated [[Gemma Hayter (darts player)|Gemma Hayter]] 5–0 in the final.<ref name="PDC05_06">{{cite web |last=Gorton|first=Josh|date=21 March 2026 |title= Greaves' record-breaking Women's Series run halted in Wigan |url= https://www.pdc.tv/news/2026/march/21/Greaves-record-breaking-run-halted-in-Wigan/ |website=Professional Darts Corporation |access-date=21 March 2026}}</ref><ref>{{cite web |date=21 March 2026 |title= PDC Women's Series - Event 06 |url= https://tv.dartconnect.com/event/pdcwomseries26e06/matches |website=DartConnect |access-date=21 March 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Robyn Byrne|avg=70.47}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Steph Clarke|avg=67.73}}
+| RD1-score2  = 4
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Beau Greaves|avg=80.81}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Eleanor Cairns|avg=70.21}}
+| RD1-score4  = 0
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Leanne Topper|avg=75.07}}
+| RD1-score5  = 1
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Noa-Lynn van Leuven|avg=99.89}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Gemma Hayter|avg=75.15}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Fallon Sherrock|avg=71.88}}
+| RD1-score8  = 0
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Robyn Byrne|avg=72.80}}
+| RD2-score1  = 2
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Beau Greaves|avg=89.82}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Noa-Lynn van Leuven|avg=75.76}}
+| RD2-score3  = 1
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Gemma Hayter|avg=77.92}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Beau Greaves|avg=101.55}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Gemma Hayter|avg=80.21}}
+| RD3-score2  = 0
+}}
+
+===Women's Series 7===
+Women's Series 7 was contested on Saturday 22 March 2026 at the Robin Park Leisure Centre in Wigan. The tournament was won by [[Beau Greaves]], who defeated [[Fallon Sherrock]] 5–4 in the final.<ref name="PDC07_08">{{cite web |last=Gorton|first=Josh|date=22 March 2026 |title= Greaves dominant once again as she does the double in Wigan |url= https://www.pdc.tv/news/2026/march/22/2026-pdc-women-s-series-7-8-latest/ |website=Professional Darts Corporation |access-date=22 March 2026}}</ref><ref>{{cite web |date=22 March 2026 |title= PDC Women's Series - Event 07 |url= https://tv.dartconnect.com/event/pdcwomseries26e07/matches |website=DartConnect |access-date=22 March 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Kim Holden|avg=76.59}}
+| RD1-score1  = 2
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Fallon Sherrock|avg=94.22}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Gemma Hayter|avg=80.57}}
+| RD1-score3  = 4
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Lisa Ashton|avg=81.36}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Felicia Blay|avg=72.66}}
+| RD1-score5  = 3
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Jo Locke|avg=72.71}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Beau Greaves|avg=86.21}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Steph Clarke|avg=69.23}}
+| RD1-score8  = 1
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Fallon Sherrock|avg=96.18}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Lisa Ashton|avg=90.99}}
+| RD2-score2  = 4
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Jo Locke|avg=77.20}}
+| RD2-score3  = 0
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Beau Greaves|avg=100.20}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Fallon Sherrock|avg=95.98}}
+| RD3-score1  = 4
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Beau Greaves|avg=99.16}}
+| RD3-score2  = 5
+}}
+
+===Women's Series 8===
+Women's Series 8 was contested on Saturday 22 March 2026 at the Robin Park Leisure Centre in Wigan. The tournament was won by [[Beau Greaves]], who defeated [[Rhian O'Sullivan]] 5–1 in the final.<ref name="PDC07_08">{{cite web |last=Gorton|first=Josh|date=22 March 2026 |title= Greaves dominant once again as she does the double in Wigan |url= https://www.pdc.tv/news/2026/march/22/2026-pdc-women-s-series-7-8-latest/ |website=Professional Darts Corporation |access-date=22 March 2026}}</ref><ref>{{cite web |date=22 March 2026 |title= PDC Women's Series - Event 08 |url= https://tv.dartconnect.com/event/pdcwomseries26e08/matches |website=DartConnect |access-date=22 March 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Lauryn Salter|avg=73.60}}
+| RD1-score1  = 0
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Rhian O'Sullivan|avg=79.11}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Gemma Hayter|avg=82.67}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Leanne Topper|avg=76.28}}
+| RD1-score4  = 4
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Louise Pearson|avg=58.02}}
+| RD1-score5  = 1
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Laura Turner|avg=58.03}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Deta Hedman|avg=80.34}}
+| RD1-score7  = 2
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Beau Greaves|avg=90.34}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Rhian O'Sullivan|avg=84.17}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Gemma Hayter|avg=74.85}}
+| RD2-score2  = 3
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Laura Turner|avg=61.18}}
+| RD2-score3  = 0
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Beau Greaves|avg=86.38}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Rhian O'Sullivan|avg=80.87}}
+| RD3-score1  = 1
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Beau Greaves|avg=92.60}}
+| RD3-score2  = 5
+}}
+
+==May==
+===Women's Series 9===
+Women's Series 9 was contested on Saturday 16 May 2026 at the [[Leicester Arena]]. The tournament was won by [[Beau Greaves]], who defeated [[Trina Gulliver]] 5–1 in the final.<ref name="PDC09_10">{{cite web |last=Gorton|first=Josh|date=16 May 2026 |title= Relentless Greaves maintains Women's Series dominance in Leicester |url= https://www.pdc.tv/news/2026/may/16/relentless-greaves-womens-series-dominance-leicester/ |website=Professional Darts Corporation |access-date=16 May 2026}}</ref><ref>{{cite web |date=16 May 2026 |title= PDC Women's Series - Event 09 |url= https://tv.dartconnect.com/event/pdcwomseries26e09/matches |website=DartConnect |access-date=16 May 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Trina Gulliver|avg=61.75}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|txt=Shannon Reeve|flag=ENG|avg=59.34}}
+| RD1-score2  = 1
+| RD1-seed3   = 
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Jo Locke|avg=72.33}}
+| RD1-score3  = 3
+| RD1-seed4   = 
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Karolina Ratajska|avg=74.96}}
+| RD1-score4  = 5
+| RD1-seed5   = 
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Lorraine Winstanley|avg=67.97}}
+| RD1-score5  = 0
+| RD1-seed6   = 
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Beau Greaves|avg=87.38}}
+| RD1-score6  = 5
+| RD1-seed7   = 
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Lisa Ashton|avg=88.76}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Kirsi Viinikainen|avg=84.51}}
+| RD1-score8  = 3
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Trina Gulliver|avg=77.44}}
+| RD2-score1  = 5
+| RD2-seed2   = 
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Karolina Ratajska|avg=74.96}}
+| RD2-score2  = 4
+| RD2-seed3   = 
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Beau Greaves|avg=95.61}}
+| RD2-score3  = 5
+| RD2-seed4   = 
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Lisa Ashton|avg=85.87}}
+| RD2-score4  = 1
+
+| RD3-seed1   = 
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Trina Gulliver|avg=77.97}}
+| RD3-score1  = 1
+| RD3-seed2   = 
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Beau Greaves|avg=88.35}}
+| RD3-score2  = 5
+}}
+
+===Women's Series 10===
+Women's Series 10 was contested on Saturday 16 May 2026 at the [[Leicester Arena]]. The tournament was won by [[Beau Greaves]], who defeated [[Karolina Ratajska]] 5–1 in the final.<ref name="PDC09_10">{{cite web |last=Gorton|first=Josh|date=16 May 2026 |title= Relentless Greaves maintains Women's Series dominance in Leicester |url= https://www.pdc.tv/news/2026/may/16/relentless-greaves-womens-series-dominance-leicester/ |website=Professional Darts Corporation |access-date=16 May 2026}}</ref><ref>{{cite web |date=16 May 2026 |title= PDC Women's Series - Event 10 |url= https://tv.dartconnect.com/event/pdcwomseries26e10/matches |website=DartConnect |access-date=16 May 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Vicky Pruim|avg=75.47}}
+| RD1-score1  = 4
+| RD1-seed2   =
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Karolina Ratajska|avg=72.05}}
+| RD1-score2  = 5
+| RD1-seed3   = 
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Gemma Hayter|avg=79.98}}
+| RD1-score3  = 5
+| RD1-seed4   = 
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Kim Holden|avg=75.47}}
+| RD1-score4  = 1
+| RD1-seed5   = 
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Lisa Ashton|avg=82.28}}
+| RD1-score5  = 5
+| RD1-seed6   = 
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Lorraine Winstanley|avg=77.52}}
+| RD1-score6  = 1
+| RD1-seed7   = 
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Deta Hedman|avg=88.05}}
+| RD1-score7  = 4
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Beau Greaves|avg=88.53}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Karolina Ratajska|avg=76.49}}
+| RD2-score1  = 5
+| RD2-seed2   = 
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Gemma Hayter|avg=76.63}}
+| RD2-score2  = 3
+| RD2-seed3   = 
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Lisa Ashton|avg=85.92}}
+| RD2-score3  = 1
+| RD2-seed4   = 
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Beau Greaves|avg=94.98}}
+| RD2-score4  = 5
+
+| RD3-seed1   = 
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Karolina Ratajska|avg=79.08}}
+| RD3-score1  = 1
+| RD3-seed2   = 
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Beau Greaves|avg=93.57}}
+| RD3-score2  = 5
+}}
+
+===Women's Series 11===
+Women's Series 11 was contested on Sunday 17 May 2026 at the [[Leicester Arena]]. The tournament was won by [[Deta Hedman]], who defeated Kirsi Viinikainen 5–3 in the final.<ref name="PDC11_12">{{cite web |last=Gorton|first=Josh|date=17 May 2026 |title= Hedman & Pruim celebrate landmark Women's Series wins in Leicester |url= https://www.pdc.tv/news/2026/may/17/Hedman-pruim-celebrate-landmark-womens-series-wins-leicester/ |website=Professional Darts Corporation |access-date=17 May 2026}}</ref><ref>{{cite web |date=17 May 2026 |title= PDC Women's Series - Event 11 |url= https://tv.dartconnect.com/event/pdcwomseries26e11/matches |website=DartConnect |access-date=17 May 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Kirsi Viinikainen|avg=79.95}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Lauren Bloomfield|avg=63.93}}
+| RD1-score2  = 0
+| RD1-seed3   = 
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Joanne Oldershaw|avg=64.49}}
+| RD1-score3  = 5
+| RD1-seed4   = 
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Eleanor Cairns|avg=65.50}}
+| RD1-score4  = 1
+| RD1-seed5   = 
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Beau Greaves|avg=88.70}}
+| RD1-score5  = 4
+| RD1-seed6   = 
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Rhian O'Sullivan|avg=83.36}}
+| RD1-score6  = 5
+| RD1-seed7   = 
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Deta Hedman|avg=84.97}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Lisa Ashton|avg=80.05}}
+| RD1-score8  = 3
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Kirsi Viinikainen|avg=79.45}}
+| RD2-score1  = 5
+| RD2-seed2   = 
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Joanne Oldershaw|avg=66.18}}
+| RD2-score2  = 3
+| RD2-seed3   = 
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Rhian O'Sullivan|avg=72.42}}
+| RD2-score3  = 3
+| RD2-seed4   = 
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Deta Hedman|avg=84.60}}
+| RD2-score4  = 5
+
+| RD3-seed1   = 
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Kirsi Viinikainen|avg=76.32}}
+| RD3-score1  = 3
+| RD3-seed2   = 
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Deta Hedman|avg=89.21}}
+| RD3-score2  = 5
+}}
+
+===Women's Series 12===
+Women's Series 12 was contested on Sunday 17 May 2026 at the [[Leicester Arena]]. The tournament was won by [[Vicky Pruim]], who defeated [[Gemma Hayter]] 5–1 in the final.<ref name="PDC11_12">{{cite web |last=Gorton|first=Josh|date=17 May 2026 |title= Hedman & Pruim celebrate landmark Women's Series wins in Leicester |url= https://www.pdc.tv/news/2026/may/17/Hedman-pruim-celebrate-landmark-womens-series-wins-leicester/ |website=Professional Darts Corporation |access-date=17 May 2026}}</ref><ref>{{cite web |date=17 May 2026 |title= PDC Women's Series - Event 12 |url= https://tv.dartconnect.com/event/pdcwomseries26e12/matches |website=DartConnect |access-date=17 May 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Karolina Ratajska|avg=76.90}}
+| RD1-score1  = 2
+| RD1-seed2   =
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Vicky Pruim|avg=82.62}}
+| RD1-score2  = 5
+| RD1-seed3   = 
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Kyana Frauenfelder|avg=63.89}}
+| RD1-score3  = 4
+| RD1-seed4   = 
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Lauryn Salter|avg=64.39}}
+| RD1-score4  = 5
+| RD1-seed5   = 
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Deta Hedman|avg=75.09}}
+| RD1-score5  = 5
+| RD1-seed6   = 
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Fallon Sherrock|avg=71.09}}
+| RD1-score6  = 4
+| RD1-seed7   = 
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Beau Greaves|avg=83.03}}
+| RD1-score7  = 4
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Gemma Hayter|avg=85.38}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Vicky Pruim|avg=81.83}}
+| RD2-score1  = 5
+| RD2-seed2   = 
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Lauryn Salter|avg=71.68}}
+| RD2-score2  = 3
+| RD2-seed3   = 
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Deta Hedman|avg=73.31}}
+| RD2-score3  = 1
+| RD2-seed4   = 
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Gemma Hayter|avg=79.14}}
+| RD2-score4  = 5
+
+| RD3-seed1   = 
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Vicky Pruim|avg=72.48}}
+| RD3-score1  = 5
+| RD3-seed2   = 
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Gemma Hayter|avg=65.35}}
+| RD3-score2  = 2
+}}
+
+==June==
+===Women's Series 13===
+Women's Series 13 was contested on Saturday 20 June 2026 at the Robin Park Leisure Centre. The tournament was won by [[Beau Greaves]] who defeated [[Vicky Pruim]] 5–0 in the final.<ref name="PDC13_14">{{cite web |last=Wagner|first=Connor|date=20 June 2026 |title= Glorious Greaves runs riot in Wigan |url= https://www.pdc.tv/news/2026/june/20/glorious-greaves-runs-riot-wigan/ |website=Professional Darts Corporation |access-date=20 June 2026}}</ref><ref>{{cite web |date=20 June 2026 |title= PDC Women's Series - Event 13 |url= https://tv.dartconnect.com/event/pdcwomseries26e13/matches |website=DartConnect |access-date=20 June 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 
+| RD1-team1   = {{PDCFlag|Jade Gofford|avg=67.81}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Katie Sheldon|avg=66.79}}
+| RD1-score2  = 4
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Beau Greaves|avg=92.79}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Fallon Sherrock|avg=81.06}}
+| RD1-score4  = 2
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Vicky Pruim|avg=73.28}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Trina Gulliver|avg=65.47}}
+| RD1-score6  = 2
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Aileen de Graaf|avg=73.52}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Louise Pearson|avg=64.86}}
+| RD1-score8  = 4
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Beau Greaves|avg=87.76}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Jade Gofford|avg=74.62}}
+| RD2-score2  = 3
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Vicky Pruim|avg=83.70}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Aileen de Graaf|avg=79.44}}
+| RD2-score4  = 2
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Beau Greaves|avg=88.41}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Vicky Pruim|avg=75.07}}
+| RD3-score2  = 0
+}}
+
+===Women's Series 14===
+Women's Series 14 was contested on Saturday 20 June 2026 at the Robin Park Leisure Centre. The tournament was won by [[Beau Greaves]] who defeated [[Karolina Ratajska]] 5–1 in the final.<ref name="PDC13_14">{{cite web |last=Wagner|first=Connor|date=20 June 2026 |title= Glorious Greaves runs riot in Wigan |url= https://www.pdc.tv/news/2026/june/20/glorious-greaves-runs-riot-wigan/ |website=Professional Darts Corporation |access-date=20 June 2026}}</ref><ref>{{cite web |date=20 June 2026 |title= PDC Women's Series - Event 14 |url= https://tv.dartconnect.com/event/pdcwomseries26e14/matches |website=DartConnect |access-date=20 June 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Sue Lowther|avg=69.04}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Angela Kirkwood|avg=66.95}}
+| RD1-score2  = 3
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Karolina Ratajska|avg=74.28}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Trina Gulliver|avg=71.71}}
+| RD1-score4  = 4
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Aileen de Graaf|avg=77.23}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Louise Pearson|avg=69.83}}
+| RD1-score6  = 2
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Beau Greaves|avg=78.94}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Aoife McCormack|avg=71.79}}
+| RD1-score8  = 3
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Karolina Ratajska|avg=73.57}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Sue Lowther|avg=66.24}}
+| RD2-score2  = 2
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Beau Greaves|avg=100.20}}
+| RD2-score3  = 5
+| RD2-seed4   = 
+| RD2-team4   = {{PDCFlag|Aileen de Graaf|avg=78.42}}
+| RD2-score4  = 0
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Beau Greaves|avg=82.05}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Karolina Ratajska|avg=70.17}}
+| RD3-score2  = 1
+}}
+
+===Women's Series 15===
+Women's Series 15 was contested on Sunday 21 June 2026 at the Robin Park Leisure Centre. The tournament was won by [[Lisa Ashton]] who defeated [[Beau Greaves]] 5–1 in the final.<ref name="PDC15_16">{{cite web |last=Wagner|first=Connor|date=21 June 2026 |title= Ashton and Cairns triumph at Women’s Series 15-16 |url= https://www.pdc.tv/news/2026/june/21/Ashton-and-Cairns-triumph-at-Women-s-Series-15-16/ |website=Professional Darts Corporation |access-date=21 June 2026}}</ref><ref>{{cite web |date=21 June 2026 |title= PDC Women's Series - Event 15 |url= https://tv.dartconnect.com/event/pdcwomseries26e15/matches |website=DartConnect |access-date=21 June 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Kirsi Viinikainen|avg=83.27}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Steph Clarke|avg=73.99}}
+| RD1-score2  = 1
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Holly Glet|flag=ENG|avg=73.86}}
+| RD1-score3  = 1
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Lisa Ashton|avg=82.94}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Beau Greaves|avg=80.60}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Aurora Fochesato|avg=78.08}}
+| RD1-score6  = 2
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Fallon Sherrock|avg=77.57}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Vicky Pruim|avg=73.93}}
+| RD1-score8  = 1
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Kirsi Viinikainen|avg=79.24}}
+| RD2-score1  = 1
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Lisa Ashton|avg=83.83}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Beau Greaves|avg=88.67}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Fallon Sherrock|avg=81.90}}
+| RD2-score4  = 3
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Lisa Ashton|avg=82.04}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Beau Greaves|avg=79.25}}
+| RD3-score2  = 1
+}}
+===Women's Series 16===
+Women's Series 16 was contested on Sunday 21 June 2026 at the Robin Park Leisure Centre. The tournament was won by Eleanor Cairns who defeated Angela Kirkwood 5–4 in the final.<ref name="PDC15_16">{{cite web |last=Wagner|first=Connor|date=21 June 2026 |title= Ashton and Cairns triumph at Women’s Series 15-16 |url= https://www.pdc.tv/news/2026/june/21/Ashton-and-Cairns-triumph-at-Women-s-Series-15-16/ |website=Professional Darts Corporation |access-date=21 June 2026}}</ref><ref>{{cite web |date=21 June 2026 |title= PDC Women's Series - Event 16 |url= https://tv.dartconnect.com/event/pdcwomseries26e16/matches |website=DartConnect |access-date=21 June 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Vicky Pruim|avg=72.79}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Joanne Oldershaw|avg=69.00}}
+| RD1-score2  = 4
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Eleanor Cairns|avg=71.63}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Steph Clarke|avg=72.23}}
+| RD1-score4  = 3
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Angela Kirkwood|avg=70.41}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Fallon Sherrock|avg=70.17}}
+| RD1-score6  = 3
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Karolina Ratajska|avg=71.40}}
+| RD1-score7  = 4
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Emma Martin|avg=71.03}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Vicky Pruim|avg=75.27}}
+| RD2-score1  = 2
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Eleanor Cairns|avg=74.20}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Angela Kirkwood|avg=74.22}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Emma Martin|avg=66.04}}
+| RD2-score4  = 2
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Eleanor Cairns|avg=79.67}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Angela Kirkwood|avg=76.38}}
+| RD3-score2  = 4
+}}
+
+==August==
+===Women's Series 17===
+Women's Series 17 was contested on 22 August 2026 at the [[Leicester Arena]]. The tournament was won by [[Lisa Ashton]] who defeated Lauryn Salter 5–0 in the final.<ref name="PDC17_18">{{cite web |last=Simpson|first=Will|date=22 August 2026 |title= Ashton & Sherrock storm to Women’s Series titles in Leicester |url= https://www.pdc.tv/news/2026/august/22/Ashton-Sherrock-storm-to-Women-s-Series-titles-in-Leicester/ |website=Professional Darts Corporation |access-date=22 August 2026}}</ref><ref>{{cite web |date=22 August 2026 |title= PDC Women's Series - Event 17 |url= https://tv.dartconnect.com/event/pdcwomseries26e17/matches |website=DartConnect |access-date=22 August 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+
+| RD1-seed1   =
+| RD1-team1={{PDCFlag|Emma Pearce|avg=67.08}}
+
+| RD1-seed2 =
+| RD1-score1=2
+| RD1-team2={{PDCFlag|Lauryn Salter|avg=67.98}}
+| RD1-score2=5
+
+| RD1-seed3 =
+| RD1-team3={{PDCFlag|Jade Gofford|avg=77.41}}
+| RD1-score3=5
+
+| RD1-seed4 =
+| RD1-team4={{PDCFlag|Sue Lowther|avg=70.13}}
+| RD1-score4=2
+
+| RD1-seed5 =
+| RD1-team5={{PDCFlag|Lisa Ashton|avg=83.72}}
+| RD1-score5=5
+
+| RD1-seed6 =
+| RD1-team6={{PDCFlag|Grace Ferridge|avg=69.54}}
+| RD1-score6=1
+
+| RD1-seed7 =
+| RD1-team7={{PDCFlag|Gemma Hayter|avg=80.51}}
+| RD1-score7=5
+
+| RD1-seed8 =
+| RD1-team8={{PDCFlag|Aileen de Graaf|avg=81.63}}
+| RD1-score8=3
+
+| RD2-team1={{PDCFlag|Lauryn Salter|avg=68.17}}
+| RD2-score1=5
+| RD2-team2={{PDCFlag|Jade Gofford|avg=69.87}}
+| RD2-score2=4
+
+| RD2-team3={{PDCFlag|Lisa Ashton|avg=74.93}}
+| RD2-score3=5
+| RD2-team4={{PDCFlag|Gemma Hayter|avg=81.02}}
+| RD2-score4=4
+
+| RD3-team1={{PDCFlag|Lauryn Salter|avg=62.86}}
+| RD3-score1=0
+| RD3-team2={{PDCFlag|Lisa Ashton|avg=67.70}}
+| RD3-score2=5
+}}
+
+===Women's Series 18===
+Women's Series 18 was contested on 22 August 2026 at the [[Leicester Arena]]. The tournament was won by [[Fallon Sherrock]] who defeated [[Lisa Ashton]] 5–0 in the final.<ref name="PDC17_18">{{cite web |last=Simpson|first=Will|date=22 August 2026 |title= Ashton & Sherrock storm to Women’s Series titles in Leicester |url= https://www.pdc.tv/news/2026/august/22/Ashton-Sherrock-storm-to-Women-s-Series-titles-in-Leicester/ |website=Professional Darts Corporation |access-date=22 August 2026}}</ref><ref>{{cite web |date=22 August 2026 |title= PDC Women's Series - Event 18 |url= https://tv.dartconnect.com/event/pdcwomseries26e18/matches |website=DartConnect |access-date=22 August 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+
+| RD1-seed1 =
+| RD1-team1={{PDCFlag|Tracey Dean|avg=65.37}}
+| RD1-score1=2
+
+| RD1-seed2 =
+| RD1-team2={{PDCFlag|Karolina Ratajska|avg=75.33}}
+| RD1-score2=5
+
+| RD1-seed3 =
+| RD1-team3={{PDCFlag|Lisa Ashton|avg=81.28}}
+| RD1-score3=5
+
+| RD1-seed4 =
+| RD1-team4={{PDCFlag|Trina Gulliver|avg=74.24}}
+| RD1-score4=1
+
+| RD1-seed5 =
+| RD1-team5={{PDCFlag|Gemma Hayter|avg=76.50}}
+| RD1-score5=5
+
+| RD1-seed6 =
+| RD1-team6={{PDCFlag|Kirsty Hutchinson|avg=60.90}}
+| RD1-score6=1
+
+| RD1-seed7 =
+| RD1-team7={{PDCFlag|Aoife McCormack|avg=58.55}}
+| RD1-score7=0
+
+| RD1-seed8 =
+| RD1-team8={{PDCFlag|Fallon Sherrock|avg=81.68}}
+| RD1-score8=5
+
+| RD2-team1={{PDCFlag|Karolina Ratajska|avg=70.92}}
+| RD2-score1=3
+| RD2-team2={{PDCFlag|Lisa Ashton|avg=71.13}}
+| RD2-score2=5
+
+| RD2-team3={{PDCFlag|Gemma Hayter|avg=79.28}}
+| RD2-score3=3
+| RD2-team4={{PDCFlag|Fallon Sherrock|avg=79.42}}
+| RD2-score4=5
+
+| RD3-team1={{PDCFlag|Lisa Ashton|avg=61.38}}
+| RD3-score1=0
+| RD3-team2={{PDCFlag|Fallon Sherrock|avg=81.68}}
+| RD3-score2=5
+}}
+
+===Women's Series 19===
+Women's Series 19 was contested on 23 August 2026 at the [[Leicester Arena]]. The tournament was won by [[Beau Greaves]] who defeated [[Lisa Ashton]] 5–3 in the final.<ref name="PDC19_20">{{cite web |last=Wagner|first=Connor|date=23 August 2026 |title= Greaves claims back-to-back victories again in Leicester |url= https://www.pdc.tv/news/2026/august/23/2026-pdc-women-s-series-19-20-latest/ |website=Professional Darts Corporation |access-date=23 August 2026}}</ref><ref>{{cite web |date=23 August 2026 |title= PDC Women's Series - Event 19 |url= https://tv.dartconnect.com/event/pdcwomseries26e19/matches |website=DartConnect |access-date=23 August 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+
+| RD1-seed1 =
+| RD1-team1={{PDCFlag|Lauren Bloomfield|avg=67.06}}
+| RD1-score1=4
+
+| RD1-seed2 =
+| RD1-team2={{PDCFlag|Jo Locke|avg=70.70}}
+| RD1-score2=5
+
+| RD1-seed3 =
+| RD1-team3={{PDCFlag|Angela Kirkwood|avg=68.00}}
+| RD1-score3=0
+
+| RD1-seed4 =
+| RD1-team4={{PDCFlag|Lisa Ashton|avg=81.68}}
+| RD1-score4=5
+
+| RD1-seed5 =
+| RD1-team5={{PDCFlag|Kirsty Hutchinson|avg=72.63}}
+| RD1-score5=5
+
+| RD1-seed6 =
+| RD1-team6={{PDCFlag|Joanne Oldershaw|avg=75.29}}
+| RD1-score6=3
+
+| RD1-seed7 =
+| RD1-team7={{PDCFlag|Beau Greaves|avg=96.30}}
+| RD1-score7=5
+
+| RD1-seed8 =
+| RD1-team8={{PDCFlag|Aileen de Graaf|avg=81.17}}
+| RD1-score8=1
+
+| RD2-team1={{PDCFlag|Jo Locke|avg=69.41}}
+| RD2-score1=0
+| RD2-team2={{PDCFlag|Lisa Ashton|avg=90.54}}
+| RD2-score2=5
+
+| RD2-team3={{PDCFlag|Kirsty Hutchinson|avg=64.81}}
+| RD2-score3=2
+| RD2-team4={{PDCFlag|Beau Greaves|avg=78.25}}
+| RD2-score4=5
+
+| RD3-team1={{PDCFlag|Lisa Ashton|avg=81.28}}
+| RD3-score1=3
+| RD3-team2={{PDCFlag|Beau Greaves|avg=84.55}}
+| RD3-score2=5
+}}
+
+=== Women's Series 20 ===
+Women's Series 20 was contested on 23 August 2026 at the [[Leicester Arena]]. The tournament was won by [[Beau Greaves]] who defeated [[Aileen de Graaf]] 5–0 in the final.<ref name="PDC19_20">{{cite web |last=Wagner|first=Connor|date=23 August 2026 |title= Greaves claims back-to-back victories again in Leicester |url= https://www.pdc.tv/news/2026/august/23/2026-pdc-women-s-series-19-20-latest/ |website=Professional Darts Corporation |access-date=23 August 2026}}</ref><ref>{{cite web |date=23 August 2026 |title= PDC Women's Series - Event 20 |url= https://tv.dartconnect.com/event/pdcwomseries26e20/matches |website=DartConnect |access-date=23 August 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+
+| RD1-seed1 =
+| RD1-team1={{PDCFlag|Fallon Sherrock|avg=72.67}}
+| RD1-score1=3
+
+| RD1-seed2 =
+| RD1-team2={{PDCFlag|Aileen de Graaf|avg=77.48}}
+| RD1-score2=5
+
+| RD1-seed3 =
+| RD1-team3={{PDCFlag|Jo Locke|avg=76.86}}
+| RD1-score3=5
+
+| RD1-seed4 =
+| RD1-team4={{PDCFlag|Deta Hedman|avg=78.35}}
+| RD1-score4=3
+
+| RD1-seed5 =
+| RD1-team5={{PDCFlag|Gemma Hayter|avg=81.45}}
+| RD1-score5=3
+
+| RD1-seed6 =
+| RD1-team6={{PDCFlag|Karolina Ratajska|avg=78.67}}
+| RD1-score6=5
+
+| RD1-seed7 =
+| RD1-team7={{PDCFlag|Angela Kirkwood|avg=72.56}}
+| RD1-score7=0
+
+| RD1-seed8 =
+| RD1-team8={{PDCFlag|Beau Greaves|avg=75.15}}
+| RD1-score8=5
+
+| RD2-team1={{PDCFlag|Aileen de Graaf|avg=66.89}}
+| RD2-score1=5
+| RD2-team2={{PDCFlag|Jo Locke|avg=65.75}}
+| RD2-score2=1
+
+| RD2-team3={{PDCFlag|Karolina Ratajska|avg=81.41}}
+| RD2-score3=1
+| RD2-team4={{PDCFlag|Beau Greaves|avg=89.20}}
+| RD2-score4=5
+
+| RD3-team1={{PDCFlag|Aileen de Graaf|avg=60.81}}
+| RD3-score1=0
+| RD3-team2={{PDCFlag|Beau Greaves|avg=91.65}}
+| RD3-score2=5
+}}
+
+==October==
+===Women's Series 21===
+Women's Series 21 was contested on 10 October 2026 at the Robin Park Leisure Center in [[Wigan]]. The tournament was won by [[Beau Greaves]] who defeated [[Vicky Pruim]] 5–3 in the final.<ref name="PDC21_22">{{cite web |last=Gorton|first=Josh|date=10 October 2026 |title= Greaves wins back-to-back Women's Series titles in Wigan |url= https://www.pdc.tv/news/2026/october/10/greaves-wins-back-to-back-womens-series-titles-wigan/ |website=Professional Darts Corporation |access-date=10 October 2026}}</ref><ref>{{cite web |date=10 October 2026 |title= PDC Women's Series - Event 21 |url= https://tv.dartconnect.com/event/pdcwomseries26e21/matches |website=DartConnect |access-date=10 October 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Lauren Bloomfield|avg=66.79}}
+| RD1-seed2 = 
+| RD1-score1= 1
+| RD1-team2 = {{PDCFlag|Kirsi Viinikainen|avg=69.38}}
+| RD1-score2= 5
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Vicky Pruim|avg=77.29}}
+| RD1-score3= 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Lisa Ashton|avg=78.23}}
+| RD1-score4= 4
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Rhian O'Sullivan|avg=76.08}}
+| RD1-score5= 0
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Beau Greaves|avg=101.55}}
+| RD1-score6= 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Gemma Hayter|avg=81.62}}
+| RD1-score7= 4
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Fallon Sherrock|avg=85.27}}
+| RD1-score8= 5
+| RD2-team1 = {{PDCFlag|Kirsi Viinikainen|avg=73.28}}
+| RD2-score1= 2
+| RD2-team2 = {{PDCFlag|Vicky Pruim|avg=76.35}}
+| RD2-score2= 5
+| RD2-team3 = {{PDCFlag|Beau Greaves|avg=79.95}}
+| RD2-score3= 5
+| RD2-team4 = {{PDCFlag|Fallon Sherrock|avg=73.03}}
+| RD2-score4= 0
+| RD3-team1 = {{PDCFlag|Vicky Pruim|avg=78.34}}
+| RD3-score1= 3
+| RD3-team2 = {{PDCFlag|Beau Greaves|avg=84.50}}
+| RD3-score2= 5
+}}
+
+===Women's Series 22===
+Women's Series 22 was contested on 10 October 2026 at the Robin Park Leisure Center in [[Wigan]]. The tournament was won by [[Beau Greaves]] who defeated [[Gemma Hayter]] 5–3 in the final.<ref name="PDC21_22">{{cite web |last=Gorton|first=Josh|date=10 October 2026 |title= Greaves wins back-to-back Women's Series titles in Wigan |url= https://www.pdc.tv/news/2026/october/10/greaves-wins-back-to-back-womens-series-titles-wigan/ |website=Professional Darts Corporation |access-date=10 October 2026}}</ref><ref>{{cite web |date=10 October 2026 |title= PDC Women's Series - Event 22 |url= https://tv.dartconnect.com/event/pdcwomseries26e22/matches |website=DartConnect |access-date=10 October 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Gemma Hayter|avg=79.60}}
+| RD1-seed2 = 
+| RD1-score1= 5
+| RD1-team2 = {{PDCFlag|Aoife McCormack|avg=71.34}}
+| RD1-score2= 4
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Aurora Fochesato|avg=80.81}}
+| RD1-score3= 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Fallon Sherrock|avg=75.48}}
+| RD1-score4= 1
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Leanne Topper|avg=70.38}}
+| RD1-score5= 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Angela Kirkwood|avg=70.40}}
+| RD1-score6= 4
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Joanne Oldershaw|avg=65.13}}
+| RD1-score7= 0
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Beau Greaves|avg=75.91}}
+| RD1-score8= 5
+| RD2-team1 = {{PDCFlag|Gemma Hayter|avg=78.08}}
+| RD2-score1= 5
+| RD2-team2 = {{PDCFlag|Aurora Fochesato|avg=71.61}}
+| RD2-score2= 3
+| RD2-team3 = {{PDCFlag|Leanne Topper|avg=75.23}}
+| RD2-score3= 1
+| RD2-team4 = {{PDCFlag|Beau Greaves|avg=84.06}}
+| RD2-score4= 5
+| RD3-team1 = {{PDCFlag|Gemma Hayter|avg=90.51}}
+| RD3-score1= 3
+| RD3-team2 = {{PDCFlag|Beau Greaves|avg=92.44}}
+| RD3-score2= 5
+}}
+
+===Women's Series 23===
+Women's Series 23 was contested on 11 October 2026 at the Robin Park Leisure Center in [[Wigan]]. The tournament was won by [[Beau Greaves]] who defeated Jade Gofford 5–3 in the final.<ref name="PDC23_24">{{cite web |last=Gorton|first=Josh|date=11 October 2026 |title= Greaves caps off 2026 Women's Series season in record-breaking style |url= https://www.pdc.tv/news/2026/october/11/Greaves-caps-off-2026-Womens-Series-season-in-record-breaking-style/ |website=Professional Darts Corporation |access-date=11 October 2026}}</ref><ref>{{cite web |date=11 October 2026 |title= PDC Women's Series - Event 23 |url= https://tv.dartconnect.com/event/pdcwomseries26e23/matches |website=DartConnect |access-date=11 October 2026}}</ref>
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Rhian O'Sullivan|avg=84.02}}
+| RD1-seed2 = 
+| RD1-score1= 4
+| RD1-team2 = {{PDCFlag|Jade Gofford|avg=84.74}}
+| RD1-score2= 5
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Denise Cassidy|flag=IRL|avg=66.37}}
+| RD1-score3= 0
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Lisa Ashton|avg=79.11}}
+| RD1-score4= 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Beau Greaves|avg=94.10}}
+| RD1-score5= 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Gemma Hayter|avg=88.60}}
+| RD1-score6= 2
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Fallon Sherrock|avg=82.31}}
+| RD1-score7= 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Trina Gulliver|avg=73.73}}
+| RD1-score8= 3
+| RD2-team1 = {{PDCFlag|Jade Gofford|avg=82.33}}
+| RD2-score1= 5
+| RD2-team2 = {{PDCFlag|Lisa Ashton|avg=76.07}}
+| RD2-score2= 2
+| RD2-team3 = {{PDCFlag|Beau Greaves|avg=102.56}}
+| RD2-score3= 5
+| RD2-team4 = {{PDCFlag|Fallon Sherrock|avg=85.82}}
+| RD2-score4= 1
+| RD3-team1 = {{PDCFlag|Jade Gofford|avg=79.14}}
+| RD3-score1= 3
+| RD3-team2 = {{PDCFlag|Beau Greaves|avg=101.59}}
+| RD3-score2= 5
+}}
+
+===Women's Series 24===
+Women's Series 24 was contested on 11 October 2026 at the Robin Park Leisure Center in [[Wigan]]. The tournament was won by [[Beau Greaves]] who defeated [[Aurora Fochesato]] 5–2 in the final.<ref name="PDC23_24">{{cite web |last=Gorton|first=Josh|date=11 October 2026 |title= Greaves caps off 2026 Women's Series season in record-breaking style |url= https://www.pdc.tv/news/2026/october/11/Greaves-caps-off-2026-Womens-Series-season-in-record-breaking-style/ |website=Professional Darts Corporation |access-date=11 October 2026}}</ref><ref>{{cite web |date=11 October 2026 |title= PDC Women's Series - Event 24 |url= https://tv.dartconnect.com/event/pdcwomseries26e24/matches |website=DartConnect |access-date=11 October 2026}}</ref>
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br/>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br/>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br/>''(best of 9 legs)''}}
+| boldwinner = high
+
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Beau Greaves|avg=94.91}}
+| RD1-seed2 = 
+| RD1-score1= 5
+| RD1-team2 = {{PDCFlag|Rebecca Allen|avg=69.65}}
+| RD1-score2= 1
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Kirsty Hutchinson|avg=68.38}}
+| RD1-score3= 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Kyana Frauenfelder|avg=63.57}}
+| RD1-score4= 1
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Fallon Sherrock|avg=71.57}}
+| RD1-score5= 4
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Vicky Pruim|avg=74.67}}
+| RD1-score6= 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Aoife McCormack|avg=69.73}}
+| RD1-score7= 2
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Aurora Fochesato|avg=69.17}}
+| RD1-score8= 5
+| RD2-team1 = {{PDCFlag|Beau Greaves|avg=96.35}}
+| RD2-score1= 5
+| RD2-team2 = {{PDCFlag|Kirsty Hutchinson|avg=68.48}}
+| RD2-score2= 0
+| RD2-team3 = {{PDCFlag|Vicky Pruim|avg=68.46}}
+| RD2-score3= 4
+| RD2-team4 = {{PDCFlag|Aurora Fochesato|avg=74.26}}
+| RD2-score4= 5
+| RD3-team1 = {{PDCFlag|Beau Greaves|avg=79.28}}
+| RD3-score1= 5
+| RD3-team2 = {{PDCFlag|Aurora Fochesato|avg=70.97}}
+| RD3-score2= 2
+}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+{{PDC Women's Series}}
+{{2026 in PDC darts}}
+
+{{DEFAULTSORT:Women's Series, 2025 PDC}}
+[[Category:2026 in women's sport]]
+[[Category:2026 PDC Pro Tour]]

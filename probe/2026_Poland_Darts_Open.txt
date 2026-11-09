@@ -1,0 +1,509 @@
+{{infobox individual darts tournament
+|tournament_name = 2026 SUPERBET Poland Darts Open
+|image = Superbet_Poland_Darts_Open_2026_-_scena.jpg
+|dates = 20–22 February 2026
+|venue = [[EXPO Kraków]]
+|location = [[Kraków]], Poland
+|organisation = [[Professional Darts Corporation]] (PDC)
+|format = [[Leg (darts)|Legs]]
+|prize_fund = £230,000
+|winners_share = £35,000
+|nine_dart = [[Gian van Veen]]
+|high_checkout = '''170''' [[Luke Humphries]]
+|winner = '''{{flagathlete|[[Luke Littler]]|ENG}}'''
+|prev =
+|next = [[2026 European Darts Trophy|Event 2]]
+}} 
+
+The '''2026 Poland Darts Open''' (known for sponsorship reasons as the '''2026 SUPERBET Poland Darts Open''') was a professional [[darts]] tournament that took place at the [[EXPO Kraków]] in [[Kraków]], Poland, from 20 to 22 February 2026.<ref>{{cite web |date=26 January 2026 |title=Historic debut in Kraków: Just one month until Poland hosts its first European Tour |url=https://www.pdc-europe.tv/news/one-month-to-go-superbet-poland-darts-open-2026-to-turn-krakow-into-a-darts-hotspot/ |website=PDC Europe |access-date=6 February 2026}}</ref> It was the first of fifteen [[PDC European Tour]] events on the [[2026 PDC Pro Tour]], and was the first European Tour event to be held in Poland.<ref>{{cite web |last=Gorton |first=Josh |date=11 September 2025 |title=European Tour set for further expansion in 2026 with PDC calendar released |url=https://www.pdc.tv/news/2025/september/11/european-tour-set-further-expansion-2026-pdc-calendar-released/ |website=Professional Darts Corporation |access-date=2 June 2026}}</ref> It featured a field of 48 players and £230,000 in prize money, with £35,000 going to the winner.
+
+[[Luke Littler]] and [[Gian van Veen]] contested the final, where Van Veen hit a [[nine-dart finish]] in the fourth [[Leg (darts)|leg]]. Littler won the tournament, his fifth European Tour title, by defeating Van Veen 8–4.
+
+==Prize money==
+As part of a mass boost in prize money for [[Professional Darts Corporation]] (PDC) events in 2026, the prize fund for all [[2026 PDC Pro Tour#European Tour#European Tour|2026 European Tour]] events rose to £230,000, of which the winner will receive £35,000.<ref>{{cite web |last=Phillips |first=Josh |date=31 March 2025 |title=Biggest prize money increase in PDC history confirmed |url=https://www.pdc.tv/news/2025/march/31/biggest-prize-money-increase-pdc-history-confirmed |website=Professional Darts Corporation |access-date=24 January 2026}}</ref><ref name="MCOverview">{{cite web |title=Poland Darts Open 2026  |url=https://mastercaller.com/tournaments/poland-darts-open/2026 |website=Mastercaller |access-date=14 November 2025}}</ref>
+
+{| class="wikitable"
+! colspan="2" |Stage <small>(num. of players)</small>
+!Prize money
+|-
+|'''Winner'''
+| align="center" |<small>(1)</small>
+| align="center" |£35,000
+|-
+|'''Runner-up'''
+| align="center" |<small>(1)</small>
+| align="center" |£15,000
+|-
+|'''Semi-finalists'''
+| align="center" |<small>(2)</small>
+| align="center" |£10,000
+|-
+|'''Quarter-finalists'''
+| align="center" |<small>(4)</small>
+| align="center" |£8,000
+|-
+|'''Third round losers'''
+| align="center" |<small>(8)</small>
+| align="center" |£5,000
+|-
+|'''Second round losers'''
+| align="center" |<small>(16)</small>
+| align="center" |£3,500*
+|-
+|'''First round losers'''
+| align="center" |<small>(16)</small>
+| align="center" |£2,000*
+|-
+! colspan="3" |
+|-
+|'''Total'''
+| colspan="2" align="center" |£230,000
+|}
+
+* Pre-qualified players from the Orders of Merit who lose in their first match of the event shall not be credited with prize money on any Order of Merit.<ref>{{cite web |title=PDC Rankings Rules |url=https://www.pdc.tv/pdc-order-merit-rules-1 |website=Professional Darts Corporation |access-date=24 January 2026}}</ref>
+
+==Qualification and format==
+The top 16 players on the two-year [[PDC Order of Merit]] will be [[Seeding (sports)|seeded]] and will enter the tournament in the second round, while the next 16 highest-ranked players from the one-year [[PDC Pro Tour Order of Merit]] automatically qualified for the first round. The seedings were confirmed on 5 February.<ref name="Entries">{{cite web |last=Gorton |first=Josh |date=5 February 2026 |title=2026 ET1-2 Seeds & Tour Card Holder qualifier entries confirmed |url=https://www.pdc.tv/news/2026/february/05/2026-et1-2-seeds---tour-card-holder-qualifier-entries-confirmed |website=Professional Darts Corporation |access-date=5 February 2026}}</ref><ref name="Race">{{cite web |title=Race to ET1 and ET2 2026 |url=https://www.dartsrankings.com/et2 |website=dartsrankings.com |access-date=14 November 2025}}</ref> The remaining 16 places will go to players from four qualifying events – 10 from the Tour Card Holder Qualifier (held on 11 February),<ref>{{cite web |date=11 February 2026 |title=PDC ET01 Tour Card Holder Qualifier |url=https://tv.dartconnect.com/event/pdceutcq26et01/matches |website=DartConnect}}</ref> four from the Host Nation Qualifier (held on 19 February),<ref name="HNQ">{{cite web |date=19 February 2026 |title=PDC ET01 Host Nation Qualifier |url=https://tv.dartconnect.com/event/pdc26et01hnq/matches |website=DartConnect}}</ref> one from the Nordic & Baltic Associate Member Qualifier (held on 6 February),<ref>{{cite web |date=6 February 2026 |title=PDCNB 2026 Tour - Latvia - Weekend 01 |url=https://tv.dartconnect.com/event/pdcnbpro26e01/matches |website=DartConnect}}</ref> and one from the East European Associate Member Qualifier (held on 24 January).<ref>{{cite web |date=24 January 2026 |title=PDC ET01 E. Europe Qualifier |url=https://tv.dartconnect.com/event/pdceeu26et01q/matches |website=DartConnect}}</ref>
+
+After the draw was made, [[Gerwyn Price]] and [[Michael van Gerwen]] withdrew from the tournament due to medical reasons. [[Michael Smith (darts player)|Michael Smith]] and [[Callan Rydz]] replaced them from the reserve list, going straight in at the second-round stage.<ref>{{cite web |last=Gorton |first=Josh |date=20 February 2026 |title=Price & Van Gerwen withdraw from SUPERBET Poland Darts Open |url=https://www.pdc.tv/news/2026/february/20/price---van-gerwen-withdraw-from-superbet-poland-darts-open/ |website=Professional Darts Corporation |access-date=22 February 2026}}{{dead link|date=February 2026|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+{{col-begin}}
+{{col-break}}
+'''Seeded players'''
+# '''{{flagathlete|[[Luke Littler]]|ENG}}''' '''(champion)'''
+# {{flagathlete|[[Luke Humphries]]|ENG}} ''(semi-finals)''
+# {{flagathlete|[[Gian van Veen]]|NED}} ''(runner-up)''
+# {{strikethrough|{{flagathlete|[[Michael van Gerwen]]|NED}}}} ''(withdrew)''
+# {{flagathlete|[[Jonny Clayton]]|WAL}} ''(third round)''
+# {{flagathlete|[[Gary Anderson (darts player)|Gary Anderson]]|SCO}} ''(second round)''
+# {{flagathlete|[[Stephen Bunting]]|ENG}} ''(quarter-finals)''
+# {{flagathlete|[[Ryan Searle (darts player)|Ryan Searle]]|ENG}} ''(second round)''
+# {{flagathlete|[[Josh Rock]]|NIR}} ''(quarter-finals)''
+# {{flagathlete|[[Danny Noppert]]|NED}} ''(second round)''
+# {{flagathlete|[[James Wade]]|ENG}} ''(second round)''
+# {{strikethrough|{{flagathlete|[[Gerwyn Price]]|WAL}}}} ''(withdrew)''
+# {{flagathlete|[[Chris Dobey]]|ENG}} ''(semi-finals)''
+# {{flagathlete|[[Nathan Aspinall]]|ENG}} ''(third round)''
+# {{flagathlete|[[Martin Schindler]]|GER}} ''(second round)''
+# {{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}} ''(third round)''
+{{col-break}}
+'''PDC Pro Tour Order of Merit qualifiers'''
+* {{flagathlete|[[Wessel Nijman]]|NED}} ''(quarter-finals)''
+* {{flagathlete|[[Damon Heta]]|AUS}} ''(first round)''
+* {{flagathlete|[[Jermaine Wattimena]]|NED}} ''(third round)''
+* {{flagathlete|[[Cameron Menzies]]|SCO}} ''(third round)''
+* {{flagathlete|[[Dirk van Duijvenbode]]|NED}}  ''(first round)''
+* {{flagathlete|[[Luke Woodhouse]]|ENG}} ''(third round)''
+* {{flagathlete|[[Niko Springer]]|GER}}  ''(first round)''
+* {{flagathlete|[[Ryan Joyce]]|ENG}} ''(first round)''
+* {{flagathlete|[[William O'Connor (darts player)|William O'Connor]]|IRL}} ''(second round)''
+* {{flagathlete|[[Mike De Decker]]|BEL}} ''(second round)''
+* {{flagathlete|[[Joe Cullen (darts player)|Joe Cullen]]|ENG}} ''(second round)''
+* {{flagathlete|[[Krzysztof Ratajski]]|POL}} ''(second round)''
+* {{flagathlete|[[Dave Chisnall]]|ENG}} ''(first round)''
+* {{flagathlete|[[Niels Zonneveld]]|NED}} ''(second round)''
+* {{flagathlete|[[Daryl Gurney]]|NIR}} ''(second round)''
+* {{flagathlete|[[Andrew Gilding]]|ENG}} ''(second round)''
+{{col-break}}
+:'''Tour Card qualifier'''
+:* {{flagathlete|[[Cristo Reyes]]|ESP}} ''(third round)''
+:* {{flagathlete|[[Connor Scutt]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Ritchie Edhouse]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Adam Gawlas]]|CZE}} ''(second round)''
+:* {{flagathlete|[[Mickey Mansell]]|IRL}} ''(first round)''
+:* {{flagathlete|[[Darryl Pilgrim]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Jeffrey de Graaf]]|SWE}} ''(first round)''
+:* {{flagathlete|[[Thomas Lovely]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Marvin Kraft]]|GER}} ''(first round)''
+:* {{flagathlete|[[Carl Sneyd]]|ENG}} ''(first round)''
+:'''Host Nation qualifier'''
+:* {{flagathlete|[[Mirosław Grudziecki]]|POL}} ''(first round)''
+:* {{flagathlete|[[Krzysztof Kciuk]]|POL}} ''(first round)''
+:* {{flagathlete|[[Dawid Robak]]|POL}} ''(first round)''
+:* {{flagathlete|[[Piotr Maciejczak]]|POL}} ''(first round)''
+:'''Nordic & Baltic qualifier'''
+:* {{flagathlete|[[Andreas Harrysson]]|SWE}} ''(first round)''
+:'''East European qualifier'''
+:* {{flagathlete|[[Boris Krčmar]]|CRO}} ''(third round)''
+:'''Reserve list'''
+:* {{flagathlete|[[Michael Smith (darts player)|Michael Smith]]|ENG}} ''(quarter-finals)''
+:* {{flagathlete|[[Callan Rydz]]|ENG}} ''(second round)''
+{{col-end}}
+{{clear}}
+
+==Summary==
+===First round===
+[[File:Michael van Gerwen 6-5 Krzysztof Ratajski - Krzysztof Ratajski - 2019251192205 2019-09-08 PDC European Darts Matchplay - 0065 - B70I7302.jpg|thumb|[[Krzysztof Ratajski]] ''(pictured in 2019)'' was the only Polish player to progress past the first round, defeating [[Mickey Mansell]] 6–3 in his opening match.]]
+The first round (best of 11 [[Leg (darts)|legs]]) was played on 20 February.<ref name="PDCR1">{{cite web |last=Gorton |first=Josh |date=20 February 2026 |title=Ratajski delivers on home soil to set up Humphries clash in Krakow |url=https://www.pdc.tv/news/2026/february/20/ratajski-home-soil-sets-up-humphries-clash |website=Professional Darts Corporation |access-date=21 February 2026}}</ref> Poland's [[Krzysztof Ratajski]] was victorious on home soil, earning a 6–3 victory against [[Mickey Mansell]]. "This was one of the most valuable wins in my career, for sure," commented Ratajski. "I was very nervous tonight. The expectation was high, but I played my game and I'm really happy I won for this great crowd."<ref name="SkyR1">{{cite web |date=20 February 2026 |title=Poland Darts Masters: Mike De Decker sets up Luke Littler encounter with Krzysztof Ratajski to face Luke Humphries |url=https://www.skysports.com/darts/news/12288/13510179/poland-darts-masters-mike-de-decker-sets-up-luke-littler-encounter-with-krzysztof-ratajski-to-face-luke-humphries |website=Sky Sports |access-date=21 February 2026}}</ref> Poland's other four representatives suffered losses to [[Niels Zonneveld]], [[Jermaine Wattimena]], [[Daryl Gurney]] and [[Joe Cullen (darts player)|Joe Cullen]].<ref name="PDCR1"/> The [[2024 World Grand Prix (darts)|2024 World Grand Prix]] champion [[Mike De Decker]] defeated [[PDC European Tour|European Tour]] debutant [[Marvin Kraft]] 6–4 to set up a second-round tie with world champion [[Luke Littler]].<ref>{{cite web |date=20 February 2026 |title=Mike De Decker sets up showdown with world champion Luke Littler |url=https://www.rte.ie/sport/darts/2026/0220/1559650-de-decker-sets-up-showdown-with-littler/ |website=RTÉ Sport |access-date=21 February 2026 |agency=Press Association}}</ref> From 3–0 down, the [[2023 UK Open]] champion [[Andrew Gilding]] won six consecutive legs to beat [[Jeffrey de Graaf]], finishing the match with a [[three-dart average]] of 106.55.<ref name="SkyR1"/> Making his first stage appearance since his first-round exit at the [[2026 PDC World Darts Championship|2026 World Championship]], [[Cameron Menzies]] landed nine [[Glossary of darts#Maximum|maximums]] on his way to defeating [[Ritchie Edhouse]] 6–4.<ref>{{cite web |last=Shaw |first=Jamie |date=20 February 2026 |title=Cameron Menzies makes winning return at the Poland Darts Masters as Ratajski delivers on home soil |url=https://www.live-darts.com/pdc-darts-news/european-tour/menzies-makes-winning-return-at-the-poland-darts-masters/ |website=Live Darts |access-date=21 February 2026}}</ref> [[Cristo Reyes]] hit 60 per cent of his [[Glossary of darts#Double|double]] attempts as he won 6–3 against [[Niko Springer]] on his return to the European Tour.<ref name="SkyR1"/> [[Luke Woodhouse]] claimed a 6–2 victory over debutant [[Carl Sneyd]], while eight-time European Tour winner [[Dave Chisnall]] was beaten 6–4 by [[Darryl Pilgrim]].<ref>{{cite web |last=Michael |first=Lucas |date=20 February 2026 |title=Poland Darts Open Friday Afternoon Round-up {{!}} Dave Chisnall bows out as dreadful form continues while Gilding and Menzies impress enroute to victory |url=https://dartsnews.com/pdc/live-poland-darts-open-friday-afternoon-chisnall-gilding-menzies-kick-off-first-euro-tour-of-2026 |website=dartsnews.com |access-date=21 February 2026}}</ref> [[Damon Heta]] staged a comeback from 4–0 down against [[Connor Scutt]] which included a 167 [[Glossary of darts#Checkout|checkout]], but Scutt then secured a 6–4 win. East European qualifier [[Boris Krčmar]] averaged 102.44 to defeat [[Ryan Joyce]] 6–3.<ref name="PDCR1"/>
+
+===Second round===
+[[File:Michael Smith 6-3 Steve Lennon - Michael Smith - 2019249215612 2019-09-06 PDC European Darts Matchplay - 1068 - B70I6085.jpg|thumb|The [[2023 PDC World Darts Championship|2023]] world champion [[Michael Smith (darts player)|Michael Smith]] ''(pictured in 2019)'' entered the tournament following [[Gerwyn Price]]'s withdrawal. He defeated [[Joe Cullen (darts player)|Joe Cullen]] 6{{nbnd}}5 in the second round.]]
+The second round (best of 11 legs) was played on 21 February.<ref name="PDCR2">{{cite web |last=Gorton |first=Josh |date=21 February 2026 |title=Sensational Littler produces fireworks at Poland Darts Open |url=https://www.pdc.tv/news/2026/february/21/sensational-littler-fireworks-poland-darts-open |website=Professional Darts Corporation |access-date=22 February 2026}}</ref> Luke Littler recorded a three-dart average of 113.84 and hit 100 per cent of his doubles as he defeated Mike De Decker 6–1 to open his campaign. "It's not gone my way in the first three weeks of the [[2026 Premier League Darts|Premier League]], but I certainly want to be the first winner here in Poland this weekend," said Littler afterwards.<ref name="PDCR2"/> After initially taking a 4–1 lead, world number two [[Luke Humphries]] was brought to a [[Glossary of darts#Decider|deciding leg]] by Krzysztof Ratajski, where Humphries eventually secured a 6–5 win. Speaking about the partisan Polish crowd after the match, Humphries said: "It's just sometimes, when you get crowds that, unfortunately, don't give you that kind of fair game that you want it is hard for me to perform."<ref>{{cite web |date=22 February 2026 |title=Poland Darts Open: Luke Littler hits six doubles from six in victory as Luke Humphries criticises crowd behaviour |url=https://www.skysports.com/darts/news/12288/13510353/poland-darts-open-luke-littler-hits-six-doubles-from-six-in-victory-as-luke-humphries-criticises-crowd-behaviour |website=Sky Sports |access-date=23 February 2026}}</ref> [[2026 PDC World Darts Championship|World Championship]] runner-up [[Gian van Veen]], the reigning [[European Championship (darts)|European champion]], also survived a last-leg decider, earning a 6–5 victory over Andrew Gilding.<ref>{{cite web |last=Battison |first=Paul |date=21 February 2026 |title=Littler thrashes De Decker at Polish Darts Open |url=https://www.bbc.com/sport/darts/articles/c743w83d38jo |website=BBC Sport |access-date=22 February 2026}}</ref> [[Jonny Clayton]], who entered the tournament having won a Premier League night in [[Glasgow]], defeated [[Adam Gawlas]] 6–4, while [[Stephen Bunting]] overcame 17 missed darts at double to beat Niels Zonneveld by the same scoreline. The [[2023 PDC World Darts Championship|2023]] world champion [[Michael Smith (darts player)|Michael Smith]] replaced [[Gerwyn Price]] in the second round and claimed a 6–5 victory over Joe Cullen; on the other hand, Luke Woodhouse won five consecutive legs to win 6–4 against reserve player [[Callan Rydz]], who replaced [[Michael van Gerwen]].<ref name="RTER2">{{cite web |date=21 February 2026 |title=Luke Littler coasts into last 16 at Poland Darts Open |url=https://www.rte.ie/sport/darts/2026/0221/1559739-littler-coasts-into-last-16-at-poland-darts-open/ |website=RTÉ Sport |access-date=22 February 2026}}</ref>
+
+[[Josh Rock]] began his tournament by averaging 102.98 on his way to beating [[William O'Connor (darts player)|William O'Connor]] 6–1, while [[Ross Smith (darts player)|Ross Smith]] claimed his own 6–1 win against Daryl Gurney. [[Wessel Nijman]] averaged 103.46 in his 6–2 victory over two-time world champion [[Gary Anderson (darts player)|Gary Anderson]]. "I don't know how I keep beating him," remarked Nijman, who achieved his fourth consecutive win against Anderson.<ref name="PDCR2"/> [[James Wade]] and Connor Scutt suffered [[Whitewash (sport)|whitewash]] defeats to Cameron Menzies and [[Chris Dobey]], respectively. Cristo Reyes progressed to the final day of a European Tour event for the first time since 2018, beating [[Ryan Searle (darts player)|Ryan Searle]] 6–2. [[Nathan Aspinall]], the top performer on the [[2025 PDC Pro Tour#European Tour|2025 European Tour]], defeated Darryl Pilgrim 6–3. [[Danny Noppert]] missed three [[Glossary of darts#Match dart|match darts]] in his 6–5 loss to Jermaine Wattimena, while Boris Krčmar continued his run by winning 6–4 against [[Martin Schindler]].<ref name="PDCR2"/><ref name="RTER2"/>
+
+===Final day===
+[[File:Superbet Poland Darts Open 2026 - trofeum.jpg|thumb|left|The Poland Darts Open trophy]]
+The third round, quarter-finals, semi-finals and final were played on 22 February. The third round and quarter-finals were contested over the best of 11 legs, the semi-finals over the best of 13 legs, and the final over the best of 15 legs.<ref name="PDCDay3">{{cite web |last=Gorton |first=Josh |date=22 February 2026 |title=Sublime Littler defies nine-dart Van Veen to win Poland Darts Open |url=https://www.pdc.tv/news/2026/february/22/superb-littler-defies-van-veen-poland-darts-open |website=Professional Darts Corporation |access-date=23 February 2026}}</ref> The final day saw Luke Littler and Gian van Veen reach the final. Littler overturned a 2–0 deficit to beat Ross Smith 6–2—his seventh straight win against the Englishman—before securing comfortable victories against Josh Rock and Chris Dobey, averaging 105.91 in the latter contest. Van Veen defeated Nathan Aspinall in a deciding leg after initially going 4–2 down, and followed that win by beating Wessel Nijman 6–2 with a three-dart average of 107.50. In the semi-finals, Van Veen defeated Luke Humphries 7–5 to set up a tie with Littler, marking his seventh triumph over Humphries in eight meetings. A rematch of the 2026 World Championship final that Littler won 7–1, Van Veen was looking to avenge that loss and claim his maiden European Tour title, while Littler aimed to add to his four European Tour titles.<ref name="PDCDay3"/><ref name="SkyDay3">{{cite web |date=23 February 2026 |title=Luke Littler defies nine-dart Gian van Veen to win first-ever Poland Darts Open and warm up for Premier League in Belfast in style |url=https://www.skysports.com/darts/news/12288/13510834/luke-littler-defies-nine-dart-gian-van-veen-to-win-first-ever-poland-darts-open-and-warm-up-for-premier-league-in-belfast-in-style |website=Sky Sports |access-date=23 February 2026}}</ref>
+
+[[File:2025-04-03 Premier League Darts Berlin 2025 by Sandro Halank–124.jpg|thumb|[[Luke Littler]] ''(pictured in 2025)'' won the inaugural Poland Darts Open by defeating [[Gian van Veen]] 8–4 in the final.]]
+The first four legs of the final were [[Glossary of darts#Hold|holds of throw]].<ref name="IndFinal">{{cite web |date=22 February 2026 |title=Luke Littler clinches Poland Darts Open with victory over Gian Van Veen |url=https://www.independent.co.uk/sport/luke-littler-dutch-poland-chris-dobey-b2925420.html |website=The Independent |access-date=23 February 2026 |agency=Press Association}}</ref> In the fifth leg, Van Veen followed back-to-back maximums with a 141 checkout to complete a [[nine-dart finish]] and go 3–2 ahead, his first nine-darter on stage. The 141 finish was his second [[Glossary of darts#Ton|ton]]-plus checkout of the match, having converted 112 earlier in the contest.<ref name="SkyDay3"/> Littler then took control, winning the next four legs to lead 6–3.<ref name="BBCFinal">{{cite web |last=Battison |first=Paul |date=23 February 2026 |title=Littler wins in Poland despite Van Veen nine-darter |url=https://www.bbc.com/sport/darts/articles/cd708p32j8eo |website=BBC Sport |access-date=23 February 2026}}</ref> Van Veen ended Littler's run with a 74 finish in the tenth leg, but Littler claimed the next two in a total of 28 darts to win the match 8–4, pinning double 10 to secure victory.<ref name="SkyDay3"/><ref name="IndFinal"/> He finished the match with seven maximums and a three-dart average of 108.06.<ref name="BBCFinal"/>
+
+Littler won the inaugural Poland Darts Open, his fifth European Tour title in 714 days. In his post-match interview, he revealed that Van Veen's nine-dart finish spurred him on to victory. "In the past people have hit nine-darters against me and it's a big achievement. It's not easy to do. In the final, so early, I was like just go for him now while he's a bit overwhelmed," he commented, adding that he hoped he could take his performances onto the next Premier League night in [[Belfast]].<ref name="SkyDay3"/> Speaking in defeat, Van Veen admitted that he wished he missed the nine-darter, explaining: "Of course I'm very happy to hit the nine-darter, but I think everyone noticed in the next two or three legs, I wasn't good. I was so excited about the nine-darter—my first one on the stage, and that probably cost me the final today." He added: "I'm getting a bit tired of losing finals now, but it's part of the game and I'm happy to make another final. It's been a great weekend."<ref name="PDCDay3"/>
+
+==Draw==
+The draw was announced on 19 February.<ref>{{cite web |last=Gorton |first=Josh |date=19 February 2026 |title=2026 SUPERBET Poland Darts Open draw & schedule confirmed |url=https://www.pdc.tv/news/2026/february/19/2026-superbet-poland-darts-open-draw---schedule-confirmed/ |website=Professional Darts Corporation |access-date=19 February 2026}}{{dead link|date=February 2026|bot=medic}}{{cbignore|bot=medic}}</ref> Numbers to the left of a player's name show the seedings for the top 16 in the tournament. The figures to the right of a player's name state their [[three-dart average]] in a match. The two reserve players are indicated by 'Alt'. Players in bold denote match winners.<ref>{{cite web |title=Results of Poland Darts Open 2026 |url=https://mastercaller.com/tournaments/poland-darts-open/2026/results |website=Mastercaller |access-date=20 February 2026}}</ref>
+
+{{48TeamBracket
+| RD1-shift = -1
+| RD1='''First round'''<br />''(best of 11 legs)''<br />20 February
+| RD2='''Second round'''<br />''(best of 11 legs)''<br />21 February
+| RD3='''Third round'''<br />''(best of 11 legs)''<br />22 February
+| RD4='''Quarter-finals'''<br />''(best of 11 legs)''<br />22 February
+| RD5='''Semi-finals'''<br />''(best of 13 legs)''<br />22 February
+| RD6='''Final'''<br />''(best of 15 legs)''<br />22 February
+
+| boldwinner=high
+
+| RD1-seed01 =
+| RD1-team01 = {{PDCFlag|Mike De Decker|avg=83.98}}
+| RD1-score01= 6
+| RD1-seed02 =
+| RD1-team02 = {{PDCFlag|Marvin Kraft|avg=79.39}}
+| RD1-score02= 4
+
+| RD1-seed03 =
+| RD1-team03 = {{PDCFlag|Daryl Gurney|avg=87.82}}
+| RD1-score03= 6
+| RD1-seed04 =
+| RD1-team04 = {{PDCFlag|Dawid Robak|avg=79.77}}
+| RD1-score04= 1
+
+| RD1-seed05 =
+| RD1-team05 = {{PDCFlag|Niko Springer|avg=88.65}}
+| RD1-score05= 3
+| RD1-seed06 =
+| RD1-team06 = {{PDCFlag|Cristo Reyes|avg=93.04}}
+| RD1-score06= 6
+
+| RD1-seed07 =
+| RD1-team07 = {{PDCFlag|William O'Connor|avg=96.15}}
+| RD1-score07= 6
+| RD1-seed08 =
+| RD1-team08 = {{PDCFlag|Andreas Harrysson|avg=98.07}}
+| RD1-score08= 4
+
+| RD1-seed09 =
+| RD1-team09 = {{PDCFlag|Luke Woodhouse|avg=93.91}}
+| RD1-score09= 6
+| RD1-seed10 =
+| RD1-team10 = {{PDCFlag|Carl Sneyd|avg=84.15}}
+| RD1-score10= 2
+
+| RD1-seed11 =
+| RD1-team11 = {{PDCFlag|Damon Heta|avg=96.28}}
+| RD1-score11= 4
+| RD1-seed12 =
+| RD1-team12 = {{PDCFlag|Connor Scutt|avg=98.32}}
+| RD1-score12= 6
+
+| RD1-seed13 =
+| RD1-team13 = {{PDCFlag|Dirk van Duijvenbode|avg=94.06}}
+| RD1-score13= 3
+| RD1-seed14 =
+| RD1-team14 = {{PDCFlag|Adam Gawlas|avg=89.51}}
+| RD1-score14= 6
+
+| RD1-seed15 =
+| RD1-team15 = {{PDCFlag|Joe Cullen|avg=99.85}}
+| RD1-score15= 6
+| RD1-seed16 =
+| RD1-team16 = {{PDCFlag|Krzysztof Kciuk|avg=86.97}}
+| RD1-score16= 2
+
+| RD1-seed17 =
+| RD1-team17 = {{PDCFlag|Krzysztof Ratajski|avg=96.14}}
+| RD1-score17= 6
+| RD1-seed18 = 
+| RD1-team18 = {{PDCFlag|Mickey Mansell|flag=IRL|avg=98.42}}
+| RD1-score18= 3
+
+| RD1-seed19 =
+| RD1-team19 = {{PDCFlag|Ryan Joyce|avg=101.48}}
+| RD1-score19= 3
+| RD1-seed20 =
+| RD1-team20 = {{PDCFlag|Boris Krcmar|avg=102.44}}
+| RD1-score20= 6
+
+| RD1-seed21 =
+| RD1-team21 = {{PDCFlag|Niels Zonneveld|avg=92.10}}
+| RD1-score21= 6
+| RD1-seed22 =
+| RD1-team22 = {{PDCFlag|Piotr Maciejczak|avg=82.04}}
+| RD1-score22= 2
+
+| RD1-seed23 =
+| RD1-team23 = {{PDCFlag|Jermaine Wattimena|avg=86.73}}
+| RD1-score23= 6
+| RD1-seed24 =
+| RD1-team24 = {{PDCFlag|Miroslaw Grudziecki|avg=75.46}}
+| RD1-score24= 4
+
+| RD1-seed25 =
+| RD1-team25 = {{PDCFlag|Andrew Gilding|avg=106.55}}
+| RD1-score25= 6
+| RD1-seed26 =
+| RD1-team26 = {{PDCFlag|Jeffrey De Graaf|avg=97.78}}
+| RD1-score26= 3
+
+| RD1-seed27 =
+| RD1-team27 = {{PDCFlag|Dave Chisnall|avg=84.78}}
+| RD1-score27= 4
+| RD1-seed28 =
+| RD1-team28 = {{PDCFlag|Darryl Pilgrim|avg=87.42}}
+| RD1-score28= 6
+
+| RD1-seed29 =
+| RD1-team29 = {{PDCFlag|Wessel Nijman|avg=88.56}}
+| RD1-score29= 6
+| RD1-seed30 =
+| RD1-team30 = {{PDCFlag|Thomas Lovely|avg=85.95}}
+| RD1-score30= 3
+
+| RD1-seed31 =
+| RD1-team31 = {{PDCFlag|Cameron Menzies|avg=95.21}}
+| RD1-score31= 6
+| RD1-seed32 =
+| RD1-team32 = {{PDCFlag|Ritchie Edhouse|avg=89.31}}
+| RD1-score32= 4
+
+| RD2-seed01 = 1
+| RD2-team01 = {{PDCFlag|Luke Littler|avg=113.84}}
+| RD2-score01= 6
+| RD2-seed02 =
+| RD2-team02 = {{PDCFlag|Mike De Decker|avg=100.02}}
+| RD2-score02= 1
+
+| RD2-seed03 = 16
+| RD2-team03 = {{PDCFlag|Ross Smith|avg=102.27}}
+| RD2-score03= 6
+| RD2-seed04 =
+| RD2-team04 = {{PDCFlag|Daryl Gurney|avg=93.98}}
+| RD2-score04= 1
+
+| RD2-seed05 = 8
+| RD2-team05 = {{PDCFlag|Ryan Searle|avg=93.56}}
+| RD2-score05= 2
+| RD2-seed06 =
+| RD2-team06 = {{PDCFlag|Cristo Reyes|avg=99.62}}
+| RD2-score06= 6
+
+| RD2-seed07 = 9
+| RD2-team07 = {{PDCFlag|Josh Rock|avg=102.98}}
+| RD2-score07= 6
+| RD2-seed08 =
+| RD2-team08 = {{PDCFlag|William O'Connor|avg=92.42}}
+| RD2-score08= 1
+
+| RD2-seed09 = Alt
+| RD2-team09 = {{PDCFlag|Callan Rydz|avg=95.12}}
+| RD2-score09= 4
+| RD2-seed10 =
+| RD2-team10 = {{PDCFlag|Luke Woodhouse|avg=102.60}}
+| RD2-score10= 6
+
+| RD2-seed11 = 13
+| RD2-team11 = {{PDCFlag|Chris Dobey|avg=94.93}}
+| RD2-score11= 6
+| RD2-seed12 =
+| RD2-team12 = {{PDCFlag|Connor Scutt|avg=87.60}}
+| RD2-score12= 0
+
+| RD2-seed13 = 5
+| RD2-team13 = {{PDCFlag|Jonny Clayton|avg=95.72}}
+| RD2-score13= 6
+| RD2-seed14 =
+| RD2-team14 = {{PDCFlag|Adam Gawlas|avg=91.00}}
+| RD2-score14= 4
+
+| RD2-seed15 = Alt
+| RD2-team15 = {{PDCFlag|Michael Smith|avg=97.01}}
+| RD2-score15= 6
+| RD2-seed16 =
+| RD2-team16 = {{PDCFlag|Joe Cullen|avg=91.66}}
+| RD2-score16= 5
+
+| RD2-seed17 = 2
+| RD2-team17 = {{PDCFlag|Luke Humphries|avg=97.17}}
+| RD2-score17= 6
+| RD2-seed18 =
+| RD2-team18 = {{PDCFlag|Krzysztof Ratajski|avg=99.59}}
+| RD2-score18= 5
+
+| RD2-seed19 = 15
+| RD2-team19 = {{PDCFlag|Martin Schindler|avg=86.98}}
+| RD2-score19= 4
+| RD2-seed20 =
+| RD2-team20 = {{PDCFlag|Boris Krcmar|avg=94.59}}
+| RD2-score20= 6
+
+| RD2-seed21 = 7
+| RD2-team21 = {{PDCFlag|Stephen Bunting|avg=88.06}}
+| RD2-score21= 6
+| RD2-seed22 =
+| RD2-team22 = {{PDCFlag|Niels Zonneveld|avg=90.52}}
+| RD2-score22= 4
+
+| RD2-seed23 = 10
+| RD2-team23 = {{PDCFlag|Danny Noppert|avg=103.11}}
+| RD2-score23= 5
+| RD2-seed24 = 
+| RD2-team24 = {{PDCFlag|Jermaine Wattimena|avg=100.73}}
+| RD2-score24= 6
+
+| RD2-seed25 = 3
+| RD2-team25 = {{PDCFlag|Gian van Veen|avg=95.28}}
+| RD2-score25= 6
+| RD2-seed26 =
+| RD2-team26 =  {{PDCFlag|Andrew Gilding|avg=96.54}}
+| RD2-score26= 5
+
+| RD2-seed27 = 14
+| RD2-team27 = {{PDCFlag|Nathan Aspinall|avg=96.95}}
+| RD2-score27= 6
+| RD2-seed28 =
+| RD2-team28 = {{PDCFlag|Darryl Pilgrim|avg=101.68}}
+| RD2-score28= 3
+
+| RD2-seed29 = 6
+| RD2-team29 = {{PDCFlag|Gary Anderson|avg=97.21}}
+| RD2-score29= 2
+| RD2-seed30 =
+| RD2-team30 = {{PDCFlag|Wessel Nijman|avg=103.46}}
+| RD2-score30= 6
+
+| RD2-seed31 = 11
+| RD2-team31 = {{PDCFlag|James Wade|avg=87.45}}
+| RD2-score31= 0
+| RD2-seed32 =
+| RD2-team32 = {{PDCFlag|Cameron Menzies|avg=99.10}}
+| RD2-score32= 6
+
+| RD3-seed01 = 1
+| RD3-team01 = {{PDCFlag|Luke Littler|surname=1|avg=100.07}}
+| RD3-score01= 6
+| RD3-seed02 = 16
+| RD3-team02 = {{PDCFlag|Ross Smith|surname=R Smith|avg=91.84}}
+| RD3-score02= 2
+
+| RD3-seed03 =
+| RD3-team03 = {{PDCFlag|Cristo Reyes|surname=1|avg=92.63}}
+| RD3-score03= 3
+| RD3-seed04 = 9
+| RD3-team04 = {{PDCFlag|Josh Rock|surname=1|avg=98.57}}
+| RD3-score04= 6
+
+| RD3-seed05 =
+| RD3-team05 = {{PDCFlag|Luke Woodhouse|surname=1|avg=90.72}}
+| RD3-score05= 5
+| RD3-seed06 = 13
+| RD3-team06 = {{PDCFlag|Chris Dobey|surname=1|avg=91.59}}
+| RD3-score06= 6
+
+| RD3-seed07 = 5
+| RD3-team07 = {{PDCFlag|Jonny Clayton|surname=1|avg=92.44}}
+| RD3-score07= 4
+| RD3-seed08 = Alt
+| RD3-team08 = {{PDCFlag|Michael Smith|surname=M Smith|avg=90.57}}
+| RD3-score08= 6
+
+| RD3-seed09 = 2
+| RD3-team09 = {{PDCFlag|Luke Humphries|surname=1|avg=96.41}}
+| RD3-score09= 6
+| RD3-seed10 =
+| RD3-team10 = {{PDCFlag|Boris Krcmar|surname=1|avg=88.58}}
+| RD3-score10= 1
+
+| RD3-seed11 = 7
+| RD3-team11 = {{PDCFlag|Stephen Bunting|surname=1|avg=100.09}}
+| RD3-score11= 6
+| RD3-seed12 =
+| RD3-team12 = {{PDCFlag|Jermaine Wattimena|surname=1|avg=96.94}}
+| RD3-score12= 1
+
+| RD3-seed13 = 3
+| RD3-team13 = {{PDCFlag|Gian van Veen|surname=van Veen|avg=95.90}}
+| RD3-score13= 6
+| RD3-seed14 = 14
+| RD3-team14 = {{PDCFlag|Nathan Aspinall|surname=1|avg=100.05}}
+| RD3-score14= 5
+
+| RD3-seed15 = &nbsp;
+| RD3-team15 = {{PDCFlag|Wessel Nijman|surname=1|avg=102.00}}
+| RD3-score15= 6
+| RD3-seed16 =
+| RD3-team16 = {{PDCFlag|Cameron Menzies|surname=1|avg=90.33}}
+| RD3-score16= 1
+
+| RD4-seed01 = 1
+| RD4-team01 = {{PDCFlag|Luke Littler|surname=1|avg=98.97}}
+| RD4-score01= 6
+| RD4-seed02 = 9
+| RD4-team02 = {{PDCFlag|Josh Rock|surname=1|avg=95.16}}
+| RD4-score02= 1
+
+| RD4-seed03 = 13
+| RD4-team03 = {{PDCFlag|Chris Dobey|surname=1|avg=90.05}}
+| RD4-score03= 6
+| RD4-seed04 = Alt
+| RD4-team04 = {{PDCFlag|Michael Smith|surname=M Smith|avg=83.45}}
+| RD4-score04= 2
+
+| RD4-seed05 = 2
+| RD4-team05 = {{PDCFlag|Luke Humphries|surname=1|avg=92.03}}
+| RD4-score05= 6
+| RD4-seed06 = 7
+| RD4-team06 = {{PDCFlag|Stephen Bunting|surname=1|avg=88.47}}
+| RD4-score06= 1
+
+| RD4-seed07 = 3
+| RD4-team07 = {{PDCFlag|Gian van Veen|surname=van Veen|avg=107.50}}
+| RD4-score07= 6
+| RD4-seed08 =
+| RD4-team08 = {{PDCFlag|Wessel Nijman|surname=1|avg=96.09}}
+| RD4-score08= 2
+
+| RD5-seed01 = 1
+| RD5-team01 = {{PDCFlag|Luke Littler|surname=1|avg=105.91}}
+| RD5-score01= 7
+| RD5-seed02 = 13
+| RD5-team02 = {{PDCFlag|Chris Dobey|surname=1|avg=93.73}}
+| RD5-score02= 3
+
+| RD5-seed03 = 2
+| RD5-team03 = {{PDCFlag|Luke Humphries|surname=1|avg=97.66}}
+| RD5-score03= 5
+| RD5-seed04 = 3
+| RD5-team04 = {{PDCFlag|Gian van Veen|surname=van Veen|avg=97.43}}
+| RD5-score04= 7
+
+| RD6-seed01 = 1
+| RD6-team01 = {{PDCFlag|Luke Littler|surname=1|avg=108.06}}
+| RD6-score01= 8
+| RD6-seed02 = 3
+| RD6-team02 = {{PDCFlag|Gian van Veen|surname=van Veen|avg=96.11}}
+| RD6-score02= 4
+}}
+
+==References==
+{{reflist}}
+{{2026 in PDC darts}}
+
+{{DEFAULTSORT:Poland Darts Open 2026}}
+[[Category:2026 PDC European Tour]]
+[[Category:Darts in Poland]]
+[[Category:International sports competitions hosted by Poland]]
+[[Category:Sports competitions in Kraków]]
+[[Category:21st century in Kraków]]
+[[Category:February 2026 sports events in Europe]]
+[[Category:2026 in Polish sport]]

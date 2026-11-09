@@ -1,0 +1,736 @@
+{{short description|Series of darts tournament}}
+The '''2026 World Series of Darts''' is a series of televised [[darts]] tournaments organised by the [[Professional Darts Corporation]]. Six [[World Series of Darts|World Series]] events will be held followed by one [[2026 World Series of Darts Finals|finals]] event, which like every year since [[2021 World Series of Darts|2021]] has taken place in [[Amsterdam]], Netherlands.
+
+One new event took place for the first time in 2026, with the [[2026 Saudi Arabia Darts Masters|Saudi Arabia Darts Masters]] taking place at the Global Theater in [[Riyadh]], Saudi Arabia. However, the [[2025 Dutch Darts Masters|Dutch]] and [[2025 Poland Darts Masters|Poland Darts Masters]] were both removed from the series, with the latter being scrapped due to a new event, the [[2026 Poland Darts Open|Poland Darts Open]], being added to the [[PDC European Tour|European Tour]] schedule.<ref name="Schedule">{{cite web |last=Phillips |first=Josh |date=5 October 2025 |title=2026 World Series of Darts schedule confirmed |url=https://www.pdc.tv/news/2025/october/05/2026-world-series-darts-schedule-confirmed |website=Professional Darts Corporation}}</ref><ref>{{cite web |last= |first= |date=11 September 2025 |title=European Tour set for further expansion in 2026 with PDC calendar released |url=https://www.pdc.tv/news/2025/september/11/european-tour-set-further-expansion-2026-pdc-calendar-released |website=Professional Darts Corporation}}</ref>
+
+== Prize money ==
+The total prize fund for each of the six World Series events was unchanged from the previous year at £100,000 per event. The total prize fund for the [[2026 World Series of Darts Finals]] was increased from the previous year from £400,000 to £450,000.<ref>{{cite web |last=Phillips |first=Josh |date=31 March 2025 |title=Biggest prize money increase in PDC history confirmed |url=https://www.pdc.tv/news/2025/march/31/biggest-prize-money-increase-pdc-history-confirmed |website=Professional Darts Corporation |access-date=7 January 2026}}</ref> The prize fund breakdowns are shown below:
+{{Col-float}}
+{| class="wikitable"
+|+ International events
+! Stage !! Prize money !! OoM points
+|-
+| Winner || £30,000 || 12
+|-
+| Runner-up || £16,000 || 8
+|-
+| Semi-finals || £10,000 || 5
+|-
+| Quarter-finals || £5,000 || 3
+|-
+| First round || £1,750 || 1
+|-
+! Total || £100,000 || 
+|}
+{{Col-float-break}}
+{| class="wikitable"
+|+ Finals
+! Stage !! Prize money
+|-
+| Winner || £100,000
+|-
+| Runner-up || £60,000
+|-
+| Semi-finals || £30,000
+|-
+| Quarter-finals || £17,500
+|-
+| Second round || £10,000
+|-
+| First round || £5,000
+|-
+! Total || £450,000
+|}
+{{Col-float-end}}
+
+== World Series events ==
+The 2026 World Series of Darts schedule was announced on 5 October 2025.<ref name="Schedule"/> The [[2026 US Darts Masters|US Darts Masters]] was originally scheduled for 26 and 27 June, but was later moved to 25 and 26 June.<ref>{{cite web |last=Gorton |first=Josh |date=2 February 2026 |title=2026 bet365 US Darts Masters dates & ticket information confirmed |url=https://www.pdc.tv/news/2026/february/02/2026-bet365-us-darts-masters-dates---ticket-information-confirmed |website=Professional Darts Corporation |access-date=2 February 2026}}</ref>
+{| class="wikitable"
+!No.
+!Date
+!Event
+!Venue
+!Champion
+!Legs
+!Runner-up
+!Ref
+|-
+| align="center" |1
+| align="left" |15–16 January
+|[[2026 Bahrain Darts Masters|Bahrain Masters]]
+|{{flagicon|BHR}} [[Sakhir]], Exhibition World Bahrain
+| align="right" | {{PDCFlagR|Michael van Gerwen|b=1|avg=100.91}}
+|{{dart score|8|6}}
+| {{PDCFlag|Gian van Veen|avg=100.79}}
+| align="center" | <ref>{{Cite web |last=Simpson |first=Will |date=16 January 2026 |title=Van Gerwen blazes to maiden Bahrain Darts Masters title |url= https://www.pdc.tv/news/2026/01/16/van-gerwen-blazes-maiden-bahrain-darts-masters-title |website=Professional Darts Corporation |access-date=4 April 2026}}</ref>
+|-
+| align="center" |2
+| align="left" |19–20 January
+|[[2026 Saudi Arabia Darts Masters|Saudi Arabia Masters]]
+|{{flagicon|KSA}} [[Riyadh]], Global Theater
+| align="right" | {{PDCFlagR|Luke Littler|b=1|avg=104.84}}
+|{{dart score|8|5}}
+| {{PDCFlag|Michael van Gerwen|avg=101.79}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=20 January 2026 |title=Terrific Littler wins inaugural Riyadh Season Saudi Arabia Darts Masters |url= https://www.pdc.tv/news/2026/january/20/terrific-littler-wins-inaugural-riyadh-season-saudi-arabia-darts-masters/ |website=Professional Darts Corporation |access-date=4 April 2026}}</ref>
+|-
+| align="center" |3
+| align="left" |5–6 June
+|[[2026 Nordic Darts Masters|Nordic Masters]]
+|{{flagicon|DEN}} [[Copenhagen]], [[Forum Copenhagen]]
+| align="right" | {{PDCFlagR|Michael van Gerwen|b=1|avg=98.90}}
+|{{dart score|8|7}}
+|{{PDCFlag|Luke Humphries|avg=98.93}}
+| align="center" | <ref>{{Cite web |last=Simpson |first=Will |date=6 June 2026 |title= Van Gerwen claims second 2026 World Series title with Nordic Darts Masters triumph |url= https://www.pdc.tv/news/2026/june/06/Van-Gerwen-claims-second-World-Series-title-of-2026-with-Nordic-Darts-Masters-triumph/ |website=Professional Darts Corporation |access-date=6 June 2026}}</ref>
+|-
+| align="center" |4
+| align="left" |25–26 June
+|[[2026 US Darts Masters|US Masters]]
+|{{flagicon|USA}} [[New York City]], [[The Theater at Madison Square Garden|The Theater]]
+| align="right" | {{PDCFlagR|Luke Humphries|b=1|avg=104.05}}
+|{{dart score|8|7}}
+|{{PDCFlag|Luke Littler|avg=99.50}}
+| align="center" | <ref>{{cite web |last=Gorton |first=Josh |date=27 June 2026 |title=Humphries defies Littler to win back-to-back US Darts Masters titles |url=https://www.pdc.tv/news/2026/june/27/Humphries-defies-Littler-back-to-back-US-Masters-titles/ |website=Professional Darts Corporation |access-date=27 June 2026}}</ref>
+|-
+| align="center" |5
+| align="left" |14–15 August
+|[[2026 New Zealand Darts Masters|New Zealand Masters]]
+|{{flagicon|NZL}} [[Auckland]], [[Spark Arena]]
+| align="right" | {{PDCFlagR|Jonny Clayton|b=1|avg=94.96}}
+|{{dart score|8|4}}
+|{{PDCFlag|Gerwyn Price|avg=95.49}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=15 August 2026 |title= Clinical Clayton topples Price to win NZ Darts Masters |url= https://www.pdc.tv/news/2026/august/15/2026-skycity-new-zealand-darts-masters---finals-day-latest/ |website=Professional Darts Corporation |access-date=15 August 2026}}</ref>
+|-
+| align="center" |6
+| align="left" |21–22 August
+|[[2026 Australian Darts Masters|Australian Masters]]
+|{{nowrap|1= {{flagicon|AUS}} [[Wollongong]], [[Wollongong Entertainment Centre]]}}
+| align="right" | {{PDCFlagR|James Wade|b=1|avg=101.62}}
+|{{dart score|8|5}}
+|{{PDCFlag|Brody Klinge|avg=104.56}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=22 August 2026 |title= Wonderful Wade wins maiden World Series title in Wollongong |url= https://www.pdc.tv/news/2026/august/22/wonderful-Wade-wins-maiden-world-series-title-wollongong/ |website=Professional Darts Corporation |access-date=22 August 2026}}</ref>
+|-
+| align="center" |7
+| align="left" |{{nowrap|1= 17–20 September}}
+|{{nowrap|1= [[2026 World Series of Darts Finals|World Series of Darts Finals]]}}
+|{{flagicon|NED}} [[Amsterdam]], [[AFAS Live]]
+| align="right" | {{PDCFlagR|Ross Smith|b=1|avg=103.89}}
+|{{dart score|11|5}}
+|{{PDCFlag|Gerwyn Price|avg=97.28}}
+| align="center" | <ref>{{Cite web |last=Simpson |first=Will |date=20 September 2026 |title= Smith scoops maiden World Series of Darts Finals title |url= https://www.pdc.tv/news/2026/september/20/Smith-scoops-maiden-World-Series-of-Darts-Finals-title/ |website=Professional Darts Corporation |access-date=20 September 2026}}</ref>
+|}
+
+==Order of Merit==
+The top 24 players on the 2026 World Series Order of Merit, based on points earned across the six events, will qualify for the [[2026 World Series of Darts Finals]].<ref>{{cite web |last=Gorton |first=Josh |date=17 July 2026 |title=2026 World Series of Darts Finals qualification criteria confirmed |url=https://www.pdc.tv/news/2026/july/17/2026-World-Series-of-Darts-Finals-qualification-criteria-confirmed/ |website=Professional Darts Corporation |access-date=14 August 2026}}</ref>
+
+{| class ="wikitable" style="width:40em;text-align:center;margin-bottom:0;"
+|-
+! #
+! Player
+! {{flagicon|BHR}}<br />[[2026 Bahrain Darts Masters|BHR]]
+! {{flagicon|KSA}}<br />[[2026 Saudi Arabia Darts Masters|KSA]]
+! {{flagicon|DEN}}<br />[[2026 Nordic Darts Masters|DEN]]
+! {{flagicon|USA}}<br />[[2026 US Darts Masters|USA]]
+! {{flagicon|NZL}}<br />[[2026 New Zealand Darts Masters|NZL]]
+! {{flagicon|AUS}}<br />[[2026 Australian Darts Masters|AUS]]
+! Total
+|-
+| align=left | 1
+| align=left|{{PDCFlag|Michael van Gerwen}}
+| bgcolor=lime | '''W'''<br />12
+| bgcolor=thistle | F<br />8
+| bgcolor=lime | '''W'''<br />12
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| '''32'''
+|-
+| align=left | 2
+| align=left|{{PDCFlag|Gerwyn Price}}
+| bgcolor=yellow | SF<br />5
+| bgcolor=yellow | SF<br />5
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor=thistle | F<br />8
+| bgcolor=yellow | SF<br />5
+| '''29'''
+|-
+|align=left|3
+| align=left|{{PDCFlag|Luke Littler}}
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor=lime | '''W'''<br />12
+| bgcolor=yellow | SF<br />5
+| bgcolor=thistle | F<br />8
+| {{n/a}}
+| {{n/a}}
+|'''28'''
+|-
+|align=left|4
+| align=left|{{PDCFlag|Luke Humphries}}
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor=thistle | F<br />8
+| bgcolor=lime | '''W'''<br />12
+| {{n/a}}
+| {{n/a}}
+|'''26'''
+|-
+|align=left|5
+| align=left|{{PDCFlag|Gian van Veen}}
+| bgcolor=thistle | F<br />8
+| bgcolor="ffebcd" | QF<br />3 
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor=yellow | SF<br />5
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor="ffebcd" | QF<br />3
+|'''25'''
+|-
+| align=left | 6
+| align=left|{{PDCFlag|Jonny Clayton}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor=yellow | SF<br />5
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor=lime | '''W'''<br />12
+| bgcolor=yellow | SF<br />5
+|'''25'''
+|-
+| align=left | 7
+| align=left|{{PDCFlag|James Wade}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor=yellow | SF<br />5
+| bgcolor=yellow | SF<br />5
+| bgcolor=lime | '''W'''<br />12
+|'''25'''
+|-
+| align=left | 8
+| align=left|{{PDCFlag|Stephen Bunting}}
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor="afeeee" | 1R<br />1
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor="afeeee" | 1R<br />1
+| bgcolor="ffebcd" | QF<br />3
+| '''14'''
+|-
+| align=left | 9
+| align=left|{{PDCFlag|Nathan Aspinall}}
+| bgcolor=yellow | SF<br />5
+| bgcolor=yellow | SF<br />5
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| '''10'''
+|-
+| align=left | 10
+| align=left|{{PDCFlag|Brody Klinge}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor=thistle | F<br />8
+|'''8'''
+|-
+| align=left | 11
+| align=left| {{PDCFlag|Josh Rock}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor="ffebcd" | QF<br />3
+|'''7'''
+|-
+| align=left|12
+| align=left|{{PDCFlag|Damon Heta}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor="ffebcd" | QF<br />3
+|'''6'''
+|-
+| align=left|13
+| align=left|{{PDCFlag|Raymond Smith}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor=yellow | SF<br />5
+| bgcolor="afeeee" | 1R<br />1
+|'''6'''
+|-
+| align=left|14
+| align=left|{{PDCFlag|Danny Noppert}}
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| '''4'''
+|-
+| align=left|15
+| align=left|{{PDCFlag|Adam Leek}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="ffebcd" | QF<br />3
+| bgcolor="afeeee" | 1R<br />1
+| '''4'''
+|-
+| align=left|16
+| align=left|{{PDCFlag|Man Lok Leung}}
+| bgcolor="afeeee" | 1R<br />1
+| bgcolor="ffebcd" | QF<br />3
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| '''4'''
+|-
+| align=left|17
+| align=left|{{PDCFlag|Jim Long}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="ffebcd" | QF<br />3
+| {{n/a}}
+| {{n/a}}
+| '''3'''
+|-
+| align=left|18
+| align=left|{{PDCFlag|Viktor Tingström}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="ffebcd" | QF<br />3
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| '''3'''
+|-
+| align=left| 19
+| align=left| {{PDCFlag|Ross Smith}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1 
+| bgcolor="afeeee" | 1R<br />1
+| '''2'''
+|-
+| align=left| 20
+| align=left| {{PDCFlag|Ben Robb}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1 
+| bgcolor="afeeee" | 1R<br />1 
+| '''2'''
+|-
+| align=left| 21
+| align=left|{{PDCFlag|Motomu Sakai}}
+| bgcolor="afeeee" | 1R<br />1
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| '''2'''
+|-
+| align=left| 22
+| align=left| {{PDCFlag|Simon Whitlock}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1 
+| bgcolor="afeeee" | 1R<br />1
+| '''2'''
+|-
+| align=left| 23
+| align=left|{{PDCFlag|Lourence Ilagan}}
+| bgcolor="afeeee" | 1R<br />1
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| '''2'''
+|-
+| align=left| 24
+| align=left|{{PDCFlag|Alexis Toylo}}
+| bgcolor="afeeee" | 1R<br />1
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| '''2'''
+|-
+| align=left| 25
+| align=left|{{PDCFlag|Ryusei Azemoto}}
+| bgcolor="afeeee" | 1R<br />1
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| '''2'''
+|-
+| align=left| 26
+| align=left|{{PDCFlag|Paul Lim}}
+| bgcolor="afeeee" | 1R<br />1
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| '''2'''
+|}
+{| class="collapsible collapsed wikitable" style="width:40em;text-align:center;margin-top:-1px;"
+|-
+!scope="col" colspan="10" | Order of Merit finishers on 1 point
+|-
+! #
+! Player
+! {{flagicon|BHR}}<br />[[2026 Bahrain Darts Masters|BHR]]
+! {{flagicon|KSA}}<br />[[2026 Saudi Arabia Darts Masters|KSA]]
+! {{flagicon|DEN}}<br />[[2026 Nordic Darts Masters|DEN]]
+! {{flagicon|USA}}<br />[[2026 US Darts Masters|USA]]
+! {{flagicon|NZL}}<br />[[2026 New Zealand Darts Masters|NZL]]
+! {{flagicon|AUS}}<br />[[2026 Australian Darts Masters|AUS]]
+! Total
+|-
+| rowspan=25 align=left|27
+| align=left| {{PDCFlag|Madars Razma}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| rowspan=25 | '''1'''
+|-
+| align=left| {{PDCFlag|Jeffrey de Graaf}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Cor Dekker}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Oskar Lukasiak}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Darius Labanauskas}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Haupai Puha}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1 
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|David Cameron}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Brayden Hall}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Mal Cuming}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1 
+|-
+| align=left| {{PDCFlag|Daniel Larsson}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Adam Sevada}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Joe Comito}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+|-
+| align=left| {{PDCFlag|Gary Mawson}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Alex Spellman}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Tomoya Goto}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Jonny Tata}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1 
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Mark Cleaver}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1 
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Fred Krueger}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Nitin Kumar}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Leonard Gates}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left|{{PDCFlag|Basem Mahmood}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Tim Pusey}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1 
+|-
+| align=left| {{PDCFlag|Andreas Harrysson}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left|{{PDCFlag|Abdulla Saeed}}
+| bgcolor="afeeee" | 1R<br />1
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| align=left| {{PDCFlag|Kayden Milne}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| bgcolor="afeeee" | 1R<br />1 
+| {{n/a}}
+|}
+
+'''Key'''
+{{TournLegend|RU=F}}
+
+==Top averages==
+The table lists all players who achieved an [[High dart average|average]] of at least 100 in a match. In the case one player has multiple records, this is indicated by the number in brackets.
+{| class ="wikitable sortable"
+|-
+! #
+! Player
+! Round
+! Average
+! Event
+! Result
+|-
+|1 ||{{PDCFlag|James Wade}} || 1st Round || 112.73 || {{flagicon|AUS}} Australian Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|2 ||{{PDCFlag|Luke Littler}}|| Quarter Final || 111.58 || {{flagicon|KSA}} Saudi Arabia Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|3 ||{{PDCFlag|Luke Humphries}} || 1st Round || 109.92 || {{flagicon|DEN}} Nordic Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|4 ||{{PDCFlag|Luke Littler}} (2) || 1st Round || 106.50 || {{flagicon|BHR}} Bahrain Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|5 ||{{PDCFlag|Danny Noppert}}|| Quarter Final || 106.47 || {{flagicon|BHR}} Bahrain Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|6 ||{{PDCFlag|Gian van Veen}}|| Quarter Final || 106.45 || {{flagicon|USA}} US Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|7 ||{{PDCFlag|Luke Humphries}} (2)|| Quarter Final || 105.70 || {{flagicon|USA}} US Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|8 ||{{PDCFlag|Luke Humphries}} (3)|| Semi Final || 105.42 || {{flagicon|DEN}} Nordic Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|9 ||{{PDCFlag|Jonny Clayton}} || 1st Round|| 104.86 || {{flagicon|DEN}} Nordic Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|10 ||{{PDCFlag|Luke Littler}} (3) || Final || 104.84 || {{flagicon|KSA}} Saudi Arabia Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|11 ||{{PDCFlag|Brody Klinge}} || Final || 104.56 || {{flagicon|AUS}} Australian Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|12 ||{{PDCFlag|Nathan Aspinall}}|| Quarter Final || 104.43 || {{flagicon|BHR}} Bahrain Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|13 ||{{PDCFlag|Gian van Veen}} (2)|| Quarter Final || 104.31 || {{flagicon|BHR}} Bahrain Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|14 ||{{PDCFlag|Gerwyn Price}}|| Semi Final || 104.07 || {{flagicon|NED}} WS Finals || style="background:#CCFFCC;|'''Won'''
+|-
+|15 ||{{PDCFlag|Luke Humphries}} (4)|| Final || 104.05 || {{flagicon|USA}} US Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|16 ||{{PDCFlag|Gerwyn Price}} (2)|| 1st Round || 104.03 || {{flagicon|DEN}} Nordic Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|17 ||{{PDCFlag|Gerwyn Price}} (3)|| Quarter Final || 103.93 || {{flagicon|USA}} US Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|18 ||{{PDCFlag|Ross Smith}}|| Final || 103.89 || {{flagicon|NED}} WS Finals || style="background:#CCFFCC;|'''Won'''
+|-
+|19 ||{{PDCFlag|Gerwyn Price}} (4)|| Quarter Final || 103.86 || {{flagicon|NED}} WS Finals || style="background:#CCFFCC;|'''Won'''
+|-
+|20 ||{{PDCFlag|Luke Humphries}} (5)|| 1st Round || 103.66 || {{flagicon|BHR}} Bahrain Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|21 ||{{PDCFlag|Karel Sedlacek}} || 2nd Round || 103.30 || {{flagicon|NED}} WS Finals || style="background:#FFccCC;|'''Lost'''
+|-
+|22 ||{{PDCFlag|Ross Smith}} (2)|| 1st Round || 102.98 || {{flagicon|NED}} WS Finals || style="background:#CCFFCC;|'''Won'''
+|-
+|23 ||{{PDCFlag|Ross Smith}} (3)|| 1st Round || 102.88 || {{flagicon|AUS}} Australian Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|24 ||{{PDCFlag|Stephen Bunting}}|| Quarter Final || 102.72 || {{flagicon|USA}} US Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|25 ||{{PDCFlag|Damon Heta}} || 1st Round || 102.39 || {{flagicon|AUS}} Australian Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|26 ||{{PDCFlag|Luke Littler}} (4)|| Quarter Final || 102.15 || {{flagicon|USA}} US Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|27 ||{{PDCFlag|James Wade}} (2) || Quarter Final || 102.07 || {{flagicon|USA}} US Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|28 ||{{PDCFlag|Josh Rock}}|| 1st Round || 102.04 || {{flagicon|NED}} WS Finals || style="background:#CCFFCC;|'''Won'''
+|-
+|29 ||{{PDCFlag|Michael van Gerwen}} || Final || 101.79 || {{flagicon|KSA}} Saudi Arabia Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|30 ||{{PDCFlag|Gerwyn Price}} (5) || Semi Final || 101.63 || {{flagicon|KSA}} Saudi Arabia Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|31 ||{{PDCFlag|James Wade}} (3) || Final || 101.62 || {{flagicon|AUS}} Australian Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|32 ||{{PDCFlag|Brody Klinge}} (2)|| Semi Final || 101.59 || {{flagicon|AUS}} Australian Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|33 ||{{PDCFlag|Luke Humphries}} (6) || Semi Final || 101.57 || {{flagicon|USA}} US Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|34 ||{{PDCFlag|Michael van Gerwen}} (2)|| Semi Final || 101.55 || {{flagicon|DEN}} Nordic Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|35 ||{{PDCFlag|Gian van Veen}} (3)|| 2nd Round || 101.52 || {{flagicon|NED}} WS Finals || style="background:#CCFFCC;|'''Won'''
+|-
+|36 ||{{PDCFlag|James Wade}} (4)|| 2nd Round || 101.40 || {{flagicon|NED}} WS Finals || style="background:#CCFFCC;|'''Won'''
+|-
+|37 ||{{PDCFlag|Gerwyn Price}} (6)|| Quarter Final || 101.34 || {{flagicon|AUS}} Australian Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|38 ||{{PDCFlag|James Wade}} (5)|| Semi Final || 101.27 || {{flagicon|AUS}} Australian Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|39 ||{{PDCFlag|Dirk van Duijvenbode}}|| 2nd Round || 101.14 || {{flagicon|NED}} WS Finals || style="background:#CCFFCC;|'''Won'''
+|-
+|40 ||{{PDCFlag|Stephen Bunting}} (2)|| 1st Round || 101.10 || {{flagicon|NED}} WS Finals || style="background:#FFccCC;|'''Lost'''
+|-
+|41 ||{{PDCFlag|Nathan Aspinall}} (2) || 1st Round || 100.93 || {{flagicon|KSA}} Saudi Arabia Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|42 ||{{PDCFlag|Michael van Gerwen}} (3) || Final || 100.91 || {{flagicon|BHR}} Bahrain Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|43 ||{{PDCFlag|Luke Humphries}} (7) || Quarter Final || 100.86 || {{flagicon|BHR}} Bahrain Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|44 ||{{PDCFlag|Luke Littler}} (5) || Semi Final || 100.85 || {{flagicon|DEN}} Nordic Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|45 ||{{PDCFlag|Gian van Veen}} (4) || Final || 100.79 || {{flagicon|BHR}} Bahrain Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|46 ||{{PDCFlag|Ross Smith}} (4) || 2nd Round || 100.30 || {{flagicon|NED}} WS Finals || style="background:#CCFFCC;|'''Won'''
+|-
+|47 ||{{PDCFlag|Michael van Gerwen}} (4) || Semi Final || 100.28 || {{flagicon|KSA}} Saudi Arabia Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|48 ||{{PDCFlag|James Wade}} (6)|| Semi Final || 100.26 || {{flagicon|USA}} US Masters || style="background:#FFccCC;|'''Lost'''
+|-
+|49 ||{{PDCFlag|Gerwyn Price}} (7) || 1st Round || 100.20 || {{flagicon|KSA}} Saudi Arabia Masters || style="background:#CCFFCC;|'''Won'''
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{World Series of Darts}}
+
+{{2026 in PDC darts}}
+
+[[Category:2026 in darts|World Series of Darts]]
+[[Category:World Series of Darts|*]]

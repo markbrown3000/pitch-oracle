@@ -1,0 +1,461 @@
+{{infobox individual darts tournament
+|tournament_name = 2026 ČEZ Czech Darts Open
+|image =
+|dates = 4–6 September 2026
+|venue = PVA Expo
+|location = [[Prague]], Czech Republic
+|country = 
+|organisation = [[Professional Darts Corporation]] (PDC)
+|format = [[Leg (darts)|Legs]]
+|prize_fund = £230,000
+|winners_share = £35,000
+|nine_dart = 
+|high_checkout = '''170''' [[Martin Schindler]]
+|winner = '''{{flagathlete|[[Luke Littler]]|ENG}}'''
+|prev = [[2026 Hungarian Darts Trophy|Event 11]]
+|next = [[2026 Flanders Darts Trophy|Event 13]]
+}}
+
+The '''2026 Czech Darts Open''' (known for sponsorship reasons as the '''2026 ČEZ Czech Darts Open''') was a professional [[darts]] tournament that took place at the PVA Expo in [[Prague]], Czech Republic, from 4 to 6 September 2026.<ref>{{cite web |title=ČEZ Czech Darts Open 2026 |url=https://www.pdc-europe.tv/tournaments/et-2026-en/czech-darts-open-2026/ |website=PDC Europe |access-date=7 August 2026}}</ref> It was the twelfth of fifteen [[PDC European Tour]] events on the [[2026 PDC Pro Tour]]. It featured a field of 48 players and £230,000 in prize money, with £35,000 going to the winner.
+
+[[Beau Greaves]] became the first woman to win a European Tour match, defeating [[Daryl Gurney]] 6–4 in the first round. [[Luke Humphries]] was the defending champion, having defeated [[Josh Rock]] 8–5 in the [[2025 Czech Darts Open|2025 final]].<ref>{{cite web |last=Abraham |first=Timothy |date=7 September 2025 |title=Humphries beats Rock to retain Czech Open title |url=https://www.bbc.com/sport/darts/articles/c3w5qzjwy2qo |website=BBC Sport |access-date=3 September 2026}}</ref>
+
+[[Luke Littler]] won his sixth European Tour title by defeating Humphries 8–6 in the final.
+
+==Prize money==
+As part of a mass boost in prize money for [[Professional Darts Corporation]] (PDC) events in 2026, the prize fund for all [[2026 PDC Pro Tour#European Tour#European Tour|2026 European Tour]] events rose to £230,000, of which the winner will receive £35,000.<ref>{{cite web |last=Phillips |first=Josh |date=31 March 2025 |title=Biggest prize money increase in PDC history confirmed |url=https://www.pdc.tv/news/2025/march/31/biggest-prize-money-increase-pdc-history-confirmed |website=Professional Darts Corporation |access-date=1 March 2026}}</ref>
+
+{| class="wikitable"
+! colspan="2" |Stage <small>(num. of players)</small>
+!Prize money
+|-
+|'''Winner'''
+| align="center" |<small>(1)</small>
+| align="center" |£35,000
+|-
+|'''Runner-up'''
+| align="center" |<small>(1)</small>
+| align="center" |£15,000
+|-
+|'''Semi-finalists'''
+| align="center" |<small>(2)</small>
+| align="center" |£10,000
+|-
+|'''Quarter-finalists'''
+| align="center" |<small>(4)</small>
+| align="center" |£8,000
+|-
+|'''Third round losers'''
+| align="center" |<small>(8)</small>
+| align="center" |£5,000
+|-
+|'''Second round losers'''
+| align="center" |<small>(16)</small>
+| align="center" |£3,500*
+|-
+|'''First round losers'''
+| align="center" |<small>(16)</small>
+| align="center" |£2,000*
+|-
+! colspan="3" |
+|-
+|'''Total'''
+| colspan="2" align="center" |£230,000
+|}
+
+* Pre-qualified players from the Orders of Merit who lose in their first match of the event shall not be credited with prize money on any Order of Merit.<ref>{{cite web |title=PDC Rankings Rules |url=https://www.pdc.tv/pdc-order-merit-rules-1 |website=Professional Darts Corporation |access-date=1 March 2026}}</ref>
+
+== Qualification and format ==
+The top 16 players on the two-year [[PDC Order of Merit]] were [[Seeding (sports)|seeded]] and entered the tournament in the second round, while the next 16 highest-ranked players from the one-year [[PDC Pro Tour Order of Merit]] automatically qualified for the first round. The seedings were confirmed on 2 July.<ref>{{cite web |last=Gorton |first=Josh |date=2 July 2026 |title=2026 ET11-12 Seeds & Tour Card Holder qualifier entries confirmed |url=https://pdc.tv/news/2026/july/02/2026-et11-12-seeds-tour-card-holder-qualifier-entries-confirmed/ |website=Professional Darts Corporation |access-date=8 July 2026}}</ref> The remaining 16 places went to players from four qualifying events – 10 from the Tour Card Holder Qualifier (held on 8 July),<ref>{{cite web |date=8 July 2026 |title=PDC ET12 Tour Card Holder Qualifier |url=https://tv.dartconnect.com/event/pdceutcq26et12/matches |website=DartConnect |access-date=8 July 2026}}</ref> four from the Host Nation Qualifier (held on 3 September),<ref>{{cite web |date=3 September 2026 |title=PDC ET12 Host Nation Qualifier |url=https://tv.dartconnect.com/event/pdc26et12hnq/matches |website=DartConnect |access-date=3 September 2026}}</ref> one from the Nordic & Baltic Associate Member Qualifier (held on 16 May),<ref>{{cite web |date=24 April 2026 |title=PDCNB 2026 Tour - Sweden - Weekend 04 |url=https://tv.dartconnect.com/event/pdcnbpro26e04/matches |website=DartConnect |access-date=8 July 2026}}</ref> and one from the East European Associate Member Qualifier (held on 4 July).<ref>{{cite web |date=5 July 2026 |title=PDC ET12 E. Europe Qualifier |url=https://tv.dartconnect.com/event/pdceeu26et12q/matches |website=DartConnect |access-date=8 July 2026}}</ref>
+
+[[James Wade]] withdrew and was replaced by [[Ricky Evans (darts player)|Ricky Evans]], with [[Jermaine Wattimena]] moving up to 16th seed.<ref>{{cite web |last=Gorton |first=Josh |date=3 September 2026 |title=2026 ČEZ Czech Darts Open draw & schedule confirmed |url=https://www.pdc.tv/news/2026/september/03/2026-czech-darts-open-draw-schedule-confirmed/ |website=Professional Darts Corporation |access-date=3 September 2026}}</ref>
+
+{{col-begin}}
+{{col-break}}
+:'''Seeded players'''
+# '''{{flagathlete|[[Luke Littler]]|ENG}} (champion)'''
+# {{flagathlete|[[Luke Humphries]]|ENG}} ''(runner-up)''
+# {{flagathlete|[[Gian van Veen]]|NED}} ''(third round)''
+# {{flagathlete|[[Michael van Gerwen]]|NED}} ''(semi-finals)''
+# {{flagathlete|[[Jonny Clayton]]|WAL}} ''(quarter-finals)''
+# {{flagathlete|[[Gerwyn Price]]|WAL}} ''(semi-finals)''
+# {{flagathlete|[[Josh Rock]]|NIR}} ''(third round)''
+# {{flagathlete|[[Stephen Bunting]]|ENG}} ''(second round)''
+# {{flagathlete|[[Danny Noppert]]|NED}} ''(quarter-finals)''
+# {{flagathlete|[[Ryan Searle (darts player)|Ryan Searle]]|ENG}} ''(second round)''
+# {{flagathlete|[[Gary Anderson (darts player)|Gary Anderson]]|SCO}} ''(second round)''
+# {{flagathlete|[[Chris Dobey]]|ENG}} ''(second round)''
+# {{flagathlete|[[Wessel Nijman]]|NED}} ''(third round)''
+# {{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}} ''(quarter-finals)''
+# {{flagathlete|[[Nathan Aspinall]]|ENG}} ''(second round)''
+# {{flagathlete|[[Jermaine Wattimena]]|NED}} ''(second round)''
+{{col-break}}
+:'''PDC Pro Tour Order of Merit qualifiers'''
+:* {{flagathlete|[[Luke Woodhouse]]|ENG}} ''(third round)''
+:* {{flagathlete|[[Kevin Doets]]|NED}} ''(second round)''
+:* {{flagathlete|[[Andrew Gilding]]|ENG}} ''(third round)''
+:* {{flagathlete|[[Rob Cross]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Krzysztof Ratajski]]|POL}} ''(third round)''
+:* {{flagathlete|[[Niko Springer]]|GER}} ''(second round)''
+:* {{flagathlete|[[William O'Connor (darts player)|William O'Connor]]|IRL}} ''(quarter-finals)''
+:* {{flagathlete|[[Niels Zonneveld]]|NED}} ''(first round)''
+:* {{flagathlete|[[Martin Schindler]]|GER}} ''(second round)''
+:* {{flagathlete|[[Dirk van Duijvenbode]]|NED}} ''(first round)''
+:* {{flagathlete|[[Ryan Joyce]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Damon Heta]]|AUS}} ''(second round)''
+:* {{flagathlete|[[Joe Cullen (darts player)|Joe Cullen]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Daryl Gurney]]|NIR}} ''(first round)''
+:* {{flagathlete|[[Cameron Menzies]]|SCO}} ''(third round)''
+
+{{col-break}}
+:'''Tour Card qualifier'''
+:* {{flagathlete|[[Robert Owen (darts player)|Rob Owen]]|WAL}} ''(first round)''
+:* {{flagathlete|[[Connor Scutt]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Cristo Reyes]]|ESP}} ''(first round)''
+:* {{flagathlete|[[Beau Greaves]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Jeffrey de Graaf]]|SWE}} ''(second round)''
+:* {{flagathlete|[[Stephen Burton (darts player)|Stephen Burton]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Kim Huybrechts]]|BEL}} ''(first round)''
+:* {{flagathlete|[[Callan Rydz]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Keane Barry]]|IRL}} ''(third round)''
+:* {{flagathlete|[[Mario Vandenbogaerde]]|BEL}} ''(second round)''
+:'''Host Nation qualifier'''
+:* {{flagathlete|[[Karel Sedláček]]|CZE}} ''(first round)''
+:* {{flagathlete|[[David Rosí]]|CZE}} ''(first round)''
+:* {{flagathlete|[[Adam Gawlas]]|CZE}} ''(first round)''
+:* {{flagathlete|[[Jiří Brejcha]]|CZE}} ''(first round)''
+:'''Nordic & Baltic qualifier'''
+:* {{flagathlete|[[Johan Engström]]|SWE}} ''(first round)''
+:'''East European qualifier'''
+:* {{flagathlete|[[Martin Homola]]|SVK}} ''(first round)''
+:'''Reserve list'''
+:* {{flagathlete|[[Ricky Evans (darts player)|Ricky Evans]]|ENG}} ''(first round)''
+
+{{col-end}}
+
+== Summary ==
+=== First round ===
+[[File:Beau Greaves 2026.png|thumb|[[Beau Greaves]] ''(pictured in 2026)'' became the first woman to win a European Tour match, defeating [[Daryl Gurney]] 6–4 in the first round.]]
+The first round (best of 11 [[Leg (darts)|legs]]) was played on 4 September.<ref name="PDC_R1">{{cite web |last=Simpson |first=Will |date=4 September 2026 |title=Greaves makes history in Prague with maiden Euro Tour win |url=https://www.pdc.tv/news/2026/september/04/Greaves-makes-history-in-Prague-with-maiden-Euro-Tour-win/ |website=Professional Darts Corporation |access-date=4 September 2026}}</ref> Facing [[Daryl Gurney]] in a rematch of their first-round tie at the [[2026 PDC World Darts Championship|2026 World Championship]], [[Beau Greaves]] overturned a 3–1 deficit to defeat Gurney 6–4 and become the first woman to win a match on the European Tour. "It's just so nice to win a game, I was so nervous at the start, I don't know why. It took me so long to get settled, but luckily I did enough to win the game," said Greaves, who progressed to a second-round meeting with world number two [[Luke Humphries]].<ref>{{cite web |date=4 September 2026 |title=Greaves becomes first woman to win match on European Tour |url=https://www.bbc.com/sport/darts/articles/c4gr9nk9rnro |website=BBC Sport |access-date=4 September 2026}}</ref> All four Czech qualifiers were eliminated in the opening round: [[Karel Sedláček]] was beaten 6–4 by [[Damon Heta]], [[Adam Gawlas]] was defeated 6–2 by [[Krzysztof Ratajski]], Jiří Brejcha lost 6–1 to [[William O'Connor (darts player)|William O'Connor]], and European Tour newcomer David Rosí lost 6–3 to [[Andrew Gilding]].<ref name="Nova">{{cite web |last=Martinovský |first=Jakub |date=4 September 2026 |title=Češi na Czech Darts Open neuspěli. Po bitvě padl i Sedláček |trans-title=The Czechs failed at the Czech Darts Open. Sedláček also fell after the battle |url=https://tn.nova.cz/sport/clanek/656162-cesi-na-czech-darts-open-neuspeli-po-bitve-padl-i-sedlacek |website=tn.nova.cz |access-date=4 September 2026 |language=cs}}</ref> [[Luke Woodhouse]] and [[Kevin Doets]] recorded [[three-dart average]]s of 104.30 and 100.68, respectively, in their wins over [[Connor Scutt]] and [[Ricky Evans (darts player)|Ricky Evans]]. [[Stephen Burton (darts player)|Stephen Burton]] achieved his second win on the European Tour with a 6–3 victory against [[Joe Cullen (darts player)|Joe Cullen]], who suffered his sixth straight loss at the Czech Darts Open.<ref name="PDC_R1"/>
+
+[[Niko Springer]] averaged 102.48 and hit a 150 [[Glossary of darts#Checkout|checkout]] as he earned a [[Whitewash (sport)|whitewash]] win against Slovak debutant Martin Homola.<ref name="Nova"/><ref name="DNews_R1Aft">{{cite web |last=Thomson |first=Milly |date=4 September 2026 |title=Joe Cullen out at the first hurdle as Springer and Doets impress |url=https://dartsnews.com/pdc/live-czech-darts-open-friday-afternoon-session-cullen-doets-v-evans-menzies-among-highlights |website=dartsnews.com |access-date=4 September 2026}}</ref> On facing top seed [[Luke Littler]] in the next round, Springer commented: "I have nothing to lose to be honest. I'm feeling very confident. Of course it will be hard, but it's best of 11, so let's go, I'm ready."<ref name="Sky_R1">{{cite web |date=4 September 2026 |title=Beau Greaves first woman to win match on PDC European Tour, plays Luke Humphries next at Czech Darts Open |url=https://www.skysports.com/darts/news/12288/13581507/beau-greaves-becomes-first-woman-to-win-a-match-on-pdc-european-tour-plays-luke-humphries-next-at-czech-darts-open |website=Sky Sports |access-date=4 September 2026}}</ref> The [[2018 PDC World Darts Championship|2018]] world champion [[Rob Cross]] lost 6–4 to [[Keane Barry]], while [[Dirk van Duijvenbode]] suffered a 6–2 defeat to [[Mario Vandenbogaerde]]. [[Ryan Joyce]] capitalised on two missed [[Glossary of darts#Match dart|match darts]] from [[Kim Huybrechts]] to beat the Belgian in a [[Glossary of darts#Decider|deciding leg]]. [[Martin Schindler]] and [[Jeffrey de Graaf]] were 6–4 victors against [[Robert Owen (darts player)|Robert Owen]] and [[Niels Zonneveld]], respectively. [[Callan Rydz]] defeated [[Cristo Reyes]] 6–1, while [[Cameron Menzies]] beat Swedish qualifier [[Johan Engström]] by the same scoreline to set up a second-round match against Scottish compatriot [[Gary Anderson (darts player)|Gary Anderson]].<ref name="DNews_R1Aft"/><ref name="Sky_R1"/>
+
+=== Second round ===
+[[File:2026-03-26 Premier League Darts – Night 8 – Berlin 2026 by Sandro Halank–042.jpg|thumb|Defending champion [[Luke Humphries]] ''(pictured in 2026)'' began his title defence by defeating Beau Greaves 6–2. He went on to reach his third consecutive Czech Darts Open final.]]
+The second round (best of 11 legs) was played on 5 September.<ref name="PDC_R2">{{cite web |last=Wagner |first=Connor |date=5 September 2026 |title=Humphries and Littler shine as seeds scatter on Day Two in Prague |url=https://www.pdc.tv/news/2026/september/05/2026-czech-darts-open-day-two-latest/ |website=Professional Darts Corporation |access-date=6 September 2026}}</ref> Defending champion Luke Humphries won his opening match 6–2 against Beau Greaves, winning the last three legs consecutively and averaging 108.98 in the process. Humphries praised his opponent in his post-match interview, saying she was an amazing player who "pushed [him] all the way". "If I had lost today, I wouldn't have been disgraced, I would have lost to a really great dart player," he concluded.<ref name="Sky_R2">{{cite web |date=5 September 2026 |title=Czech Darts Open: Luke Humphries knocks out Beau Greaves as Luke Littler and Michael van Gerwen also win |url=https://www.skysports.com/darts/news/12040/13581713/czech-darts-open-luke-humphries-knocks-out-beau-greaves-as-luke-littler-and-michael-van-gerwen-also-win |website=Sky Sports |access-date=6 September 2026}}</ref> World champion Luke Littler returned to the European Tour after missing the previous eight events and averaged 108.59 in a 6–4 victory over Niko Springer. Speaking afterwards, Littler said that, despite his high match average, he "couldn't hit anything" during practice. He also gave credit to Springer for being competitive after going 5–2 behind.<ref name="BBC_R2">{{cite web |date=5 September 2026 |title=Humphries beats Greaves as Littler also wins |url=https://www.bbc.com/sport/darts/articles/cj4j21k2ep7o |website=BBC Sport |access-date=6 September 2026}}</ref> Dutch compatriots [[Gian van Veen]] and [[Michael van Gerwen]], the third and fourth seed, began their respective campaigns with victories over Jeffrey de Graaf and Mario Vandenbogaerde.<ref name="BBC_R2"/> [[Josh Rock]], the [[2025 Czech Darts Open|2025]] runner-up, defeated Ryan Joyce 6–3. Welsh duo [[Jonny Clayton]] and [[Gerwyn Price]] were 6–2 winners against Damon Heta and Callan Rydz, respectively. Eighth seed [[Stephen Bunting]] was the only [[2026 Premier League Darts|Premier League]] player to be eliminated in the second round as he lost 6–4 to Luke Woodhouse, who averaged 105.30 in victory.<ref>{{cite web |last=Michael |first=Lucas |date=5 September 2026 |title=Luke Littler and Luke Humphries standout with 108 averages as Beau Greaves magical campaign abruptly halted |url=https://dartsnews.com/pdc/live-czech-darts-open-saturday-afternoon-luke-littler-makes-european-tour-return-as-history-making-beau-greaves-challenges-luke-humphries |website=dartsnews.com |access-date=6 September 2026}}</ref>
+
+After taking a 5–0 lead, Andrew Gilding completed a 6–2 win against fifteenth seed [[Nathan Aspinall]] with a 122 checkout. "This place absolutely loves me, I don't really know why that is, I get so much support, I just love being here," said Gilding, who set up a third-round meeting with Humphries.<ref name="PDC_R2"/> [[Ross Smith (darts player)|Ross Smith]], the winner of the [[2026 Hungarian Darts Trophy|Hungarian Darts Trophy]] the previous week, defeated Stephen Burton 6–1. Martin Schindler hit a [[Glossary of darts#Maximum check|170 checkout]] before losing 6–5 to [[Wessel Nijman]]. William O'Connor won four legs in a row to defeat tenth seed [[Ryan Searle (darts player)|Ryan Searle]] 6–4, while fellow Irishman Keane Barry beat twelfth seed [[Chris Dobey]] by the same scoreline. Krzysztof Ratajski defeated sixteenth seed [[Jermaine Wattimena]] 6–2 to advance to a match with Littler in the third round. [[Danny Noppert]] won 6–1 in an all-Dutch tie against Kevin Doets, while Cameron Menzies defeated eleventh seed Gary Anderson 6–3 in their all-Scottish contest.<ref name="Sky_R2"/><ref>{{cite web |last1=Skok |first1=Aleš |last2=Martinovský |first2=Jakub |date=5 September 2026 |title=Fantastičtí fanoušci dohnali van Gerwena za postupem! Celá hala fanatizovala |trans-title=Fantastic fans caught up with van Gerwen to progress! The whole hall was fanatical |url=https://tn.nova.cz/sport/clanek/656226-fantasticti-fanousci-dohnali-van-gerwena-za-postupem-cela-hala-fanatizovala |website=tn.nova.cz |access-date=6 September 2026 |language=cs}}</ref>
+
+=== Final day ===
+[[File:2026-03-26 Premier League Darts – Night 8 – Berlin 2026 by Sandro Halank–153.jpg|thumb|World number one [[Luke Littler]] ''(pictured in 2026)'' won his sixth European Tour title.]]
+The third round, quarter-finals, semi-finals and final were played on 6 September. The third round and quarter-finals were contested over the best of 11 legs, the semi-finals over the best of 13 legs, and the final over the best of 15 legs.<ref name="PDC_Final">{{cite web |last=Gorton |first=Josh |date=6 September 2026 |title=Littler denies Humphries to win 2026 Czech Darts Open |url=https://www.pdc.tv/news/2026/september/06/littler-denies-humphries-win-czech-darts-open/ |website=Professional Darts Corporation |access-date=6 September 2026}}</ref> The final day saw top seed Luke Littler and second seed Luke Humphries reach the final. Following a 6–3 win over Krzysztof Ratajski, Littler whitewashed Danny Noppert to progress to the semi-finals, where he averaged 106.64 to defeat Michael van Gerwen 7–3.<ref name="PDC_Final"/> Humphries continued his title defence with victories over Andrew Gilding, William O'Connor and Gerwyn Price. Competing in his fourth Czech Darts Open final in five years, Humphries looked to win the title for the third consecutive time, while his English [[PDC World Cup of Darts|World Cup]] teammate Littler aimed to win his maiden Czech title.<ref name="Sky_Final">{{cite web |date=6 September 2026 |title=Czech Darts Open: Luke Littler topples Luke Humphries 8-6 in final on return to European Tour in Prague |url=https://www.skysports.com/darts/news/12288/13582269/czech-darts-open-luke-littler-topples-luke-humphries-8-6-in-final-on-return-to-european-tour-in-prague |website=Sky Sports |access-date=7 September 2026}}</ref>
+
+Littler won the first two legs of the final, but Humphries claimed the next three with checkouts of 110, 88 and 92 to take advantage.<ref name="PDC_Final"/><ref name="BBC_Final">{{cite web |last=Sanghera |first=Mandeep |date=6 September 2026 |title=Littler beats Humphries to win Czech Open |url=https://www.bbc.com/sport/darts/articles/ce87z1pmq8vo |website=BBC Sport |access-date=7 September 2026}}</ref> With Humphries 4–3 in front, Littler won the next four legs in a row, including a 130 checkout in the ninth, to lead 7–4.<ref name="Sky_Final"/><ref name="BBC_Final"/> Humphries reduced the deficit to 7–6 and threatened to take the match to a deciding leg, but missed two darts at [[Glossary of darts#Double|double]] 16, allowing the world number one to convert a 39 finish to win 8–6.<ref name="BBC_Final"/> Littler finished the match with five [[Glossary of darts#Maximum|maximums]] (180s) and a three-dart average of 95.25.<ref name="Sky_Final"/>
+
+Littler won his first Czech Darts Open title and his sixth European Tour title overall. He handed Humphries his first loss at the tournament since the [[2023 Czech Darts Open|2023 edition]].<ref name="Ind">{{cite web |last=Veal |first=Jonathan |date=6 September 2026 |title=Luke Littler beats Luke Humphries in final on return to European Tour |url=https://www.independent.co.uk/sport/luke-littler-luke-humphries-darts-prague-dortmund-b3045624.html |website=The Independent |access-date=7 September 2026}}</ref> "It's good to be back and I'm back with a bang," declared Littler, making his first European Tour appearance since the [[2026 Belgian Darts Open|Belgian Darts Open]] in March.<ref name="BBC_Final"/> On facing the world number two in the title decider, Littler said it was the final that the fans in [[Prague]] deserved. When questioned about participating in the remaining events on the 2026 European Tour, Littler expressed his uncertainty, commenting: "Yeah, we'll have to see what happens, see what the plan is, see how busy I am."<ref name="Ind"/> Speaking in defeat, Humphries said that he "can't be upset" about missing out on a third straight title, noting that his missed darts at double 16 could have affected the match's outcome. He set out his aim to stop Littler from completing a clean sweep of major titles in 2026, saying: "I think he enjoys the challenge and I love it as well. Hopefully over the next four months, I push him and if he does the clean sweep he has to do it the hard way."<ref name="Sky_Final"/>
+
+== Draw == 
+The draw was announced on 3 September.<ref name="SkyDraw">{{cite web |date=3 September 2026 |title= Czech Darts Open: Latest draw, schedule, results as Luke Littler, Luke Humphries, Beau Greaves feature in Prague |url=https://www.skysports.com/darts/news/12288/13580802/czech-darts-open-latest-draw-schedule-results-as-luke-littler-luke-humphries-beau-greaves-feature-in-prague |website=Sky Sports |access-date=3 September 2026}}</ref> Numbers to the left of a player's name show the seedings for the top 16 in the tournament. The figures to the right of a player's name state their [[three-dart average]] in a match. The reserve player is indicated by 'Alt'. Players in bold denote match winners.<ref>{{cite web |title=Results of Czech Darts Open 2026 |url=https://mastercaller.com/tournaments/czech-darts-open/2026/results |website=Mastercaller |access-date=3 September 2026}}</ref>
+
+{{48TeamBracket 
+| RD1-shift = -1 
+| RD1='''First round'''<br>''(best of 11 legs)''<br>4 September 
+| RD2='''Second round'''<br>''(best of 11 legs)''<br>5 September 
+| RD3='''Third round'''<br>''(best of 11 legs)''<br>6 September 
+| RD4='''Quarter-finals'''<br>''(best of 11 legs)''<br>6 September 
+| RD5='''Semi-finals'''<br>''(best of 13 legs)''<br>6 September 
+| RD6='''Final'''<br>''(best of 15 legs)''<br>6 September  
+| team-width=220 
+| boldwinner=high 
+| RD1-seed01 = &nbsp;
+| RD1-team01 = {{PDCFlag|Niko Springer|avg=102.48}}
+| RD1-score01= 6
+| RD1-seed02 = &nbsp;
+| RD1-team02 = {{PDCFlag|txt=Martin Homola|flag=SVK|avg=76.96}}
+| RD1-score02= 0
+| RD1-seed03 = &nbsp;
+| RD1-team03 = {{PDCFlag|Krzysztof Ratajski|avg=92.74}}
+| RD1-score03= 6
+| RD1-seed04 = &nbsp;
+| RD1-team04 = {{PDCFlag|Adam Gawlas|avg=88.24}}
+| RD1-score04= 2
+| RD1-seed05 = &nbsp;
+| RD1-team05 = {{PDCFlag|Luke Woodhouse|avg=104.30}}
+| RD1-score05= 6
+| RD1-seed06 = &nbsp;
+| RD1-team06 = {{PDCFlag|Connor Scutt|avg=97.40}}
+| RD1-score06= 4
+| RD1-seed07 = &nbsp;
+| RD1-team07 = {{PDCFlag|Kevin Doets|avg=100.68}}
+| RD1-score07= 6
+| RD1-seed08 = Alt
+| RD1-team08 = {{PDCFlag|Ricky Evans|avg=90.99}}
+| RD1-score08= 2
+| RD1-seed09 = &nbsp;
+| RD1-team09 = {{PDCFlag|Dirk van Duijvenbode|avg=77.51}}
+| RD1-score09= 2
+| RD1-seed10 = &nbsp;
+| RD1-team10 = {{PDCFlag|Mario Vandenbogaerde|avg=80.70}}
+| RD1-score10= 6
+| RD1-seed11 = &nbsp;
+| RD1-team11 = {{PDCFlag|Martin Schindler|avg=89.50}}
+| RD1-score11= 6
+| RD1-seed12 = &nbsp;
+| RD1-team12 = {{PDCFlag|Rob Owen|avg=95.75}}
+| RD1-score12= 4
+| RD1-seed13 = &nbsp;
+| RD1-team13 = {{PDCFlag|Damon Heta|avg=94.56}}
+| RD1-score13= 6
+| RD1-seed14 = &nbsp;
+| RD1-team14 = {{PDCFlag|Karel Sedlacek|avg=90.24}}
+| RD1-score14= 4
+| RD1-seed15 = &nbsp;
+| RD1-team15 = {{PDCFlag|Rob Cross|avg=86.12}}
+| RD1-score15= 4
+| RD1-seed16 = &nbsp;
+| RD1-team16 = {{PDCFlag|Keane Barry|avg=89.73}}
+| RD1-score16= 6
+| RD1-seed17 = &nbsp;
+| RD1-team17 = {{PDCFlag|Daryl Gurney|avg=89.54}}
+| RD1-score17= 4
+| RD1-seed18 = &nbsp;
+| RD1-team18 = {{PDCFlag|Beau Greaves|avg=93.54}}
+| RD1-score18= 6
+| RD1-seed19 = &nbsp;
+| RD1-team19 = {{PDCFlag|Andrew Gilding|avg=90.66}}
+| RD1-score19= 6
+| RD1-seed20 = &nbsp;
+| RD1-team20 = {{PDCFlag|txt=David Rosi|flag=CZE|avg=77.84}}
+| RD1-score20= 3
+| RD1-seed21 = &nbsp;
+| RD1-team21 = {{PDCFlag|Ryan Joyce|avg=90.35}}
+| RD1-score21= 6
+| RD1-seed22 = &nbsp;
+| RD1-team22 = {{PDCFlag|Kim Huybrechts|avg=91.91}}
+| RD1-score22= 5
+| RD1-seed23 = &nbsp;
+| RD1-team23 = {{PDCFlag|William O’Connor|avg=82.55}}
+| RD1-score23= 6
+| RD1-seed24 = &nbsp;
+| RD1-team24 = {{PDCFlag|Jiri Brejcha|avg=76.35}}
+| RD1-score24= 1
+| RD1-seed25 = &nbsp;
+| RD1-team25 = {{PDCFlag|Niels Zonneveld|avg=96.84}}
+| RD1-score25= 4
+| RD1-seed26 = &nbsp;
+| RD1-team26 = {{PDCFlag|Jeffrey de Graaf|avg=94.21}}
+| RD1-score26= 6
+| RD1-seed27 = &nbsp;
+| RD1-team27 = {{PDCFlag|Joe Cullen|avg=88.67}}
+| RD1-score27= 3
+| RD1-seed28 = &nbsp;
+| RD1-team28 = {{PDCFlag|Stephen Burton|avg=91.12}}
+| RD1-score28= 6
+| RD1-seed29 = &nbsp;
+| RD1-team29 = {{PDCFlag|Callan Rydz|avg=96.14}}
+| RD1-score29= 6
+| RD1-seed30 = &nbsp;
+| RD1-team30 = {{PDCFlag|Cristo Reyes|avg=86.88}}
+| RD1-score30= 1
+| RD1-seed31 = &nbsp;
+| RD1-team31 = {{PDCFlag|Cameron Menzies|avg=92.49}}
+| RD1-score31= 6
+| RD1-seed32 = &nbsp;
+| RD1-team32 = {{PDCFlag|Johan Engström|avg=83.85}}
+| RD1-score32= 1
+| RD2-seed01 = 1 
+| RD2-team01 = {{PDCFlag|Luke Littler|avg=108.59}}
+| RD2-score01= 6
+| RD2-seed02 = &nbsp;
+| RD2-team02 = {{PDCFlag|Niko Springer|avg=98.56}}
+| RD2-score02= 4
+| RD2-seed03 = 16 
+| RD2-team03 = {{PDCFlag|Jermaine Wattimena|avg=95.41}}
+| RD2-score03= 2
+| RD2-seed04 = &nbsp;
+| RD2-team04 = {{PDCFlag|Krzysztof Ratajski|avg=101.53}}
+| RD2-score04= 6
+| RD2-seed05 = 8 
+| RD2-team05 = {{PDCFlag|Stephen Bunting|avg=103.23}}
+| RD2-score05= 4
+| RD2-seed06 = &nbsp;
+| RD2-team06 = {{PDCFlag|Luke Woodhouse|avg=105.30}}
+| RD2-score06= 6
+| RD2-seed07 = 9 
+| RD2-team07 = {{PDCFlag|Danny Noppert|avg=101.34}}
+| RD2-score07= 6
+| RD2-seed08 = &nbsp;
+| RD2-team08 = {{PDCFlag|Kevin Doets|avg=92.78}}
+| RD2-score08= 1
+| RD2-seed09 = 4 
+| RD2-team09 = {{PDCFlag|Michael van Gerwen|avg=92.50}}
+| RD2-score09= 6
+| RD2-seed10 = &nbsp;
+| RD2-team10 = {{PDCFlag|Mario Vandenbogaerde|avg=86.81}}
+| RD2-score10= 4
+| RD2-seed11 = 13 
+| RD2-team11 = {{PDCFlag|Wessel Nijman|avg=97.47}}
+| RD2-score11= 6
+| RD2-seed12 = &nbsp;
+| RD2-team12 = {{PDCFlag|Martin Schindler|avg=98.24}}
+| RD2-score12= 5
+| RD2-seed13 = 5 
+| RD2-team13 = {{PDCFlag|Jonny Clayton|avg=93.83}}
+| RD2-score13= 6
+| RD2-seed14 = &nbsp;
+| RD2-team14 = {{PDCFlag|Damon Heta|avg=85.55}}
+| RD2-score14= 2
+| RD2-seed15 = 12 
+| RD2-team15 = {{PDCFlag|Chris Dobey|avg=94.37}}
+| RD2-score15= 4
+| RD2-seed16 = &nbsp;
+| RD2-team16 = {{PDCFlag|Keane Barry|avg=90.12}}
+| RD2-score16= 6
+| RD2-seed17 = 2 
+| RD2-team17 = {{PDCFlag|Luke Humphries|avg=108.98}}
+| RD2-score17= 6
+| RD2-seed18 = &nbsp;
+| RD2-team18 = {{PDCFlag|Beau Greaves|avg=98.85}}
+| RD2-score18= 2
+| RD2-seed19 = 15 
+| RD2-team19 = {{PDCFlag|Nathan Aspinall|avg=95.71}}
+| RD2-score19= 2
+| RD2-seed20 = &nbsp;
+| RD2-team20 = {{PDCFlag|Andrew Gilding|avg=96.49}}
+| RD2-score20= 6
+| RD2-seed21 = 7
+| RD2-team21 = {{PDCFlag|Josh Rock|avg=94.99}}
+| RD2-score21= 6
+| RD2-seed22 = &nbsp;
+| RD2-team22 = {{PDCFlag|Ryan Joyce|avg=86.82}}
+| RD2-score22= 3
+| RD2-seed23 = 10
+| RD2-team23 = {{PDCFlag|Ryan Searle|avg=91.81}}
+| RD2-score23= 4
+| RD2-seed24 = &nbsp;
+| RD2-team24 = {{PDCFlag|William O'Connor|avg=91.54}}
+| RD2-score24= 6
+| RD2-seed25 = 3
+| RD2-team25 = {{PDCFlag|Gian van Veen|avg=100.88}}
+| RD2-score25= 6
+| RD2-seed26 = &nbsp;
+| RD2-team26 = {{PDCFlag|Jeffrey De Graaf|avg=96.59}}
+| RD2-score26= 1
+| RD2-seed27 = 14 
+| RD2-team27 = {{PDCFlag|Ross Smith|avg=97.70}}
+| RD2-score27= 6
+| RD2-seed28 = &nbsp;
+| RD2-team28 = {{PDCFlag|Stephen Burton|avg=91.06}}
+| RD2-score28= 1
+| RD2-seed29 = 6 
+| RD2-team29 = {{PDCFlag|Gerwyn Price|avg=103.86}}
+| RD2-score29= 6
+| RD2-seed30 = &nbsp;
+| RD2-team30 = {{PDCFlag|Callan Rydz|avg=80.86}}
+| RD2-score30= 2
+| RD2-seed31 = 11 
+| RD2-team31 = {{PDCFlag|Gary Anderson|avg=84.63}}
+| RD2-score31= 3
+| RD2-seed32 = &nbsp;
+| RD2-team32 = {{PDCFlag|Cameron Menzies|avg=95.82}}
+| RD2-score32= 6
+| RD3-seed01 = 1
+| RD3-team01 = {{PDCFlag|Luke Littler|surname=1|avg=99.21}}
+| RD3-score01= 6
+| RD3-seed02 = &nbsp;
+| RD3-team02 = {{PDCFlag|Krzysztof Ratajski|surname=1|avg=99.61}}
+| RD3-score02= 3
+| RD3-seed03 = &nbsp;
+| RD3-team03 = {{PDCFlag|Luke Woodhouse|surname=1|avg=97.99}}
+| RD3-score03= 5
+| RD3-seed04 = 9
+| RD3-team04 = {{PDCFlag|Danny Noppert|surname=1|avg=97.12}}
+| RD3-score04= 6
+| RD3-seed05 = 4
+| RD3-team05 = {{PDCFlag|Michael van Gerwen|surname=van Gerwen|avg=102.02}}
+| RD3-score05= 6
+| RD3-seed06 = 13
+| RD3-team06 = {{PDCFlag|Wessel Nijman|surname=1|avg=98.98}}
+| RD3-score06= 4
+| RD3-seed07 = 5
+| RD3-team07 = {{PDCFlag|Jonny Clayton|surname=1|avg=96.94}}
+| RD3-score07= 6
+| RD3-seed08 = &nbsp;
+| RD3-team08 = {{PDCFlag|Keane Barry|surname=1|avg=98.25}}
+| RD3-score08= 4
+| RD3-seed09 = 2
+| RD3-team09 = {{PDCFlag|Luke Humphries|surname=1|avg=93.93}}
+| RD3-score09= 6
+| RD3-seed10 = &nbsp;
+| RD3-team10 = {{PDCFlag|Andrew Gilding|surname=1|avg=93.64}}
+| RD3-score10= 3
+| RD3-seed11 = 7
+| RD3-team11 = {{PDCFlag|Josh Rock|surname=1|avg=93.57}}
+| RD3-score11= 5
+| RD3-seed12 = &nbsp;
+| RD3-team12 = {{PDCFlag|William O'Connor|surname=1|avg=93.43}}
+| RD3-score12= 6
+| RD3-seed13 = 3
+| RD3-team13 = {{PDCFlag|Gian van Veen|surname=van Veen|avg=90.19}}
+| RD3-score13= 3
+| RD3-seed14 = 14
+| RD3-team14 = {{PDCFlag|Ross Smith|surname=1|avg=91.38}}
+| RD3-score14= 6
+| RD3-seed15 = 6
+| RD3-team15 = {{PDCFlag|Gerwyn Price|surname=1|avg=89.39}}
+| RD3-score15= 6
+| RD3-seed16 = &nbsp;
+| RD3-team16 = {{PDCFlag|Cameron Menzies|surname=1|avg=76.18}}
+| RD3-score16= 1
+| RD4-seed01 = 1
+| RD4-team01 = {{PDCFlag|Luke Littler|surname=1|avg=102.48}}
+| RD4-score01= 6
+| RD4-seed02 = 9
+| RD4-team02 = {{PDCFlag|Danny Noppert|surname=1|avg=88.78}}
+| RD4-score02= 0
+| RD4-seed03 = 4
+| RD4-team03 = {{PDCFlag|Michael van Gerwen|surname=van Gerwen|avg=97.79}}
+| RD4-score03= 6
+| RD4-seed04 = 5
+| RD4-team04 = {{PDCFlag|Jonny Clayton|surname=1|avg=88.84}}
+| RD4-score04= 3
+| RD4-seed05 = 2
+| RD4-team05 = {{PDCFlag|Luke Humphries|surname=1|avg=91.54}}
+| RD4-score05= 6
+| RD4-seed06 = &nbsp;
+| RD4-team06 = {{PDCFlag|William O'Connor|surname=1|avg=84.67}}
+| RD4-score06= 3
+| RD4-seed07 = 14
+| RD4-team07 = {{PDCFlag|Ross Smith|surname=1|avg=97.55}}
+| RD4-score07= 4
+| RD4-seed08 = 6
+| RD4-team08 = {{PDCFlag|Gerwyn Price|surname=1|avg=100.50}}
+| RD4-score08= 6
+| RD5-seed01 = 1
+| RD5-team01 = {{PDCFlag|Luke Littler|surname=1|avg=106.64}}
+| RD5-score01= 7
+| RD5-seed02 = 4
+| RD5-team02 = {{PDCFlag|Michael van Gerwen|surname=van Gerwen|avg=83.53}}
+| RD5-score02= 3
+| RD5-seed03 = 2
+| RD5-team03 = {{PDCFlag|Luke Humphries|surname=1|avg=97.41}}
+| RD5-score03= 7
+| RD5-seed04 = 6
+| RD5-team04 = {{PDCFlag|Gerwyn Price|surname=1|avg=102.16}}
+| RD5-score04= 4
+| RD6-seed01 = 1
+| RD6-team01 = {{PDCFlag|Luke Littler|surname=1|avg=95.25}}
+| RD6-score01= 8
+| RD6-seed02 = 2
+| RD6-team02 = {{PDCFlag|Luke Humphries|surname=1|avg=94.81}}
+| RD6-score02= 6
+}}
+
+== References ==
+{{reflist}}
+{{2026 in PDC darts}}
+
+[[Category:2026 PDC European Tour]]
+[[Category:Darts in the Czech Republic]]
+[[Category:2020s in Prague]]
+[[Category:Sports competitions in Prague]]

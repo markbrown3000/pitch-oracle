@@ -1,0 +1,1357 @@
+{{Short description|Series of darts tournaments}}
+{{Use dmy dates|date=February 2026}}
+
+The '''2026 PDC Development Tour''', known as the '''Winmau Development Tour''' for sponsorship reasons, is a series of non-televised [[darts]] tournaments organised by the [[Professional Darts Corporation]] (PDC). A [[PDC secondary tours|secondary tour]] to the [[2026 PDC Pro Tour]], it consists of 24 events, held over four weekends of five events and one weekend of four events. The [[PDC Development Tour|Development Tour]], sponsored by [[Winmau]], is the PDC's youth system open to all players outside of the top 64 on the [[PDC Order of Merit]] that are aged 16 to 24.<ref>{{cite web |title=Development Tour & World Youth Championship Info & Induction |url=https://pdpa.co.uk/dt-info-induction/ |website=PDPA |access-date=27 February 2026}}</ref>{{efn|Players must have been 23 or under on 4 January 2026 to be eligible. Players are allowed to 
+compete on the Development Tour from the day they turn 16.}}
+
+== Order of Merit ==
+According to the [[Professional Darts Corporation|PDC]]'s Order of Merit rules,<ref>{{cite web |title=PDC Rankings Rules |url=https://www.pdc.tv/rankings/pdc-rankings-rules |website=Professional Darts Corporation |access-date=27 February 2026}}</ref> the 2026 Development Tour provides the following prizes based on the final Order of Merit:
+
+* The top two players on the Development Tour Order of Merit, who have not obtained a [[PDC Tour Card]] via another method, win a two-year Tour Card for the 2027 and 2028 seasons.
+* The top three players on the Development Tour Order of Merit, who have not qualified via another method, qualify for places at the [[2027 PDC World Darts Championship|2027 PDC World Championship]].
+* The highest ranked player on the Development Tour Order of Merit receives a spot at the 2026 Grand Slam of Darts.
+* The players in the top 16 of the Development Tour Order of Merit, who have not obtained a PDC Tour Card before 2027 Q-School, are granted free entry to the final stage of Q-School.
+* The eight highest ranked players from the Development Tour Order of Merit, who do not earn a Tour Card for the 2027 season, qualify for the first round of the [[2027 UK Open]].
+
+{| class="wikitable" style=text-align:right; margin-left:1em"
+|+2026 Development Tour ranking top 16 ({{As of|2026|08|02|df=dmy}})<ref>{{cite web |title=Development Tour Order of Merit |url=https://www.dartsrankings.com/developmenttour |website=dartsrankings.com |access-date=26 April 2026}}</ref>
+|-
+! Rank
+! Player
+! Prize money
+|- 
+|align=center|1 ||style="text-align:left"| {{flagathlete|[[Sebastian Białecki]]|POL}} || £21,900
+|- 
+|align=center|2 ||style="text-align:left"| {{flagathlete|[[Jurjen van der Velde]]|NED}} || £12,350
+|-
+|align=center|3 ||style="text-align:left"| {{flagathlete|[[Cam Crabtree]]|ENG}} || £12,350
+|-
+|align=center|4 ||style="text-align:left"| {{flagathlete|[[Jamai van den Herik]]|NED}} || £12,250
+|-
+|align=center|5 ||style="text-align:left"| {{flagathlete|[[Owen Bates]]|ENG}} || £12,200
+|-
+|align=center|6 ||style="text-align:left"| {{flagathlete|Jack Drayton|ENG}} || £12,200
+|-
+|align=center|7 ||style="text-align:left"| {{flagathlete|Leon Weber|GER}} || £11,350
+|-
+|align=center|8 ||style="text-align:left"| {{flagathlete|[[Dominik Grüllich]]|GER}} || £11,300
+|-
+|align=center|9 ||style="text-align:left"| {{flagathlete|Archie Self|ENG}} || £10,550
+|-
+|align=center|10 ||style="text-align:left"| {{flagathlete|James Beeton|ENG}} || £10,400
+|-
+|align=center|11 ||style="text-align:left"| {{flagathlete|[[Henry Coates]]|ENG}} || £9,050
+|-
+|align=center|12 ||style="text-align:left"| {{flagathlete|[[Dylan Slevin]]|IRL}} || £9,050
+|-
+|align=center|13 ||style="text-align:left"| {{flagathlete|[[Adam Gawlas]]|CZE}} || £8,550
+|-
+|align=center|14 ||style="text-align:left"| {{flagathlete|[[Charlie Manby]]|ENG}} || £8,500
+|-
+|align=center|15 ||style="text-align:left"| {{flagathlete|Kaya Baysal|TUR}} || £8,350
+|-
+|align=center|16 ||style="text-align:left"| {{flagathlete|Nathan Potter|ENG}} || £8,100
+|-
+|}
+
+== Prize money ==
+The total prize money for Development Tour events in 2026 increased to £20,000 per event from a previous total of £15,000 in 2025.<ref>{{cite web |title=PDC Youth/Development Tour 2025 DT 01 Milton Keynes |url=https://mastercaller.com/tournaments/pdc-youth-development-tour/2025-dt-01-milton-keynes |website=Mastercaller |access-date=28 February 2026}}</ref> The winner of each event receives £3,000. The prize fund breakdown is:<ref>{{cite web |last=Phillips |first=Josh |date=31 March 2025 |title=Biggest prize money increase in PDC history confirmed|url=https://www.pdc.tv/news/2025/march/31/biggest-prize-money-increase-pdc-history-confirmed |website=Professional Darts Corporation |access-date=17 July 2025}}</ref>
+
+{| class="wikitable"
+! colspan=2 | Stage <small>(no. of players)</small>
+! Prize money<br /><small>(Total: £20,000)</small>
+|-
+| '''Winner'''
+| align=center | <small>(1)</small>
+| align=center | £3,000
+|-
+| '''Runner-up'''
+| align=center | <small>(1)</small>
+| align=center | £2,000
+|-
+| '''Semi-finalists'''
+| align=center | <small>(2)</small>
+| align=center | £1,000
+|-
+| '''Quarter-finalists'''
+| align=center | <small>(4)</small>
+| align=center | £750
+|-
+| '''Last 16'''
+| align=center | <small>(8)</small>
+| align=center | £350
+|-
+| '''Last 32'''
+| align=center | <small>(16)</small>
+| align=center | £250
+|-
+| '''Last 64'''
+| align=center | <small>(32)</small>
+| align=center | £100
+|}
+
+== February ==
+=== Development Tour 1 ===
+Development Tour 1 was contested on 20 February 2026 at the [[Leicester Arena]]. The tournament was won by [[Jurjen van der Velde]], who defeated [[Dylan Slevin]] 5–1 in the final.<ref name="DT1and2">{{cite web |last=Gorton |first=Josh |date=20 February 2026 |title=Van der Velde & Bialecki begin 2026 Development Tour season in style |url=https://www.pdc.tv/news/2026/february/20/van-der-velde-bialecki-2026-development-tour/ |website=Professional Darts Corporation |access-date=27 February 2026}}</ref><ref>{{cite web |title=Results of PDC Youth/Development Tour 2026 DT 01 Leicester |url=https://mastercaller.com/tournaments/pdc-youth-development-tour/2026-dt-01-leicester/results |website=Mastercaller |access-date=27 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Jenson Walker|avg=87.50}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|txt=Sam Jackson|flag=ENG|avg=75.44}}
+| RD1-score2 = 2
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Jurjen van der Velde|avg=81.13}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Keanu van Velzen|avg=84.60}}
+| RD1-score4 = 3
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Peter Kelemen|avg=92.50}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Charlie Manby|avg=87.18}}
+| RD1-score6 = 4
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Nathan Potter|avg=84.51}}
+| RD1-score7 = 3
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Dylan Slevin|avg=85.65}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Jenson Walker|avg=89.52}}
+| RD2-score1 = 2
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Jurjen van der Velde|avg=100.12}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Peter Kelemen|avg=81.72}}
+| RD2-score3 = 3
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Dylan Slevin|avg=86.56}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Jurjen van der Velde|avg=95.35}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Dylan Slevin|avg=86.10}}
+| RD3-score2 = 1
+}}
+
+=== Development Tour 2 ===
+Development Tour 2 was contested on 20 February 2026 at the Leicester Arena. The tournament was won by [[Sebastian Białecki]], who defeated James Beeton 5–3 in the final.<ref name="DT1and2"/><ref>{{cite web |title=Results of PDC Youth/Development Tour 2026 DT 02 Leicester |url=https://mastercaller.com/tournaments/pdc-youth-development-tour/2026-dt-02-leicester/results |website=Mastercaller |access-date=27 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Nathan Potter|avg=94.81}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Jurjen van der Velde|avg=86.10}}
+| RD1-score2 = 3
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Sebastian Białecki|avg=79.55}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Owen Bates|avg=80.95}}
+| RD1-score4 = 2
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|James Beeton|avg=87.18}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|txt=Patrick McShane|flag=SCO|avg=78.65}}
+| RD1-score6 = 3
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Jack Drayton|avg=87.09}}
+| RD1-score7 = 4
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Dominik Gruellich|avg=97.89}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Nathan Potter|avg=80.64}}
+| RD2-score1 = 1
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Sebastian Białecki|avg=90.50}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|James Beeton|avg=88.14}}
+| RD2-score3 = 5
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Dominik Gruellich|avg=81.82}}
+| RD2-score4 = 1
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Sebastian Białecki|avg=90.41}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|James Beeton|avg=84.51}}
+| RD3-score2 = 3
+}}
+
+=== Development Tour 3 ===
+Development Tour 3 was contested on 21 February 2026 at the Leicester Arena. The tournament was won by Jurjen van der Velde, who defeated [[Charlie Manby]] 5–3 in the final.<ref name="DT3and4">{{cite web |date=21 February 2026 |title=Van der Velde doubles 2026 Development Tour title tally in Leicester |url=https://www.pdc.tv/news/2026/february/21/van-der-velde-doubles-2026-tally/ |website=Professional Darts Corporation |access-date=28 February 2026}}</ref><ref>{{cite web |title=Results of PDC Youth/Development Tour 2026 DT 03 Leicester |url=https://mastercaller.com/tournaments/pdc-youth-development-tour/2026-dt-03-leicester/results |website=Mastercaller |access-date=27 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Charlie Stocks|avg=83.38}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Henry Coates|avg=77.60}}
+| RD1-score2 = 1
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Jurjen van der Velde|avg=82.30}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Finn Behrens|avg=88.69}}
+| RD1-score4 = 4
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Charlie Manby|avg=82.07}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Peter Kelemen|avg=79.92}}
+| RD1-score6 = 4
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Leon Weber|avg=103.13}}
+| RD1-score7 = 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Florian Preis|avg=87.59}}
+| RD1-score8 = 1
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Charlie Stocks|avg=76.33}}
+| RD2-score1 = 0
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Jurjen van der Velde|avg=89.46}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Charlie Manby|avg=91.65}}
+| RD2-score3 = 5
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Leon Weber|avg=74.92}}
+| RD2-score4 = 0
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Jurjen van der Velde|avg=97.54}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Charlie Manby|avg=94.96}}
+| RD3-score2 = 3
+}}
+
+=== Development Tour 4 ===
+Development Tour 4 was contested on 21 February 2026 at the Leicester Arena. The tournament was won by Jack Drayton, who defeated Angelo Balsamo 5–1 in the final.<ref name="DT3and4"/><ref>{{cite web |title=Results of PDC Youth/Development Tour 2026 DT 04 Leicester |url=https://mastercaller.com/tournaments/pdc-youth-development-tour/2026-dt-04-leicester/results |website=Mastercaller |access-date=27 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|David Fidler|avg=80.62}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Shane de Jong|avg=74.16}}
+| RD1-score2 = 3
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Beau Greaves|avg=92.46}}
+| RD1-score3 = 4
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Jack Drayton|avg=94.94}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Connor Hopkins|avg=80.26}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Nunjo Dewaele|avg=83.91}}
+| RD1-score6 = 3
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Sebastian Białecki|avg=88.18}}
+| RD1-score7 = 3
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Angelo Balsamo|avg=86.46}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|David Fidler|avg=81.82}}
+| RD2-score1 = 3
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Jack Drayton|avg=88.42}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Connor Hopkins|avg=73.26}}
+| RD2-score3 = 1
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Angelo Balsamo|avg=76.05}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Jack Drayton|avg=86.31}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Angelo Balsamo|avg=75.39}}
+| RD3-score2 = 1
+}}
+
+=== Development Tour 5 ===
+Development Tour 5 was contested on 22 February 2026 at the Leicester Arena. The tournament was won by Jack Drayton, who defeated [[Cam Crabtree]] 5–3 in the final.<ref>{{cite web |last=Gorton |first=Josh |date=22 February 2026 |title=Drayton goes back-to-back on Winmau Development Tour |url=https://www.pdc.tv/news/2026/february/22/drayton-back-to-back-development-tour/ |website=Professional Darts Corporation |access-date=28 February 2026}}</ref><ref>{{cite web |title=Results of PDC Youth/Development Tour 2026 DT 05 Leicester |url=https://mastercaller.com/tournaments/pdc-youth-development-tour/2026-dt-05-leicester/results |website=Mastercaller |access-date=27 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Charlie Manby|avg=82.22}}
+| RD1-score1 = 2
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Tyler Thorpe|avg=85.80}}
+| RD1-score2 = 5
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Cayden Smith|avg=79.55}}
+| RD1-score3 = 3
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Cam
+Crabtree|avg=87.70}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Dylan Slevin|avg=80.81}}
+| RD1-score5 = 3
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Jack Drayton|avg=83.59}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|txt=Archie Self|flag=ENG|avg=90.54}}
+| RD1-score7 = 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Dominik Gruellich|avg=87.64}}
+| RD1-score8 = 0
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Tyler Thorpe|avg=86.26}}
+| RD2-score1 = 2
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Cam Crabtree|avg=88.70}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Jack Drayton|avg=94.48}}
+| RD2-score3 = 5
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|txt=Archie Self|flag=ENG|avg=87.28}}
+| RD2-score4 = 2
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Cam Crabtree|avg=89.35}}
+| RD3-score1 = 3
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Jack Drayton|avg=90.67}}
+| RD3-score2 = 5
+}}
+
+== April ==
+=== Development Tour 6 ===
+Development Tour 6 was contested on 24 April 2026 at [[Arena MK]] in [[Milton Keynes]]. The tournament was won by James Beeton, who defeated Nathan Potter 5–4 in the final.<ref name="PDC67">{{cite web |last=Bellenie |first=Ryan |date=26 April 2026 |title=Beeton and Weber pick up Development Tour titles in Milton Keynes |url=https://www.pdc.tv/news/2026/april/24/2026-winmau-development-tour-/ |website=Professional Darts Corporation |access-date=28 April 2026}}</ref><ref>{{cite web |date=24 April 2026 |title=PDC Development Tour 06 |url=https://tv.dartconnect.com/event/pdcdt26e06/matches |website=DartConnect |access-date=28 April 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|txt=Archie Self|flag=ENG|avg=86.51}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Charlie Manby|avg=93.46}}
+| RD1-score2 = 4
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|James Beeton|avg=82.79}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Jamai van den Herik|avg=83.53}}
+| RD1-score4 = 4
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|txt=Lewis Cook|flag=ENG|avg=74.50}}
+| RD1-score5 = 2
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Ryan Branley|avg=80.98}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Dominik Gruellich|avg=90.42}}
+| RD1-score7 = 1
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Nathan Potter|avg=98.87}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|txt=Archie Self|flag=ENG|avg=84.62}}
+| RD2-score1 = 3
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|James Beeton|avg=83.59}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Ryan Branley|avg=80.76}}
+| RD2-score3 = 1
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Nathan Potter|avg=86.26}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|James Beeton|avg=89.05}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Nathan Potter|avg=86.53}}
+| RD3-score2 = 4
+}}
+
+=== Development Tour 7 ===
+Development Tour 7 was contested on 24 April 2026 at [[Arena MK]] in [[Milton Keynes]]. The tournament was won by Leon Weber, who defeated [[Dominik Grüllich]] 5–2 in the final.<ref name="PDC67"/><ref>{{cite web |date=24 April 2026 |title=PDC Development Tour 07 |url=https://tv.dartconnect.com/event/pdcdt26e07/matches |website=DartConnect |access-date=28 April 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Leon Weber|avg=96.48}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Ieuan Halsall|avg=85.95}}
+| RD1-score2 = 2
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Beau Greaves|avg=93.46}}
+| RD1-score3 = 4
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Angelo Balsamo|avg=91.66}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Dominik Gruellich|avg=91.98}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|txt=Lenny Schlüter|flag=GER|avg=83.75}}
+| RD1-score6 = 1
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|txt=Lewis Mayes|flag=ENG|avg=85.77}}
+| RD1-score7 = 2
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Tyler Thorpe|avg=93.08}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Leon Weber|avg=96.35}}
+| RD2-score1 = 5
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Angelo Balsamo|avg=77.96}}
+| RD2-score2 = 0
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Dominik Gruellich|avg=87.84}}
+| RD2-score3 = 5
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Tyler Thorpe|avg=83.08}}
+| RD2-score4 = 2
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Leon Weber|avg=97.18}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Dominik Gruellich|avg=93.03}}
+| RD3-score2 = 2
+}}
+
+=== Development Tour 8 ===
+Development Tour 8 was contested on 25 April 2026 at [[Arena MK]] in [[Milton Keynes]]. The tournament was won by [[Sebastian Białecki]], who defeated Jack Drayton 5–2 in the final.<ref name="PDC89">{{cite web |last=Simpson |first=Will |date=25 April 2026 |title=Bialecki and Weber claim second Development Tour titles of 2026 |url=https://www.pdc.tv/news/2026/april/25/Bialecki-and-Weber-claim-second-Development-Tour-titles-of-2026/ |website=Professional Darts Corporation |access-date=28 April 2026}}</ref><ref>{{cite web |date=25 April 2026 |title=PDC Development Tour 08 |url=https://tv.dartconnect.com/event/pdcdt26e08/matches |website=DartConnect |access-date=28 April 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Jack Drayton|avg=97.98}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Keenan Thomas|avg=80.94}}
+| RD1-score2 = 2
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|txt=Ashton Brown|flag=ENG|avg=81.33}}
+| RD1-score3 = 3
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Owen Bates|avg=89.07}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Bram van Dijk|avg=89.57}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|James Beeton|avg=83.67}}
+| RD1-score6 = 1
+| RD1-seed7 =
+| RD1-team7 = {{WDFFlag|Archie Self|avg=97.75}}
+| RD1-score7 = 3
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Sebastian Bialecki|avg=93.13}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Jack Drayton|avg=91.07}}
+| RD2-score1 = 5
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Owen Bates|avg=87.84}}
+| RD2-score2 = 4
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Bram van Dijk|avg=78.59}}
+| RD2-score3 = 0
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Sebastian Bialecki|avg=90.54}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Jack Drayton|avg=91.17}}
+| RD3-score1 = 2
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Sebastian Bialecki|avg=92.75}}
+| RD3-score2 = 5
+}}
+
+=== Development Tour 9 ===
+Development Tour 9 was contested on 25 April 2026 at [[Arena MK]] in [[Milton Keynes]]. The tournament was won by Leon Weber, who defeated Ben Townley 5–2 in the final.<ref name="PDC89"/><ref>{{cite web |date=25 April 2026 |title=PDC Development Tour 09 |url=https://tv.dartconnect.com/event/pdcdt26e09/matches |website=DartConnect |access-date=28 April 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Yorick Hofkens|avg=99.10}}
+| RD1-score1 = 5
+| RD1-seed2 = 
+| RD1-team2 = {{PDCFlag|James Beeton|avg=85.84}}
+| RD1-score2 = 3
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Ciaran Forde|avg=88.48}}
+| RD1-score3 = 3
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|txt=Ben Townley|flag=ENG|avg=84.98}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Florian Preis|avg=90.48}}
+| RD1-score5 = 2
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Leon Weber|avg=90.28}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Dominik Gruellich|avg=86.40}}
+| RD1-score7 = 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Keenan Thomas|avg=88.00}}
+| RD1-score8 = 2
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Yorick Hofkens|avg=82.99}}
+| RD2-score1 = 3
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|txt=Ben Townley|flag=ENG|avg=83.18}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Leon Weber|avg=86.18}}
+| RD2-score3 = 5
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Dominik Gruellich|avg=84.56}}
+| RD2-score4 = 2
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|txt=Ben Townley|flag=ENG|avg=85.20}}
+| RD3-score1 = 2
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Leon Weber|avg=88.16}}
+| RD3-score2 = 5
+}}
+
+=== Development Tour 10 ===
+Development Tour 10 was contested on 26 April 2026 at [[Arena MK]] in [[Milton Keynes]]. The tournament was won by [[Sebastian Białecki]], who defeated [[Dominik Grüllich]] 5–4 in the final.<ref>{{cite web |last=Wagner |first=Connor |date=26 April 2026 |title=Bialecki clinches third Winmau Development Tour title victory in 2026 |url=https://www.pdc.tv/news/2026/april/26/2026-winmau-development-tour---event-ten-latest/ |website=Professional Darts Corporation |access-date=28 April 2026}}</ref><ref>{{cite web |date=26 April 2026 |title=PDC Development Tour 10 |url=https://tv.dartconnect.com/event/pdcdt26e10/matches |website=DartConnect |access-date=28 April 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Dylan Slevin|avg=90.47}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Henry Coates|avg=85.56}}
+| RD1-score2 = 4
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Dominik Gruellich|avg=92.33}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Charlie Manby|avg=93.23}}
+| RD1-score4 = 4
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Lewy Williams|avg=72.27}}
+| RD1-score5 = 2
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|txt=Lewis Cook|flag=ENG|avg=93.03}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Sebastian Bialecki|avg=86.12}}
+| RD1-score7 = 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|txt=Kai Clark|flag=WAL|avg=78.60}}
+| RD1-score8 = 2
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Dylan Slevin|avg=80.16}}
+| RD2-score1 = 1
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Dominik Gruellich|avg=89.88}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|txt=Lewis Cook|flag=ENG|avg=90.92}}
+| RD2-score3 = 3
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Sebastian Bialecki|avg=94.91}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Dominik Gruellich|avg=85.19}}
+| RD3-score1 = 4
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Sebastian Bialecki|avg=90.46}}
+| RD3-score2 = 5
+}}
+
+== June ==
+=== Development Tour 11 ===
+Development Tour 11 was contested on 5 June 2026 at [[Arena MK]] in [[Milton Keynes]]. The tournament was won by [[Sebastian Białecki]], who defeated David Fidler 5–1 in the final.<ref name="PDC11_12">{{cite web |last=Gorton |first=Josh |date=5 June 2026 |title=Brilliant Bialecki completes Winmau Development Tour double |url=https://www.pdc.tv/news/2026/june/05/Brilliant-bialecki-completes-development-tour-double/ |website=Professional Darts Corporation |access-date=8 June 2026}}</ref><ref>{{cite web |date=5 June 2026 |title=PDC Development Tour 11 |url=https://tv.dartconnect.com/event/pdcdt26e11/matches |website=DartConnect |access-date=8 June 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Florian Preis|avg=96.13}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Craig Galliano|avg=88.17}}
+| RD1-score2 = 3
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Henry Coates|avg=97.00}}
+| RD1-score3 = 3
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|David Fidler|avg=98.92}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|txt=Harrison Leigh|flag=ENG|avg=91.23}}
+| RD1-score5 = 4
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Jamai van den Herik|avg=90.87}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Sebastian Bialecki|avg=99.40}}
+| RD1-score7 = 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Cam Crabtree|avg=99.66}}
+| RD1-score8 = 2
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Florian Preis|avg=79.85}}
+| RD2-score1 = 1
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|David Fidler|avg=90.61}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Jamai van den Herik|avg=91.57}}
+| RD2-score3 = 0
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Sebastian Bialecki|avg=108.91}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|David Fidler|avg=88.24}}
+| RD3-score1 = 1
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Sebastian Bialecki|avg=99.53}}
+| RD3-score2 = 5
+}}
+
+=== Development Tour 12 ===
+Development Tour 12 was contested on 5 June 2026 at [[Arena MK]] in [[Milton Keynes]]. The tournament was won by [[Sebastian Białecki]], who defeated [[Cam Crabtree]] 5–1 in the final.<ref name="PDC11_12"/><ref>{{cite web |date=5 June 2026 |title=PDC Development Tour 12 |url=https://tv.dartconnect.com/event/pdcdt26e12/matches |website=DartConnect |access-date=8 June 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Sebastian Bialecki|avg=95.13}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|txt=Merlin Nicolaus|flag=GER|avg=81.00}}
+| RD1-score2 = 0
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Adam Gawlas|avg=92.60}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Finn Behrens|avg=92.86}}
+| RD1-score4 = 2
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Nunjo Dewaele|avg=80.83}}
+| RD1-score5 = 1
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Ben Townley|avg=98.27}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Cam Crabtree|avg=93.12}}
+| RD1-score7 = 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Jurjen van der Velde|avg=84.48}}
+| RD1-score8 = 3
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Sebastian Bialecki|avg=95.19}}
+| RD2-score1 = 5
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Adam Gawlas|avg=86.10}}
+| RD2-score2 = 3
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Ben Townley|avg=90.12}}
+| RD2-score3 = 3
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Cam Crabtree|avg=86.02}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Sebastian Bialecki|avg=91.17}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Cam Crabtree|avg=85.13}}
+| RD3-score2 = 1
+}}
+
+=== Development Tour 13 ===
+Development Tour 13 was contested on 6 June 2026 at [[Arena MK]] in [[Milton Keynes]]. The tournament was won by [[Sebastian Białecki]], who defeated Leon Weber 5–2 in the final. Białecki became the first player to win four consecutive Development Tour titles.<ref name="PDC13_14">{{cite web |last=Simpson |first=Will |date=6 June 2026 |title=Bialecki breaks Development Tour record as Crabtree claims Event 14 |url=https://www.pdc.tv/news/2026/june/06/Bialecki-breaks-Development-Tour-record-as-Crabtree-claims-Event-14/ |website=Professional Darts Corporation |access-date=8 June 2026}}</ref><ref>{{cite web |date=6 June 2026 |title=PDC Development Tour 13 |url=https://tv.dartconnect.com/event/pdcdt26e13/matches |website=DartConnect |access-date=8 June 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Sebastian Bialecki|avg=88.29}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Florian Preis|avg=83.20}}
+| RD1-score2 = 2
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|David Fidler|avg=85.40}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Finn Behrens|avg=73.70}}
+| RD1-score4 = 0
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Leon Weber|avg=94.34}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|James Beeton|avg=85.41}}
+| RD1-score6 = 3
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Thomas Banks|avg=97.56}}
+| RD1-score7 = 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|txt=Lewis Cook|flag=ENG|avg=96.73}}
+| RD1-score8 = 4
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Sebastian Bialecki|avg=96.19}}
+| RD2-score1 = 5
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|David Fidler|avg=84.13}}
+| RD2-score2 = 1
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Leon Weber|avg=90.61}}
+| RD2-score3 = 5
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Thomas Banks|avg=86.71}}
+| RD2-score4 = 3
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Sebastian Bialecki|avg=88.61}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Leon Weber|avg=77.56}}
+| RD3-score2 = 2
+}}
+
+=== Development Tour 14 ===
+Development Tour 14 was contested on 6 June 2026 at [[Arena MK]] in [[Milton Keynes]]. The tournament was won by [[Cam Crabtree]], who defeated Nathan Potter 5–4 in the final. [[Sebastian Białecki]] extended his winning streak to 38 matches, the longest in Development Tour history, before losing to Angelo Balsamo in the last 64.<ref name="PDC13_14"/><ref>{{cite web |last=Przyborowski |first=Tomek |date=6 June 2026 |title=Najdłuższa seria w historii Development Touru! Białecki ustanowił rekord |trans-title=The longest streak in Development Tour history! Białecki sets a record |url=https://laczynasdart.pl/najdluzsza-seria-w-historii-development-touru-bialecki-ustanowil-rekord/ |website=Łączy Nas Dart |access-date=8 June 2026 |language=pl}}</ref><ref>{{cite web |date=6 June 2026 |title=PDC Development Tour 14 |url=https://tv.dartconnect.com/event/pdcdt26e14/matches |website=DartConnect |access-date=8 June 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Yorick Hofkens|avg=87.68}}
+| RD1-score1 = 3
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Jarod Becker|avg=79.82}}
+| RD1-score2 = 5
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|JJ Wright|avg=77.58}}
+| RD1-score3 = 4
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Nathan Potter|avg=82.32}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Archie Self|avg=95.01}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Jamai van den Herik|avg=88.69}}
+| RD1-score6 = 3
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Cole Davey|avg=81.93}}
+| RD1-score7 = 2
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Cam Crabtree|avg=89.09}}
+| RD1-score8 = 3
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Jarod Becker|avg=77.36}}
+| RD2-score1 = 3
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Nathan Potter|avg=81.39}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Archie Self|avg=99.83}}
+| RD2-score3 = 1
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Cam Crabtree|avg=99.39}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Nathan Potter|avg=87.72}}
+| RD3-score1 = 4
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Cam Crabtree|avg=91.87}}
+| RD3-score2 = 5
+}}
+
+=== Development Tour 15 ===
+Development Tour 15 was contested on 7 June 2026 at [[Arena MK]] in [[Milton Keynes]]. The tournament was won by [[Adam Gawlas]], who defeated [[Sebastian Białecki]] 5–3 in the final.<ref>{{cite web |last=Bellenie |first=Ryan |date=7 June 2026 |title=Adam Gawlas clinches first Winmau Development Tour title of 2026 |url=https://www.pdc.tv/news/2026/june/07/2026-winmau-development-tour-15-latest/ |website=Professional Darts Corporation |access-date=8 June 2026}}</ref><ref>{{cite web |date=7 June 2026 |title=PDC Development Tour 15 |url=https://tv.dartconnect.com/event/pdcdt26e15/matches |website=DartConnect |access-date=8 June 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Yorick Hofkens|avg=84.86}}
+| RD1-score1 = 1
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|txt=Jack Pollard|flag=ENG|avg=88.98}}
+| RD1-score2 = 5
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Adam Gawlas|avg=83.49}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Cam Crabtree|avg=85.41}}
+| RD1-score4 = 2
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Jack Drayton|avg=85.99}}
+| RD1-score5 = 4
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Sebastian Bialecki|avg=88.10}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Jamai van den Herik|avg=84.87}}
+| RD1-score7 = 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Jurjen van der Velde|avg=79.76}}
+| RD1-score8 = 3
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|txt=Jack Pollard|flag=ENG|avg=82.77}}
+| RD2-score1 = 4
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Adam Gawlas|avg=90.78}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Sebastian Bialecki|avg=99.72}}
+| RD2-score3 = 5
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Jamai van den Herik|avg=87.52}}
+| RD2-score4 = 2
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Adam Gawlas|avg=92.43}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Sebastian Bialecki|avg=83.71}}
+| RD3-score2 = 3
+}}
+
+== July ==
+=== Development Tour 16 ===
+Development Tour 16 was contested on 31 July 2026 at Halle 39 in [[Hildesheim]]. The tournament was won by [[Owen Bates]], who defeated Kaya Baysal 5–0 in the final.<ref name="PDC16_17">{{cite web |last=Gorton |first=Josh |date=31 July 2026 |title=Bates wins third Development Tour title as Jackson seals maiden crown |url=https://www.pdc.tv/news/2026/july/31/bates-jackson-development-tour/ |website=Professional Darts Corporation |access-date=3 August 2026}}</ref><ref>{{cite web |date=31 July 2026 |title=PDC Development Tour 16 |url=https://tv.dartconnect.com/event/pdcdt26e16/matches |website=DartConnect |access-date=3 August 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Lenny Schlueter|avg=89.36}}
+| RD1-score1 = 4
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Adam Gawlas|avg=89.53}}
+| RD1-score2 = 5
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Jan Schmidt|avg=88.08}}
+| RD1-score3 = 4
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Owen Bates|avg=95.07}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Kaya Baysal|avg=87.06}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Jenson Walker|avg=81.67}}
+| RD1-score6 = 1
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Archie Self|avg=92.94}}
+| RD1-score7 = 4
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Leon Weber|avg=88.12}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Adam Gawlas|avg=94.53}}
+| RD2-score1 = 2
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Owen Bates|avg=101.88}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Kaya Baysal|avg=84.80}}
+| RD2-score3 = 5
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Leon Weber|avg=88.60}}
+| RD2-score4 = 4
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Owen Bates|avg=97.60}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Kaya Baysal|avg=85.72}}
+| RD3-score2 = 0
+}}
+
+=== Development Tour 17 ===
+Development Tour 17 was contested on 31 July 2026 at Halle 39 in [[Hildesheim]]. The tournament was won by Sam Jackson, who defeated Jan Schmidt 5–3 in the final.<ref name="PDC16_17"/><ref>{{cite web |date=31 July 2026 |title=PDC Development Tour 17 |url=https://tv.dartconnect.com/event/pdcdt26e17/matches |website=DartConnect |access-date=3 August 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Jack Drayton|avg=89.14}}
+| RD1-score1 = 4
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Sam Jackson|avg=90.06}}
+| RD1-score2 = 5
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Kimi Seemann|avg=79.73}}
+| RD1-score3 = 3
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Owen Bates|avg=93.00}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|txt=Jenson Remory|flag=BEL|avg=93.44}}
+| RD1-score5 = 4
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Archie Self|avg=90.11}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Kaya Baysal|avg=81.61}}
+| RD1-score7 = 1
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Jan Schmidt|avg=86.91}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Sam Jackson|avg=90.78}}
+| RD2-score1 = 5
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Owen Bates|avg=93.80}}
+| RD2-score2 = 3
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Archie Self|avg=89.07}}
+| RD2-score3 = 2
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Jan Schmidt|avg=94.36}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Sam Jackson|avg=93.99}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Jan Schmidt|avg=87.82}}
+| RD3-score2 = 3
+}}
+
+== August ==
+=== Development Tour 18 ===
+Development Tour 18 was contested on 1 August 2026 at Halle 39 in [[Hildesheim]]. The tournament was won by [[Jamai van den Herik]], who defeated Angelo Balsamo 5–3 in the final.<ref name="PDC18_19">{{cite web |last=Wagner |first=Connor |date=1 August 2026 |title=Van den Herik and Hofkens share the spoils in Hildesheim |url=https://www.pdc.tv/news/2026/august/01/2026-winmau-development-tour-18-19-latest/ |website=Professional Darts Corporation |access-date=3 August 2026}}</ref><ref>{{cite web |date=1 August 2026 |title=PDC Development Tour 18 |url=https://tv.dartconnect.com/event/pdcdt26e18/matches |website=DartConnect |access-date=3 August 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Sam Jackson|avg=100.65}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Charlie Manby|avg=82.22}}
+| RD1-score2 = 1
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Cam Crabtree|avg=79.26}}
+| RD1-score3 = 1
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Angelo Balsamo|avg=88.24}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|txt=Mylo Michiels|flag=BEL|avg=79.11}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|David Fidler|avg=65.84}}
+| RD1-score6 = 0
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Owen Bates|avg=94.73}}
+| RD1-score7 = 4
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Jamai van den Herik|avg=88.49}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Sam Jackson|avg=80.46}}
+| RD2-score1 = 1
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Angelo Balsamo|avg=99.53}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|txt=Mylo Michiels|flag=BEL|avg=78.14}}
+| RD2-score3 = 4
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Jamai van den Herik|avg=87.16}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Angelo Balsamo|avg=81.26}}
+| RD3-score1 = 3
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Jamai van den Herik|avg=92.63}}
+| RD3-score2 = 5
+}}
+
+=== Development Tour 19 ===
+Development Tour 19 was contested on 1 August 2026 at Halle 39 in [[Hildesheim]]. The tournament was won by Yorick Hofkens, who defeated [[Adam Gawlas]] 5–4 in the final.<ref name="PDC18_19"/><ref>{{cite web |date=1 August 2026 |title=PDC Development Tour 19 |url=https://tv.dartconnect.com/event/pdcdt26e19/matches |website=DartConnect |access-date=3 August 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Adam Gawlas|avg=90.48}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Ieuan Halsall|avg=84.08}}
+| RD1-score2 = 2
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Dylan Slevin|avg=89.74}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Lenny Schlueter|avg=87.70}}
+| RD1-score4 = 3
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Milan Biro|avg=78.00}}
+| RD1-score5 = 0
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Cam Crabtree|avg=83.50}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Jenson Walker|avg=82.50}}
+| RD1-score7 = 0
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Yorick Hofkens|avg=100.20}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Adam Gawlas|avg=102.21}}
+| RD2-score1 = 5
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Dylan Slevin|avg=95.20}}
+| RD2-score2 = 4
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Cam Crabtree|avg=84.83}}
+| RD2-score3 = 3
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Yorick Hofkens|avg=86.35}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Adam Gawlas|avg=86.36}}
+| RD3-score1 = 4
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Yorick Hofkens|avg=85.80}}
+| RD3-score2 = 5
+}}
+
+=== Development Tour 20 ===
+Development Tour 20 was contested on 2 August 2026 at Halle 39 in [[Hildesheim]]. The tournament was won by Lenny Schlüter, who defeated [[Henry Coates]] 5–4 in the final.<ref>{{cite web |last=Simpson |first=Will |date=2 August 2026 |title=Schlueter defies Coates to win maiden Development Tour title |url=https://www.pdc.tv/news/2026/august/02/Schlueter-defies-Coates-to-win-maiden-Development-Tour-title/ |website=Professional Darts Corporation |access-date=3 August 2026}}</ref><ref>{{cite web |date=2 August 2026 |title=PDC Development Tour 20 |url=https://tv.dartconnect.com/event/pdcdt26e20/matches |website=DartConnect |access-date=3 August 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|txt=Martin Homola|flag=SVK|avg=80.19}}
+| RD1-score1 = 3
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Sean McKeon|avg=82.69}}
+| RD1-score2 = 5
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Dylan Slevin|avg=86.65}}
+| RD1-score3 = 3
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Henry Coates|avg=89.41}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Kaya Baysal|avg=83.52}}
+| RD1-score5 = 1
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|txt=Mylo Michiels|flag=BEL|avg=77.89}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Lenny Schlueter|avg=90.00}}
+| RD1-score7 = 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|txt=Angelo Vroomen|flag=NED|avg=81.86}}
+| RD1-score8 = 1
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Sean McKeon|avg=91.04}}
+| RD2-score1 = 4
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Henry Coates|avg=93.91}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|txt=Mylo Michiels|flag=BEL|avg=85.83}}
+| RD2-score3 = 1
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Lenny Schlueter|avg=94.34}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Henry Coates|avg=87.86}}
+| RD3-score1 = 4
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Lenny Schlueter|avg=81.00}}
+| RD3-score2 = 5
+}}
+== October ==
+=== Development Tour 21 ===
+Development Tour 21 was contested on 3 October 2026 at Robin Park in [[Wigan]]. The tournament was won by Nunjo Dewaele, who defeated Cole Davey 5–4 in the final.<ref name="PDC21_22">{{cite web |last=Simpson|first=Will|date=3 October 2026 |title=Self and Dewaele win maiden Development Tour titles |url=https://www.pdc.tv/news/2026/october/03/Self-and-Dewaele-win-maiden-Development-Tour-titles/|website=Professional Darts Corporation |access-date=3 October 2026}}</ref><ref>{{cite web |date=3 October 2026 |title=PDC Development Tour 21 |url=https://tv.dartconnect.com/event/pdcdt26e21/matches |website=DartConnect |access-date=3 October 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Jamai van den Herik|avg=88.41}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Ben Townley|avg=81.15}}
+| RD1-score2 = 0
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Cole Davey|avg=87.99}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Tyler Thorpe|avg=96.18}}
+| RD1-score4 = 4
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Nunjo Dewaele|avg=76.86}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Dylan Slevin|avg=80.85}}
+| RD1-score6 = 3
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Charlie Stocks|avg=77.25}}
+| RD1-score7 = 1
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|txt=Connor Mitchell|flag=SCO|avg=95.68}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Jamai van den Herik|avg=90.04}}
+| RD2-score1 = 4
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Cole Davey|avg=88.32}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Nunjo Dewaele|avg=80.95}}
+| RD2-score3 = 5
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|txt=Connor Mitchell|flag=SCO|avg=80.14}}
+| RD2-score4 = 2
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Cole Davey|avg=86.38}}
+| RD3-score1 = 4
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Nunjo Dewaele|avg=83.31}}
+| RD3-score2 = 5
+}}
+
+=== Development Tour 22 ===
+Development Tour 22 was contested on 3 October 2026 at Robin Park in [[Wigan]].  The tournament was won by Archie Self, who defeated Sam Jackson 5–2 in the final.<ref name="PDC21_22">{{cite web |last=Simpson|first=Will|date=3 October 2026 |title=Self and Dewaele win maiden Development Tour titles |url=https://www.pdc.tv/news/2026/october/03/Self-and-Dewaele-win-maiden-Development-Tour-titles/|website=Professional Darts Corporation |access-date=3 October 2026}}</ref><ref>{{cite web |date=3 October 2026 |title=PDC Development Tour 22 |url=https://tv.dartconnect.com/event/pdcdt26e22/matches |website=DartConnect |access-date=3 October 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Nathan Potter|avg=99.62}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Kaya Baysal|avg=100.62}}
+| RD1-score2 = 3
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Dominik Gruellich|avg=96.59}}
+| RD1-score3 = 4
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Archie Self|avg=97.83}}
+| RD1-score4 = 5
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Dylan Slevin|avg=86.01}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Jamai van den Herik|avg=82.53}}
+| RD1-score6 = 2
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Owen Bates|avg=84.78}}
+| RD1-score7 = 4
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Sam Jackson|avg=89.98}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Nathan Potter|avg=85.97}}
+| RD2-score1 = 3
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Archie Self|avg=98.92}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Dylan Slevin|avg=88.37}}
+| RD2-score3 = 2
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Sam Jackson|avg=98.35}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Archie Self|avg=91.64}}
+| RD3-score1 = 5
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Sam Jackson|avg=95.57}}
+| RD3-score2 = 2
+}}
+
+=== Development Tour 23 ===
+Development Tour 23 was contested on 4 October 2026 at Robin Park in [[Wigan]]. The tournament was won by [[Henry Coates]], who defeated [[Owen Bates]] 5–1 in the final.<ref name="PDC23_24">{{cite web |last=Gorton|first=Josh|date=4 October 2026 |title=Baysal & Coates prevail as 2026 Development Tour season concludes |url=https://www.pdc.tv/news/2026/october/04/baysal-coates-prevail-development-tour-season-concludes/|website=Professional Darts Corporation |access-date=4 October 2026}}</ref><ref>{{cite web |date=4 October 2026 |title=PDC Development Tour 23 |url=https://tv.dartconnect.com/event/pdcdt26e23/matches |website=DartConnect |access-date=4 October 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Jamai van den Herik|avg=90.91}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Kaya Baysal|avg=93.98}}
+| RD1-score2 = 3
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Owen Bates|avg=92.81}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Ansh Sood|avg=86.38}}
+| RD1-score4 = 1
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Tyler Thorpe|avg=96.14}}
+| RD1-score5 = 5
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Archie Self|avg=90.83}}
+| RD1-score6 = 2
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|Henry Coates|avg=85.07}}
+| RD1-score7 = 5
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Keanu van Velzen|avg=81.30}}
+| RD1-score8 = 3
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Jamai van den Herik|avg=83.60}}
+| RD2-score1 = 2
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Owen Bates|avg=96.76}}
+| RD2-score2 = 5
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Tyler Thorpe|avg=74.37}}
+| RD2-score3 = 3
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Henry Coates|avg=92.58}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Owen Bates|avg=89.55}}
+| RD3-score1 = 1
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Henry Coates|avg=97.41}}
+| RD3-score2 = 5
+}}
+
+=== Development Tour 24 ===
+Development Tour 24 will be contested on 4 October 2026 at Robin Park in [[Wigan]]. The tournament was won by Kaya Baysal, who defeated [[Jurjen van der Velde]] 5-3 in the final.<ref name="PDC23_24">{{cite web |last=Gorton|first=Josh|date=4 October 2026 |title=Baysal & Coates prevail as 2026 Development Tour season concludes |url=https://www.pdc.tv/news/2026/october/04/baysal-coates-prevail-development-tour-season-concludes/|website=Professional Darts Corporation |access-date=4 October 2026}}</ref><ref>{{cite web |date=4 October 2026 |title=PDC Development Tour 24 |url=https://tv.dartconnect.com/event/pdcdt26e24/matches |website=DartConnect |access-date=4 October 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br/>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br/>''(best of 9 legs)''
+| RD3='''Final'''<br/>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1 =
+| RD1-team1 = {{PDCFlag|Jurjen van der Velde|avg=80.51}}
+| RD1-score1 = 5
+| RD1-seed2 =
+| RD1-team2 = {{PDCFlag|Dylan Slevin|avg=82.01}}
+| RD1-score2 = 1
+| RD1-seed3 =
+| RD1-team3 = {{PDCFlag|Duyane Wade Decena|avg=76.21}}
+| RD1-score3 = 5
+| RD1-seed4 =
+| RD1-team4 = {{PDCFlag|Dominik Gruellich|avg=74.07}}
+| RD1-score4 = 4
+| RD1-seed5 =
+| RD1-team5 = {{PDCFlag|Tyler Thorpe|avg=78.69}}
+| RD1-score5 = 1
+| RD1-seed6 =
+| RD1-team6 = {{PDCFlag|Owen Bates|avg=81.94}}
+| RD1-score6 = 5
+| RD1-seed7 =
+| RD1-team7 = {{PDCFlag|txt=Damien Decla|flag=FRA|avg=87.93}}
+| RD1-score7 = 3
+| RD1-seed8 =
+| RD1-team8 = {{PDCFlag|Kaya Baysal|avg=89.79}}
+| RD1-score8 = 5
+| RD2-seed1 =
+| RD2-team1 = {{PDCFlag|Jurjen van der Velde|avg=75.32}}
+| RD2-score1 = 5
+| RD2-seed2 =
+| RD2-team2 = {{PDCFlag|Duyane Wade Decena|avg=78.88}}
+| RD2-score2 = 1
+| RD2-seed3 =
+| RD2-team3 = {{PDCFlag|Owen Bates|avg=80.19}}
+| RD2-score3 = 4
+| RD2-seed4 =
+| RD2-team4 = {{PDCFlag|Kaya Baysal|avg=87.19}}
+| RD2-score4 = 5
+| RD3-seed1 =
+| RD3-team1 = {{PDCFlag|Jurjen van der Velde|avg=80.01}}
+| RD3-score1 = 3
+| RD3-seed2 =
+| RD3-team2 = {{PDCFlag|Kaya Baysal|avg=86.15}}
+| RD3-score2 = 5
+}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+{{PDC Development Tour}}
+{{2026 in PDC darts}}
+
+{{DEFAULTSORT:Development Tour, 2026 PDC}}
+[[Category:2026 PDC Pro Tour]]

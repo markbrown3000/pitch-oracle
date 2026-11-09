@@ -1,0 +1,508 @@
+{{Short description|Darts tournament}}
+{{Infobox individual darts tournament
+| tournament_name = 2026 Elten Safety Shoes German Darts Grand Prix
+| image = 
+| dates = 4–6 April 2026
+| venue = [[Zenith (building)|Kulturhalle Zenith]]
+| location = [[Munich]], Germany
+| organisation = [[Professional Darts Corporation]] (PDC)
+| format = [[Leg (darts)|Legs]]
+| prize_fund = £230,000
+| winners_share = £35,000
+| nine_dart =
+| high_checkout = {{ubl|'''170'''|[[Kevin Doets]] (×2)|[[William O'Connor (darts player)|William O'Connor]]}}
+| winner = '''{{flagathlete|[[Nathan Aspinall]]|ENG}}'''
+| prev = [[2026 Belgian Darts Open|Event 3]]
+| next = [[2026 European Darts Grand Prix|Event 5]]
+}}
+The '''2026 German Darts Grand Prix''' (known for sponsorship reasons as the '''2026 Elten Safety Shoes German Darts Grand Prix''') was a professional [[darts]] tournament that took place at the [[Zenith (building)|Kulturhalle Zenith]] in [[Munich]], Germany, from 4 to 6 April 2026.<ref>{{cite web |title=Elten Safety Shoes German Darts Grand Prix 2026 |url=https://pdc-europe.tv/tournaments/et-2026-en/german-darts-grand-prix-2026/ |website=PDC Europe |access-date=18 February 2026}}</ref> It was the fourth of fifteen [[PDC European Tour]] events on the [[2026 PDC Pro Tour]]. It featured a field of 48 players and £230,000 in prize money, with £35,000 going to the winner.
+
+[[Michael van Gerwen]] was the defending champion, having defeated [[Gian van Veen]] 8–5 in the [[2025 German Darts Grand Prix|2025 final]].<ref>{{cite web |last=Drury |first=Sam |date=21 April 2025 |title=Van Gerwen wins German Grand Prix after nine-darter |url=https://www.bbc.com/sport/darts/articles/cg41e3e46d0o |website=BBC Sport |access-date=18 February 2026}}</ref><ref>{{cite web |date=21 April 2025 |title=German Darts Grand Prix: Michael van Gerwen hits nine-darter en route to winning title in Munich |url=https://www.skysports.com/darts/news/12288/13353472/german-darts-grand-prix-michael-van-gerwen-hits-nine-darter-en-route-to-winning-title-in-munich |website=Sky Sports |access-date=18 February 2026}}</ref> However, he lost 6–1 to [[Niko Springer]] in the second round.
+
+[[Nathan Aspinall]] won the tournament, his fourth European Tour title, by defeating [[Danny Noppert]] 8–5 in the final.
+
+==Prize money==
+As part of a mass boost in prize money for [[Professional Darts Corporation]] (PDC) events in 2026, the prize fund for all [[2026 PDC Pro Tour#European Tour#European Tour|2026 European Tour]] events rose to £230,000, of which the winner will receive £35,000.<ref>{{cite web |last=Phillips |first=Josh |date=31 March 2025 |title=Biggest prize money increase in PDC history confirmed |url=https://www.pdc.tv/news/2025/march/31/biggest-prize-money-increase-pdc-history-confirmed |website=Professional Darts Corporation |access-date=18 February 2026}}</ref><ref>{{cite web |title=German Darts Grand Prix 2026 |url=https://mastercaller.com/tournaments/german-darts-grand-prix/2026 |website=Mastercaller |access-date=18 February 2026}}</ref>
+
+{| class="wikitable"
+! colspan="2" |Stage <small>(num. of players)</small>
+!Prize money
+|-
+|'''Winner'''
+| align="center" |<small>(1)</small>
+| align="center" |£35,000
+|-
+|'''Runner-up'''
+| align="center" |<small>(1)</small>
+| align="center" |£15,000
+|-
+|'''Semi-finalists'''
+| align="center" |<small>(2)</small>
+| align="center" |£10,000
+|-
+|'''Quarter-finalists'''
+| align="center" |<small>(4)</small>
+| align="center" |£8,000
+|-
+|'''Third round losers'''
+| align="center" |<small>(8)</small>
+| align="center" |£5,000
+|-
+|'''Second round losers'''
+| align="center" |<small>(16)</small>
+| align="center" |£3,500*
+|-
+|'''First round losers'''
+| align="center" |<small>(16)</small>
+| align="center" |£2,000*
+|-
+! colspan="3" |
+|-
+|'''Total'''
+| colspan="2" align="center" |£230,000
+|}
+
+* Pre-qualified players from the Orders of Merit who lose in their first match of the event shall not be credited with prize money on any Order of Merit.<ref>{{cite web |title=PDC Rankings Rules |url=https://www.pdc.tv/pdc-order-merit-rules-1 |website=Professional Darts Corporation |access-date=18 February 2026}}</ref>
+
+==Qualification and format==
+The top 16 players on the two-year [[PDC Order of Merit]] were [[Seeding (sports)|seeded]] and entered the tournament in the second round, while the next 16 highest-ranked players from the one-year [[PDC Pro Tour Order of Merit]] automatically qualified for the first round. The seedings were confirmed on 12 February.<ref name="Entries">{{cite web |last=Gorton |first=Josh |date=12 February 2026 |title=2026 ET3-4 Seeds & Tour Card Holder qualifier entries confirmed |url=https://www.pdc.tv/news/2026/february/12/2026-et3-4-seeds---tour-card-holder-qualifier-entries-confirmed/ |website=Professional Darts Corporation |access-date=18 February 2026}}</ref><ref name="Race">{{cite web |title=Race to ET3 and ET4 2026 |url=https://www.dartsrankings.com/et4 |website=dartsrankings.com |access-date=18 February 2026}}</ref> The remaining 16 places went to players from four qualifying events – 10 from the Tour Card Holder Qualifier (held on 18 February),<ref>{{cite web |date=18 February 2026 |title=PDC ET04 Tour Card Holder Qualifier |url=https://tv.dartconnect.com/event/pdceutcq26et04/matches |website=DartConnect |access-date=18 February 2026}}</ref> four from the Host Nation Qualifier (held on 28 February),<ref name="HNQ">{{cite web |date=28 February 2026 |title=PDC ET04 Host Nation Qualifier |url=https://tv.dartconnect.com/event/pdc26et04hnq/matches |website=DartConnect |access-date=18 February 2026}}</ref> one from the Nordic & Baltic Associate Member Qualifier (held on 28 March),<ref>{{cite web |date=28 March 2026 |title=PDCNB 2026 Tour - Latvia 2 - Weekend 02 |url=https://tv.dartconnect.com/event/pdcnbpro26e02/matches |website=DartConnect |access-date=18 February 2026}}</ref> and one from the East European Associate Member Qualifier (held on 25 January).<ref>{{cite web |date=25 January 2026 |title=PDC ET04 E. Europe Qualifier |url=https://tv.dartconnect.com/event/pdceeu26et04q/matches |website=DartConnect |access-date=18 February 2026}}</ref>
+
+[[Gary Anderson (darts player)|Gary Anderson]], [[Gerwyn Price]], [[Luke Humphries]] and [[Chris Dobey]] withdrew and were replaced by [[Andrew Gilding]], [[Karel Sedláček]], [[Ian White (darts player)|Ian White]] and [[Cor Dekker]]. [[Mike De Decker]], [[Luke Woodhouse]], [[Dave Chisnall]] and [[Daryl Gurney]] moved up to become the 13th, 14th, 15th and 16th seeds respectively.<ref name="Draw">{{cite web |last=Gorton |first=Josh |date=3 April 2026 |title=2026 Elten Safety Shoes Belgian German Darts Grand Prix draw & schedule |url=https://www.pdc.tv/news/2026/april/03/2026-elten-safety-shoes-german-darts-grand-prix-draw-schedule/ |website=Professional Darts Corporation |access-date=3 April 2026}}</ref>
+
+{{col-begin}}
+{{col-break}}
+'''Seeded players'''
+# {{flagathlete|[[Gian van Veen]]|NED}} ''(second round)''
+# {{flagathlete|[[Michael van Gerwen]]|NED}} ''(second round)''
+# {{flagathlete|[[Jonny Clayton]]|WAL}} ''(quarter-finals)''
+# {{flagathlete|[[James Wade]]|ENG}} ''(second round)''
+# {{flagathlete|[[Josh Rock]]|NIR}} ''(third round)''
+# {{flagathlete|[[Danny Noppert]]|NED}} ''(runner-up)''
+# {{flagathlete|[[Ryan Searle (darts player)|Ryan Searle]]|ENG}} ''(second round)''
+# '''{{flagathlete|[[Nathan Aspinall]]|ENG}} (champion)'''
+# {{flagathlete|[[Martin Schindler]]|GER}} ''(third round)''
+# {{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}} ''(third round)''
+# {{flagathlete|[[Damon Heta]]|AUS}} ''(second round)''
+# {{flagathlete|[[Jermaine Wattimena]]|NED}} ''(second round)''
+# {{flagathlete|[[Mike De Decker]]|BEL}} ''(second round)''
+# {{flagathlete|[[Luke Woodhouse]]|ENG}} ''(second round)''
+# {{flagathlete|[[Dave Chisnall]]|ENG}} ''(second round)''
+# {{flagathlete|[[Daryl Gurney]]|NIR}} ''(second round)''
+{{col-break}}
+:'''PDC Pro Tour Order of Merit qualifiers'''
+:* {{flagathlete|[[Wessel Nijman]]|NED}} ''(first round)''
+:* {{flagathlete|[[Cameron Menzies]]|SCO}} ''(first round)''
+:* {{flagathlete|[[Dirk van Duijvenbode]]|NED}} ''(third round)''
+:* {{flagathlete|[[William O'Connor (darts player)|William O'Connor]]|IRL}} ''(third round)''
+:* {{flagathlete|[[Niko Springer]]|GER}} ''(third round)''
+:* {{flagathlete|[[Ryan Joyce]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Krzysztof Ratajski]]|POL}} ''(semi-finals)''
+:* {{flagathlete|[[Joe Cullen (darts player)|Joe Cullen]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Niels Zonneveld]]|NED}} ''(quarter-finals)''
+:* {{flagathlete|[[Raymond van Barneveld]]|NED}} ''(first round)''
+:* {{flagathlete|[[Ricardo Pietreczko]]|GER}} ''(second round)''
+:* {{flagathlete|[[Peter Wright (darts player)|Peter Wright]]|SCO}} ''(first round)''
+{{col-break}}
+:'''Tour Card qualifier'''
+:* {{flagathlete|[[Stephen Burton (darts player)|Stephen Burton]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Thomas Lovely]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Ritchie Edhouse]]|ENG}} ''(second round)''
+:* {{flagathlete|[[James Hurrell]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Michael Smith (darts player)|Michael Smith]]|ENG}} ''(quarter-finals)''
+:* {{flagathlete|[[Kevin Doets]]|NED}} ''(semi-finals)''
+:* {{flagathlete|[[Adam Lipscombe]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Brendan Dolan]]|IRL}} ''(second round)''
+:* {{flagathlete|[[Kim Huybrechts]]|BEL}} ''(third round)''
+:* {{flagathlete|[[Sebastian Białecki]]|POL}} ''(first round)''
+:'''Host Nation qualifier'''
+:* {{flagathlete|[[Jan Schmidt (darts player)|Jan Schmidt]]|GER}} ''(first round)''
+:* {{flagathlete|[[Marcel Hausotter]]|GER}} ''(second round)''
+:* {{flagathlete|[[Kevin Troppmann]]|GER}} ''(first round)''
+:* {{flagathlete|[[Finn Behrens]]|GER}} ''(first round)''
+:'''Nordic & Baltic qualifier'''
+:* {{flagathlete|[[Anton Östlund]]|SWE}} ''(first round)''
+:'''East European qualifier'''
+:* {{flagathlete|[[Patrik Kovács (darts player)|Patrik Kovács]]|HUN}} ''(second round)''
+:'''Reserve list'''
+:* {{flagathlete|[[Andrew Gilding]]|ENG}} ''(quarter-finals)''
+:* {{flagathlete|[[Ian White (darts player)|Ian White]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Karel Sedláček]]|CZE}} ''(third round)''
+:* {{flagathlete|[[Cor Dekker]]|NOR}} ''(first round)''
+{{col-end}}
+{{clear}}
+
+==Summary==
+===First round===
+[[File:Max Hopp 5-6 William O'Connor - William O'Connor - 2019249222638 2019-09-06 PDC European Darts Matchplay - 1224 - B70I6241.jpg|thumb|[[William O'Connor (darts player)|William O'Connor]] ''(pictured in 2019)'' hit a [[Glossary of darts#Maximum check|170 checkout]] to complete a 6–2 victory over [[Sebastian Białecki]].]]
+The first round (best of 11 [[Leg (darts)|legs]]) was played on 4 April.<ref name="PDCDay1">{{cite web |last=Wagner |first=Connor |date=4 April 2026 |title=Kovacs and Hausotter deliver huge upsets on Day One at German Darts Grand Prix |url=https://www.pdc.tv/news/2026/april/04/Kovacs-and-Hausotter-deliver-huge-upsets-on-Day-One-at-German-Darts-Grand-Prix/ |website=Professional Darts Corporation |access-date=5 April 2026}}</ref> Hungarian qualifier [[Patrik Kovács (darts player)|Patrik Kovács]] earned his first European Tour victory in his eighth appearance, defeating [[Joe Cullen (darts player)|Joe Cullen]] 6–3 to become the first Hungarian player to win a match on the European Tour outside of Hungary. Speaking after the match, Kovács conceded that Cullen failed to play his best game, but expressed that it was his "dream to win a game here".<ref name="PDCDay1"/> Host nation qualifier Marcel Hausotter also claimed his first win by beating five-time world champion [[Raymond van Barneveld]] 6–4, twelve years after his first European Tour appearance at the [[2014 German Darts Masters]]. The other three host nation qualifiers—Finn Behrens, Kevin Troppmann, and Jan Schmidt—lost to [[Ryan Joyce]], [[Ritchie Edhouse]], and [[Niko Springer]], respectively.<ref name="EU1">{{cite web |date=4 April 2026 |title=ELTEN Safety Shoes German Darts Grand Prix: Hausotter schockt Barney |url=https://www.pdc-europe.tv/de/aktuell/elten-safety-shoes-german-darts-grand-prix-hausotter-schockt-barney/ |website=PDC Europe |access-date=5 April 2026 |language=de}}</ref>
+
+[[Wessel Nijman]], the winner of the [[2026 European Darts Trophy]], suffered his second successive first-round defeat on the European Tour as he lost 6–4 to [[Andrew Gilding]], who won the match with a 140 [[Glossary of darts#Checkout|checkout]].<ref name="PDCDay1"/> The [[2023 PDC World Darts Championship|2023]] world champion [[Michael Smith (darts player)|Michael Smith]] defeated [[James Hurrell]] 6–2, while two-time world champion [[Peter Wright (darts player)|Peter Wright]] was beaten 6–3 by [[Kim Huybrechts]], who competed in his 200th European Tour match.<ref name="EU1"/><ref name="DN1">{{cite web |last=Wood |first=Kieran |date=4 April 2026 |title=German Darts Grand Prix 2026 Roundup - Legends fall as Van Barneveld and Wright depart whilst emotional Pietreczko survives dramatic night in Munich |url=https://dartsnews.com/pdc/german-darts-grand-prix-2026-roundup-legends-fall-as-van-barneveld-and-wright-depart-whilst-emotional-pietreczko-survives-dramatic-night-in-munich |website=dartsnews.com |access-date=5 April 2026}}</ref> [[William O'Connor (darts player)|William O'Connor]] landed a [[Glossary of darts#Maximum check|170 checkout]] to complete a 6–2 victory over [[Sebastian Białecki]], while [[Kevin Doets]] hit a 170 finish of his own during his [[Whitewash (sport)|whitewash]] win against Anton Östlund. [[Ricardo Pietreczko]] and [[Brendan Dolan]] both progressed to the next round by winning [[Glossary of darts#Decider|deciding legs]], with the latter surviving missed [[Glossary of darts#Match dart|match darts]] from [[Cor Dekker]].<ref name="PDCDay1"/><ref name="DN1"/>
+
+===Second round===
+[[File:Niko Springer.png|thumb|[[Niko Springer]] ''(pictured in 2022)'' eliminated the defending champion [[Michael van Gerwen]] in the second round.]]
+The second round (best of 11 legs) was played on 5 April.<ref name="PDCDay2">{{cite web |last=Simpson |first=Will |date=5 April 2026 |title=Springer dumps out defending champion Van Gerwen in Munich |url=https://www.pdc.tv/news/2026/april/05/Springer-dumps-out-defending-champion-Van-Gerwen-in-Munich/ |website=Professional Darts Corporation |access-date=6 April 2026}}</ref> Defending champion and second seed [[Michael van Gerwen]], a four-time German Darts Grand Prix winner, was eliminated in his opening match, going 4–0 behind before losing 6–1 to Niko Springer. Registering a [[three-dart average]] over 98, Springer commented: "I know I have to play on the same level tomorrow as I did today or maybe a bit better, but I will be ready."<ref name="PDCDay2"/> The top seed and [[2025 German Darts Grand Prix|2025]] runner-up [[Gian van Veen]] was also beaten 6–2 by William O'Connor, who won the match with a 108 checkout. Competing in his 100th European Tour event, fourth seed [[James Wade]] took a 5–3 lead against Kevin Doets, but Doets hit his second 170 checkout of the tournament on his way to completing a 6–5 comeback victory.<ref name="DN2">{{cite web |last=Michael |first=Lucas |date=5 April 2026 |title=German Darts Grand Prix Sunday Evening Round-up - Michael van Gerwen and Gian van Veen big-name casualties as Aspinall, Rock, Clayton squeeze through tight contests |url=https://dartsnews.com/pdc/live-german-darts-grand-prix-sunday-evening-second-round-action-continues-with-van-gerwen-van-veen-clayton-wade-among-highlights |website=dartsnews.com |access-date=6 April 2026}}</ref> Kim Huybrechts was the first player of the tournament to average over 100, doing so in his 6–1 win over the fourteenth seed [[Luke Woodhouse]].<ref name="EU2">{{cite web |date=5 April 2026 |title=ELTEN Safety Shoes German Darts Grand Prix: Springer stürzt MvG |url=https://www.pdc-europe.tv/de/aktuell/elten-safety-shoes-german-darts-grand-prix-springer-stuerzt-mvg/ |website=PDC Europe |access-date=6 April 2026 |language=de}}</ref> Huybrechts' Belgian compatriot, the thirteenth seed [[Mike De Decker]], missed two match darts as he lost 6–5 to [[Dirk van Duijvenbode]].<ref name="PDCDay2"/>
+
+[[Krzysztof Ratajski]], Michael Smith, and Andrew Gilding all won in deciding legs, eliminating the seventh seed [[Ryan Searle (darts player)|Ryan Searle]], the fifteenth seed [[Dave Chisnall]], and the sixteenth seed [[Daryl Gurney]], respectively. Karel Sedláček defeated the eleventh seed [[Damon Heta]], and [[Niels Zonneveld]] beat the twelfth seed [[Jermaine Wattimena]] 6–1. In all, 10 of the tournament's 16 seeded players were eliminated in the second round.<ref name="PDCDay2"/> Marcel Hausotter was unable to claim another upset victory, losing 6–5 to [[Jonny Clayton]]. [[Nathan Aspinall]] and [[Danny Noppert]] won by the same scoreline to eliminate Ricardo Pietreczko and Ritchie Edhouse, contributing to half of the second round's matches going to a deciding leg; Pietreczko missed a match dart at the [[Bullseye (target)|bullseye]] to defeat Aspinall.<ref name="DN2"/><ref name="EU2"/> Ryan Joyce averaged 103.24 but was beaten 6–4 by [[Josh Rock]]. [[Ross Smith (darts player)|Ross Smith]] defeated Patrik Kovács 6–2, while [[Martin Schindler]] earned a 6–4 win over Brendan Dolan.<ref name="PDCDay2"/>
+
+===Final day===
+[[File:2025-04-03 Premier League Darts Berlin 2025 by Sandro Halank–037.jpg|thumb|[[Nathan Aspinall]] ''(pictured in 2025)'' won his fourth European Tour title.]]
+The third round, quarter-finals, semi-finals and final were played on 6 April. The third round and quarter-finals were contested over the best of 11 legs, the semi-finals over the best of 13 legs, and the final over the best of 15 legs.<ref name="PDCFinal">{{cite web |last=Gorton |first=Josh |date=6 April 2026 |title=Aspinall celebrates German Darts Grand Prix success in Munich |url=https://www.pdc.tv/news/2026/april/06/Aspinall-celebrates-German-Grand-Prix-success-Munich/ |website=Professional Darts Corporation |access-date=7 April 2026}}</ref> The final day saw Nathan Aspinall and Danny Noppert reach the final. Aspinall won six straight legs to defeat Martin Schindler 6–2 in the third round, followed by a 6–4 victory over Andrew Gilding. In the semi-finals, he averaged 106.40 as he beat Kevin Doets 7–2, ending a streak of six losses against the Dutchman.<ref name="SkyFinal">{{cite web |date=6 April 2026 |title=Nathan Aspinall wins German Darts Grand Prix with victory over Danny Noppert in final |url=https://www.skysports.com/darts/news/12288/13528735/nathan-aspinall-wins-german-darts-grand-prix-title-with-victory-over-danny-noppert-in-final |website=Sky Sports |access-date=7 April 2026}}</ref> Doets had previously equalled the European Tour record for the most [[Glossary of darts#Maximum|maximums]] in a single match, scoring ten during his third-round victory over Dirk van Duijvenbode.<ref>{{cite web |date=6 April 2026 |title=ELTEN Safety Shoes German Darts Grand Prix: Aspinall krönt Osterwochenende |url=https://www.pdc-europe.tv/de/aktuell/elten-safety-shoes-german-darts-grand-prix-aspinall-kroent-osterwochenende/ |website=PDC Europe |access-date=7 April 2026 |language=de}}</ref> Meanwhile, Noppert reached the final by defeating Karel Sedláček, Jonny Clayton, and Krzysztof Ratajski, only conceding five legs throughout the three matches.<ref name="PDCFinal"/> Aspinall looked to add to his three titles on the [[2025 PDC Pro Tour#European Tour|2025 European Tour]], while Noppert aimed to win his first European Tour title in his fourth final.<ref name="SkyFinal"/><ref name="RTEFinal">{{cite web |date=6 April 2026 |title=Nathan Aspinall seals first European Tour title of the year |url=https://www.rte.ie/sport/darts/2026/0406/1566952-aspinall-seals-first-european-tour-title-of-the-year/ |website=RTÉ Sport |access-date=7 April 2026}}</ref>
+
+Noppert won the opening leg of the match, but fell 4–1 behind after a 108 checkout from Aspinall.<ref name="RTEFinal"/> Noppert then claimed the next four legs to lead 5–4, capitalising on missed doubles from his opponent.<ref name="SkyFinal"/> At 5–5, Noppert missed a dart at the bullseye for a 170 checkout, allowing Aspinall to take out 84 to retake the lead.<ref>{{cite web |last=Wood |first=Kieran |date=6 April 2026 |title=German Darts Grand Prix 2026 Roundup - Nathan Aspinall storms past Danny Noppert to seal fourth European Tour title in Munich |url=https://dartsnews.com/pdc/german-darts-grand-prix-2026-roundup-nathan-aspinall-storms-past-danny-noppert-to-seal-fourth-european-tour-title-in-munich |website=dartsnews.com |access-date=7 April 2026}}</ref> After taking the next leg, Aspinall converted a 128 checkout to win the final 8–5, ending the match with a three-dart average of 100.35 and seven maximums.<ref name="SkyFinal"/>
+
+Aspinall won his fourth European Tour title with all four coming in Germany, equalling the tally of [[Phil Taylor (darts player)|Phil Taylor]].<ref name="PDCFinal"/><ref>{{cite web |last1=Walz |first1=Thomas |last2=Schamburg |first2=Julius |date=6 April 2026 |title='Deutschland, ich liebe dich' |url=https://www.sport1.de/news/darts-sport/2026/04/aspinall-ueberrascht-mit-walk-on-song |website=Sport1 |access-date=7 April 2026 |language=de}}</ref> In his post-match interview, Aspinall said he was "absolutely buzzing" with the victory, adding: "I did an interview on Saturday saying I was trying to find that love for the game again, but this crowd in [[Munich]] gave me the love for darts again."<ref name="SkyFinal"/> Noppert called his opponent the "deserved winner". "Of course I wanted to lift the title. There is another level I can go to, and I am pushing myself hard every time."<ref name="PDCFinal"/>
+
+==Draw==
+The draw was announced on 3 April.<ref name="Draw"/> Numbers to the left of a player's name show the seedings for the top 16 in the tournament. The figures to the right of a player's name state their [[three-dart average]] in a match. The four reserve players are indicated by 'Alt'. Players in bold denote match winners.<ref>{{cite web |title=Results of German Darts Grand Prix 2026 |url=https://mastercaller.com/tournaments/german-darts-grand-prix/2026/results |website=Mastercaller |access-date=7 April 2026}}</ref>
+{{48TeamBracket
+| RD1-shift = -1
+| RD1='''First round'''<br>''(best of 11 legs)''<br>4 April
+| RD2='''Second round'''<br>''(best of 11 legs)''<br>5 April
+| RD3='''Third round'''<br>''(best of 11 legs)''<br>6 April
+| RD4='''Quarter-finals'''<br>''(best of 11 legs)''<br>6 April
+| RD5='''Semi-finals'''<br>''(best of 13 legs)''<br>6 April
+| RD6='''Final'''<br>''(best of 15 legs)''<br>6 April
+
+| team-width=220
+| boldwinner=high
+
+| RD1-seed01 = &nbsp;
+| RD1-team01 = {{PDCFlag|William O'Connor|avg=94.06}}
+| RD1-score01= 6
+| RD1-seed02 = 
+| RD1-team02 = {{PDCFlag|Sebastian Białecki|avg=91.82}}
+| RD1-score02= 2
+
+| RD1-seed03 = &nbsp;
+| RD1-team03 = {{PDCFlag|Wessel Nijman|avg=91.25}}
+| RD1-score03= 4
+| RD1-seed04 = Alt
+| RD1-team04 = {{PDCFlag|Andrew Gilding|avg=91.63}}
+| RD1-score04= 6
+
+| RD1-seed05 = &nbsp;
+| RD1-team05 = {{PDCFlag|Ricardo Pietreczko|avg=79.19}}
+| RD1-score05= 6
+| RD1-seed06 = Alt
+| RD1-team06 = {{PDCFlag|Ian White|avg=83.98}}
+| RD1-score06= 5
+
+| RD1-seed07 = &nbsp;
+| RD1-team07 = {{PDCFlag|Brendan Dolan|flag=IRL|avg=79.55}}
+| RD1-score07= 6
+| RD1-seed08 = Alt
+| RD1-team08 = {{PDCFlag|Cor Dekker|avg=91.95}}
+| RD1-score08= 5
+
+| RD1-seed09 = &nbsp;
+| RD1-team09 = {{PDCFlag|Kevin Doets|avg=92.02}}
+| RD1-score09= 6
+| RD1-seed10 = 
+| RD1-team10 = {{PDCFlag|Anton Ostlund|avg=71.97}}
+| RD1-score10= 0
+
+| RD1-seed11 = &nbsp;
+| RD1-team11 = {{PDCFlag|Dirk van Duijvenbode|avg=91.15}}
+| RD1-score11= 6
+| RD1-seed12 = 
+| RD1-team12 = {{PDCFlag|Stephen Burton|avg=83.55}}
+| RD1-score12= 2
+
+| RD1-seed13 = &nbsp;
+| RD1-team13 = {{PDCFlag|Ryan Joyce|avg=93.40}}
+| RD1-score13= 6
+| RD1-seed14 = 
+| RD1-team14 = {{PDCFlag|Finn Behrens|avg=79.89}}
+| RD1-score14= 1
+
+| RD1-seed15 = &nbsp;
+| RD1-team15 = {{PDCFlag|Niels Zonneveld|avg=93.58}}
+| RD1-score15= 6
+| RD1-seed16 = 
+| RD1-team16 = {{PDCFlag|Adam Lipscombe|avg=89.49}}
+| RD1-score16= 3
+
+| RD1-seed17 = &nbsp;
+| RD1-team17 = {{PDCFlag|Niko Springer|avg=85.58}}
+| RD1-score17= 6
+| RD1-seed18 = 
+| RD1-team18 = {{PDCFlag|txt=Jan Schmidt|flag=GER|avg=79.64}}
+| RD1-score18= 5
+
+| RD1-seed19 = &nbsp;
+| RD1-team19 = {{PDCFlag|Michael Smith|avg=86.40}}
+| RD1-score19= 6
+| RD1-seed20 = 
+| RD1-team20 = {{PDCFlag|James Hurrell|avg=76.22}}
+| RD1-score20= 2
+
+| RD1-seed21 = &nbsp;
+| RD1-team21 = {{PDCFlag|Krzysztof Ratajski|avg=91.52}}
+| RD1-score21= 6
+| RD1-seed22 = 
+| RD1-team22 = {{PDCFlag|Thomas Lovely|avg=86.28}}
+| RD1-score22= 3
+
+| RD1-seed23 = &nbsp;
+| RD1-team23 = {{PDCFlag|Joe Cullen|avg=82.40}}
+| RD1-score23= 3
+| RD1-seed24 = 
+| RD1-team24 = {{PDCFlag|Patrik Kovacs|avg=85.54}}
+| RD1-score24= 6
+
+| RD1-seed25 = &nbsp;
+| RD1-team25 = {{PDCFlag|Raymond van Barneveld|avg=84.52}}
+| RD1-score25= 4
+| RD1-seed26 = 
+| RD1-team26 = {{PDCFlag|Marcel Hausotter|avg=88.13}}
+| RD1-score26= 6
+
+| RD1-seed27 = &nbsp;
+| RD1-team27 = {{PDCFlag|Peter Wright|avg=85.01}}
+| RD1-score27= 3
+| RD1-seed28 = 
+| RD1-team28 = {{PDCFlag|Kim Huybrechts|avg=93.46}}
+| RD1-score28= 6
+
+| RD1-seed29 = &nbsp;
+| RD1-team29 = {{PDCFlag|Ritchie Edhouse|avg=95.27}}
+| RD1-score29= 6
+| RD1-seed30 = 
+| RD1-team30 = {{PDCFlag|Kevin Troppmann|avg=92.73}}
+| RD1-score30= 3
+
+| RD1-seed31 = &nbsp;
+| RD1-team31 = {{PDCFlag|Cameron Menzies|avg=87.55}}
+| RD1-score31= 4
+| RD1-seed32 = Alt
+| RD1-team32 = {{PDCFlag|Karel Sedlacek|avg=91.18}}
+| RD1-score32= 6
+
+| RD2-seed01 = 1
+| RD2-team01 = {{PDCFlag|Gian van Veen|avg=91.00}}
+| RD2-score01= 2
+| RD2-seed02 = 
+| RD2-team02 = {{PDCFlag|William O'Connor|avg=89.15}}
+| RD2-score02= 6
+
+| RD2-seed03 = 16
+| RD2-team03 = {{PDCFlag|Daryl Gurney|avg=92.46}}
+| RD2-score03= 5
+| RD2-seed04 = Alt
+| RD2-team04 = {{PDCFlag|Andrew Gilding|avg=95.50}}
+| RD2-score04= 6
+
+| RD2-seed05 = 8
+| RD2-team05 = {{PDCFlag|Nathan Aspinall|avg=99.50}}
+| RD2-score05= 6
+| RD2-seed06 = 
+| RD2-team06 = {{PDCFlag|Ricardo Pietreczko|avg=91.31}}
+| RD2-score06= 5
+
+| RD2-seed07 = 9
+| RD2-team07 = {{PDCFlag|Martin Schindler|avg=87.20}}
+| RD2-score07= 6
+| RD2-seed08 = 
+| RD2-team08 = {{PDCFlag|Brendan Dolan|flag=IRL|avg=83.71}}
+| RD2-score08= 4
+
+| RD2-seed09 = 4
+| RD2-team09 = {{PDCFlag|James Wade|avg=93.31}}
+| RD2-score09= 5
+| RD2-seed10 = 
+| RD2-team10 = {{PDCFlag|Kevin Doets|avg=101.30}}
+| RD2-score10= 6
+
+| RD2-seed11 = 13
+| RD2-team11 = {{PDCFlag|Mike De Decker|avg=98.29}}
+| RD2-score11= 5
+| RD2-seed12 = 
+| RD2-team12 = {{PDCFlag|Dirk van Duijvenbode|avg=97.57}}
+| RD2-score12= 6
+
+| RD2-seed13 = 5
+| RD2-team13 = {{PDCFlag|Josh Rock|avg=102.57}}
+| RD2-score13= 6
+| RD2-seed14 = 
+| RD2-team14 = {{PDCFlag|Ryan Joyce|avg=103.24}}
+| RD2-score14= 4
+
+| RD2-seed15 = 12
+| RD2-team15 = {{PDCFlag|Jermaine Wattimena|avg=91.42}}
+| RD2-score15= 1
+| RD2-seed16 = 
+| RD2-team16 = {{PDCFlag|Niels Zonneveld|avg=95.32}}
+| RD2-score16= 6
+
+| RD2-seed17 = 2
+| RD2-team17 = {{PDCFlag|Michael van Gerwen|avg=94.56}}
+| RD2-score17= 1
+| RD2-seed18 = 
+| RD2-team18 = {{PDCFlag|Niko Springer|avg=98.34}}
+| RD2-score18= 6
+
+| RD2-seed19 = 15
+| RD2-team19 = {{PDCFlag|Dave Chisnall|avg=87.33}}
+| RD2-score19= 5
+| RD2-seed20 = 
+| RD2-team20 = {{PDCFlag|Michael Smith|avg=90.90}}
+| RD2-score20= 6
+
+| RD2-seed21 = 7
+| RD2-team21 = {{PDCFlag|Ryan Searle|avg=89.46}}
+| RD2-score21= 5
+| RD2-seed22 = 
+| RD2-team22 = {{PDCFlag|Krzysztof Ratajski|avg=98.85}}
+| RD2-score22= 6
+
+| RD2-seed23 = 10
+| RD2-team23 = {{PDCFlag|Ross Smith|avg=92.32}}
+| RD2-score23= 6
+| RD2-seed24 = 
+| RD2-team24 = {{PDCFlag|Patrik Kovacs|avg=88.59}}
+| RD2-score24= 2
+
+| RD2-seed25 = 3
+| RD2-team25 = {{PDCFlag|Jonny Clayton|avg=94.21}}
+| RD2-score25= 6
+| RD2-seed26 = 
+| RD2-team26 = {{PDCFlag|Marcel Hausotter|avg=93.16}}
+| RD2-score26= 5
+
+| RD2-seed27 = 14
+| RD2-team27 = {{PDCFlag|Luke Woodhouse|avg=94.48}}
+| RD2-score27= 1
+| RD2-seed28 = 
+| RD2-team28 = {{PDCFlag|Kim Huybrechts|avg=100.26}}
+| RD2-score28= 6
+
+| RD2-seed29 = 6
+| RD2-team29 = {{PDCFlag|Danny Noppert|avg=99.41}}
+| RD2-score29= 6
+| RD2-seed30 = 
+| RD2-team30 = {{PDCFlag|Ritchie Edhouse|avg=96.78}}
+| RD2-score30= 5
+
+| RD2-seed31 = 11
+| RD2-team31 = {{PDCFlag|Damon Heta|avg=93.38}}
+| RD2-score31= 2
+| RD2-seed32 = Alt
+| RD2-team32 = {{PDCFlag|Karel Sedlacek|avg=96.38}}
+| RD2-score32= 6
+
+| RD3-seed01 = &nbsp;
+| RD3-team01 = {{PDCFlag|William O'Connor|surname=1|avg=84.80}}
+| RD3-score01= 1
+| RD3-seed02 = Alt
+| RD3-team02 = {{PDCFlag|Andrew Gilding|surname=1|avg=95.80}}
+| RD3-score02= 6
+
+| RD3-seed03 = 8
+| RD3-team03 = {{PDCFlag|Nathan Aspinall|surname=1|avg=95.46}}
+| RD3-score03= 6
+| RD3-seed04 = 9
+| RD3-team04 = {{PDCFlag|Martin Schindler|surname=1|avg=83.04}}
+| RD3-score04= 2
+
+| RD3-seed05 = &nbsp;
+| RD3-team05 = {{PDCFlag|Kevin Doets|surname=1|avg=107.70}}
+| RD3-score05= 6
+| RD3-seed06 = &nbsp;
+| RD3-team06 = {{PDCFlag|Dirk van Duijvenbode|surname=van Duijvenbode|avg=96.77}}
+| RD3-score06= 5
+
+| RD3-seed07 = 5
+| RD3-team07 = {{PDCFlag|Josh Rock|surname=1|avg=93.14}}
+| RD3-score07= 5
+| RD3-seed08 = &nbsp;
+| RD3-team08 = {{PDCFlag|Niels Zonneveld|surname=1|avg=103.59}}
+| RD3-score08= 6
+
+| RD3-seed09 = &nbsp;
+| RD3-team09 = {{PDCFlag|Niko Springer|surname=1|avg=87.38}}
+| RD3-score09= 4
+| RD3-seed10 = &nbsp;
+| RD3-team10 = {{PDCFlag|Michael Smith|surname=M Smith|avg=91.68}}
+| RD3-score10= 6
+
+| RD3-seed11 = &nbsp;
+| RD3-team11 = {{PDCFlag|Krzysztof Ratajski|surname=1|avg=98.80}}
+| RD3-score11= 6
+| RD3-seed12 = 10
+| RD3-team12 = {{PDCFlag|Ross Smith|surname=R Smith|avg=89.68}}
+| RD3-score12= 4
+
+| RD3-seed13 = 3
+| RD3-team13 = {{PDCFlag|Jonny Clayton|surname=1|avg=104.78}}
+| RD3-score13= 6
+| RD3-seed14 = &nbsp;
+| RD3-team14 = {{PDCFlag|Kim Huybrechts|surname=1|avg=101.15}}
+| RD3-score14= 4
+
+| RD3-seed15 = 6
+| RD3-team15 = {{PDCFlag|Danny Noppert|surname=1|avg=96.66}}
+| RD3-score15= 6
+| RD3-seed16 = Alt
+| RD3-team16 = {{PDCFlag|Karel Sedlacek|surname=1|avg=87.85}}
+| RD3-score16= 2
+
+| RD4-seed01 = Alt
+| RD4-team01 = {{PDCFlag|Andrew Gilding|surname=1|avg=83.45}}
+| RD4-score01= 4
+| RD4-seed02 = 8
+| RD4-team02 = {{PDCFlag|Nathan Aspinall|surname=1|avg=99.18}}
+| RD4-score02= 6
+
+| RD4-seed03 = &nbsp;
+| RD4-team03 = {{PDCFlag|Kevin Doets|surname=1|avg=90.72}}
+| RD4-score03= 6
+| RD4-seed04 = &nbsp;
+| RD4-team04 = {{PDCFlag|Niels Zonneveld|surname=1|avg=90.73}}
+| RD4-score04= 5
+
+| RD4-seed05 = &nbsp;
+| RD4-team05 = {{PDCFlag|Michael Smith|surname=M Smith|avg=85.94}}
+| RD4-score05= 2
+| RD4-seed06 = &nbsp;
+| RD4-team06 = {{PDCFlag|Krzysztof Ratajski|surname=1|avg=92.81}}
+| RD4-score06= 6
+
+| RD4-seed07 = 3
+| RD4-team07 = {{PDCFlag|Jonny Clayton|surname=1|avg=89.65}}
+| RD4-score07= 1
+| RD4-seed08 = 6
+| RD4-team08 = {{PDCFlag|Danny Noppert|surname=1|avg=91.24}}
+| RD4-score08= 6
+
+| RD5-seed01 = 8
+| RD5-team01 = {{PDCFlag|Nathan Aspinall|surname=1|avg=106.40}}
+| RD5-score01= 7
+| RD5-seed02 = &nbsp;
+| RD5-team02 = {{PDCFlag|Kevin Doets|surname=1|avg=93.15}}
+| RD5-score02= 2
+
+| RD5-seed03 = &nbsp;
+| RD5-team03 = {{PDCFlag|Krzysztof Ratajski|surname=1|avg=98.28}}
+| RD5-score03= 2
+| RD5-seed04 = 6
+| RD5-team04 = {{PDCFlag|Danny Noppert|surname=1|avg=96.93}}
+| RD5-score04= 7
+
+| RD6-seed01 = 8
+| RD6-team01 = {{PDCFlag|Nathan Aspinall |surname=1|avg=100.35}}
+| RD6-score01= 8
+| RD6-seed02 = 6
+| RD6-team02 = {{PDCFlag|Danny Noppert|surname=1|avg=93.16}}
+| RD6-score02= 5
+}}
+
+== References ==
+{{reflist}}
+{{2026 in PDC darts}}
+
+{{DEFAULTSORT:German Darts Grand Prix 2026}}
+[[Category:2026 PDC European Tour]]
+[[Category:German Darts Grand Prix]]
+[[Category:Sports competitions in Munich]]
+[[Category:2020s in Munich]]
+[[Category:April 2026 sports events in Germany|German Darts Grand Prix]]

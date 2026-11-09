@@ -1,0 +1,1247 @@
+{{short description|Darts tournament}}
+{{Use British English|date=January 2025}}
+{{Use dmy dates|date=January 2025}}
+{{Infobox individual darts tournament
+| tournament_name = 2025 Winmau World Masters 
+| image         = 
+| dates         = {{nowrap|30 January – 2 February 2025}}<br />(Main tournament)
+| venue         = [[Arena MK]]
+| location      = [[Milton Keynes]], England
+| organisation  = [[Professional Darts Corporation]] (PDC)
+| format        = [[Set (darts)|Sets]] (best of 3 [[Leg (darts)|legs]])<br/>Final – first to 6 sets
+| prize_fund    = £500,000
+| winners_share = £100,000
+| nine_dart     = [[Dimitri Van den Bergh]]
+| high_checkout = '''170''' [[William Borland (darts player)|William Borland]]
+| winner        = '''{{flagathlete|[[Luke Humphries]]|ENG}}'''
+| prev          = [[2024 Masters (darts)|2024]]
+| next          = [[2026 PDC World Masters|2026]]
+}}
+[[File:The Prime Minister welcomes Luke Humphries to Downing Street (53444857015) (cropped).jpg|thumb|[[Luke Humphries]] won the World Masters for the first time in his career.]]
+[[File:2022-06-13 Play-offs (2022 Premier League Darts) by Sandro Halank–038.jpg|thumb|[[2021 Masters (darts)|2021 Masters]] champion [[Jonny Clayton]] was defeated in the final.]]
+
+The '''2025 PDC World Masters''' (known for sponsorship reasons as the '''2025 Winmau World Masters''') was a professional [[darts]] tournament that took place at the [[Arena MK]] in [[Milton Keynes]], England, from 30 January to 2 February 2025. The preliminary rounds of the tournament were held at the Marshall Arena on 29 January 2025. It was the 13th [[PDC World Masters|Masters]] to be organised by the [[Professional Darts Corporation]] and the first under the World Masters rebrand. It was the first time the tournament was ranked and was using [[Set (darts)|set]] play.
+
+[[Stephen Bunting]] was the defending champion after beating [[Michael van Gerwen]] 11–7 in the [[2024 Masters (darts)|2024 final]]. However, he lost 4–3 to [[Danny Noppert]] in the quarter-finals.<ref>{{cite web |last1=Mills |first1=Stephen |title=Luke Littler out of World Masters Darts after 4-2 defeat to Jonny Clayton, as Stephen Bunting also exits |url=https://www.skysports.com/darts/news/12040/13301874/luke-littler-out-of-world-masters-darts-after-4-2-defeat-to-jonny-clayton-as-stephen-bunting-also-exits |website=[[Sky Sports]] |access-date=2 February 2025 |date=2 February 2025}}</ref> [[Luke Humphries]] won the tournament, defeating [[Jonny Clayton]] 6–5 in the final.<ref>{{cite web |last1=Keogh |first1=Frank |last2=Higham |first2=Paul |title=Humphries survives Clayton comeback to win epic Masters |url=https://www.bbc.com/sport/darts/articles/cr46kv0ggl9o |website=[[BBC Sport]] |access-date=2 February 2025 |date=2 February 2025}}</ref><ref>{{cite web |author1=Pa Sport Staff |title=Luke Humphries beats Jonny Clayton in last-leg decider to win World Masters |url=https://www.independent.co.uk/sport/luke-humphries-luke-littler-australian-michael-van-gerwen-b2690883.html |website=[[The Independent]] |access-date=2 February 2025 |date=2 February 2025}}</ref>
+
+[[Dimitri Van den Bergh]] hit a [[nine-dart finish]] during his second round victory over [[Michael van Gerwen]].<ref>{{cite web |last=Wellens |first=Megan  |date=2 February 2025 |title=World Masters darts: Luke Littler whitewashes James Wade to book quarter-final spot as Dimitri Van den Bergh hits nine-darter in win over Michael van Gerwen |url=https://www.skysports.com/darts/news/12288/13301165/world-masters-darts-luke-littler-whitewashes-james-wade-to-book-quarter-final-spot-as-dimitri-van-den-bergh-hits-nine-darter-in-win-over-michael-van-gerwen |website=[[Sky Sports]] |access-date=2 February 2025}}</ref>
+
+==Overview==
+
+=== Background ===
+The inaugural edition of the [[PDC World Masters|Masters]], the [[2013 Masters (darts)|2013 Masters]], was held by the [[Professional Darts Corporation]] (PDC) from 1–3 November 2013 at the [[Royal Highland Centre]] in [[Edinburgh]], Scotland and was broadcast live on [[ITV4]].<ref>{{Cite web |date=14 June 2013 |title=PDC & ITV Sign New Four-Event Deal |url=https://www.pdc.tv/news/2013/06/14/pdc-itv-sign-new-four-event-deal |archive-url=https://web.archive.org/web/20250129132814/https://www.pdc.tv/news/2013/06/14/pdc-itv-sign-new-four-event-deal |url-status=dead |archive-date=29 January 2025 |access-date=10 January 2025 |website=[[Professional Darts Corporation]]}}</ref> [[Phil Taylor (darts player)|Phil Taylor]] won the first final, defeating [[Adrian Lewis]] 10–1.<ref>{{Cite web |date=4 November 2013 |title=Masters: Phil Taylor thrashes Adrian Lewis in all-Stoke final |url=https://www.bbc.co.uk/sport/darts/24804052 |access-date=10 January 2025 |website=[[BBC Sport]]}}</ref> Since 2015, the tournament has been held in [[Milton Keynes]].<ref>{{Cite web |date=2 February 2015 |title=Michael van Gerwen beats Van Barneveld to win first Masters title |url=https://www.bbc.co.uk/sport/darts/31092634 |access-date=10 January 2025 |website=[[BBC Sport]]}}</ref> The tournament initially featured the top 16 players in the world before increasing to the top 24 in 2021.<ref>{{Cite web |last=Allen |first=Dave |date=5 January 2021 |title=Ladbrokes Masters expands to 24 players in 2021 |url=https://www.pdc.tv/news/2021/01/05/ladbrokes-masters-expands-24-players-2021 |archive-url=https://web.archive.org/web/20210105152529/https://www.pdc.tv/news/2021/01/05/ladbrokes-masters-expands-24-players-2021 |url-status=dead |archive-date=5 January 2021 |access-date=10 January 2025 |website=[[Professional Darts Corporation]]}}</ref>
+
+In August 2024, it was announced that for the 2025 event, the field would expand to 32 players and it would be the first edition where the tournament was ranked.<ref>{{cite web |last=Allen |first=Dave |date=29 August 2024 |title=The Masters expands to 32-player ranked event in 2025 |url=https://www.pdc.tv/news/2024/august/29/masters-expands-32-player-ranked-event-2025 |access-date=31 December 2024 |website=[[Professional Darts Corporation]]}}</ref> However, this preceded a bigger announcement that was made on 28 October. The PDC announced a complete revamp of the competition, rebranding it from the Masters to the World Masters (sponsored by [[Winmau]]), emulating the [[World Masters (darts)|World Masters]] which was first held in 1975 and organised by the [[British Darts Organisation]] and later the [[World Darts Federation]].<ref>{{Cite web |last=Phillips |first=Josh |date=28 October 2024 |title=Winmau World Masters to return as PDC event undergoes radical rebrand |url=https://www.pdc.tv/news/2024/october/28/winmau-world-masters-return-pdc-event-undergoes-radical-rebrand |access-date=31 December 2024 |website=PDC}}</ref><ref>{{Cite web |last=Shaw |first=Jamie |date=28 October 2024 |title=Winmau World Masters to return in 2025 as PDC rebrand historic tournament |url=https://www.live-darts.com/pdc-darts-news/the-masters/winmau-world-masters-to-return-in-2025/ |access-date=10 January 2025 |website=Live Darts}}</ref> The revamp saw a change in format from [[Leg (darts)|leg]] play to classic World Masters [[Set (darts)|set]] play (best of 3 legs in a set), and saw preliminary rounds introduced for players outside of the top 24 and players from the PDC's affiliated tours to determine who would join the top 24 in the main competition.
+
+The 2025 event was held from 30 January to 2 February at the [[Marshall Arena]] in [[Milton Keynes]], England.<ref name="Sky2025Calendar">{{cite web |date=3 January 2025 |title=Darts 2025 schedule and dates: Premier League Darts, World Matchplay and more with Luke Littler among those in action |url=https://www.skysports.com/darts/news/12288/13282459/darts-2025-schedule-and-dates-premier-league-darts-world-matchplay-and-more-with-luke-littler-among-those-in-action |access-date=5 January 2025 |publisher=[[Sky Sports]]}}</ref> The defending champion was [[Stephen Bunting]], who won his first PDC televised title by defeating [[Michael van Gerwen]] 11–7 in the [[2024 Masters (darts)|2024 final]].<ref name=SkyDraw>{{cite web |date=21 January 2025 |title=Winmau World Masters darts: Schedule, draw, results, format as Luke Littler, Luke Humphries headline 2025 edition |url=https://www.skysports.com/darts/news/12288/13293835/winmau-world-masters-darts-schedule-draw-results-format-as-luke-littler-luke-humphries-headline-2025-edition |access-date=22 January 2025 |publisher=[[Sky Sports]]}}</ref><ref name="BuntingMastersBBC">{{cite web |date=5 February 2024 |title=Cazoo Masters: Stephen Bunting beats Michael van Gerwen to win maiden televised PDC title |url=https://www.bbc.co.uk/sport/darts/68202432 |access-date=4 January 2025 |website=[[BBC Sport]]}}</ref>
+
+===Format===
+All matches were played as straight in (player begins scoring with their first throw no matter what section is hit), double out (a segment on the outer ring or the [[Bullseye (target)|bullseye]]), requiring the players to score 501 points to win a [[Leg (darts)|leg]], finishing on a double. The matches were played in [[Set (darts)|set]] format, with a minimum of two sets required to win a match. All sets were played to the best of three legs.<ref name="SetsFormat">{{cite web |last=Gill |first=Samuel |date=25 December 2024 |title=Format confirmed for 2025 Winmau World Masters including much-loved sets returning |url=https://dartsnews.com/pdc/format-confirmed-for-2025-winmau-world-masters-including-much-loved-sets-returning |access-date=31 December 2024 |publisher=Darts News}}</ref><ref name=SkyDraw/>
+
+{|class="wikitable" style="text-align:center"
+!Round
+!Best of (sets)
+!First to (sets)
+|-
+|-
+|Preliminary || 3 || 2
+|-
+|First|| 5 || 3
+|-
+|Second || 7 || 4
+|-
+|Quarter-finals || 7 || 4
+|-
+|Semi-finals || 9 || 5
+|-
+|Final || 11 || 6
+|}
+
+===Prize money===
+The prize money for the tournament was £500,000 in total. The winner's prize money was £100,000.<ref>{{cite web |last=Gorton |first=Josh |date=24 December 2024 |title=£500,000 prize fund announced for 2025 Winmau World Masters |url=https://www.pdc.tv/news/2024/december/24/ps500000-prize-fund-announced-2025-winmau-world-masters |publisher=[[Professional Darts Corporation|PDC]] |access-date=25 December 2024}}</ref><ref>{{cite web |last=Gill |first=Samuel |date=24 December 2024 |title=Here's how much players can earn in Prize Money at 2025 Winmau World Masters with huge amount set |url=https://dartsnews.com/pdc/heres-how-much-players-can-earn-in-prize-money-at-2025-winmau-world-masters-with-huge-amount-set |work=Darts News |access-date=5 January 2025}}</ref><ref name=SkyDraw/>
+
+{|class="wikitable" style="text-align:center"
+!colspan=2|Position <small>(no. of players)</small>
+!Prize money<br /><small>(Total: £500,000)</small>
+|-
+|style="text-align:center"|'''Winner''' ||<small>(1)</small> ||£100,000
+|-
+|style="text-align:center"|'''Runner-up''' ||<small>(1)</small> ||£50,000
+|-
+|style="text-align:center"|'''Semi-finalists''' ||<small>(2)</small> ||£30,000
+|-
+|style="text-align:center"|'''Quarter-finalists''' ||<small>(4)</small> ||£17,500
+|-
+|style="text-align:center"|'''Second round losers''' ||<small>(8)</small> ||£10,000
+|-
+|style="text-align:center"|'''First round losers''' ||<small>(16)</small> ||£5,000
+|-
+|style="text-align:center"|'''Preliminary round Last 16 losers''' ||<small>(8)</small> ||£2,500
+|-
+|style="text-align:center"|'''Preliminary round Last 32 losers''' ||<small>(16)</small> ||£1,000
+|-
+|style="text-align:center"|'''Preliminary round Last 64 losers''' ||<small>(32)</small> ||£750
+|}
+
+==Qualifiers==
+[[File:Stephen Bunting 2024 2.png|thumb|[[Stephen Bunting]] was the defending champion going into the tournament.]] 
+The World Masters featured the top 24 players in the [[PDC Order of Merit]] after the [[2025 PDC World Darts Championship]]<ref>{{cite web |last=Gill |first=Samuel |date=4 January 2025 |title=PDC Order of Merit Update: Luke Littler passes Michael van Gerwen but World Number One out of reach for now |url=https://dartsnews.com/pdc/pdc-order-of-merit-update-luke-littler-passes-michael-van-gerwen-but-world-number-one-out-of-reach-for-now |work=Darts News |access-date=5 January 2025}}</ref> automatically qualifying for the first round, while the [[List of players with a 2025 PDC Tour Card|2025 Tour Card Holders]] ranked outside the top 24 competed in preliminary rounds held on 29 January 2025 alongside players from affiliated tours to determine the last eight players in the main field. The top sixteen players on the Order of Merit were seeded for the tournament.<ref name=SetsFormat/><ref>{{cite web |title=PDC Order of Merit Rules {{!}} 2025 PDC Order of Merit Rules, as at January 13 2025. {{!}} 3. Invitations and Seedings |url=https://www.pdc.tv/pdc-order-merit-rules-1 |publisher=PDC}}</ref>
+
+The list of participants was as follows:<ref name=i>{{cite web |last=Goyncourt |first=Sally |date=30 January 2025 |title=Winmau World Masters Darts 2025 - schedule, prize money and how to watch |url=https://inews.co.uk/sport/world-masters-darts-2025-schedule-prize-money-watch-3509135 |website=The i Paper |access-date=30 January 2025}}</ref>
+
+{{col-begin|width=80%}}
+{{col-break}}
+:'''Seeded Players'''
+# {{PDCFlag|Luke Humphries|b=1}} '''(champion)'''
+# {{PDCFlag|Luke Littler}} ''(quarter-finals)''
+# {{nowrap|{{PDCFlag|Michael van Gerwen}} ''(second round)''}}
+# {{PDCFlag|Rob Cross}} ''(first round)''
+# {{PDCFlag|Stephen Bunting}} ''(quarter-finals)''
+# {{PDCFlag|Dave Chisnall}} ''(first round)''
+# {{PDCFlag|Jonny Clayton}} ''(runner-up)''
+# {{PDCFlag|Damon Heta}} ''(quarter-finals)''
+# {{PDCFlag|Gerwyn Price}} ''(second round)''
+# {{PDCFlag|Chris Dobey}} ''(first round)''
+# {{PDCFlag|Nathan Aspinall}} ''(quarter-finals)''
+# {{PDCFlag|Peter Wright}} ''(second round)''
+# {{PDCFlag|Danny Noppert}} ''(semi-finals)''
+# {{PDCFlag|Gary Anderson}} ''(first round)''
+# {{PDCFlag|James Wade}} ''(second round)''
+# {{PDCFlag|Josh Rock}} ''(second round)''
+{{col-break}}
+:'''Order of Merit Qualifiers'''
+# {{PDCFlag|Michael Smith}} ''(first round)''
+# {{nowrap|{{PDCFlag|Dimitri Van den Bergh}} ''(semi-finals)''}}
+# {{PDCFlag|Ryan Searle}} ''(second round)''
+# {{PDCFlag|Andrew Gilding}} ''(first round)''
+# {{PDCFlag|Ross Smith}} ''(first round)''
+# {{PDCFlag|Martin Schindler}} ''(first round)''
+# {{PDCFlag|Joe Cullen}} ''(first round)''
+# {{PDCFlag|Mike De Decker}} ''(first round)''
+{{col-break}}
+:'''Preliminary Round Qualifiers'''
+# {{PDCFlag|Kevin Doets}} ''(first round)''
+# {{PDCFlag|Bradley Brooks}} ''(first round)''
+# {{PDCFlag|Andy Baetens}} ''(first round)''
+# {{PDCFlag|Florian Hempel}} ''(first round)''
+# {{PDCFlag|William Borland}} ''(first round)''
+# {{nowrap|{{PDCFlag|Jermaine Wattimena}} ''(first round)''}}
+# {{nowrap|{{PDCFlag|Cameron Menzies}} ''(second round)''}}
+# {{nowrap|{{PDCFlag|William O'Connor}} ''(second round)''}}
+{{col-end}}
+
+==Preliminary rounds==
+[[File:Marshall Arena Milton Keynes 6 July 2020 (cropped).jpg|right|thumb|The preliminary rounds and main tournament were held at the [[Marshall Arena]] in [[Milton Keynes]], England.]]
+The preliminary rounds began with a group stage, with one seeded player per group (the players ranked 57–88 were seeded). The winner of each group progressed to the last 64 where they faced players ranked 25–56. The eight winners of the last 16 matches qualified for the main tournament.<ref name=EntriesConfirmed>{{cite web |last=Allen |first=Dave |date=27 January 2025 |title=Entries confirmed for 2025 Winmau World Masters Preliminary Rounds |url=https://www.pdc.tv/news/2025/january/27/entries-confirmed-2025-winmau-world-masters-preliminary-rounds |website=[[Professional Darts Corporation]] |access-date=27 January 2025}}</ref>
+
+[[Raymond van Barneveld]] (ranked world number thirty-four) did not enter the preliminary rounds. [[Dylan Slevin]] therefore received a bye to the last 64.
+
+The following players participated in the last 64 of the preliminary rounds:
+
+===Number 25–56 on the PDC Order of Merit (seeded players)===
+{{columns-list|colwidth=30em|
+{{seeds|25|1}} {{PDCFlag|Daryl Gurney}}
+{{seeds|26|5}} {{PDCFlag|Dirk van Duijvenbode}}
+{{seeds|27|7}} {{PDCFlag|Gian van Veen}}
+{{seeds|28|3}} {{PDCFlag|Ritchie Edhouse}}
+{{seeds|29|4}} {{PDCFlag|Ryan Joyce}}
+{{seeds|30|8}} {{PDCFlag|Ricardo Pietreczko}}
+{{seeds|31|6}} {{PDCFlag|Brendan Dolan}}
+{{seeds|32|2}} {{PDCFlag|Krzysztof Ratajski}}
+{{seeds|33|2}} {{PDCFlag|Luke Woodhouse}}
+{{seeds|34|6}} {{PDCFlag|Jermaine Wattimena|b=1}} ('''qualified''')
+{{seeds|35|8}} {{PDCFlag|Scott Williams}}
+{{seeds|36|4}} {{PDCFlag|Gabriel Clemens}}
+{{seeds|37|3}} {{PDCFlag|Martin Lukeman}}
+{{seeds|38|7}} {{PDCFlag|Cameron Menzies|b=1}} ('''qualified''')
+{{seeds|39|5}} {{PDCFlag|Callan Rydz}}
+{{seeds|40|1}} {{PDCFlag|Kevin Doets|b=1}} ('''qualified''')
+{{seeds|41|1}} {{PDCFlag|Madars Razma}}
+{{seeds|42|5}} {{PDCFlag|Mickey Mansell}}
+{{seeds|43|7}} {{PDCFlag|Ricky Evans}}
+{{seeds|44|3}} {{PDCFlag|Joséde Sousa}}
+{{seeds|45|4}} {{PDCFlag|Kim Huybrechts}}
+{{seeds|46|8}} {{PDCFlag|Richard Veenstra}}
+{{seeds|47|6}} {{PDCFlag|Niels Zonneveld}}
+{{seeds|48|2}} {{PDCFlag|Ian White}}
+{{seeds|49|4}} {{PDCFlag|Keane Barry}}
+{{seeds|50|6}} {{PDCFlag|Jim Williams}}
+{{seeds|51|8}} {{PDCFlag|William O'Connor|b=1}} ('''qualified''')
+{{seeds|52|4}} {{PDCFlag|Florian Hempel|b=1}} ('''qualified''')
+{{seeds|53|3}} {{PDCFlag|Matt Campbell}}
+{{seeds|54|7}} {{PDCFlag|Wessel Nijman}}
+{{seeds|55|5}} {{PDCFlag|Alan Soutar}}
+{{seeds|56|1}} {{PDCFlag|Dylan Slevin}}
+}}
+
+===Group winners===
+{{columns-list|colwidth=18em|
+{{ordered list|start=1
+| {{PDCFlag|Joshua Richardson}}
+| {{PDCFlag|William Borland|b=1}} ('''qualified''')
+| {{PDCFlag|Aden Kirk}}{{Efn|name=Challenge|Qualified via the [[2024 PDC Challenge Tour series|PDC Challenge Tour]]}}
+| {{PDCFlag|Darius Labanauskas}}{{Efn|name=Nordic & Baltic|Qualified via the PDC Nordic & Baltic Tour}}
+| {{PDCFlag|Adam Hunt}}
+| {{PDCFlag|Jeffrey de Graaf}}
+| {{PDCFlag|Nick Kenny}}
+| {{PDCFlag|Owen Bates}}
+| {{PDCFlag|Cam Crabtree}}
+| {{PDCFlag|Nathan Girvan}}{{Efn|name=DevTour|Qualified via the [[2024 PDC Development Tour series|PDC Development Tour]]}}
+| {{PDCFlag|Ryan Meikle}}
+| {{PDCFlag|Jitse van der Wal}}
+| {{PDCFlag|Andreas Harrysson}}{{Efn|name=Nordic & Baltic}}
+| {{PDCFlag|Berry van Peer}}
+| {{PDCFlag|Jimmy van Schie}}{{Efn|name=Challenge}}
+| {{PDCFlag|Andy Boulton}}
+| {{PDCFlag|Radek Szaganski}}
+| {{PDCFlag|Brett Claydon}}
+| {{PDCFlag|Karel Sedlacek}}
+| {{PDCFlag|Andy Baetens|b=1}} ('''qualified''')
+| {{PDCFlag|Tom Bissell}}
+| {{PDCFlag|Marvin van Velzen}}
+| {{PDCFlag|Oskar Lukasiak}}
+| {{PDCFlag|Bradley Brooks|b=1}} ('''qualified''')
+| {{PDCFlag|Thibault Tricole}}
+| {{PDCFlag|Thomas Lovely}}
+| {{PDCFlag|Danny Lauby}}
+| {{PDCFlag|Mensur Suljovic}}
+| {{PDCFlag|Adam Lipscombe}}
+| {{PDCFlag|Pero Ljubic}}
+| {{PDCFlag|Henry Coates}}{{Efn|name=DevTour}}
+| {{nowrap|{{PDCFlag|Ryan Branley}}{{Efn|name=JDC|Qualified as a JDC representative}}}}
+}}
+}}
+
+{{note list}}
+
+The draw for the preliminary rounds was made on 29 January 2025.
+
+All matches were played to the best of three sets (the first player to win two sets wins the match).
+
+The knockout phase results are shown below.<ref>{{cite web |date=29 January 2025 |title=2025 Winmau World Masters - Preliminary Round Finals |url=https://tv.dartconnect.com/event/pdcworldmasters25/matches |website=Dart Connect |access-date=29 January 2025}}</ref>
+=== Section 1 ===
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Last 64''' <br>''(best of 3 sets)'' <br /> 29 January}}
+| RD2= {{nowrap|1='''Last 32''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| RD3= {{nowrap|1='''Last 16''' <br> ''(best of 3 sets)'' <br> 29 January<ref name=DA/>}}
+| boldwinner = high
+| RD1-seed01  = 25
+| RD1-team01  = {{PDCFlag|Daryl Gurney|avg=92.58}}
+| RD1-score01 = 2
+| RD1-seed02  =
+| RD1-team02  = {{PDCFlag|Joshua Richardson|avg=88.46}}
+| RD1-score02 = 1
+| RD1-seed03  = 56
+| RD1-team03  = {{PDCFlag|Dylan Slevin|avg=88.75}}
+| RD1-score03 = 2
+| RD1-seed04  =
+| RD1-team04  = {{PDCFlag|Ryan Branley|avg=89.66}}
+| RD1-score04 = 0
+| RD1-seed05  = 40
+| RD1-team05  = {{PDCFlag|Kevin Doets|avg=92.46}}
+| RD1-score05 = 2
+| RD1-seed06  =
+| RD1-team06  = {{PDCFlag|Andy Boulton|avg=93.20}}
+| RD1-score06 = 0
+| RD1-seed07  = 41
+| RD1-team07  = {{PDCFlag|Madars Razma|avg=88.18}}
+| RD1-score07 = 1
+| RD1-seed08  =
+| RD1-team08  = {{PDCFlag|Radek Szaganski|avg=80.82}}
+| RD1-score08 = 2
+
+| RD2-seed01 = 25
+| RD2-team01 = {{PDCFlag|Daryl Gurney|avg=93.06}}
+| RD2-score01 = 1
+| RD2-seed02 = 56
+| RD2-team02 = {{PDCFlag|Dylan Slevin|avg=92.29}}
+| RD2-score02= 2
+| RD2-seed03 = 40
+| RD2-team03 = {{PDCFlag|Kevin Doets|avg=91.69}}
+| RD2-score03= 2
+| RD2-seed04 =
+| RD2-team04 = {{PDCFlag|Radek Szaganski|avg=88.09}}
+| RD2-score04= 1
+
+| RD3-seed01 = 56
+| RD3-team01 = {{PDCFlag|Dylan Slevin|avg=87.09}}
+| RD3-score01 = 0
+| RD3-seed02 = 40
+| RD3-team02 = {{PDCFlag|Kevin Doets|avg=91.09}}
+| RD3-score02= 2
+}}
+
+=== Section 2 ===
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Last 64''' <br>''(best of 3 sets)'' <br /> 29 January}}
+| RD2= {{nowrap|1='''Last 32''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| RD3= {{nowrap|1='''Last 16''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| boldwinner = high
+| RD1-seed1   = 32
+| RD1-team1   = {{PDCFlag|Krzysztof Ratajski|avg=91.48}}
+| RD1-score1  = 2
+| RD1-seed02  =
+| RD1-team02  = {{PDCFlag|Owen Bates|avg=91.23}}
+| RD1-score02 = 0
+| RD1-seed03  = 49
+| RD1-team03  = {{PDCFlag|Keane Barry|avg=83.58}}
+| RD1-score03 = 2
+| RD1-seed04  =
+| RD1-team04  = {{PDCFlag|Thibault Tricole|avg=82.47}}
+| RD1-score04 = 1
+| RD1-seed05  = 33
+| RD1-team05  = {{PDCFlag|Luke Woodhouse|avg=95.50}}
+| RD1-score05 = 1
+| RD1-seed06  =
+| RD1-team06  = {{PDCFlag|Cam Crabtree|avg=89.05}}
+| RD1-score06 = 2
+| RD1-seed07  = 48
+| RD1-team07  = {{PDCFlag|Ian White|avg=92.10}}
+| RD1-score07 = 0
+| RD1-seed08  =
+| RD1-team08  = {{PDCFlag|Bradley Brooks|avg=91.96}}
+| RD1-score08 = 2
+
+| RD2-seed01 = 32
+| RD2-team01 = {{PDCFlag|Krzysztof Ratajski|avg=100.19}}
+| RD2-score01 = 2
+| RD2-seed02 = 49
+| RD2-team02 = {{PDCFlag|Keane Barry|avg=92.67}}
+| RD2-score02= 1
+| RD2-seed03 =
+| RD2-team03 = {{PDCFlag|Cam Crabtree|avg=83.70}}
+| RD2-score03= 0
+| RD2-seed04 =
+| RD2-team04 = {{PDCFlag|Bradley Brooks|avg=91.89}}
+| RD2-score04= 2
+
+| RD3-seed01 = 32
+| RD3-team01 = {{PDCFlag|Krzysztof Ratajski|avg=89.43}}
+| RD3-score01 = 0
+| RD3-seed02 =
+| RD3-team02 = {{PDCFlag|Bradley Brooks|avg=96.60}}
+| RD3-score02= 2
+}}
+
+=== Section 3 ===
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Last 64''' <br>''(best of 3 sets)'' <br /> 29 January}}
+| RD2= {{nowrap|1='''Last 32''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| RD3= {{nowrap|1='''Last 16''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| boldwinner = high
+| RD1-seed1   = 28
+| RD1-team1   = {{PDCFlag|Ritchie Edhouse|avg=70.33}}
+| RD1-score1  = 0
+| RD1-seed02  =
+| RD1-team02  = {{PDCFlag|Darius Labanauskas|avg=70.73}}
+| RD1-score02 = 2
+| RD1-seed03  = 53
+| RD1-team03  = {{PDCFlag|Matt Campbell|avg=85.11}}
+| RD1-score03 = 2
+| RD1-seed04  =
+| RD1-team04  = {{PDCFlag|Adam Lipscombe|avg=84.34}}
+| RD1-score04 = 0
+| RD1-seed05  = 37
+| RD1-team05  = {{PDCFlag|Martin Lukeman|avg=76.76}}
+| RD1-score05 = 2
+| RD1-seed06  =
+| RD1-team06  = {{PDCFlag|Andreas Harrysson|avg=80.70}}
+| RD1-score06 = 1
+| RD1-seed07  = 44
+| RD1-team07  = {{PDCFlag|Jose de Sousa|avg=83.70}}
+| RD1-score07 = 1
+| RD1-seed08  =
+| RD1-team08  = {{PDCFlag|Andy Baetens|avg=85.94}}
+| RD1-score08 = 2
+
+| RD2-seed01 =
+| RD2-team01 = {{PDCFlag|Darius Labanauskas|avg=97.92}}
+| RD2-score01 = 2
+| RD2-seed02 = 53
+| RD2-team02 = {{PDCFlag|Matt Campbell|avg=89.01}}
+| RD2-score02= 1
+| RD2-seed03 = 37
+| RD2-team03 = {{PDCFlag|Martin Lukeman|avg=86.18}}
+| RD2-score03= 0
+| RD2-seed04 =
+| RD2-team04 = {{PDCFlag|Andy Baetens|avg=96.04}}
+| RD2-score04= 2
+
+| RD3-seed01 =
+| RD3-team01 = {{PDCFlag|Darius Labanauskas|avg=97.55}}
+| RD3-score01 = 0
+| RD3-seed02 =
+| RD3-team02 = {{PDCFlag|Andy Baetens|avg=100.87}}
+| RD3-score02= 2
+}}
+
+=== Section 4 ===
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Last 64''' <br>''(best of 3 sets)'' <br /> 29 January}}
+| RD2= {{nowrap|1='''Last 32''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| RD3= {{nowrap|1='''Last 16''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| boldwinner = high
+| RD1-seed1   = 29
+| RD1-team1   = {{PDCFlag|Ryan Joyce|avg=94.72}}
+| RD1-score1  = 2
+| RD1-seed02  =
+| RD1-team02  = {{PDCFlag|Adam Hunt|avg=85.52}}
+| RD1-score02 = 0
+| RD1-seed3   = 52
+| RD1-team3   = {{PDCFlag|Florian Hempel|avg=110.57}}
+| RD1-score3  = 2
+| RD1-seed04  =
+| RD1-team04  = {{PDCFlag|Mensur Suljovic|avg=96.82}}
+| RD1-score04 = 1
+| RD1-seed05  = 36
+| RD1-team05  = {{PDCFlag|Gabriel Clemens|avg=80.16}}
+| RD1-score05 = 2
+| RD1-seed06  =
+| RD1-team06  = {{PDCFlag|Jitse Van der Wal|avg=71.57}}
+| RD1-score06 = 0
+| RD1-seed07  = 45
+| RD1-team07  = {{PDCFlag|Kim Huybrechts|avg=87.03}}
+| RD1-score07 = 2
+| RD1-seed08  =
+| RD1-team08  = {{PDCFlag|Tom Bissell|avg=77.13}}
+| RD1-score08 = 0
+
+| RD2-seed01 = 29
+| RD2-team01 = {{PDCFlag|Ryan Joyce|avg=90.12}}
+| RD2-score01 = 0
+| RD2-seed02 = 52
+| RD2-team02 = {{PDCFlag|Florian Hempel|avg=92.19}}
+| RD2-score02= 2
+| RD2-seed03 = 36
+| RD2-team03 = {{PDCFlag|Gabriel Clemens|avg=88.18}}
+| RD2-score03= 2
+| RD2-seed04 = 45
+| RD2-team04 = {{PDCFlag|Kim Huybrechts|avg=81.93}}
+| RD2-score04= 0
+
+| RD3-seed01 = 52
+| RD3-team01 = {{PDCFlag|Florian Hempel|avg=87.73}}
+| RD3-score01 = 2
+| RD3-seed02 = 36
+| RD3-team02 = {{PDCFlag|Gabriel Clemens|avg=88.06}}
+| RD3-score02= 0
+}}
+
+=== Section 5 ===
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Last 64''' <br>''(best of 3 sets)'' <br /> 29 January}}
+| RD2= {{nowrap|1='''Last 32''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| RD3= {{nowrap|1='''Last 16''' <br> ''(best of 3 sets)'' <br> 29 January<ref name=DR/>}}
+| boldwinner = high
+| RD1-seed1   = 26
+| RD1-team1   = {{PDCFlag|Dirk van Duijvenbode|avg=89.80}}
+| RD1-score1  = 1
+| RD1-seed02  =
+| RD1-team02  = {{PDCFlag|William Borland|avg=101.63}}
+| RD1-score02 = 2
+| RD1-seed03  = 55
+| RD1-team03  = {{PDCFlag|Alan Soutar|avg=89.65}}
+| RD1-score03 = 2
+| RD1-seed04  =
+| RD1-team04  = {{PDCFlag|Henry Coates|avg=89.55}}
+| RD1-score04 = 1
+| RD1-seed05  = 39
+| RD1-team05  = {{PDCFlag|Callan Rydz|avg=100.76}}
+| RD1-score05 = 1
+| RD1-seed06  =
+| RD1-team06  = {{PDCFlag|Jimmy van Schie|avg=95.29}}
+| RD1-score06 = 2
+| RD1-seed07  = 42
+| RD1-team07  = {{PDCFlag|Mickey Mansell|avg=87.96}}
+| RD1-score07 = 2
+| RD1-seed08  =
+| RD1-team08  = {{PDCFlag|Brett Claydon|avg=80.16}}
+| RD1-score08 = 1
+
+| RD2-seed01 =
+| RD2-team01 = {{PDCFlag|William Borland|avg=81.16}}
+| RD2-score01 = 2
+| RD2-seed02 = 55
+| RD2-team02 = {{PDCFlag|Alan Soutar|avg=87.53}}
+| RD2-score02= 1
+| RD2-seed03 =
+| RD2-team03 = {{PDCFlag|Jimmy van Schie|avg=92.08}}
+| RD2-score03= 1
+| RD2-seed04 = 42
+| RD2-team04 = {{PDCFlag|Mickey Mansell|avg=92.85}}
+| RD2-score04= 2
+
+| RD3-seed01 =
+| RD3-team01 = {{PDCFlag|William Borland|avg=92.18}}
+| RD3-score01 = 2
+| RD3-seed02 = 42
+| RD3-team02 = {{PDCFlag|Mickey Mansell|avg=87.91}}
+| RD3-score02= 1
+}}
+
+=== Section 6 ===
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Last 64''' <br>''(best of 3 sets)'' <br /> 29 January}}
+| RD2= {{nowrap|1='''Last 32''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| RD3= {{nowrap|1='''Last 16''' <br> ''(best of 3 sets)'' <br> 29 January<ref name=DA>{{cite web |last=Jan Idsardi |first=Jetze |date=29 January 2025 |title=Wattimena and Doets to World Masters, Van Veen just falls short |url=https://www.dartsactueel.nl/wattimena-en-doets-naar-world-masters-van-veen-komt-net-tekort/ |website=Darts Actuel |access-date=29 January 2025 |language=Dutch}}</ref>}}
+| boldwinner = high
+| RD1-seed1   = 31
+| RD1-team1   = {{PDCFlag|Brendan Dolan|avg=89.89}}
+| RD1-score1  = 1
+| RD1-seed02  =
+| RD1-team02  = {{PDCFlag|Nick Kenny|avg=85.45}}
+| RD1-score02 = 2
+| RD1-seed03  = 50
+| RD1-team03  = {{PDCFlag|Jim Williams|avg=87.74}}
+| RD1-score03 = 2
+| RD1-seed04  =
+| RD1-team04  = {{PDCFlag|Thomas Lovely|avg=83.31}}
+| RD1-score04 = 1
+| RD1-seed05  = 34
+| RD1-team05  = {{PDCFlag|Jermaine Wattimena|avg=95.81}}
+| RD1-score05 = 2
+| RD1-seed06  =
+| RD1-team06  = {{PDCFlag|Nathan Girvan|avg=71.56}}
+| RD1-score06 = 0
+| RD1-seed07  = 47
+| RD1-team07  = {{PDCFlag|Niels Zonneveld|avg=98.97}}
+| RD1-score07 = 2
+| RD1-seed08  =
+| RD1-team08  = {{PDCFlag|Oskar Lukasiak|avg=84.28}}
+| RD1-score08 = 1
+
+| RD2-seed01 =
+| RD2-team01 = {{PDCFlag|Nick Kenny|avg=91.42}}
+| RD2-score01 = 2
+| RD2-seed02 = 50
+| RD2-team02 = {{PDCFlag|Jim Williams|avg=84.53}}
+| RD2-score02= 1
+| RD2-seed03 = 34
+| RD2-team03 = {{PDCFlag|Jermaine Wattimena|avg=99.00}}
+| RD2-score03= 2
+| RD2-seed04 = 47
+| RD2-team04 = {{PDCFlag|Niels Zonneveld|avg=93.30}}
+| RD2-score04= 0
+
+| RD3-seed01 =
+| RD3-team01 = {{PDCFlag|Nick Kenny|avg=95.22}}
+| RD3-score01 = 1
+| RD3-seed02 = 34
+| RD3-team02 = {{PDCFlag|Jermaine Wattimena|avg=95.97}}
+| RD3-score02= 2
+}}
+
+=== Section 7 ===
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Last 64''' <br>''(best of 3 sets)'' <br /> 29 January}}
+| RD2= {{nowrap|1='''Last 32''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| RD3= {{nowrap|1='''Last 16''' <br> ''(best of 3 sets)'' <br> 29 January<ref name=DR>{{cite web |last=Swan |first=Craig |date=29 January 2025 |title=Cameron Menzies leads Scottish darts charge as he and rival complete big World Masters double |url=https://www.dailyrecord.co.uk/sport/other-sports/darts/cameron-menzies-leads-scottish-darts-34577471 |website=[[Daily Record (Scotland)|Daily Record]] |access-date=29 January 2025}}</ref><ref name=AYR>{{cite web |last=Grayston |first=Murray |date=29 January 2025 |title=Cameron Menzies earns place at Winmau World Masters |url=https://www.ayrshire-today.co.uk/sport/24895692.cameron-menzies-earns-place-winmau-world-masters/ |website=Ayrshire Today |access-date=29 January 2025}}</ref>}}
+| boldwinner = high
+| RD1-seed1   = 27
+| RD1-team1   = {{PDCFlag|Gian van Veen|avg=92.29}}
+| RD1-score1  = 2
+| RD1-seed02  =
+| RD1-team02  = {{PDCFlag|Aden Kirk|avg=90.08}}
+| RD1-score02 = 0
+| RD1-seed03  = 54
+| RD1-team03  = {{PDCFlag|Wessel Nijman|avg=101.90}}
+| RD1-score03 = 2
+| RD1-seed04  =
+| RD1-team04  = {{PDCFlag|Pero Ljubic|avg=92.94}}
+| RD1-score04 = 0
+| RD1-seed05  = 38
+| RD1-team05  = {{PDCFlag|Cameron Menzies|avg=92.95}}
+| RD1-score05 = 2
+| RD1-seed06  =
+| RD1-team06  = {{PDCFlag|Berry van Peer|avg=86.05}}
+| RD1-score06 = 1
+| RD1-seed07  = 43
+| RD1-team07  = {{PDCFlag|Ricky Evans|avg=81.09}}
+| RD1-score07 = 2
+| RD1-seed08  =
+| RD1-team08  = {{PDCFlag|Karel Sedlacek|avg=90.40}}
+| RD1-score08 = 0
+
+| RD2-seed01 = 27
+| RD2-team01 = {{PDCFlag|Gian van Veen|avg=106.01}}
+| RD2-score01 = 2
+| RD2-seed02 = 54
+| RD2-team02 = {{PDCFlag|Wessel Nijman|avg=100.71}}
+| RD2-score02= 1
+| RD2-seed03 = 38
+| RD2-team03 = {{PDCFlag|Cameron Menzies|avg=92.49}}
+| RD2-score03= 2
+| RD2-seed04 = 43
+| RD2-team04 = {{PDCFlag|Ricky Evans|avg=87.81}}
+| RD2-score04= 0
+
+| RD3-seed01 = 27
+| RD3-team01 = {{PDCFlag|Gian van Veen|avg=94.37}}
+| RD3-score01 = 0
+| RD3-seed02 = 38
+| RD3-team02 = {{PDCFlag|Cameron Menzies|avg=106.16}}
+| RD3-score02= 2
+}}
+
+=== Section 8 ===
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Last 64''' <br>''(best of 3 sets)'' <br /> 29 January}}
+| RD2= {{nowrap|1='''Last 32''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| RD3= {{nowrap|1='''Last 16''' <br> ''(best of 3 sets)'' <br> 29 January}}
+| boldwinner = high
+| RD1-seed1   = 30
+| RD1-team1   = {{PDCFlag|Ricardo Pietreczko|avg=80.38}}
+| RD1-score1  = 0
+| RD1-seed02  =  
+| RD1-team02  = {{PDCFlag|Jeffrey de Graaf|avg=88.41}}
+| RD1-score02 = 2
+| RD1-seed03  = 51
+| RD1-team03  = {{PDCFlag|William O'Connor|avg=93.94}}
+| RD1-score03 = 2
+| RD1-seed04  =  
+| RD1-team04  = {{PDCFlag|Danny Lauby|avg=90.35}}
+| RD1-score04 = 0
+| RD1-seed05  = 35
+| RD1-team05  = {{PDCFlag|Scott Williams|avg=90.49}}
+| RD1-score05 = 0
+| RD1-seed06  =
+| RD1-team06  = {{PDCFlag|Ryan Meikle|avg=95.58}}
+| RD1-score06 = 2
+| RD1-seed07  = 46
+| RD1-team07  = {{PDCFlag|Richard Veenstra|avg=96.62}}
+| RD1-score07 = 2
+| RD1-seed08  =  
+| RD1-team08  = {{PDCFlag|Marvin van Velzen|avg=90.08}}
+| RD1-score08 = 1
+
+| RD2-seed01 =
+| RD2-team01 = {{PDCFlag|Jeffrey de Graaf|avg=77.63}}
+| RD2-score01 = 1
+| RD2-seed02 = 51
+| RD2-team02 = {{PDCFlag|William O'Connor|avg=91.97}}
+| RD2-score02= 2
+| RD2-seed03 =
+| RD2-team03 = {{PDCFlag|Ryan Meikle|avg=78.59}}
+| RD2-score03= 0
+| RD2-seed04 = 46
+| RD2-team04 = {{PDCFlag|Richard Veenstra|avg=81.31}}
+| RD2-score04= 2
+
+| RD3-seed01 = 51
+| RD3-team01 = {{PDCFlag|William O'Connor|avg=86.45}}
+| RD3-score01 = 2
+| RD3-seed02 = 46
+| RD3-team02 = {{PDCFlag|Richard Veenstra|avg=85.74}}
+| RD3-score02= 0
+}}
+
+==Schedule==
+{{hidden begin|expanded=yes|titlestyle=text-align:center;background:#FFFFFF; border-top:#CE1126 2px solid; border-bottom:#CE1126 2px solid;|title=Thursday, 30 January}}
+{| class="wikitable" style="text-align: center;"
+|+ '''Evening session (19:00 [[Greenwich Mean Time|GMT]])'''
+! width="2%" | Match no.
+! width="2%" | Round
+! width="15%" | Player 1
+! width="5%" | Score
+! width="15%" | Player 2
+! width="3%" | Set 1
+! width="3%" | Set 2
+! width="3%" | Set 3
+! width="3%" | Set 4
+! width="3%" | Set 5
+|-
+|- style=text-align:center;
+| 01 || rowspan=8|1 || {{PDCFlag|Josh Rock|avg=98.16|b=1}} || {{dart score|3|1}} || {{PDCFlag|Jermaine Wattimena|avg=94.75}} || {{dart score|2|1}} || {{dart score|0|2}} || {{dart score|2|0}} || {{dart score|2|1}} || {{n/a}}
+|- style=text-align:center;
+| 02 || {{PDCFlag|Damon Heta|avg=92.32|b=1}} || {{dart score|3|1}} || {{PDCFlag|Ross Smith|avg=96.81}} || {{dart score|2|1}} || {{dart score|0|2}} || {{dart score|2|0}} || {{dart score|2|1}} || {{n/a}}
+|- style=text-align:center;
+| 03 || {{PDCFlag|Rob Cross|avg=103.19}} || {{dart score|1|3}} || {{PDCFlag|William O'Connor|avg=98.75|b=1}} || {{dart score|2|0}} || {{dart score|1|2}} || {{dart score|0|2}} || {{dart score|1|2}} || {{n/a}}
+|- style=text-align:center;
+| 04 || {{PDCFlag|Gerwyn Price|avg=97.49|b=1}} || {{dart score|3|0}} || {{PDCFlag|Florian Hempel|avg=92.08}} || {{dart score|2|0}} || {{dart score|2|0}} || {{dart score|2|1}} || colspan=2{{n/a}}
+|- style=text-align:center;
+| 05 || {{PDCFlag|Peter Wright|avg=101.28|b=1}} || {{dart score|3|2}} || {{PDCFlag|Kevin Doets|avg=97.42}} || {{dart score|1|2}} || {{dart score|2|0}} || {{dart score|0|2}} || {{dart score|2|1}} || {{dart score|2|1}}
+|- style=text-align:center;
+| 06 || {{PDCFlag|Luke Humphries|avg=98.62|b=1}} || {{dart score|3|1}} || {{PDCFlag|Joe Cullen|avg=92.50}} || {{dart score|2|1}} || {{dart score|2|0}} || {{dart score|1|2}} || {{dart score|2|0}} || {{n/a}}
+|- style=text-align:center;
+| 07 || {{PDCFlag|Stephen Bunting|avg=96.14|b=1}} || {{dart score|3|2}} || {{PDCFlag|William Borland|avg=82.74}} || {{dart score|0|2}} || {{dart score|1|2}} || {{dart score|2|0}} || {{dart score|2|1}} || {{dart score|2|1}} 
+|- style=text-align:center;
+| 08 || {{PDCFlag|Danny Noppert|avg=97.32|b=1}} || {{dart score|3|1}} || {{PDCFlag|Michael Smith|avg=96.99}} || {{dart score|2|0}} || {{dart score|1|2}} || {{dart score|2|1}} || {{dart score|2|1}} || {{n/a}}
+|}{{hidden end}}
+{{hidden begin|expanded=yes|titlestyle=text-align:center;background:#FFFFFF; border-top:#CE1126 2px solid; border-bottom:#CE1126 2px solid;|title=Friday, 31 January}}
+{| class="wikitable" style="text-align: center;"
+|+ '''Evening session (19:00 [[Greenwich Mean Time|GMT]])'''
+! width="2%" | Match no.
+! width="2%" | Round
+! width="15%" | Player 1
+! width="5%" | Score
+! width="15%" | Player 2
+! width="3%" | Set 1
+! width="3%" | Set 2
+! width="3%" | Set 3
+! width="3%" | Set 4
+! width="3%" | Set 5
+|-
+|- style=text-align:center;
+| 09 || rowspan=8|1 || {{PDCFlag|James Wade|avg=92.61|b=1}} || {{dart score|3|2}} || {{PDCFlag|Mike De Decker|avg=91.76}} || {{dart score|2|0}} || {{dart score|0|2}} || {{dart score|2|0}} || {{dart score|1|2}} || {{dart score|2|0}}
+|- style=text-align:center;
+| 10 || {{PDCFlag|Dave Chisnall|avg=90.69}} || {{dart score|1|3}} || {{PDCFlag|Cameron Menzies|avg=87.74|b=1}} || {{dart score|1|2}} || {{dart score|0|2}} || {{dart score|2|0}} || {{dart score|0|2}} || {{n/a}}
+|- style=text-align:center;
+| 11 || {{PDCFlag|Jonny Clayton|avg=112.77|b=1}} || {{dart score|3|1}} || {{PDCFlag|Martin Schindler|avg=105.05}} || {{dart score|2|1}} || {{dart score|2|0}} || {{dart score|0|2}} || {{dart score|2|0}} || {{n/a}}
+|- style=text-align:center;
+| 12 || {{PDCFlag|Nathan Aspinall|avg=103.77|b=1}} || {{dart score|3|0}} || {{PDCFlag|Andrew Gilding|avg=101.26}} || {{dart score|2|0}} || {{dart score|2|0}} || {{dart score|2|1}} || colspan=2{{n/a}}
+|- style=text-align:center;
+| 13 || {{PDCFlag|Chris Dobey|avg=91.83}} || {{dart score|1|3}} || {{PDCFlag|Ryan Searle|avg=90.93|b=1}} || {{dart score|1|2}} || {{dart score|2|1}} || {{dart score|1|2}} || {{dart score|1|2}} || {{n/a}}
+|- style=text-align:center;
+| 14 || {{PDCFlag|Luke Littler|avg=104.33|b=1}} || {{dart score|3|0}} || {{PDCFlag|Andy Baetens|avg=95.94}} || {{dart score|2|1}} || {{dart score|2|0}} || {{dart score|2|0}} || colspan=2{{n/a}}
+|- style=text-align:center;
+| 15 || {{PDCFlag|Michael van Gerwen|avg=95.87|b=1}} || {{dart score|3|1}} || {{PDCFlag|Bradley Brooks|avg=91.17}} || {{dart score|2|0}} || {{dart score|1|2}} || {{dart score|2|0}} || {{dart score|2|0}} || {{n/a}} 
+|- style=text-align:center;
+| 16 || {{PDCFlag|Gary Anderson|avg=100.03}} || {{dart score|1|3}} || {{PDCFlag|Dimitri Van den Bergh|avg=102.43|b=1}} || {{dart score|2|0}} || {{dart score|0|2}} || {{dart score|0|2}} || {{dart score|0|2}} || {{n/a}}
+|}{{hidden end}}
+{{hidden begin|expanded=yes|titlestyle=text-align:center;background:#FFFFFF; border-top:#CE1126 2px solid; border-bottom:#CE1126 2px solid;|title=Saturday, 1 February}}
+{| class="wikitable" style="text-align: center;"
+|+ '''Afternoon session (13:00 [[Greenwich Mean Time|GMT]])'''
+! width="2%" | Match no.
+! width="2%" | Round
+! width="15%" | Player 1
+! width="5%" | Score
+! width="15%" | Player 2
+! width="3%" | Set 1
+! width="3%" | Set 2
+! width="3%" | Set 3
+! width="3%" | Set 4
+! width="3%" | Set 5
+! width="3%" | Set 6
+! width="3%" | Set 7
+|-
+|- style=text-align:center;
+| 17 || rowspan=4|2 || {{PDCFlag|William O'Connor|avg=88.16}} || {{dart score|0|4}} || {{PDCFlag|Danny Noppert|avg=96.27|b=1}} || {{dart score|1|2}} || {{dart score|1|2}} || {{dart score|1|2}} || {{dart score|1|2}} || colspan=3{{n/a}}
+|- style=text-align:center;
+| 18 || {{PDCFlag|Damon Heta|avg=94.58|b=1}} || {{dart score|4|3}} || {{PDCFlag|Gerwyn Price|avg=96.37}} || {{dart score|2|0}} || {{dart score|0|2}} || {{dart score|2|1}} || {{dart score|2|0}} || {{dart score|1|2}} || {{dart score|0|2}} || {{dart score|2|1}}
+|- style=text-align:center;
+| 19 || {{PDCFlag|Stephen Bunting|avg=93.67|b=1}} || {{dart score|4|2}} || {{PDCFlag|Peter Wright|avg=94.84}} || {{dart score|2|0}} || {{dart score|2|1}} || {{dart score|0|2}} || {{dart score|2|1}} || {{dart score|1|2}} || {{dart score|2|1}} || {{n/a}}
+|- style=text-align:center;
+| 20 || {{PDCFlag|Luke Humphries|avg=94.63|b=1}} || {{dart score|4|0}} || {{PDCFlag|Josh Rock|avg=94.78}} || {{dart score|2|1}} || {{dart score|2|1}} || {{dart score|2|0}} || {{dart score|2|0}} || colspan=3{{n/a}}
+|-
+|}
+{| class="wikitable" style="text-align: center;"
+|+ '''Evening session (19:00 [[Greenwich Mean Time|GMT]])'''
+! width="2%" | Match no.
+! width="2%" | Round
+! width="15%" | Player 1
+! width="5%" | Score
+! width="15%" | Player 2
+! width="3%" | Set 1
+! width="3%" | Set 2
+! width="3%" | Set 3
+! width="3%" | Set 4
+! width="3%" | Set 5
+! width="3%" | Set 6
+! width="3%" | Set 7
+|-
+|- style=text-align:center;
+| 21 || rowspan=8|2 || {{PDCFlag|Jonny Clayton|avg=93.54|b=1}} || {{dart score|4|3}} || {{PDCFlag|Ryan Searle|avg=93.87}} || {{dart score|2|0}} || {{dart score|1|2}} || {{dart score|0|2}} || {{dart score|1|2}} || {{dart score|2|1}} || {{dart score|2|0}} || {{dart score|2|1}} 
+|- style=text-align:center;
+| 22 || {{PDCFlag|Cameron Menzies|avg=83.75}} || {{dart score|1|4}} || {{PDCFlag|Nathan Aspinall|avg=90.84|b=1}} || {{dart score|2|1}} || {{dart score|1|2}} || {{dart score|0|2}} || {{dart score|1|2}} || {{dart score|0|2}} || colspan=2{{n/a}}
+|- style=text-align:center;
+| 23 || {{PDCFlag|Luke Littler|avg=105.47|b=1}} || {{dart score|4|0}} || {{PDCFlag|James Wade|avg=91.87}} || {{dart score|2|0}} || {{dart score|2|0}} || {{dart score|2|0}} || {{dart score|2|0}} || colspan=3{{n/a}}
+|- style=text-align:center;
+| 24 || {{PDCFlag|Michael van Gerwen|avg=98.63}} || {{dart score|3|4}} || {{PDCFlag|Dimitri Van den Bergh|avg=97.70|b=1}} || {{dart score|2|0}} || {{dart score|1|2}} || {{dart score|1|2}} || {{dart score|2|1}} || {{dart score|2|1}} || {{dart score|1|2}} || {{dart score|0|2}}
+|}{{hidden end}}
+
+{{hidden begin|expanded=yes|titlestyle=text-align:center;background:#FFFFFF; border-top:#CE1126 2px solid; border-bottom:#CE1126 2px solid;|title=Sunday, 2 February}}
+{| class="wikitable" style="text-align: center;"
+|+ '''Afternoon session (13:00 [[Greenwich Mean Time|GMT]])'''
+! width="2%" | Match no.
+! width="2%" | Round
+! width="15%" | Player 1
+! width="5%" | Score
+! width="15%" | Player 2
+! width="3%" | Set 1
+! width="3%" | Set 2
+! width="3%" | Set 3
+! width="3%" | Set 4
+! width="3%" | Set 5
+! width="3%" | Set 6
+! width="3%" | Set 7
+|-
+|- style=text-align:center;
+| 25 || rowspan=4|QF || {{PDCFlag|Luke Humphries|avg=104.24|b=1}} || {{dart score|4|1}} || {{PDCFlag|Damon Heta|avg=97.78}} || {{dart score|2|1}} || {{dart score|1|2}} || {{dart score|2|1}} || {{dart score|2|0}} || {{dart score|2|0}} || colspan=2{{n/a}}
+|- style=text-align:center;
+| 26 || {{PDCFlag|Danny Noppert|avg=97.58|b=1}} || {{dart score|4|3}} || {{PDCFlag|Stephen Bunting|avg=101.28}} || {{dart score|1|2}} || {{dart score|2|0}} || {{dart score|2|0}} || {{dart score|2|0}} || {{dart score|0|2}} || {{dart score|1|2}} || {{dart score|2|1}}
+|- style=text-align:center;
+| 27 || {{PDCFlag|Luke Littler|avg=108.50}} || {{dart score|2|4}} || {{PDCFlag|Jonny Clayton|avg=103.96|b=1}} || {{dart score|1|2}} || {{dart score|2|0}} || {{dart score|0|2}} || {{dart score|1|2}} || {{dart score|2|1}} || {{dart score|1|2}} || {{n/a}}
+|- style=text-align:center;
+| 28 || {{PDCFlag|Dimitri Van den Bergh|avg=100.35|b=1}} || {{dart score|4|1}} || {{PDCFlag|Nathan Aspinall|avg=93.87}} || {{dart score|2|0}} || {{dart score|1|2}} || {{dart score|2|0}} || {{dart score|2|0}} || {{dart score|2|0}} || colspan=2{{n/a}}
+|-
+|}
+{| class="wikitable" style="text-align: center;"
+|+ '''Evening session (19:00 [[Greenwich Mean Time|GMT]])'''
+! width="2%" | Match no.
+! width="2%" | Round
+! width="15%" | Player 1
+! width="5%" | Score
+! width="15%" | Player 2
+! width="3%" | Set 1
+! width="3%" | Set 2
+! width="3%" | Set 3
+! width="3%" | Set 4
+! width="3%" | Set 5
+! width="3%" | Set 6
+! width="3%" | Set 7
+! width="3%" | Set 8
+! width="3%" | Set 9
+! width="3%" | Set 10
+! width="3%" | Set 11
+|-
+|- style=text-align:center;
+| 29 || rowspan=2|SF || {{PDCFlag|Luke Humphries|avg=99.71|b=1}} || {{dart score|5|2}} || {{PDCFlag|Danny Noppert|avg=88.33}} || {{dart score|0|2}} || {{dart score|0|2}} || {{dart score|2|0}} || {{dart score|2|0}} || {{dart score|2|1}} || {{dart score|2|0}} || {{dart score|2|0}} || colspan=4{{n/a}}
+|- style=text-align:center;
+| 30 || {{PDCFlag|Jonny Clayton|avg=90.51|b=1}} || {{dart score|5|2}} || {{PDCFlag|Dimitri Van den Bergh|avg=85.19}} || {{dart score|2|0}} || {{dart score|0|2}} || {{dart score|2|0}} || {{dart score|2|0}} || {{dart score|1|2}} || {{dart score|2|1}} || {{dart score|2|1}} || colspan=4{{n/a}}
+|- style=text-align:center;
+| 31 || F || {{PDCFlag|Luke Humphries|avg=100.42|b=1}} || {{dart score|6|5}} || {{PDCFlag|Jonny Clayton|avg=98.25}} || {{dart score|1|2}} || {{dart score|2|0}} || {{dart score|0|2}} || {{dart score|2|0}} || {{dart score|2|1}} || {{dart score|2|0}} || {{dart score|2|1}} || {{dart score|0|2}} || {{dart score|0|2}} || {{dart score|1|2}} || {{dart score|2|1}}
+|}{{hidden end}}
+
+==Main draw==
+The draw for the televised stages was made on 21 January.<ref>{{cite web |last=Gorton |first=Josh |date=21 January 2025 |title=2025 Winmau World Masters draw confirmed |url=https://www.pdc.tv/news/2025/january/21/2025-winmau-world-masters-draw-confirmed |publisher=[[Professional Darts Corporation]] |access-date=21 January 2025}}</ref><ref name=SkyDraw/><ref>{{cite web |title=Results of PDC World Masters 2025 |url=https://mastercaller.com/tournaments/the-masters/2025/results |website=Mastercaller |access-date=1 February 2025}}</ref>
+{{32TeamBracket
+| RD1-shift = -1
+| RD1= {{nowrap|1='''First round''' <br> ''(best of 5 sets)'' <br> 30–31 January}}
+| RD2= {{nowrap|1='''Second round''' <br> ''(best of 7 sets)'' <br> 1 February}}
+| RD3= {{nowrap|1='''Quarter-finals''' <br> ''(best of 7 sets)'' <br> 2 February}}
+| RD4= {{nowrap|1='''Semi-finals''' <br> ''(best of 9 sets)'' <br> 2 February}}
+| RD5= {{nowrap|1='''Final''' <br> ''(best of 11 sets)'' <br> 2 February}}
+| team-width=200
+| score-width=50
+| boldwinner = high
+
+| RD1-seed01  = 1
+| RD1-team01  = {{PDCFlag|Luke Humphries|avg=98.62}}
+| RD1-score01 = 3
+| RD1-seed02  =
+| RD1-team02  = {{PDCFlag|Joe Cullen|avg=92.50}}
+| RD1-score02 = 1
+| RD1-seed03  = 16
+| RD1-team03  = {{PDCFlag|Josh Rock|avg=98.16}}
+| RD1-score03 = 3
+| RD1-seed04  = Q
+| RD1-team04  = {{PDCFlag|Jermaine Wattimena|avg=94.75}}
+| RD1-score04 = 1
+| RD1-seed05  = 8
+| RD1-team05  = {{PDCFlag|Damon Heta|avg=92.32}}
+| RD1-score05 = 3
+| RD1-seed06  =
+| RD1-team06  = {{PDCFlag|Ross Smith|avg=96.81}}
+| RD1-score06 = 1
+| RD1-seed07  = 9
+| RD1-team07  = {{PDCFlag|Gerwyn Price|avg=97.49}}
+| RD1-score07 = 3
+| RD1-seed08  = Q
+| RD1-team08  = {{PDCFlag|Florian Hempel|avg=92.08}}
+| RD1-score08 = 0
+| RD1-seed09  = 4
+| RD1-team09  = {{PDCFlag|Rob Cross|avg=103.19}}
+| RD1-score09 = 1
+| RD1-seed10  = Q
+| RD1-team10  = {{PDCFlag|William O'Connor|avg=98.75}}
+| RD1-score10 = 3
+| RD1-seed11  = 13
+| RD1-team11  = {{PDCFlag|Danny Noppert|avg=97.32}}
+| RD1-score11 = 3
+| RD1-seed12  =
+| RD1-team12  = {{PDCFlag|Michael Smith|avg=96.99}}
+| RD1-score12 = 1
+| RD1-seed13  = 5
+| RD1-team13  = {{PDCFlag|Stephen Bunting|avg=95.03}}
+| RD1-score13 = 3
+| RD1-seed14  = Q
+| RD1-team14  = {{PDCFlag|William Borland|avg=92.06}}
+| RD1-score14 = 2
+| RD1-seed15  = 12
+| RD1-team15  = {{PDCFlag|Peter Wright|avg=101.28}}
+| RD1-score15 = 3
+| RD1-seed16  = Q
+| RD1-team16  = {{PDCFlag|Kevin Doets|avg=97.42}}
+| RD1-score16 = 2
+| RD1-seed17 = 2
+| RD1-team17 = {{PDCFlag|Luke Littler|avg=104.33}}
+| RD1-score17= 3
+| RD1-seed18 = Q
+| RD1-team18 = {{PDCFlag|Andy Baetens|avg=95.94}}
+| RD1-score18= 0
+| RD1-seed19 = 15
+| RD1-team19 = {{PDCFlag|James Wade|avg=92.61}}
+| RD1-score19= 3
+| RD1-seed20 =
+| RD1-team20 = {{PDCFlag|Mike De Decker|avg=91.76}}
+| RD1-score20= 2
+| RD1-seed21 = 7
+| RD1-team21 = {{PDCFlag|Jonny Clayton|avg=112.77}}
+| RD1-score21= 3
+| RD1-seed22 =
+| RD1-team22 = {{PDCFlag|Martin Schindler|avg=105.05}}
+| RD1-score22= 1
+| RD1-seed23 = 10
+| RD1-team23 = {{PDCFlag|Chris Dobey|avg=91.83}}
+| RD1-score23= 1
+| RD1-seed24 =
+| RD1-team24 = {{PDCFlag|Ryan Searle|avg=90.93}}
+| RD1-score24= 3
+| RD1-seed25 = 3
+| RD1-team25 = {{PDCFlag|Michael van Gerwen|avg=95.87}}
+| RD1-score25= 3
+| RD1-seed26 = Q
+| RD1-team26 = {{PDCFlag|Bradley Brooks|avg=91.17}}
+| RD1-score26= 1
+| RD1-seed27 = 14
+| RD1-team27 = {{PDCFlag|Gary Anderson|avg=100.03}}
+| RD1-score27= 1
+| RD1-seed28 =
+| RD1-team28 = {{PDCFlag|Dimitri Van den Bergh|avg=102.43}}
+| RD1-score28= 3
+| RD1-seed29 = 6
+| RD1-team29 = {{PDCFlag|Dave Chisnall|avg=90.69}}
+| RD1-score29= 1
+| RD1-seed30 = Q
+| RD1-team30 = {{PDCFlag|Cameron Menzies|avg=87.74}}
+| RD1-score30= 3
+| RD1-seed31 = 11
+| RD1-team31 = {{PDCFlag|Nathan Aspinall|avg=103.77}}
+| RD1-score31= 3
+| RD1-seed32 =
+| RD1-team32 = {{PDCFlag|Andrew Gilding|avg=101.26}}
+| RD1-score32= 0
+
+| RD2-seed01 = 1
+| RD2-team01 = {{PDCFlag|Luke Humphries|avg=94.63}}
+| RD2-score01 = 4
+| RD2-seed02 = 16
+| RD2-team02 = {{PDCFlag|Josh Rock|avg=94.78}}
+| RD2-score02= 0
+| RD2-seed03 = 8
+| RD2-team03 = {{PDCFlag|Damon Heta|avg=94.58}}
+| RD2-score03= 4
+| RD2-seed04 = 9
+| RD2-team04 = {{PDCFlag|Gerwyn Price|avg=96.37}}
+| RD2-score04= 3
+| RD2-seed05 = Q
+| RD2-team05 = {{PDCFlag|William O'Connor|avg=88.16}}
+| RD2-score05= 0
+| RD2-seed06 = 13
+| RD2-team06 = {{PDCFlag|Danny Noppert|avg=96.27}}
+| RD2-score06= 4
+| RD2-seed07 = 5
+| RD2-team07 = {{PDCFlag|Stephen Bunting|avg=93.67}}
+| RD2-score07= 4
+| RD2-seed08 = 12
+| RD2-team08 = {{PDCFlag|Peter Wright|avg=94.84}}
+| RD2-score08= 2
+| RD2-seed09 = 2
+| RD2-team09 = {{PDCFlag|Luke Littler|avg=105.47}}
+| RD2-score09= 4
+| RD2-seed10 = 15
+| RD2-team10 = {{PDCFlag|James Wade|avg=91.42}}
+| RD2-score10= 0
+| RD2-seed11 = 7
+| RD2-team11 = {{PDCFlag|Jonny Clayton|avg=93.54}}
+| RD2-score11= 4
+| RD2-seed12 =
+| RD2-team12 = {{PDCFlag|Ryan Searle|avg=93.87}}
+| RD2-score12= 3
+| RD2-seed13 = 3
+| RD2-team13 = {{PDCFlag|Michael van Gerwen|avg=98.63}}
+| RD2-score13= 3
+| RD2-seed14 =
+| RD2-team14 = {{PDCFlag|Dimitri Van den Bergh|avg=97.70}}
+| RD2-score14= 4
+| RD2-seed15 = Q
+| RD2-team15 = {{PDCFlag|Cameron Menzies|avg=83.75}}
+| RD2-score15= 1
+| RD2-seed16 = 11
+| RD2-team16 = {{PDCFlag|Nathan Aspinall|avg=90.84}}
+| RD2-score16= 4
+
+| RD3-seed01 = 1
+| RD3-team01 = {{PDCFlag|Luke Humphries|avg=104.24}}
+| RD3-score01= 4
+| RD3-seed02 = 8
+| RD3-team02 = {{PDCFlag|Damon Heta|avg=97.78}}
+| RD3-score02= 1
+| RD3-seed03 = 13
+| RD3-team03 = {{PDCFlag|Danny Noppert|avg=97.58}}
+| RD3-score03= 4
+| RD3-seed04 = 5
+| RD3-team04 = {{PDCFlag|Stephen Bunting|avg=101.28}}
+| RD3-score04= 3
+| RD3-seed05 = 2
+| RD3-team05 = {{PDCFlag|Luke Littler|avg=108.50}}
+| RD3-score05= 2
+| RD3-seed06 = 7
+| RD3-team06 = {{PDCFlag|Jonny Clayton|avg=103.96}}
+| RD3-score06= 4
+| RD3-seed07 =
+| RD3-team07 = {{PDCFlag|Dimitri Van den Bergh|avg=100.35}}
+| RD3-score07= 4
+| RD3-seed08 = 11
+| RD3-team08 = {{PDCFlag|Nathan Aspinall|avg=93.87}}
+| RD3-score08= 1
+
+| RD4-seed01 = 1
+| RD4-team01 = {{PDCFlag|Luke Humphries|avg=99.71}}
+| RD4-score01= 5
+| RD4-seed02 = 13
+| RD4-team02 = {{PDCFlag|Danny Noppert|avg=88.33}}
+| RD4-score02= 2
+| RD4-seed03 = 7
+| RD4-team03 = {{PDCFlag|Jonny Clayton|avg=90.51}}
+| RD4-score03= 5
+| RD4-seed04 =
+| RD4-team04 = {{PDCFlag|Dimitri Van den Bergh|avg=85.19}}
+| RD4-score04= 2
+
+| RD5-seed01 = 1
+| RD5-team01 = {{PDCFlag|Luke Humphries|avg=100.42}}
+| RD5-score01= 6
+| RD5-seed02 = 7
+| RD5-team02 = {{PDCFlag|Jonny Clayton|avg=98.25}}
+| RD5-score02= 5
+}}
+
+== Highest averages ==
+This table shows all [[three-dart average|averages over 100]] achieved by players throughout the tournament.<ref>{{Cite web |title=Results of PDC World Masters 2025 |url=https://mastercaller.com/tournaments/the-masters/2025/results |access-date=1 February 2025 |website=Mastercaller}}</ref> For players with multiple high averages, this is indicated by the number in brackets.
+
+The three-dart average is the most cited statistic in darts matches as it gives a rough estimate of a player's form.<ref>{{Cite web |last=Shaun |date=10 August 2022 |title=How To Calculate Your Darts Average |url=https://darthelp.com/guides/how-to-calculate-your-darts-average/ |access-date=28 December 2023 |website=DartHelp.com}}</ref><ref>{{Cite web |last=Nicholson |first=Paul |date=29 November 2023 |title=Averages in darts: Should players focus on improving them, are they useful or misleading, and is there a better alternative? |url=https://www.sportinglife.com/darts/news/averages-in-darts-should-players-focus-on-improving-them-are-they-useful-or-misleading-and-is-there-a-better-alternative/198610 |access-date=28 December 2023 |website=Sporting Life}}</ref> For comparison with previous years, see the [[PDC World Masters#High averages|highest ever recorded averages]] in the [[PDC World Masters|World Masters]].
+
+{| class ="wikitable sortable"
+|-
+|colspan="5" style="text-align:center;"|[[#Main draw|World Masters Main Draw]]
+|-
+! Player
+! Round
+! Average
+! Opponent
+! Result
+|-
+|{{PDCFlag|Jonny Clayton}}
+|1
+|112.77
+|{{PDCFlag|Martin Schindler}}
+|style="background:#CCFFCC;"|'''Won'''
+|-
+|{{PDCFlag|Luke Littler}}
+|QF
+|108.50
+|{{PDCFlag|Jonny Clayton}}
+|style="background:pink;" |'''Lost'''
+|-
+|{{PDCFlag|Luke Littler}} (2)
+|2
+|105.47
+|{{PDCFlag|James Wade}}
+|style="background:#CCFFCC;"|'''Won'''
+|-
+|{{PDCFlag|Martin Schindler}}
+|1
+|105.05
+|{{PDCFlag|Jonny Clayton}}
+| style="background:pink;" |'''Lost'''
+|-
+|{{PDCFlag|Luke Littler}} (3)
+|1
+|104.33
+|{{PDCFlag|Andy Baetens}}
+|style="background:#CCFFCC;"|'''Won'''
+|-
+|{{PDCFlag|Luke Humphries}}
+|QF
+|104.24
+|{{PDCFlag|Damon Heta}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Jonny Clayton}} (2)
+|QF
+|103.96
+|{{PDCFlag|Luke Littler}}
+|style="background:#CCFFCC;"|'''Won'''
+|-
+|{{PDCFlag|Nathan Aspinall}}
+|1
+|103.77
+|{{PDCFlag|Andrew Gilding}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Rob Cross}}
+|1
+|103.19
+|{{PDCFlag|William O'Connor}}
+| style="background:pink;" |'''Lost'''
+|-
+|{{PDCFlag|Dimitri Van den Bergh}}
+|1
+|102.43
+|{{PDCFlag|Gary Anderson}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Peter Wright}}
+|1
+|101.28
+|{{PDCFlag|Kevin Doets}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Andrew Gilding}}
+|1
+|101.28
+|{{PDCFlag|Nathan Aspinall}}
+| style="background:pink;" |'''Lost'''
+|-
+|{{PDCFlag|Stephen Bunting}}
+|QF
+|101.28
+|{{PDCFlag|Danny Noppert}}
+| style="background:pink;" |'''Lost'''
+|-
+|{{PDCFlag|Luke Humphries}} (2)
+|F
+|100.42
+|{{PDCFlag|Jonny Clayton}}
+|style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Dimitri Van den Bergh}} (2)
+|QF
+|100.35
+|{{PDCFlag|Nathan Aspinall}}
+|style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Gary Anderson}}
+|1
+|100.03
+|{{PDCFlag|Dimitri Van den Bergh}}
+| style="background:pink;" |'''Lost'''
+|}
+The preliminary draw had 129 players participating.<ref>{{Cite web |date=29 January 2025 |title=Winmau World Masters Preliminary Rounds Kick Off Today! |url=https://www.reddragondarts.com/blogs/news/winmau-world-masters-preliminary-rounds-kick-off-today |access-date=1 February 2025 |website=Red Dragon Darts}}</ref> 16 different players achieved over 100 on three-dart average during the preliminaries.<ref>{{Cite web |title=Groupstage of PDC World Masters Prelim 2025 - Mastercaller |url=https://mastercaller.com/tournaments/world-masters-qualifier/2025/groupstage |access-date=1 February 2025 |website=Mastercaller}}</ref><ref>{{Cite web |title=Results of PDC World Masters Prelim 2025 - Mastercaller |url=https://mastercaller.com/tournaments/world-masters-qualifier/2025/results |access-date=1 Feb 2025 |website=Mastercaller}}</ref> The preliminaries were only available to watch on PDCTV, which makes these averages non-televised.<ref name=EntriesConfirmed/>
+{| class="wikitable sortable"
+|-
+| colspan="5" style="text-align:center;" |[[#Preliminary rounds|World Masters Preliminary Draw]]
+|-
+! Player
+! Round
+! Average
+! Opponent
+! Result
+|-
+|{{PDCFlag|Berry van Peer}}
+|{{abbr|GS|Group Stage}}
+|117.88
+|{{PDCFlag|Christian Kist}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Florian Hempel}}
+|1
+|110.57
+|{{PDCFlag|Mensur Suljovic}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Cameron Menzies}}
+|3
+|106.16
+|{{PDCFlag|Gian van Veen}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Gian van Veen}}
+|2
+|106.01
+|{{PDCFlag|Wessel Nijman}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Adam Hunt}}
+|GS
+| rowspan="2" |103.66
+|{{PDCFlag|Lee Cocks}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Nathan Girvan}}
+|GS
+|{{PDCFlag|Max Hopp}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Kieran Thompson}}
+|GS
+|102.49
+|{{PDCFlag|Kai Gotthardt}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Wessel Nijman}}
+|1
+|101.90
+|{{PDCFlag|Pero Ljubic}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|William Borland}}
+|1
+|101.63
+|{{PDCFlag|Dirk van Duijvenbode}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Jeffrey de Graaf}}
+|GS
+|101.13
+|{{PDCFlag|Tytus Kanik}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Andy Baetens}}
+|3
+|100.87
+|{{PDCFlag|Darius Labanauskas}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Callan Rydz}}
+|1
+|100.76
+|{{PDCFlag|Jimmy van Schie}}
+| style="background:pink;" |'''Loss'''
+|-
+|{{PDCFlag|Wessel Nijman}} (2)
+|2
+|100.71
+|{{PDCFlag|Gian van Veen}}
+| style="background:pink;" |'''Loss'''
+|-
+|{{PDCFlag|George Killington}}
+|GS
+| rowspan="3" |100.20
+|{{PDCFlag|Wesley Plaisier}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Marvin van Velzen}}
+|GS
+|{{PDCFlag|Dennie Olde Kalter}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Thibault Tricole}}
+|GS
+|{{PDCFlag|Kieran Thompson}}
+| style="background:#CCFFCC;" |'''Won'''
+|-
+|{{PDCFlag|Krzysztof Ratajski}}
+|2
+|100.19
+|{{PDCFlag|Keane Barry}}
+| style="background:#CCFFCC;" |'''Won'''
+|}
+
+==Media coverage==
+The main tournament was broadcast on [[ITV4]] in the United Kingdom,<ref name=SLifeITV>{{cite web |last=Hammer |first=Chris |date=29 January 2025 |title=PDC World Masters 2025: Free darts betting tips and preview for the ITV4-televised major in Milton Keynes |url=https://www.sportinglife.com/darts/news/pdc-world-masters-2025-free-darts-betting-tips-and-preview-for-the-itv4-televised-major-in-milton-keynes/223391 |website=Sporting Life |access-date=29 January 2025}}</ref><ref name=i/> [[DAZN]] in Germany, Austria and Switzerland, [[Viaplay]] in the Netherlands,<ref>{{cite web |last=Allen |first=Scott |date=4 December 2024 |title=2025 Darts Calendar: Every major televised tournament, dates, results and where to watch |url=https://www.planetsport.com/news/darts-2025-calendar-every-major-televised-tournament-dates-pdc-results-and-where-to-watch |website=PlanetSport |access-date=31 December 2024}}</ref><ref>{{cite web |title=Darts on TV |url=https://www.pdc.tv/about-pdc/darts-tv |website=[[Professional Darts Corporation]] |access-date=8 January 2025}}</ref> FanDuel in the United States, [[Fox Sports (Australia)|Fox Sports]] in Australia.<ref>{{cite web |date=29 January 2025 |title=Where to watch the 2025 Winmau World Masters |url=https://www.reddragondarts.com/blogs/news/where-to-watch-the-2025-winmau-world-masters |website=Red Dragon Darts |access-date=31 January 2025}}</ref> The preliminary round was offered on the PDC.tv live streaming platform.
+
+==References==
+{{reflist}}
+
+{{Masters (darts)}}
+{{2025 in PDC darts}}
+
+[[Category:2025 in darts|Masters]]
+[[Category:2025 in English sport|Masters (darts)]]
+[[Category:Masters (darts)]]
+[[Category:January 2025 sports events in the United Kingdom|Masters (darts)]]
+[[Category:February 2025 sports events in the United Kingdom|Masters (darts)]]
+[[Category:Sports competitions in Milton Keynes]]
+[[Category:2020s in Buckinghamshire]]

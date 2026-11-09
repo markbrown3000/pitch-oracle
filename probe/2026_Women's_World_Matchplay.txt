@@ -1,0 +1,228 @@
+{{Infobox individual darts tournament
+|tournament_name = 2026 Betfred Women's World Matchplay
+|image = 
+|dates = 26 July 2026
+|venue = [[Winter Gardens, Blackpool|Winter Gardens]]
+|location = [[Blackpool]], England
+|country =
+|organisation = [[Professional Darts Corporation]] (PDC)
+|format = [[Leg (darts)|Legs]]
+|prize_fund = £40,000
+|winners_share = £15,000
+|nine_dart =
+|high_checkout = {{ubl|'''148'''|[[Beau Greaves]]}}
+|winner = '''{{flagathlete|[[Beau Greaves]]|ENG}}'''
+|prev = [[2025 Women's World Matchplay|2025]]
+|next = 2027
+}}
+
+The '''2026 Women's World Matchplay''' (known for sponsorship reasons as the '''2026 Betfred Women's World Matchplay''') was a women's [[darts]] tournament that took place at the [[Winter Gardens, Blackpool|Winter Gardens]] in [[Blackpool]], England, on 26 July 2026. It was the fifth staging of the [[Women's World Matchplay]] by the [[Professional Darts Corporation]] (PDC), taking place in the afternoon before the [[2026 World Matchplay|main tournament]]'s final. The total prize fund was £40,000, with the winner receiving £15,000 and earning qualification for the 2026 Grand Slam of Darts, and the 2027 PDC World Darts Championship.
+
+Sponsored by [[Betfred]], the tournament featured the top eight players on the one-year Women's World Matchplay Order of Merit, based on earnings won during the [[2025 PDC Women's Series|2025]] and [[2026 PDC Women's Series|2026]] seasons of the [[PDC Women's Series]]. [[Vicky Pruim]] and [[Deta Hedman]] made their debuts at the event.
+
+[[Lisa Ashton]] was the defending champion, having defeated [[Fallon Sherrock]] 6–5 in the [[2025 Women's World Matchplay|2025 final]]. However, she lost 5–1 to Sherrock in a semi-final rematch. [[Beau Greaves]] won her third World Matchplay title, defeating Sherrock 6–5 in the final.
+
+== Overview ==
+=== Background ===
+[[File:Empress Ballroom Winter Gardens Blackpool.jpg|thumb|The tournament was held in the [[Empress Ballroom]] ''(pictured in 2016)'' at the [[Winter Gardens, Blackpool]], England.]]
+The 2026 [[Women's World Matchplay]] was the fifth edition of the tournament to be staged by the [[Professional Darts Corporation]] (PDC).<ref>{{cite web |title=Women's World Matchplay |url=https://mastercaller.com/tournaments/women-s-world-matchplay |website=Mastercaller |access-date=23 June 2026}}</ref> It was the first women's event to be fully televised by the organisation, being introduced in 2022 as part of the PDC's expanded commitment to women's darts after the establishment of the [[PDC Women's Series]].<ref>{{cite web |date=3 February 2022 |title=Women's World Matchplay: PDC announces first televised women's darts tournament, to be shown live on Sky Sports |url=https://www.skysports.com/darts/news/12288/12530245/womens-world-matchplay-pdc-announces-first-televised-womens-darts-tournament-to-be-shown-live-on-sky-sports |website=Sky Sports |access-date=22 June 2026}}</ref><ref>{{cite web |date=1 February 2022 |title=Women's World Matchplay: PDC to stage first televised women's event in Blackpool |url=https://www.bbc.com/sport/darts/60221822 |website=BBC Sport |access-date=22 June 2026}}</ref> [[Fallon Sherrock]], the first female player to win a match at the [[PDC World Darts Championship]], won the [[2022 Women's World Matchplay|inaugural edition]] by defeating [[Aileen de Graaf]] 6–3 in the final. This granted her qualification to the [[2022 Grand Slam of Darts]],<ref>{{cite web |last=Veal |first=Jonathan |title=Fallon Sherrock makes more history after winning World Matchplay |url=https://www.independent.co.uk/sport/fallon-sherrock-alexandra-palace-michael-van-gerwen-b2130131.html |website=The Independent |access-date=10 June 2025 |date=22 June 2026 |agency=Press Association}}</ref> although she was later granted a place at the [[2023 PDC World Darts Championship|2023 World Championship]] as the Women's World Matchplay champion.<ref>{{cite web |date=21 November 2022 |title=Fallon Sherrock awarded place at PDC World Darts Championship |url=https://www.bbc.com/sport/darts/63707419 |website=BBC Sport |access-date=22 June 2026}}</ref>
+
+The 2026 edition took place on the afternoon of 26 July 2026 in the [[Empress Ballroom]], located within the [[Winter Gardens, Blackpool|Winter Gardens]] in [[Blackpool]], England.<ref>{{cite web |last=Gorton |first=Josh |date=25 July 2026 |title=2026 Betfred Women's World Matchplay preview |url=https://www.pdc.tv/news/2026/july/25/2026-betfred-women-s-world-matchplay-preview/ |website=Professional Darts Corporation |access-date=25 July 2026}}</ref> British bookmaker [[Betfred]] continued its sponsorship of the event, extending its partnership with the PDC to sponsor the [[World Matchplay (darts)|main tournament]] and the women's equivalent until 2030.<ref>{{cite web |last=Hardy |first=Matt |date=18 July 2025 |title=World Matchplay: Darts event extends deal with sponsor Betfred |url=https://www.cityam.com/world-matchplay-darts-event-extends-deal-with-sponsor-betfred/ |website=City AM |access-date=22 June 2026}}</ref> [[Lisa Ashton]] entered the tournament as defending champion, having defeated Fallon Sherrock 6–5 in the [[2025 Women's World Matchplay|2025 final]] to win her first World Matchplay title.<ref>{{cite web |last=Drury |first=Sam |date=27 July 2025 |title=Ashton beats Sherrock to win Women's World Matchplay |url=https://www.bbc.com/sport/darts/articles/cwy5j4vxjlzo |website=BBC Sport |access-date=22 June 2026}}</ref>
+
+=== Format ===
+The eight-played field was [[Seeding (sports)|seeded]] into a tournament bracket based on the Women's World Matchplay Order of Merit. All matches were in [[Leg (darts)|leg]] play format, with the number of legs required to win increasing as the tournament progressed:<ref name="SkyField"/>
+
+*'''Quarter-finals:''' Best of nine legs
+*'''Semi-finals:''' Best of nine legs
+*'''Final:''' Best of eleven legs
+
+=== Prize money ===
+The total prize fund was increased from £25,000 in 2025 to £40,000 in 2026.<ref>{{cite web |access-date=23 June 2026 |title=Women's World Matchplay 2025 |url=https://mastercaller.com/tournaments/women-s-world-matchplay/2025 |website=Mastercaller}}</ref> The winner received £15,000. The prize money breakdown was:<ref name="PDCDraw"/>
+
+{| class="wikitable"
+! colspan=2 | Position (no. of players)
+! Prize money<br />(Total: £40,000)
+|-
+|'''Winner'''
+| align=center | (1)
+| align=center | £15,000
+|-
+|'''Runner-up'''
+| align=center | (1)
+| align=center | £8,000
+|-
+|'''Semi-finalists'''
+| align=center | (2)
+| align=center | £4,500
+|-
+|'''Quarter-finalists'''
+| align=center | (4)
+| align=center | £2,000
+|}
+
+== Qualification ==
+{| class="wikitable" style="float:right; text-align:right; margin-left:1em"
+|+2026 Women's World Matchplay Race<ref>{{cite web |title=Women's World Matchplay Race |url=https://www.dartsrankings.com/womens-series-wmp |website=dartsrankings.com |access-date=23 June 2026}}</ref>
+|-
+! Rank
+! Player
+! Earnings
+|-
+|- style="background-color:#ccffcc"
+|align=center|1 ||style="text-align:left"| {{PDCFlag|Beau Greaves|b=1}} || £45,700
+|- 
+|- style="background-color:#ccffcc"
+|align=center|2 ||style="text-align:left"| {{PDCFlag|Lisa Ashton|b=1}} || £15,550
+|-
+|- style="background-color:#ccffcc"
+|align=center|3 ||style="text-align:left"| {{PDCFlag|Fallon Sherrock|b=1}} || £13,150
+|-
+|- style="background-color:#ccffcc"
+|align=center|4 ||style="text-align:left"| {{PDCFlag|Gemma Hayter|b=1}} || £9,800
+|-
+|- style="background-color:#ccffcc"
+|align=center|5 ||style="text-align:left"| {{PDCFlag|Vicky Pruim|b=1}} || £8,250
+|-
+|- style="background-color:#ccffcc"
+|align=center|6 ||style="text-align:left"| {{PDCFlag|Deta Hedman|b=1}} || £7,500
+|-
+|- style="background-color:#ccffcc"
+|align=center|7 ||style="text-align:left"| {{PDCFlag|Rhian O'Sullivan|b=1}} || £6,300
+|-
+|- style="background-color:#ccffcc"
+|align=center|8 ||style="text-align:left"| {{PDCFlag|Kirsi Viinikainen|b=1}} || £6,150
+|-
+|align=center|9 ||style="text-align:left"| {{PDCFlag|Steph Clarke}} || £5,250
+|-
+|align=center|10 ||style="text-align:left"| {{PDCFlag|Trina Gulliver}} || £5,200
+|}
+
+The eight qualifiers for the tournament were the top eight players on the Women's World Matchplay Order of Merit, a one-year ranking based on earnings won across the [[2025 PDC Women's Series|2025]] and [[2026 PDC Women's Series|2026]] seasons of the PDC Women's Series since July 2025. Two-time champion and ranking leader [[Beau Greaves]] automatically qualified as the only female player with a [[List of players with a 2026 PDC Tour Card|2026 PDC Tour Card]],<ref>{{cite web |date=1 January 2026 |title=PDC Rankings Rules |url=https://www.pdc.tv/rankings/pdc-rankings-rules |website=Professional Darts Corporation |access-date=15 July 2026 |quote=Rule 3.1 - 2026 Women's World Matchplay: Up to eight top ranked eligible Tour Card Holders with remaining places filled from the Women's World Matchplay Rankings}}</ref> having accepted a place on the [[PDC Pro Tour]] after placing second on the [[2025 PDC Development Tour]].<ref>{{cite web |last=Keogh |first=Frank |date=17 October 2025 |title=Greaves to play at worlds and on pro tour |url=https://www.bbc.com/sport/darts/articles/ced69pvy365o |website=BBC Sport |access-date=22 June 2026}}</ref> [[Vicky Pruim]] and [[Deta Hedman]] made their debuts at the event, the latter entering the tournament as the reigning [[WDF World Darts Championship|WDF women's world champion]].<ref name="SkyField">{{cite web |date=22 June 2026 |title=Women's World Matchplay field confirmed with Beau Greaves, Lisa Ashton and Fallon Sherrock leading the way at Blackpool's Winter Gardens |url=https://www.skysports.com/darts/news/12288/13556487/womens-world-matchplay-field-confirmed-with-beau-greaves-lisa-ashton-and-fallon-sherrock-leading-the-way-at-blackpools-winter-gardens |website=Sky Sports |access-date=22 June 2026}}</ref><ref>{{cite web |last=Adams |first=Lewis |date=10 December 2025 |title=Darts champion 'blubbered like a child' after win |url=https://www.bbc.com/news/articles/clyzx9l3k2jo |website=BBC |access-date=22 June 2026}}</ref>
+
+{| class="wikitable sortable" style="text-align: left;"
+|-
+!Player
+!data-sort-type="number"|Appearance in<br />Women's World Matchplay
+!data-sort-type="number"|Previous best performance
+|-
+| {{flagathlete|[[Beau Greaves]]|ENG}}
+| 4th
+| {{Nowrap|'''Winner''' ([[2023 Women's World Matchplay|2023]], [[2024 Women's World Matchplay|2024]])}}
+|-
+| {{flagathlete|[[Lisa Ashton]]|ENG}}
+| 5th
+| '''Winner''' ([[2025 Women's World Matchplay|2025]])
+|-
+| {{flagathlete|[[Fallon Sherrock]]|ENG}}
+| 5th
+| '''Winner''' ([[2022 Women's World Matchplay|2022]])
+|-
+| {{flagathlete|[[Gemma Hayter (darts player)|Gemma Hayter]]|ENG}}
+| 2nd 
+| Quarter-finals ([[2025 Women's World Matchplay|2025]])
+|-
+| {{flagathlete|[[Vicky Pruim]]|SWE}}
+| Debut
+| {{n/a}}
+|-
+| {{flagathlete|[[Deta Hedman]]|ENG}}
+| Debut
+| {{n/a}}
+|-
+| {{flagathlete|[[Rhian O'Sullivan]]|WAL}}
+| 3rd
+| {{nowrap|Quarter-finals ([[2023 Women's World Matchplay|2023]], [[2024 Women's World Matchplay|2024]])}}
+|-
+| {{flagathlete|[[Kirsi Viinikainen]]|FIN}}
+| 2nd
+| Quarter-finals ([[2025 Women's World Matchplay|2025]])
+|}
+
+The qualifiers in seeding order were:<ref name="SkyField"/>
+# '''{{flagathlete|[[Beau Greaves]]|ENG}} (champion)'''
+# {{flagathlete|[[Lisa Ashton]]|ENG}} ''(semi-finals)''
+# {{flagathlete|[[Fallon Sherrock]]|ENG}} ''(runner-up)''
+# {{flagathlete|[[Gemma Hayter (darts player)|Gemma Hayter]]|ENG}} ''(semi-finals)''
+# {{flagathlete|[[Vicky Pruim]]|SWE}} ''(quarter-finals)''
+# {{flagathlete|[[Deta Hedman]]|ENG}} ''(quarter-finals)''
+# {{flagathlete|[[Rhian O'Sullivan]]|WAL}} ''(quarter-finals)''
+# {{flagathlete|[[Kirsi Viinikainen]]|FIN}} ''(quarter-finals)''
+
+== Summary ==
+=== Quarter-finals ===
+[[File:Fallon Sherrock - 2022337195014 2022-12-03 1.Mannheim Darts Gala - Sven - 1D X MK II - 1676 - B70I2569.jpg|thumb|The [[2022 Women's World Matchplay|2022]] champion [[Fallon Sherrock]] ''(pictured in 2022)'' reached her third consecutive final.]]
+Top seed [[Beau Greaves]] began her campaign with a 5–1 victory over Kirsi Viinikainen, converting [[Glossary of darts#Checkout|checkouts]] of 148 and 144 during the contest. [[Gemma Hayter (darts player)|Gemma Hayter]] won a [[Glossary of darts#Decider|deciding leg]] against Swedish debutant [[Vicky Pruim]] to achieve her first win at the tournament. Reigning champion [[Lisa Ashton]] hit a 120 checkout as she started her title defence by defeating [[Rhian O'Sullivan]] 5–2, closing out the match with her ninth [[Glossary of darts#Match dart|match dart]]. The [[2022 Women's World Matchplay|2022]] champion [[Fallon Sherrock]] was victorious in the last quarter-final, earning a [[Whitewash (sport)|whitewash]] victory over [[Deta Hedman]] without allowing the English debutant a dart at [[Glossary of darts#Double|double]].<ref name="Sky">{{cite web |last=Wellens |first=Megan |date=26 July 2026 |title=Women's World Matchplay: Beau Greaves defeats Fallon Sherrock in 6-5 last-leg decider to claim record third Blackpool crown |url=https://www.skysports.com/darts/news/12288/13567091/womens-world-matchplay-beau-greaves-defeats-fallon-sherrock-in-6-5-last-leg-decider-to-claim-record-third-blackpool-crown |website=Sky Sports |access-date=26 July 2026}}</ref><ref name="PDC">{{cite web |last=Simpson |first=Will |date=26 July 2026 |title=Greaves claims third Women’s World Matchplay title |url=https://www.pdc.tv/news/2026/july/26/Greaves-claims-third-Women-s-World-Matchplay-title/ |website=Professional Darts Corporation |access-date=26 July 2026}}</ref>
+
+=== Semi-finals ===
+Beau Greaves was taken to a deciding leg by Gemma Hayter in the first semi-final. Hayter found a [[Glossary of darts#Break|break of throw]] to level the match at 2–2, before hitting an 83 checkout for another break to take the match to a ninth leg. Greaves secured her place in the final by converting a 104 finish to win 5–4. In a rematch of the [[2025 Women's World Matchplay|2025 final]], Fallon Sherrock avenged her loss to Lisa Ashton by eliminating the defending champion in a 5–1 victory, entering the final having lost just one leg.<ref name="Sky"/><ref name="BBC">{{cite web |last=Drury |first=Sam |date=26 July 2026 |title=Greaves wins Women's Matchplay in last-leg decider |url=https://www.bbc.com/sport/darts/articles/cy9wvxqqj40o |website=BBC Sport |access-date=26 July 2026}}</ref>
+
+=== Final ===
+[[File:Beau Greaves 2026.png|thumb|upright=0.9|[[Beau Greaves]] ''(pictured after her victory)'' won her third Women's World Matchplay title.]]
+The final was contested by top seed Beau Greaves and third seed Fallon Sherrock, with the latter reaching her third consecutive final.<ref name="BBC"/> It was a rematch of the [[2024 Women's World Matchplay|2024 final]], which Greaves won 6–3.<ref name="Sky"/> Sherrock broke Greaves' throw with an 87 checkout to take an early 2–1 lead, but Greaves responded with a 120 finish to break back. Greaves capitalised on missed doubles from Sherrock to pin double 2 in the eighth leg and go 5–3 ahead, one away from victory. However, Sherrock recorded an 11-dart break of throw and a 70 checkout to take the final to a deciding leg. The pair shared [[Glossary of darts#Maximum|maximums]] in the title decider, before Greaves followed a 145 set-up shot with a 56 finish on double 10 to complete a 6–5 triumph.<ref name="Sky"/><ref name="PDC"/><ref name="BBC"/> Greaves ended the match with a [[three-dart average]] of 88.63, compared to Sherrock's 87.84.<ref name="Results"/>
+
+Greaves won the Women's World Matchplay for the third time in four years, adding to her back-to-back victories in [[2023 Women's World Matchplay|2023]] and [[2024 Women's World Matchplay|2024]].<ref>{{cite web |date=26 July 2026 |title=Beau Graves edges out Fallon Sherrock to win third Women's Matchplay title |url=https://www.espn.co.uk/darts/story/_/id/49455833/beau-graves-edges-fallon-sherrock-win-third-women-matchplay-title |website=ESPN |access-date=26 July 2026}}</ref> The win also guaranteed Greaves' qualification for the 2026 Grand Slam of Darts and the 2027 PDC World Darts Championship.<ref name="PDC"/> Sherrock suffered her third consecutive final defeat, following losses to Greaves in 2024 and Lisa Ashton in 2025.<ref name="Sky"/> In her post-match interview, Greaves said she was nervous due to the pressure of the final and that hitting the last dart was an "outpouring of relief" after her elimination the previous year.<ref name="BBC"/> She also commented on balancing men's and women's darts, admitting that she felt "deflated" after her last [[2026 PDC Women's Series|Women's Series]] performances and that she was thinking about focusing on her work on the [[2026 PDC Pro Tour|Pro Tour]].<ref>{{cite web |last=Mirza |first=Raz |date=26 July 2026 |title=Beau Greaves: Have we seen the last of Doncaster star on the PDC Women’s Series? 'I'm focused on my Tour Card' |url=https://www.skysports.com/darts/news/12288/13567092/beau-greaves-have-we-seen-the-last-of-doncaster-star-on-the-pdc-women-s-series-im-focused-on-my-tour-card |website=Sky Sports |access-date=26 July 2026}}</ref> "If somebody had said to me I'd get to the final, I'd have bitten their hand off," said Sherrock in defeat, who aimed to take the positives out of the tournament and focus on qualifying for the World Championship.<ref name="PDC"/>
+
+== Draw ==
+The draw was confirmed following [[2026 PDC Women's Series#Women's Series 16|Event 16]] of the [[2026 PDC Women's Series]] on 21 June.<ref name="PDCDraw">{{cite web |last=Gorton |first=Josh |date=21 June 2026 |title=2026 Betfred Women's World Matchplay field & draw confirmed |url=https://www.pdc.tv/news/2026/june/21/2026-betfred-womens-world-matchplay-field-draw-confirmed/ |website=Professional Darts Corporation |access-date=22 June 2026}}</ref> Numbers to the left of players' names show the seedings for the tournament. The figures to the right of a player's name state their [[three-dart average]] in a match. Players in bold denote match winners.<ref name="Results">{{cite web |title=Results of Women's World Matchplay 2026 |url=https://mastercaller.com/tournaments/women-s-world-matchplay/2026/results |website=Mastercaller |access-date=26 July 2026}}</ref> 
+
+{{8TeamBracket
+| RD1= {{nowrap|1= '''Quarter-finals''' <br/> ''(best of 9 legs)''}}
+| RD2= {{nowrap|1= '''Semi-finals''' <br /> ''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br/> ''(best of 11 legs)''}}
+| boldwinner = high 
+| RD1-seed1   = 1
+| RD1-team1   = {{PDCFlag|Beau Greaves|avg=91.91}}
+| RD1-score1  = 5
+| RD1-seed2   = 8
+| RD1-team2   = {{PDCFlag|Kirsi Viinikainen|avg=78.10}}
+| RD1-score2  = 1
+| RD1-seed3   = 4
+| RD1-team3   = {{PDCFlag|Gemma Hayter|avg=79.01}}
+| RD1-score3  = 5
+| RD1-seed4   = 5
+| RD1-team4   = {{PDCFlag|Vicky Pruim|avg=72.22}}
+| RD1-score4  = 4
+| RD1-seed5   = 2
+| RD1-team5   = {{PDCFlag|Lisa Ashton|avg=81.07}}
+| RD1-score5  = 5
+| RD1-seed6   = 7
+| RD1-team6   = {{PDCFlag|Rhian O'Sullivan|avg=75.52}}
+| RD1-score6  = 2
+| RD1-seed7   = 3
+| RD1-team7   = {{PDCFlag|Fallon Sherrock|avg=85.40}}
+| RD1-score7  = 5
+| RD1-seed8   = 6
+| RD1-team8   = {{PDCFlag|Deta Hedman|avg=67.04}}
+| RD1-score8  = 0
+
+| RD2-seed1   = 1
+| RD2-team1   = {{PDCFlag|Beau Greaves|avg=86.74}}
+| RD2-score1  = 5
+| RD2-seed2   = 4
+| RD2-team2   = {{PDCFlag|Gemma Hayter|avg=80.44}}
+| RD2-score2  = 4
+| RD2-seed3   = 2
+| RD2-team3   = {{PDCFlag|Lisa Ashton|avg=79.41}}
+| RD2-score3  = 1
+| RD2-seed4   = 3
+| RD2-team4   = {{PDCFlag|Fallon Sherrock|avg=90.55}}
+| RD2-score4  = 5
+
+| RD3-seed1   = 1
+| RD3-team1   = {{PDCFlag|Beau Greaves|avg=88.63}}
+| RD3-score1  = 6
+| RD3-seed2   = 3
+| RD3-team2   = {{PDCFlag|Fallon Sherrock|avg=87.84}}
+| RD3-score2  = 5
+}}
+
+== References ==
+{{reflist}}
+
+{{2026 in PDC darts}}
+
+[[Category:World Matchplay (darts)]]
+[[Category:2020s in Lancashire]]
+[[Category:2026 in English women's sport|Women's World Matchplay]]
+[[Category:2026 in darts|Women's World Matchplay]]
+[[Category:July 2026 sports events in the United Kingdom|Women's World Matchplay]]

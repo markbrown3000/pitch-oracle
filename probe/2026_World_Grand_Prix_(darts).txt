@@ -1,0 +1,337 @@
+{{short description|Darts tournament}}
+{{Infobox individual darts tournament
+|tournament_name = 2026 BOYLE Sports World Grand Prix
+|image =
+|dates = 28 September–4 October 2026
+|venue = [[Mattioli Arena]]
+|location = [[Leicester]], England
+|organisation = [[Professional Darts Corporation]] (PDC)
+|format = [[Set (darts)|Sets]]<br/>"[[Glossary of darts#Double in|Double in, double out]]"
+|prize_fund = £750,000
+|winners_share = £150,000
+|nine_dart =
+|high_checkout = '''167'''<br/>[[Ryan Searle (darts player)|Ryan Searle]]
+|winner = '''{{flagathlete|[[Luke Humphries]]|ENG}}'''
+|prev = [[2025 World Grand Prix (darts)|2025]]
+|next = [[2027 World Grand Prix (darts)|2027]]
+}}
+
+The '''2026 World Grand Prix''' (known for sponsorship reasons as the '''2026 BOYLE Sports World Grand Prix''') was a professional [[darts]] tournament that took place at the [[Mattioli Arena]] in [[Leicester]], England, from 28 September to 4 October 2026. It was the 29th staging of the [[World Grand Prix (darts)|World Grand Prix]] by the [[Professional Darts Corporation]] (PDC). The total prize fund was an increased total of £750,000, with the winner receiving £150,000.
+
+Sponsored by [[BoyleSports]], the tournament was played in the World Grand Prix's traditional "[[Glossary of darts#Double in|double in, double out]]" format. It featured 32 players, comprising the top 16 players in the [[PDC World Rankings]] and the top 16 players from the one-year [[PDC Pro Tour]] rankings who had not yet qualified. [[Luke Littler]] was the defending champion, having defeated [[Luke Humphries]] 6–1 in the [[2025 World Grand Prix (darts)|2025 final]], but he lost 2–1 to [[Luke Woodhouse]] in the first round.
+
+Humphries won the tournament for the second time in his fourth consecutive final, defeating [[Gerwyn Price]] 6–4 after going 0–3 down in sets. Price broke the record for the highest average in a World Grand Prix set, averaging 132.62 in the first set of the final. 
+
+== Overview ==
+=== Background === 
+The 2026 [[World Grand Prix (darts)|World Grand Prix]] was the 29th edition of the tournament to be staged by the [[Professional Darts Corporation]] (PDC) since the [[1998 World Grand Prix (darts)|inaugural tournament]] in 1998.<ref>{{cite web |title=World Grand Prix |url=https://mastercaller.com/tournaments/world-grand-prix |website=Mastercaller |access-date=4 September 2026}}</ref> The tournament is unique as it is the only event in the PDC calendar that uses the "[[Glossary of darts#Double in|double in, double out]]" format, in which players must start on a [[Glossary of darts#Double|double]] or the [[Bullseye (target)|bullseye]] to start scoring and do the same to win a [[Leg (darts)|leg]].<ref>{{cite web |last=Mardle |first=Wayne |author-link=Wayne Mardle |date=7 October 2020 |title=World Grand Prix is different from any other major tournament |url=https://www.skysports.com/darts/news/31667/10578833/world-grand-prix-is-different-from-any-other-major-tournament-says-wayne-mardle |website=Sky Sports |access-date=4 September 2026}}</ref> The inaugural edition featured matches consisting of [[Set (darts)|sets]] played to the best of three legs, with [[Phil Taylor (darts player)|Phil Taylor]] winning the final 13–8 against [[Rod Harrington]].<ref>{{cite web |title=World Grand Prix 1998 |url=https://mastercaller.com/tournaments/world-grand-prix/1998 |website=Mastercaller |access-date=4 September 2026}}</ref> Taylor is the most successful player in the tournament's history, winning 11 titles in total.<ref>{{cite web |last=Colman |first=Jonty |date=2 October 2025 |title=Darts' World Grand Prix: Format, results and prize money |url=https://www.bbc.com/sport/darts/articles/c749d12ze7wo |website=BBC Sport |access-date=4 September 2026}}</ref> In 2020, amidst the [[COVID-19 pandemic]], the World Grand Prix was relocated to England due to the Citywest being used for health services, with the event being held in [[Leicester]] since 2021.<ref>{{cite web |last=Glennon |first=Michael |date=27 August 2020 |title=Dublin to miss out on World Grand Prix with HSE holding Citywest lease |url=https://www.rte.ie/sport/darts/2020/0826/1161448-world-grand-prix-citywest-hse/ |website=RTÉ |access-date=4 September 2026}}</ref><ref>{{cite web |last=Phillips |first=Josh |date=5 July 2021 |title=BoyleSports World Grand Prix heading to Leicester in October |url=https://www.pdc.tv/news/2021/07/05/boylesports-world-grand-prix-heading-leicester-october |archive-url=https://web.archive.org/web/20210705101324/https://www.pdc.tv/news/2021/07/05/boylesports-world-grand-prix-heading-leicester-october |url-status=dead |archive-date=5 July 2021 |website=Professional Darts Corporation |access-date=4 September 2026}}</ref> [[Brendan Dolan]], [[James Wade]] and [[Robert Thornton (darts player)|Robert Thornton]] are the only players to hit a double-start [[nine-dart finish]] at the World Grand Prix.<ref>{{cite web |last=Mirza |first=Raz |date=7 October 2020 |title=Best nine-dart moments from the World Grand Prix Darts in Dublin |url=https://www.skysports.com/darts/news/12288/11812205/best-nine-dart-moments-from-the-world-grand-prix-darts-in-dublin |website=Sky Sports |access-date=4 September 2026}}</ref>
+
+The 2026 edition took place from 28 September to 4 October 2026 at the [[Mattioli Arena]] in Leicester.<ref name="Race">{{cite web |last=Simpson |first=Will |date=3 September 2026 |title=2026 BOYLE Sports World Grand Prix race ahead of Czech Darts Open |url=https://www.pdc.tv/news/2026/september/03/2026-BOYLE-Sports-World-Grand-Prix-race-ahead-of-Czech-Darts-Open/ |website=Professional Darts Corporation |access-date=4 September 2026}}</ref> Irish gambling company [[BoyleSports]] continued its sponsorship of the event, having extended its partnership with the PDC until 2027.<ref>{{cite web |last=Phillips |first=Josh |date=23 April 2025 |title=BoyleSports extends World Grand Prix sponsorship to 2027 |url=https://www.pdc.tv/news/2025/april/23/boylesports-extends-world-grand-prix-sponsorship-2027 |website=Professional Darts Corporation |access-date=4 September 2025}}</ref> [[Luke Littler]] entered the tournament as defending champion after defeating [[Luke Humphries]] 6–1 in the [[2025 World Grand Prix (darts)|2025 final]] to win his first World Grand Prix title.<ref>{{cite web |date=12 October 2025 |title=Luke Littler thrashes Luke Humphries to claim World Grand Prix final |url=https://www.theguardian.com/sport/2025/oct/12/luke-littler-thrashes-luke-humphries-to-claim-world-grand-prix-final |website=The Guardian |access-date=4 September 2026 |agency=Press Association}}</ref><ref>{{cite web |last=Matthews |first=Callum |date=12 October 2025 |title=Littler demolishes Humphries to win World Grand Prix |url=https://www.bbc.com/sport/darts/articles/cy7p7l5zpx0o |website=BBC Sport |access-date=4 September 2026}}</ref>
+
+=== Format ===
+The tournament featured 32 players; the top 16 players in the [[PDC World Rankings]] were [[Seeding (sport)|seeded]] and were drawn against the 16 qualifiers from the [[PDC Pro Tour]] rankings in the first round. All matches were in set play format, with each set being played to the best of five legs (first to three). As per the "double in, double out" format, players had to begin a leg by hitting a double or the bullseye and do the same to win a leg. The amount of sets required to win a match increased as the tournament progressed:
+
+{|class="wikitable" style="text-align:center"
+!Round
+!Best of (sets)
+!First to (sets)
+|-
+|First|| 3 || 2
+|-
+|Second || 5 || 3
+|-
+|Quarter-finals || 5 || 3
+|-
+|Semi-finals || 9 || 5
+|-
+|Final || 11 || 6
+|}
+
+=== Prize money ===
+The prize fund for the event increased to £750,000, up from the previous year's total of £600,000. The winner received £150,000. The prize money breakdown is shown below.
+
+{| class="wikitable"
+! colspan=2 | Position <small>(num. of players)</small>
+! Prize money<br/><small>(Total: £750,000)</small>
+|-
+|'''Winner'''
+| align=center | <small>(1)</small>
+| align=center | £150,000
+|-
+|'''Runner-up'''
+| align=center | <small>(1)</small>
+| align=center | £80,000
+|-
+|'''Semi-finalists'''
+| align=center | <small>(2)</small>
+| align=center | £50,000
+|-
+|'''Quarter-finalists'''
+| align=center | <small>(4)</small>
+| align=center | £35,000
+|-
+|'''Second round'''
+| align=center | <small>(8)</small>
+| align=center | £20,000
+|-
+|'''First round'''
+| align=center | <small>(16)</small>
+| align=center | £7,500
+|-
+|}
+
+==Qualification==
+The field of 32 players consisted of the top 16 players in the [[PDC World Rankings]], who were seeded, and the top 16 non-qualified players from the [[PDC Pro Tour]] rankings as of 14 September.
+
+
+{{col-begin}}
+{{col-2}}
+===PDC World Rankings===
+# {{flagathlete|[[Luke Littler]]|ENG}} ''(first round)''
+# '''{{flagathlete|[[Luke Humphries]]|ENG}} (champion)'''
+# {{flagathlete|[[Gian van Veen]]|NED}} ''(quarter-finals)''
+# {{flagathlete|[[Gerwyn Price]]|WAL}} ''(runner-up)''
+# {{flagathlete|[[Jonny Clayton]]|WAL}} ''(quarter-finals)''
+# {{flagathlete|[[James Wade]]|ENG}} ''(semi-finals)''
+# {{flagathlete|[[Josh Rock]]|NIR}} ''(first round)''
+# {{flagathlete|[[Danny Noppert]]|NED}} ''(second round)''
+# {{flagathlete|[[Michael van Gerwen]]|NED}} ''(first round)''
+# {{flagathlete|[[Gary Anderson (darts player)|Gary Anderson]]|SCO}} ''(second round)''
+# {{flagathlete|[[Stephen Bunting]]|ENG}} ''(second round)''
+# {{flagathlete|[[Wessel Nijman]]|NED}} ''(second round)''
+# {{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}} ''(second round)''
+# {{flagathlete|[[Ryan Searle (darts player)|Ryan Searle]]|ENG}} ''(second round)''
+# {{flagathlete|[[Chris Dobey]]|ENG}} ''(first round)''
+# {{flagathlete|[[Nathan Aspinall]]|ENG}} ''(semi-finals)''
+{{col-2}}
+
+===PDC Pro Tour Rankings===
+# {{flagathlete|[[Luke Woodhouse]]|ENG}} ''(second round)''
+# {{flagathlete|[[Kevin Doets]]|NED}} ''(first round)''
+# {{flagathlete|[[Jermaine Wattimena]]|NED}} ''(second round)''
+# {{flagathlete|[[Krzysztof Ratajski]]|POL}} ''(first round)''
+# {{flagathlete|[[Andrew Gilding]]|ENG}} ''(first round)''
+# {{flagathlete|[[William O'Connor (darts player)|William O'Connor]]|IRL}} ''(first round)''
+# {{flagathlete|[[Damon Heta]]|AUS}} ''(first round)''
+# {{flagathlete|[[Rob Cross]]|ENG}} ''(first round)''
+# {{flagathlete|[[Ryan Joyce]]|ENG}} ''(quarter-finals)''
+# {{flagathlete|[[Dirk van Duijvenbode]]|NED}} ''(first round)''
+# {{flagathlete|[[Niels Zonneveld]]|NED}} ''(quarter-finals)''
+# {{flagathlete|[[Cameron Menzies]]|SCO}} ''(first round)''
+# {{flagathlete|[[Niko Springer]]|GER}} ''(first round)''
+# {{flagathlete|[[Dave Chisnall]]|ENG}} ''(first round)''
+# {{flagathlete|[[Sebastian Białecki]]|POL}} ''(first round)''
+# {{flagathlete|[[Joe Cullen (darts player)|Joe Cullen]]|ENG}} ''(first round)''
+{{col-end}}
+
+==Draw==
+{{32TeamBracket 
+| RD1='''First round''' ''(best of 3 sets)''<br>28–29 September
+| RD2='''Second round''' ''(best of 5 sets)''<br>30 September – 1 October
+| RD3='''Quarter-finals''' ''(best of 5 sets)''<br>2 October
+| RD4='''Semi-finals''' ''(best of 9 sets)''<br>3 October
+| RD5='''Final''' ''(best of 11 sets)''<br>4 October
+| team-width=250
+| boldwinner=high
+| RD1-seed01 = 1
+| RD1-team01 = {{PDCFlag|Luke Littler|avg=82.41}}
+| RD1-score01= 1
+| RD1-seed02 =
+| RD1-team02 = {{PDCFlag|Luke Woodhouse|avg=82.51}}
+| RD1-score02= 2
+| RD1-seed03 = 16
+| RD1-team03 = {{PDCFlag|Nathan Aspinall|avg=89.20}}
+| RD1-score03= 2
+| RD1-seed04 =
+| RD1-team04 = {{PDCFlag|Kevin Doets|avg=92.27}}
+| RD1-score04= 1
+| RD1-seed05 = 8
+| RD1-team05 = {{PDCFlag|Danny Noppert|avg=88.42}}
+| RD1-score05= 2
+| RD1-seed06 =
+| RD1-team06 = {{PDCFlag|Niko Springer|avg=83.58}}
+| RD1-score06= 1
+| RD1-seed07 = 9
+| RD1-team07 = {{PDCFlag|Michael van Gerwen|avg=87.10}}
+| RD1-score07= 1
+| RD1-seed08 =
+| RD1-team08 = {{PDCFlag|Ryan Joyce|avg=85.21}}
+| RD1-score08= 2
+| RD1-seed09 = 4
+| RD1-team09 = {{PDCFlag|Gerwyn Price|avg=101.61}}
+| RD1-score09= 2
+| RD1-seed10 =
+| RD1-team10 = {{PDCFlag|Sebastian Białecki|avg=82.88}}
+| RD1-score10= 0
+| RD1-seed11 = 13
+| RD1-team11 = {{PDCFlag|Ross Smith|avg=99.54}}
+| RD1-score11= 2
+| RD1-seed12 =
+| RD1-team12 = {{PDCFlag|Cameron Menzies|avg=90.85}}
+| RD1-score12= 1
+| RD1-seed13 = 5
+| RD1-team13 = {{PDCFlag|Jonny Clayton|avg=85.52}}
+| RD1-score13= 2
+| RD1-seed14 =
+| RD1-team14 = {{PDCFlag|Krzysztof Ratajski|avg=80.85}}
+| RD1-score14= 1
+| RD1-seed15 = 12
+| RD1-team15 = {{PDCFlag|Wessel Nijman|avg=82.43}}
+| RD1-score15= 2
+| RD1-seed16 =
+| RD1-team16 = {{PDCFlag|Rob Cross|avg=81.02}}
+| RD1-score16= 0
+| RD1-seed17 = 2
+| RD1-team17 = {{PDCFlag|Luke Humphries|avg=80.41}}
+| RD1-score17= 2
+| RD1-seed18 =
+| RD1-team18 = {{PDCFlag|Dave Chisnall|avg=75.38}}
+| RD1-score18= 0
+| RD1-seed19 = 15
+| RD1-team19 = {{PDCFlag|Chris Dobey|avg=79.93}}
+| RD1-score19= 0
+| RD1-seed20 =
+| RD1-team20 = {{PDCFlag|Jermaine Wattimena|avg=86.55}}
+| RD1-score20= 2
+| RD1-seed21 = 7
+| RD1-team21 = {{PDCFlag|Josh Rock|avg=94.14}}
+| RD1-score21= 1
+| RD1-seed22 =
+| RD1-team22 = {{PDCFlag|Niels Zonneveld|avg=92.14}}
+| RD1-score22= 2
+| RD1-seed23 = 10
+| RD1-team23 = {{PDCFlag|Gary Anderson|avg=90.11}}
+| RD1-score23= 2
+| RD1-seed24 =
+| RD1-team24 = {{PDCFlag|Damon Heta|avg=86.39}}
+| RD1-score24= 1
+| RD1-seed25 = 3
+| RD1-team25 = {{PDCFlag|Gian van Veen|avg=85.79}}
+| RD1-score25= 2
+| RD1-seed26 =
+| RD1-team26 = {{PDCFlag|Dirk van Duijvenbode|avg=83.30}}
+| RD1-score26= 0
+| RD1-seed27 = 14
+| RD1-team27 = {{PDCFlag|Ryan Searle|avg=84.69}}
+| RD1-score27= 2
+| RD1-seed28 =
+| RD1-team28 = {{PDCFlag|William O'Connor|avg=91.03}}
+| RD1-score28= 1
+| RD1-seed29 = 6
+| RD1-team29 = {{PDCFlag|James Wade|avg=88.65}}
+| RD1-score29= 2
+| RD1-seed30 =
+| RD1-team30 = {{PDCFlag|Joe Cullen|avg=83.72}}
+| RD1-score30= 1
+| RD1-seed31 = 11
+| RD1-team31 = {{PDCFlag|Stephen Bunting|avg=86.26}}
+| RD1-score31= 2
+| RD1-seed32 =
+| RD1-team32 = {{PDCFlag|Andrew Gilding|avg=82.55}}
+| RD1-score32= 1
+| RD2-seed01 = &nbsp;
+| RD2-team01 = {{PDCFlag|Luke Woodhouse|avg=86.43}}
+| RD2-score01= 0
+| RD2-seed02 = 16
+| RD2-team02 = {{PDCFlag|Nathan Aspinall|avg=96.27}}
+| RD2-score02= 3
+| RD2-seed03 = 8
+| RD2-team03 = {{PDCFlag|Danny Noppert|avg=85.99}}
+| RD2-score03= 0
+| RD2-seed04 = &nbsp;
+| RD2-team04 = {{PDCFlag|Ryan Joyce|avg=86.04}}
+| RD2-score04= 3
+| RD2-seed05 = 4
+| RD2-team05 = {{PDCFlag|Gerwyn Price|avg=90.81}}
+| RD2-score05= 3
+| RD2-seed06 = 13
+| RD2-team06 = {{PDCFlag|Ross Smith|avg=91.11}}
+| RD2-score06= 0
+| RD2-seed07 = 5
+| RD2-team07 = {{PDCFlag|Jonny Clayton|avg=93.08}}
+| RD2-score07= 3
+| RD2-seed08 = 12
+| RD2-team08 = {{PDCFlag|Wessel Nijman|avg=88.31}}
+| RD2-score08= 1
+| RD2-seed09 = 2
+| RD2-team09 = {{PDCFlag|Luke Humphries|avg=94.11}}
+| RD2-score09= 3
+| RD2-seed10 = &nbsp;
+| RD2-team10 = {{PDCFlag|Jermaine Wattimena|avg=85.33}}
+| RD2-score10= 0
+| RD2-seed11 = &nbsp;
+| RD2-team11 = {{PDCFlag|Niels Zonneveld|avg=85.16}}
+| RD2-score11= 3
+| RD2-seed12 = 10
+| RD2-team12 = {{PDCFlag|Gary Anderson|avg=84.58}}
+| RD2-score12= 1
+| RD2-seed13 = 3
+| RD2-team13 = {{PDCFlag|Gian van Veen|avg=85.89}}
+| RD2-score13= 3
+| RD2-seed14 = 14
+| RD2-team14 = {{PDCFlag|Ryan Searle|avg=84.73}}
+| RD2-score14= 2
+| RD2-seed15 = 6
+| RD2-team15 = {{PDCFlag|James Wade|avg=93.20}}
+| RD2-score15= 3
+| RD2-seed16 = 11
+| RD2-team16 = {{PDCFlag|Stephen Bunting|avg=96.29}}
+| RD2-score16= 1
+| RD3-seed01 = 16
+| RD3-team01 = {{PDCFlag|Nathan Aspinall|avg=105.15}}
+| RD3-score01= 3
+| RD3-seed02 = &nbsp;
+| RD3-team02 = {{PDCFlag|Ryan Joyce|avg=86.36}}
+| RD3-score02= 0
+| RD3-seed03 = 4
+| RD3-team03 = {{PDCFlag|Gerwyn Price|avg=91.93}}
+| RD3-score03= 3
+| RD3-seed04 = 5
+| RD3-team04 = {{PDCFlag|Jonny Clayton|avg=83.00}}
+| RD3-score04= 2
+| RD3-seed05 = 2
+| RD3-team05 = {{PDCFlag|Luke Humphries|avg=85.91}}
+| RD3-score05= 3
+| RD3-seed06 = &nbsp;
+| RD3-team06 = {{PDCFlag|Niels Zonneveld|avg=85.91}}
+| RD3-score06= 0
+| RD3-seed07 = 3
+| RD3-team07 = {{PDCFlag|Gian van Veen|avg=81.56}}
+| RD3-score07= 0
+| RD3-seed08 = 6
+| RD3-team08 = {{PDCFlag|James Wade|avg=96.71}}
+| RD3-score08= 3
+| RD4-seed01 = 16
+| RD4-team01 = {{PDCFlag|Nathan Aspinall|avg=84.63}}
+| RD4-score01= 2
+| RD4-seed02 = 4
+| RD4-team02 = {{PDCFlag|Gerwyn Price|avg=89.90}}
+| RD4-score02= 5
+| RD4-seed03 = 2
+| RD4-team03 = {{PDCFlag|Luke Humphries|avg=96.83}}
+| RD4-score03= 5
+| RD4-seed04 = 6
+| RD4-team04 = {{PDCFlag|James Wade|avg=91.72}}
+| RD4-score04= 3
+| RD5-seed01 = 4
+| RD5-team01 = {{PDCFlag|Gerwyn Price|avg=95.37}}
+| RD5-score01= 4
+| RD5-seed02 = 2
+| RD5-team02 = {{PDCFlag|Luke Humphries|avg=93.16}}
+| RD5-score02= 6
+}}
+
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{World Grand Prix Darts}}
+{{2026 in PDC darts}}
+
+[[Category:World Grand Prix (darts)]]
+[[Category:Sport in Leicester]]
+[[Category:2026 in darts|World Grand Prix]]
+[[Category:2025 in English sport|World Grand Prix (darts)]]
+[[Category:September 2026 sports events in the United Kingdom|World Grand Prix (darts)]]
+[[Category:October 2026 sports events in the United Kingdom|World Grand Prix (darts)]]

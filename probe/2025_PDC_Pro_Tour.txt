@@ -1,0 +1,1230 @@
+{{short description|Darts tournament series}}
+{{About|the PDC's 2025 Players Championship series, European Tour and accompanying secondary tours|an overview of PDC darts in 2025|2025 in PDC}}
+
+{| class="wikitable" style="text-align:center;float:right; margin-left:1em"
+|+Final 2025 PDC Pro Tour Order of Merit<ref>{{cite web |title=PDC ProTour Rankings |url=https://www.pdc.tv/order-of-merit/protour-order-of-merit |website=Professional Darts Corporation |access-date=31 October 2025 |archive-url=https://web.archive.org/web/20251031101601/https://www.pdc.tv/order-of-merit/protour-order-of-merit |archive-date=31 October 2025}}</ref><br />Prize money in units of £1,000
+! Rank !! Player !! Prize money
+|-
+| align=center | 1 ||{{PDCFlag|Gerwyn Price}} || 169
+|-
+| align=center | 2 ||{{PDCFlag|Stephen Bunting}} || 166.5
+|-
+| align=center | 3 ||{{PDCFlag|Nathan Aspinall}} || 152
+|-
+| align=center | 4 ||{{PDCFlag|Wessel Nijman}} || 148
+|-
+| align=center | 5 ||{{PDCFlag|Gian van Veen}} || 146.5
+|-
+| align=center | 6 ||{{PDCFlag|Martin Schindler}} || 145
+|-
+| align=center | 7 ||{{PDCFlag|Ross Smith}} || 145
+|-
+| align=center | 8 ||{{PDCFlag|Jonny Clayton}} || 129.5
+|-
+| align=center | 9 ||{{PDCFlag|Damon Heta}} || 128.5
+|-
+| align=center | 10 ||{{PDCFlag|Josh Rock}} || 125
+|-
+| align=center | 11 ||{{PDCFlag|Jermaine Wattimena}} || 123.5
+|-
+| align=center | 12 ||{{PDCFlag|Chris Dobey}} || 120.5
+|-
+| align=center | 13 ||{{PDCFlag|Luke Littler}} || 118.5
+|-
+| align=center | 14 ||{{PDCFlag|Cameron Menzies}} || 111
+|-
+| align=center | 15 ||{{PDCFlag|Danny Noppert}} || 109
+|-
+| align=center | 16 ||{{PDCFlag|Dirk van Duijvenbode}} || 107.5
+|-
+|}
+
+The '''2025 [[PDC Pro Tour]]''' was a series of non-televised [[darts]] tournaments organised by the [[Professional Darts Corporation]] (PDC). [[PDC Pro Tour#Players Championships|Players Championships]] and [[PDC European Tour|European Tours]] are the events that make up the Pro Tour. The 2025 calendar consisted of 34 Players Championship events, 14 European Tour events, as well as 24 events for each of the PDC's [[PDC secondary tours|secondary tours]]—the [[2025 PDC Challenge Tour series|Challenge Tour]], [[2025 PDC Development Tour series|Development Tour]] and [[2025 PDC Women's Series|Women's Series]].<ref name="More ProTour">{{cite web |last=Allen |first=Dave |date=29 August 2024 |title=More darts than ever in 2025 as PDC calendar released |url=https://www.pdc.tv/news/2024/august/29/more-darts-ever-2025-pdc-calendar-released |access-date=29 August 2024 |publisher=PDC}}</ref><ref name=Sky2025Calendar>{{cite web |date=3 January 2025 |title=Darts 2025 schedule and dates: Premier League Darts, World Matchplay and more with Luke Littler among those in action |url=https://www.skysports.com/darts/news/12288/13282459/darts-2025-schedule-and-dates-premier-league-darts-world-matchplay-and-more-with-luke-littler-among-those-in-action |publisher=[[Sky Sports]] |access-date=4 January 2025}}</ref><ref name=PlanetCalendar>{{cite web |last=Allen |first=Scott |date=6 January 2025 |title=2025 Darts Calendar: Every major televised tournament, dates, results and where to watch |url=https://www.planetsport.com/news/darts-2025-calendar-every-major-televised-tournament-dates-pdc-results-and-where-to-watch |website=Planet Sport |access-date=15 January 2025}}</ref><ref name=SLifeCalendar>{{cite web |date=22 January 2025 |title=PDC Darts 2025 season: Tournament calendar, fixtures and results |url=https://www.sportinglife.com/darts/news/pdc-darts-2025-season-tournament-calendar-fixtures-and-results/222906 |website=Sporting Life |access-date=23 January 2025}}</ref>
+
+==Prize money==
+
+The prize money remained unchanged from the previous year. The breakdown for each tour is shown below:
+
+{| class="wikitable" style="width:30%; margin:0"
+|-
+! Stage !! {{Tooltip|ET|European Tour}} !! {{Tooltip|PC|Players Championships}}<ref name=PC1&2Entries>{{cite web |last=Gorton |first=Josh |date=6 February 2025 |title=2025 Players Championship 1-2 Player entries confirmed |url=https://www.pdc.tv/news/2025/02/06/2025-players-championship-1-2-player-entries-confirmed |archive-url=https://web.archive.org/web/20250212222453/https://www.pdc.tv/news/2025/02/06/2025-players-championship-1-2-player-entries-confirmed |url-status=dead |archive-date=February 12, 2025 |publisher=[[Professional Darts Corporation]] |access-date=6 February 2025}}</ref> !! {{Tooltip|CT/DT|Challenge/Development Tour}}<ref>{{cite web |last=Gill |first=Samuel |date=19 January 2025 |title=Here's how much players can earn in Prize Money in 2025 PDC Challenge Tour |url=https://dartsnews.com/pdc/heres-how-much-players-can-earn-in-prize-money-in-2025-pdc-challenge-tour |website=Darts News |access-date=6 February 2025}}</ref> !! {{Tooltip|WS|Women's Series}}
+|-
+| '''Winner''' || £30,000 || £15,000 || £2,500 || £2,000
+|-
+| '''Runner-up''' || £12,000 || £10,000 || £1,000 || £1,000
+|-
+| '''{{nowrap|Semi-finalists}}''' || £8,500 || £5,000 || £750 || £500
+|-
+| '''{{nowrap|Quarter-finalists}}''' || £6,000 || £3,500 || £500 || £300
+|-
+| '''Last 16''' || £4,000 || £2,500 || £300 || £200
+|-
+|-
+| '''Last 32''' || £2,500{{Efn|name=No Money ET|Pre-qualified players from the PDC and PDC Pro Tour Orders of Merit who lose in their first match of the event shall not be credited with prize money on any Order of Merit. A player who qualifies as a qualifier, but later becomes a seed due to the withdrawal of one or more other players shall be credited with their prize money on all Orders of Merit regardless of how far they progress in the event.}} || £1,500 || £200 || £100
+|-
+| '''Last 48''' || £1,250{{Efn|name=No Money ET}} || ''N/A'' || ''N/A'' || ''N/A'' 
+|- style="border-bottom:2px solid black;"
+| '''Last 64''' ||style="background:#E0E0E0;" | ''N/A'' || £1,000 || £75 || £50{{Efn|Last 64 prize money is only paid out if a minimum of 128 participants take part in a Women's Series event.}}
+|-
+| '''Total''' || '''£175,000''' || '''£125,000'''|| '''£15,000''' || '''£10,000'''
+|}
+{{Notelist}}
+
+==PDC Tour Card==
+
+128 players were granted Tour Cards, which enabled them to participate in all Players Championships events, the [[2025 UK Open|UK Open]], qualifiers for all European Tours, as well as the qualifiers for the [[2025 PDC World Masters|World Masters]], [[2025 World Series of Darts Finals|World Series Finals]], [[2025 Grand Slam of Darts|Grand Slam]] and the [[2026 PDC World Darts Championship|World Championship]].
+
+===Tour Cards===
+{{main|List of players with a 2025 PDC Tour Card}}
+
+The 128 '''2025 PDC Tour Cards''' were awarded to:<ref>{{cite web |date=14 January 2025 |title=The 128 PDC Tour Card holders in 2025: Who made it through qualifying school to earn their place alongside the world's elite? |url=https://www.sportinglife.com/darts/news/the-128-pdc-tour-card-holders-in-2025-who-made-it-through-qualifying-school-to-earn-their-place-alongside-the-worlds-elite/223087 |website=Sporting Life |access-date=15 January 2025}}</ref>
+* (64) The top 64 players from the [[PDC Order of Merit]] after the [[2025 PDC World Darts Championship|2025 World Championship]].
+** 56th-placed [[Steve Beaton]] resigned his Tour Card.<ref>{{Cite web |last=Wood |first=Kieran |date=27 February 2024 |title="It'd be nice to keep my Tour Card, then hand it back instead of losing it" - Steve Beaton on his aims for final professional season |url=https://dartsnews.com/pdc/itd-be-nice-to-keep-my-tour-card-then-hand-it-back-instead-of-losing-it-steve-beaton-on-his-aims-for-final-professional-season |website=Darts News |access-date=9 January 2025}}</ref> His spot went to the 65th ranked player, [[Nick Kenny (darts player)|Nick Kenny]].
+* (28) 28 qualifiers from [[2024 PDC Pro Tour#Q-School|2024 Q-School]] not ranked in the top 64 of the [[PDC Order of Merit]] following the World Championship.
+** [[Leighton Bennett]]'s Tour Card was removed as he had received an eight-year ban from competing in DRA-sanctioned events.
+** Paul Krohne handed in his Tour Card.
+* (2) Two highest qualifiers from the 2023 Challenge Tour ([[Berry van Peer]] and [[Owen Bates]]).
+* (1) Highest qualifier from the [[2023 PDC Development Tour series|2023 Development Tour]] ([[Nathan Rafferty]]).
+** [[Wessel Nijman]], the other highest qualifier from the [[2023 PDC Development Tour series|2023 Development Tour]], was in the top 64 of the PDC Order of Merit, and therefore, one extra Tour Card was awarded to a Q-School qualifier.
+* (2) Two highest qualifiers from the [[2024 PDC Challenge Tour series|2024 Challenge Tour]] ([[Wesley Plaisier]] and [[Christian Kist]]).
+* (2) Two highest qualifiers from the [[2024 PDC Development Tour series|2024 Development Tour]] ([[Niko Springer]] and [[Sebastian Białecki]]).
+* (8) The daily winners from the 2025 Q-Schools.
+
+Afterwards, the playing field was complemented by the highest qualified players from the Q-School Order of Merit until the maximum number of 128 Pro Tour Card players was reached. In 2025, a total of 21 additional players qualified this way.<ref>{{cite web |last=Gorton |first=Josh |date=4 January 2025 |title=2025 PDC Qualifying Schools entries confirmed |url=https://www.pdc.tv/news/2025/january/04/2025-pdc-qualifying-schools-entries-confirmed |publisher=[[Professional Darts Corporation]] |access-date=4 January 2025}}</ref><ref>{{cite web |last=Wood |first=Kieran |date=5 January 2024 |title=List of participants confirmed for UK Q-School 2025 including Simon Whitlock, John Henderson, Mervyn King, Fallon Sherrock and Beau Greaves |url=https://dartsnews.com/pdc/list-of-participants-confirmed-for-uk-q-school-2025-including-simon-whitlock-john-henderson-mervyn-king-fallon-sherrock-and-beau-greaves |publisher=Darts News |access-date=4 January 2025}}</ref>
+ 
+{{notelist}}
+====Q-School====
+PDC Qualifying School (or Q-School) was split into two different events: '''UK Q-School''' for British and Irish players, held at [[Arena MK]] in [[Milton Keynes]], England;<ref>{{cite web |last=Wood |first=Kieran |date=6 January 2025 |title=List of participants confirmed for UK Q-School 2025 including Simon Whitlock, John Henderson, Mervyn King, Fallon Sherrock and Beau Greaves |url=https://dartsnews.com/pdc/list-of-participants-confirmed-for-uk-q-school-2025-including-simon-whitlock-john-henderson-mervyn-king-fallon-sherrock-and-beau-greaves |publisher=Darts News |access-date=12 January 2025}}</ref> and '''European Q-School''' for the rest of Europe, held at [[Wunderland Kalkar]] in [[Kalkar]], Germany.<ref>{{cite web |last=Wood |first=Kieran |date=5 January 2025 |title=These 498 players will compete for a PDC Tour Card at European Q-School 2025 |url=https://dartsnews.com/pdc/these-498-players-will-compete-for-a-pdc-tour-card-at-european-q-school-2025 |publisher=Darts News |access-date=4 January 2025}}</ref> Non-European players could choose which Q-School to compete in.<ref>{{Cite web |last=Gorton |first=Josh |date=24 September 2024 |title=2025 PDC Qualifying Schools entries now open |url=https://www.pdc.tv/news/2024/september/24/2025-pdc-qualifying-schools-entries-now-open |access-date=31 December 2024 |website=PDC}}</ref>
+ 
+There are two stages in Q-School:<ref>{{Cite web |last=Gorton |first=Josh |date=31 December 2024 |title=Entry deadline approaching for 2025 PDC Qualifying Schools |url=https://www.pdc.tv/news/2024/december/31/entry-deadline-approaching-2025-pdc-qualifying-schools |access-date=2 January 2025 |website=PDC}}</ref><ref>{{cite web |date=8 January 2025 |title=PDC Q School 2025: How Players Earn Their Spot on the Pro Tour |url=https://www.reddragondarts.com/blogs/news/pdc-q-school-2025-how-players-earn-their-spot-on-the-pro-tour |website=Red Dragon Darts |access-date=9 January 2025}}</ref>
+* The '''First Stage''', played between 6–8 January,<ref>{{cite web |last=Gorton |first=Josh |date=6 January 2025 |title=Hopp, Brooks & McGuirk progress to Final Stage on Day One at PDC Q Schools |url=https://www.pdc.tv/news/2025/january/06/hopp-brooks-mcguirk-progress-final-stage-day-one-pdc-q-schools |publisher=[[Professional Darts Corporation]] |access-date=12 January 2025}}</ref> was entered by any darts player who registered to compete. The eight quarter-finalists from each of the three days qualified for the Final Stage alongside other players coming from a First Stage Order of Merit ranking to produce a full list of 128 players for each Final Stage. 
+* The '''Final Stage''', held between 9–12 January, consisted of all players qualified from the First Stage plus the players exempted to the Final Stage; players who were exempted were those who lost their PDC Tour Cards after the [[2025 PDC World Darts Championship|2025 World Championship]], and those who finished from third to sixteenth in the [[2024 PDC Challenge Tour series|2024 Challenge Tour]] and [[2024 PDC Development Tour series|Development Tour]] Orders of Merit who did not have PDC Tour Cards yet.<ref name=Sky7Jan>{{cite web |date=6 January 2025 |title=PDC Tour Qualifying School: Fallon Sherrock, Noa-Lynn van Leuven both beaten early on day one of First Stage |url=https://www.skysports.com/darts/news/12288/13284589/pdc-tour-qualifying-school-fallon-sherrock-noa-lynn-van-leuven-both-beaten-early-on-day-one-of-first-stage |website=[[Sky Sports]] |access-date=12 January 2025}}</ref>
+
+The winner of each day's play in the Final Stage was given a PDC Tour Card.
+
+{| class="wikitable"
+|-
+!colspan=4|'''UK Q-School'''
+|-
+! January 9
+! January 10
+! January 11
+! January 12
+|-
+|
+{{flagathlete|Tom Bissell|ENG}}<ref>{{cite web |last=Bish |first=Derek |date=13 January 2025 |title=Dudley darts ace to line up on PDC Pro Tour alongside Luke Littler and Michael van Gerwen |url=https://www.expressandstar.com/sport/2025/01/13/dudley-darts-ace-to-line-up-on-pdc-pro-tour-alongside-luke-littler-and-michael-van-gerwen/ |website=[[Express & Star]] |access-date=23 January 2025}}</ref><ref name=ODVTTB>{{cite web |last=Barrs |first=Phill |date=9 January 2025 |title=Viktor Tingstrom and Tom Bissell become the first to win PDC Tour Cards at 2025 Q-School |url=https://onlinedarts.com/viktor-tingstrom-and-tom-bissell-become-the-first-to-win-pdc-tour-cards-at-2025-q-school/ |website=Online Darts |access-date=15 January 2025}}</ref>
+|
+{{flagathlete|[[Justin Hood (darts player)|Justin Hood]]|ENG}}<ref name=Sky10Jan>{{cite web |last=Hodge |first=Stuart |date=10 January 2025 |title=Fallon Sherrock fails to earn PDC Tour Card at Q-School on Friday but remains in the mix ahead of weekend |url=https://www.skysports.com/darts/news/12288/13286758/fallon-sherrock-fails-to-earn-pdc-tour-card-at-q-school-on-friday-but-remains-in-the-mix-ahead-of-weekend |website=[[Sky Sports]] |access-date=11 January 2025}}</ref>
+|
+{{flagathlete|Tavis Dudeney|ENG}}<ref name="11/1 TC Winners">{{cite web |last=Gorton |first=Josh |date=11 January 2025 |title=Dudeney & Olde Kalter secure Tour Cards on Day Three at Q School |url=https://www.pdc.tv/news/2025/january/11/dudeney-olde-kalter-secure-tour-cards-day-three-q-school |website=[[Professional Darts Corporation]] |access-date=12 January 2025}}</ref>
+|
+{{flagathlete|[[Jim Long (darts player)|Jim Long]]|CAN}}<ref name="Sky12Jan">{{cite web |date=12 January 2025 |title=Fallon Sherrock and Beau Greaves fail to secure PDC Tour Cards at Q-School as final places are confirmed |url=https://www.skysports.com/darts/news/12288/13287731/fallon-sherrock-and-beau-greaves-fail-to-secure-pdc-tour-cards-at-q-school |website=[[Sky Sports]] |access-date=12 January 2025}}</ref><ref name="LD12/12">{{cite web |last=Shaw |first=Jamie |date=12 January 2025 |title=Hopp, Brooks, Long and Sedlacek among final Tour Card winners at 2025 PDC Qualifying School |url=https://www.live-darts.com/pdc-darts-news/q-school/hopp-brooks-sedlacek-among-final-tour-card-winners/ |website=Live Darts |access-date=15 January 2025}}</ref>
+|-
+! 128 players
+! 127 players
+! 126 players
+! 125 players
+|-
+!colspan=4|'''European Q-School'''
+|-
+! January 9
+! January 10
+! January 11
+! January 12
+|-
+|
+{{flagathlete|Viktor Tingström|SWE}}<ref name=ODVTTB/><ref>{{cite web |last=Wagner |first=Connor |date=9 January 2025 |title=Bissell and Tingstrom claim first Tour Cards at 2025 PDC Q Schools |url=https://www.pdc.tv/news/2025/january/09/bissell-and-tingstrom-claim-first-tour-cards-2025-pdc-q-schools |website=[[Professional Darts Corporation]] |access-date=9 January 2025}}</ref>
+|
+{{flagathlete|Kai Gotthardt|GER}}<ref name=Sky10Jan/>
+|
+{{flagathlete|[[Dennie Olde Kalter]]|NED}}<ref name="11/1 TC Winners"/>
+|
+{{flagathlete|[[Maik Kuivenhoven]]|NED}}<ref name=Sky12Jan/><ref name="LD12/12"/>
+|-
+! 128 players
+! 127 players
+! 126 players
+! 125 players
+|}
+
+To complete the field of 128 Tour Card Holders, a ranking was created for each Q-School and a point was awarded for every win after the last 64. Available Tour Card places for each Q-School were allocated in proportion to the total number of participants, with 9 cards going to the UK Q-School and 12 going to the European Q-School.
+
+At the end of the fourth day in the Final Stage, based on their ranking, the following players picked up Tour Cards as a result:<ref name="Sky12Jan"/>
+{{col-begin}}
+{{col-break}}
+'''UK Q-School Order of Merit'''<ref>{{cite web |last=Wood |first=Kieran |date=12 January 2025 |title=ORDER OF MERIT: PDC UK Q-School 2025 Final Standings - These 9 players become the newest names on the PDC Pro Tour |url=https://dartsnews.com/pdc/order-of-merit-pdc-uk-q-school-2025-final-standings-these-9-players-become-the-newest-names-on-the-pdc-pro-tour |website=Darts News |access-date=12 January 2025}}</ref>
+# {{flagathlete|[[Bradley Brooks]]|ENG}}
+# {{flagathlete|[[Darryl Pilgrim]]|ENG}}
+# {{flagathlete|Greg Ritchie|SCO}}
+# {{flagathlete|[[Adam Lipscombe]]|ENG}}
+# {{flagathlete|Adam Paxton|ENG}}
+# {{flagathlete|[[Cam Crabtree]]|ENG}}
+# {{flagathlete|Adam Warner|ENG}}
+# {{flagathlete|[[Andy Boulton]]|SCO}}
+# {{flagathlete|Thomas Lovely|ENG}}
+{{col-break}}
+'''European Q-School Order of Merit'''<ref>{{cite web |last=Gill |first=Samuel |date=12 January 2025 |title=Final Order of Merit PDC European Q-School 2025: These 12 players secured PDC Tour Cards |url=https://dartsnews.com/pdc/final-order-of-merit-pdc-european-q-school-2025-these-12-players-secured-pdc-tour-cards |website=Darts News |access-date=12 January 2025}}</ref>
+# {{flagathlete|[[Cor Dekker]]|NOR}}
+# {{flagathlete|Pero Ljubić|CRO}}
+# {{flagathlete|[[Karel Sedláček]]|CZE}}
+# {{flagathlete|[[Oskar Lukasiak]]|SWE}}
+# {{flagathlete|[[Tytus Kanik]]|POL}}
+# {{flagathlete|[[Rusty-Jake Rodriguez]]|AUT}}
+# {{flagathlete|[[Dominik Grüllich]]|GER}}
+# {{flagathlete|Stefaan Henderyck|BEL}}
+# {{flagathlete|Maximilian Czerwinski|GER}}
+# {{flagathlete|[[Max Hopp]]|GER}}
+# {{flagathlete|Leon Weber|GER}}
+# {{flagathlete|Marvin van Velzen|NED}}
+{{col-end}}
+
+==Players Championships==
+{{Main|2025 PDC Players Championship series}}
+
+The '''PDC Players Championships (PC)''' are a series of non-televised darts events that are part of the PDC Pro Tour. Starting in 2025, the number of events increased by four compared to previous years, bringing the total to 34 [[2025 PDC Players Championship series|Players Championship]] events per year.<ref name="More ProTour"/><ref name=Sky2025Calendar/><ref name=PlanetCalendar/><ref name=SLifeCalendar/>
+
+The Players Championship Order of Merit is determined based on the total prize money won by each player in the Players Championship events throughout the year. The top 64 players on this ranking qualified for the [[2025 Players Championship Finals|Players Championship Finals]].
+
+{| class="wikitable"
+|+ 2025 PDC Players Championship season
+! No.
+! Date
+! Venue
+! Winner
+! Legs
+! Runner-up
+!{{Tooltip|Ref.|Reference}}
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 1|1]]
+|align=left| Monday 10 February
+|align="center" rowspan="2" | Robin Park Tennis Centre,<br>{{flagicon|ENG}} [[Wigan]]
+| align="right" | {{PDCFlagR|Rob Cross|avg=(104.60)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Joe Cullen|avg=(94.26)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=10 February 2025 |title=Classy Cross denies Cullen to clinch PC1 title |url=https://www.pdc.tv/news/2025/february/10/classy-cross-denies-cullen-clinch-pc1-title |website=[[Professional Darts Corporation]] |access-date=10 February 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 2|2]]
+|align=left| Tuesday 11 February
+| align="right" | {{PDCFlagR|Gerwyn Price|avg=(99.58)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Chris Dobey|avg=(101.83)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=11 February 2025 |title=Price returns to winning ways with dramatic win over Dobey at PC2 |url=https://www.pdc.tv/news/2025/february/11/price-returns-winning-ways-dramatic-win-over-dobey-pc2 |website=[[Professional Darts Corporation]] |access-date=11 February 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 3|3]]
+|align=left| Monday 17 February
+|align="center" rowspan="2" | Autotron,<br>{{flagicon|NED}} [[Rosmalen]]
+| align="right" | {{PDCFlagR|Chris Dobey|avg=(100.87)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Jelle Klaasen|avg=(87.34)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=17 February 2025 |title=Dobey defeats resurgent Klaasen to clinch PC3 title in Rosmalen |url=https://www.pdc.tv/news/2025/february/17/dobey-defeats-resurgent-klaasen-clinch-pc3-title-rosmalen |website=[[Professional Darts Corporation]] |access-date=17 February 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 4|4]]
+|align=left| Tuesday 18 February
+| align="right" | {{PDCFlagR|Ryan Searle|avg=(100.76)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Cameron Menzies|avg=(96.99)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=18 February 2025 |title=Searle sweeps aside Menzies to secure PC4 success |url=https://www.pdc.tv/news/2025/february/18/searle-sweeps-aside-menzies-secure-pc4-success |website=[[Professional Darts Corporation]] |access-date=18 February 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 5|5]]
+|align=left| Tuesday 11 March
+|align="center" rowspan="2" | [[Leicester Arena]],<br>{{flagicon|ENG}} [[Leicester]]
+| align="right" | {{PDCFlagR|Joe Cullen|avg=(104.18)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Gian van Veen|avg=(100.33)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=11 March 2025 |title=Cullen wins classic against Van Veen to clinch PC5 title |url=https://www.pdc.tv/news/2025/march/11/cullen-wins-classic-against-van-veen-clinch-pc5-title |website=[[Professional Darts Corporation]] |access-date=12 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 6|6]]
+|align=left| Wednesday 12 March
+| align="right" | {{PDCFlagR|Gian van Veen|avg=(97.41)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Luke Humphries|avg=(97.95)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=12 March 2025 |title=Van Veen bounces back to claim first ranking title at PC6 |url=https://www.pdc.tv/news/2025/march/12/van-veen-bounces-back-claim-first-ranking-title-pc6 |website=[[Professional Darts Corporation]] |access-date=12 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 7|7]]
+|align=left| Monday 17 March
+|align="center" rowspan="2" | Halle 39,<br>{{flagicon|GER}} [[Hildesheim]]
+| align="right" | {{PDCFlagR|Gary Anderson|avg=(93.64)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Adam Lipscombe|avg=(89.58)}}
+| align="center" |<ref>{{cite web |last=Phillips |first=Josh |date=17 March 2025 |title=Anderson racks up milestone with PC7 win |url=https://www.pdc.tv/news/2025/march/17/anderson-racks-milestone-pc7-win |website=[[Professional Darts Corporation]] |access-date=17 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 8|8]]
+|align=left| Tuesday 18 March
+| align="right" | {{PDCFlagR|Martin Schindler|avg=(86.57)|b=1}}
+| align="center" | '''8''' – 1
+| {{PDCFlag|Jeffrey de Graaf|avg=(78.31)}}
+| align="center" |<ref>{{cite web |last=Wood-Thompson |first=Lewis |date=18 March 2025 |title=Schindler wins first Players Championship title |url=https://www.pdc.tv/news/2025/march/18/schindler-wins-first-players-championship-title |website=[[Professional Darts Corporation]] |access-date=18 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 9|9]]
+|align=left| Monday 31 March
+|align="center" rowspan="4" |  [[Leicester Arena]],<br>{{flagicon|ENG}} [[Leicester]]
+| align="right" | {{PDCFlagR|Gerwyn Price|avg=(94.67)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Ian White|avg=(96.99)}}
+| align="center" |<ref>{{cite web |last=Phillips |first=Josh |date=31 March 2025 |title=Price denies resurgent White to win Players Championship Nine |url=https://www.pdc.tv/news/2025/march/31/price-denies-resurgent-white-win-players-championship-nine |website=[[Professional Darts Corporation]] |access-date=31 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 10|10]]
+|align=left| Tuesday 1 April
+| align="right" | {{PDCFlagR|Josh Rock|avg=(95.56)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Cameron Menzies|avg=(92.90)}}
+| align="center" |<ref>{{cite web |last=Simpson |first=Will |date=1 April 2025 |title=Rock opens 2025 account with PC10 success |url=https://www.pdc.tv/news/2025/april/01/rock-opens-2025-account-pc10-success |website=[[Professional Darts Corporation]] |access-date=1 April 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 11|11]]
+|align=left| Tuesday 8 April
+| align="right" | {{PDCFlagR|Cameron Menzies|avg=(107.25)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Peter Wright|avg=(103.45)}}
+| align="center" |<ref>{{cite web |last=Phillips |first=Josh |date=8 April 2025 |title=Menzies doubles PDC title tally at Players Championship 11 |url=https://www.pdc.tv/news/2025/april/08/menzies-doubles-pdc-title-tally-players-championship-11 |website=[[Professional Darts Corporation]] |access-date=8 April 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 12|12]]
+|align=left| Wednesday 9 April
+| align="right" | {{PDCFlagR|Gerwyn Price|avg=(101.39)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Josh Rock|avg=(110.70)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=9 April 2025 |title=Price fends off stunning Rock fightback to clinch PC12 title |url=https://www.pdc.tv/news/2025/april/09/price-fends-stunning-rock-fightback-clinch-pc12-title |website=[[Professional Darts Corporation]] |access-date=9 April 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 13|13]]
+|align=left| Monday 14 April
+|align="center" rowspan="2" | Autotron,<br>{{flagicon|NED}} [[Rosmalen]]
+| align="right" | {{PDCFlagR|Damon Heta|avg=(94.91)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Nathan Aspinall|avg=(88.45)}}
+| align="center" |<ref>{{cite web |last=Phillips |first=Josh |date=14 April 2025 |title=Heta claims first title of 2025 at PC13 |url=https://www.pdc.tv/news/2025/april/14/heta-claims-first-title-2025-pc13 |website=[[Professional Darts Corporation]] |access-date=14 April 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 14|14]]
+|align=left| Tuesday 15 April
+| align="right" | {{PDCFlagR|Jonny Clayton|avg=(109.68)|b=1}}
+| align="center" | '''8''' – 2
+| {{PDCFlag|Dominik Gruellich|avg=(92.24)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=15 April 2025 |title=Dominant Clayton storms to Players Championship 14 glory in Rosmalen |url=https://www.pdc.tv/news/2025/april/15/dominant-clayton-storms-players-championship-14-glory-rosmalen |website=[[Professional Darts Corporation]] |access-date=15 April 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 15|15]]
+|align=left| Monday 12 May
+|align="center" rowspan="2" | Halle 39,<br>{{flagicon|GER}} [[Hildesheim]]
+| align="right" | {{PDCFlagR|Krzysztof Ratajski|avg=(101.73)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Dave Chisnall|avg=(98.39)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=12 May 2025 |title=Ratajski returns to winning ways in sensational style at PC15 |url=https://www.pdc.tv/news/2025/may/12/ratajski-returns-winning-ways-sensational-style-pc15 |website=[[Professional Darts Corporation]] |access-date=12 May 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 16|16]]
+|align=left| Tuesday 13 May
+| align="right" | {{PDCFlagR|Ross Smith|avg=(104.56)|b=1}}
+| align="center" | '''8''' – 0
+| {{PDCFlag|Brendan Dolan|avg=(93.86)}}
+| align="center" |<ref> {{cite web|url=https://www.pdc.tv/news/2025/may/13/record-breaker-smith-lands-two-nine-darters-en-route-pc16-success|title=Record-breaker Smith lands two nine-darters en route to PC16 success|website=www.pdc.tv|date=13 May 2025|access-date=13 May 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 17|17]]
+|align=left| Tuesday 17 June
+|align="center" rowspan="5" |  [[Leicester Arena]],<br>{{flagicon|ENG}} [[Leicester]]
+| align="right" | {{PDCFlagR|Chris Dobey|avg=(100.87)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Dirk van Duijvenbode|avg=(102.40)}}
+| align="center" |<ref> {{cite web|url=https://www.pdc.tv/news/2025/june/17/delight-dobey-who-clinches-players-championship-17-dramatic-fashion|title=Delight for Dobey who clinches Players Championship 17 in dramatic fashion|website=www.pdc.tv|date=17 June 2025|access-date=17 June 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 18|18]]
+|align=left| Wednesday 18 June
+| align="right" | {{PDCFlagR|Stephen Bunting|avg=(104.84)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Jermaine Wattimena|avg=(99.65)}}
+| align="center" | <ref> {{cite web|url= https://www.pdc.tv/news/2025/06/18/brilliant-bunting-storms-pc18-success|archive-url= https://web.archive.org/web/20250726012128/https://www.pdc.tv/news/2025/06/18/brilliant-bunting-storms-pc18-success|url-status= dead|archive-date= July 26, 2025|title=Brilliant Bunting storms to PC18 success|website=www.pdc.tv|date=18 June 2025|accessdate=18 June 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 19|19]]
+|align=left| Thursday 19 June
+| align="right" | {{PDCFlagR|James Wade|avg=(101.52)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Scott Williams|avg=(99.58)}}
+| align="center" | <ref>{{citenews|url=https://www.pdc.tv/news/2025/06/19/wade-returns-winning-ways-players-championship-19-success|title=Wade returns to winning ways with Players Championship 19 success|website=www.pdc.tv|date=19 June 2025|accessdate=19 June 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 20|20]]
+|align=left| Tuesday 8 July
+| align="right" | {{PDCFlagR|Damon Heta|avg=(98.96)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Stephen Bunting|avg=(102.09)}}
+| align="center" | <ref>{{citenews|url=https://www.pdc.tv/news/2025/07/08/heta-doubles-2025-title-tally-dramatic-pc20-triumph|title=Heta doubles 2025 title tally with dramatic PC20 triumph|website=www.pdc.tv|date=8 July 2025|accessdate=8 July 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 21|21]]
+|align=left| Wednesday 9 July
+| align="right" | {{PDCFlagR|Bradley Brooks|avg=(96.46)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Gerwyn Price|avg=(100.73)}}
+| align="center" | <ref>{{citenews|url=https://www.pdc.tv/news/2025/07/09/brilliant-brooks-wins-maiden-protour-title-pc21h|title=Brilliant Brooks wins maiden ProTour title at PC21|website=www.pdc.tv|date=9 July 2025|accessdate=9 July 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 22|22]]
+|align=left| Tuesday 29 July
+|align="center" rowspan="2" | Halle 39,<br>{{flagicon|GER}} [[Hildesheim]]
+| align="right" | {{PDCFlagR|Sebastian Bialecki|avg=(91.78)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Niels Zonneveld|avg=(90.03)}}
+| align="center" | <ref>{{citenews|url=https://www.pdc.tv/news/2025/07/29/bialecki-breaks-new-ground-pc22-triumph|title=Bialecki breaks new ground with PC22 triumph|website=www.pdc.tv|date=29 July 2025|accessdate=29 July 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 23|23]]
+|align=left| Wednesday 30 July
+| align="right" | {{PDCFlagR|Jermaine Wattimena|avg=(95.52)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Lukas Wenig|avg=(93.56)}}
+| align="center" | <ref>{{citenews|url=https://www.pdc.tv/news/2025/07/30/wattimena-sees-wenig-win-first-ranking-title-hildesheim|title=Wattimena sees off Wenig to win first ranking title in Hildesheim|website=www.pdc.tv|date=30 July 2025|accessdate=30 July 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 24|24]]
+|align=left| Monday 25 August
+|align="center" rowspan="2" | [[Arena MK]],<br>{{flagicon|ENG}} [[Milton Keynes]]
+| align="right" | {{PDCFlagR|Jeffrey de Graaf|avg=(102.10)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Stephen Bunting|avg=(106.31)}}
+| align="center" | <ref>{{citenews|url=https://www.pdc.tv/news/2025/08/25/de-graaf-makes-history-pc24-victory|title=De Graaf makes history with PC24 victory|website=www.pdc.tv|date=25 August 2025|accessdate=25 August 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 25|25]]
+|align=left| Tuesday 26 August
+| align="right" | {{PDCFlagR|Stephen Bunting|avg=(101.74)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Jonny Clayton|avg=(91.34)}}
+| align="center" |<ref>{{cite web |title=Bunting wins second Players Championship title of 2025 |url=https://www.bbc.com/sport/darts/articles/cd9jwexgekvo |website=BBC Sport |access-date=26 August 2025 |date=26 August 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 26|26]]
+|align=left| {{nowrap|Tuesday 9 September}}
+|align="center" rowspan="2" | Halle 39,<br>{{flagicon|GER}} [[Hildesheim]]
+| align="right" | {{PDCFlagR|Gerwyn Price|avg=(109.28)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Gian van Veen|avg=(97.40)}}
+| align="center" |<ref>{{cite web |title=Price hits 13 maximums on way to Players Championship 26 win |url=https://www.bbc.com/sport/darts/articles/c62l71zq3lvo |website=BBC Sport |access-date=9 September 2025 |date=9 September 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 27|27]]
+|align=left| Wednesday 10 September
+| align="right" | {{PDCFlagR|Joe Cullen|avg=(99.78)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Gerwyn Price|avg=(97.31)}}
+| align="center" |<ref>{{cite web |title=Classy Cullen pips Price to win Players Championship 27 |url=https://www.pdc.tv/news/2025/september/10/classy-cullen-pips-price-win-players-championship-27 |website=www.pdc.tv |access-date=10 September 2025 |date=10 September 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 28|28]]
+|align=left| Tuesday 30 September
+|align="center" rowspan="3" |  [[Leicester Arena]],<br>{{flagicon|ENG}} [[Leicester]]
+| align="right" | {{PDCFlagR|Ryan Searle|avg=(95.43)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Mario Vandenbogaerde|avg=(89.38)}}
+| align="center" |<ref> {{cite web|url=https://www.pdc.tv/news/2025/september/30/seventh-heaven-searle-players-championship-28|title=Seventh heaven for Searle at Players Championship 28|publisher=[[Professional Darts Corporation]]|last=Gorton|first=Josh|date=30 September 2025|access-date=30 September 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 29|29]]
+|align=left| Wednesday 1 October
+| align="right" | {{PDCFlagR|Ross Smith|avg=(104.32)|b=1}}
+| align="center" |  '''8''' – 7
+| {{PDCFlag|Josh Rock|avg=(102.76)}}
+| align="center" |<ref> {{cite web|url=https://www.pdc.tv/news/2025/october/01/resilient-smith-denies-nine-dart-rock-win-pc29|title=Resilient Smith denies nine-dart Rock to win PC29|publisher=[[Professional Darts Corporation]]|last=Gorton|first=Josh|date=1 October 2025|access-date=1 October 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 30|30]]
+|align=left| Thursday 2 October
+| align="right" | {{PDCFlagR|Wessel Nijman|avg=(103.44)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Damon Heta|avg=(102.00)}}
+| align="center" |<ref> {{cite web|url=https://www.pdc.tv/news/2025/october/02/nijman-demolishes-heta-clinch-players-championship-30-crown|title=Nijman demolishes Heta to clinch Players Championship 30 crown|publisher=[[Professional Darts Corporation]]|last=Gorton|first=Josh|date=2 October 2025|access-date=2 October 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 31|31]]
+|align=left| Tuesday 14 October
+|align="center" rowspan="4" | Robin Park Tennis Centre,<br>{{flagicon|ENG}} [[Wigan]]
+| align="right" | {{PDCFlagR|Jermaine Wattimena|avg=(101.02)|b=1}}
+| align="center" | '''8''' – 2
+| {{PDCFlag|Nathan Aspinall|avg=(85.84)}}
+| align="center" |<ref> {{cite web|url=https://www.pdc.tv/news/2025/october/14/wattimena-dispatches-nine-dart-king-aspinall-win-pc31-wigan|title=Wattimena dispatches nine-dart king Aspinall to win Players Championship 31|publisher=[[Professional Darts Corporation]]|last=Gorton|first=Josh|date=14 October 2025|access-date=14 October 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 32|32]]
+|align=left| Wednesday 15 October
+| align="right" | {{PDCFlagR|Luke Littler|avg=(110.73)|b=1}}
+| align="center" | '''8''' – 2
+| {{PDCFlag|Dennie Olde Kalter|avg=(97.35)}}
+| align="center" |<ref> {{cite web|url=https://www.pdc.tv/news/2025/october/15/imperious-littler-seals-minehead-spot-pc32-success|title=Imperious Littler seals Minehead spot with PC32 success|publisher=[[Professional Darts Corporation]]|last=Gorton|first=Josh|date=15 October 2025|access-date=15 October 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 33|33]]
+|align=left| {{nowrap|Wednesday 29 October}}
+| align="right" | {{PDCFlagR|Chris Dobey|avg=(99.72)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|William O'Connor|avg=(96.46)}}
+| align="center" |<ref> {{cite web|url=https://www.pdc.tv/news/2025/october/29/dominant-dobey-confirms-grand-slam-spot-pc33-success|title=Dominant Dobey confirms Grand Slam spot with PC33 success|publisher=[[Professional Darts Corporation]]|last=Gorton|first=Josh|date=29 October 2025|access-date=29 October 2025}}</ref>
+|-
+|align=center| [[2025 PDC Players Championship series#Players Championship 34|34]]
+|align=left| Thursday 30 October
+| align="right" | {{PDCFlagR|Wessel Nijman|avg=(100.45)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Luke Woodhouse|avg=(97.33)}}
+| align="center" |<ref> {{cite web|url=https://www.pdc.tv/news/2025/october/30/nijman-rounds-2025-protour-season-superb-pc34-success|title=Nijman rounds off 2025 ProTour season with superb PC34 success|publisher=[[Professional Darts Corporation]]|last=Gorton|first=Josh|date=30 October 2025|access-date=30 October 2025}}</ref>
+|}
+
+==European Tour==
+{{further|PDC European Tour}}
+
+The '''PDC European Tour (ET)''' is a series of darts events that are part of the PDC Pro Tour. In 2025, the total number of events expanded to fourteen, one more than the previous years.<ref>{{cite web |last=Gorton |first=Josh |date=28 August 2024 |title=PDC European Tour expanded to 14 events with 2025 dates confirmed |url=https://www.pdc.tv/news/2024/august/28/pdc-european-tour-expanded-14-events-2025-dates-confirmed |publisher=PDC |access-date=28 August 2024}}</ref>
+
+In a change from the previous year, the top 16 on the two-year main [[PDC Order of Merit]] ranking were [[seeding (sports)|seeded]] for events, while the 16 qualifiers from the one-year Pro Tour Order of Merit ranking were unseeded.<ref>{{cite web |last=Shaw |first=Jamie |date=13 January 2025 |title=PDC confirm further controversial changes to European Tour criteria in 2025 |url=https://www.live-darts.com/pdc-darts-news/european-tour/pdc-confirm-further-changes-to-euro-tour-criteria/ |website=Live Darts |access-date=15 January 2025}}</ref><ref>{{cite web |last=Gill |first=Samuel |date=13 January 2025 |title=PDC European Tour rules change again in controversial move seeming to protect big names |url=https://dartsnews.com/pdc/pdc-european-tour-rules-change-again-in-controversial-move-seeming-to-protect-big-names |website=Darts News |access-date=15 January 2025 |archive-url=https://web.archive.org/web/20250115135120/https://dartsnews.com/pdc/pdc-european-tour-rules-change-again-in-controversial-move-seeming-to-protect-big-names |archive-date=15 January 2025 |url-status=dead}}</ref>
+
+The PDC European Tour Order of Merit is determined based on the total prize money won by each player in the European Tour events throughout the year. The top 32 players on this ranking qualified for the [[2025 European Championship (darts)|European Championship]].<ref>{{cite web |last=Gorton |first=Josh |date=28 August 2024 |title=PDC European Tour expanded to 14 events with 2025 dates confirmed |url=https://www.pdc.tv/news/2024/august/28/pdc-european-tour-expanded-14-events-2025-dates-confirmed |access-date=28 August 2024 |publisher=PDC}}</ref>
+
+[[Nathan Aspinall]] finished the year as the number one player on the European Tour Order of Merit, with [[Martin Schindler]] second and [[Stephen Bunting]] third.<ref>{{cite web |last=Gorton |first=Josh |date=19 October 2025 |title=2025 Machineseeker European Championship field and draw confirmed |url=https://www.pdc.tv/news/2025/october/19/2025-machineseeker-european-championship-field-and-draw-confirmed |access-date=20 October 2025 |publisher=PDC}}</ref>
+
+{| class="wikitable"
+|+ 2025 PDC European Tour season
+! No.
+! Date
+! Event
+! Location
+! Winner
+! Legs
+! Runner-up
+!{{Tooltip|Ref.|Reference}}
+|-
+|align=center| 1
+|align=left| 7–9 March
+| [[2025 Belgian Darts Open]]
+| {{flagicon|BEL}} [[Wieze]], Oktoberhallen
+| align="right" | {{PDCFlagR|Luke Littler|avg=(102.87)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Mike De Decker|avg=(92.25)}}
+| align="center"|<ref>{{cite web |date=9 March 2025 |title=Belgian Darts Open: Luke Littler beats Mike De Decker 8-5 to retain European Tour title |url=https://www.skysports.com/darts/news/12288/13325213/belgian-darts-open-luke-littler-beats-mike-de-decker-8-5-to-retain-european-tour-title |website=Sky Sports |access-date=9 March 2025}}</ref><ref>{{cite web |last=Collins |first=Ben |date=9 March 2025 |title=Littler beats De Decker to defend Belgian title |url=https://www.bbc.com/sport/darts/articles/c39v7rvxxnno |website=BBC Sport |access-date=10 March 2025}}</ref>
+|-
+|align=center| 2
+|align=left| 21–23 March
+| [[2025 European Darts Trophy]]
+| {{flagicon|GER}} [[Göttingen]], Lokhalle
+| align="right" | {{PDCFlagR|Nathan Aspinall|avg=(98.19)|b=1}}
+| align="center" | '''8''' – 4 
+| {{PDCFlag|Ryan Joyce|avg=(93.71)}}
+| align="center"|<ref>{{cite web |date=23 March 2025 |title=Aspinall wins first European Tour title |url=https://www.bbc.co.uk/sport/darts/articles/c7780k0rgngo |website=BBC Sport |access-date=23 March 2025}}</ref>
+|-
+|align=center| 3
+|align=left| 4–6 April
+| [[2025 International Darts Open]]
+| {{flagicon|GER}} [[Riesa]], [[Sachsen Arena|WT Energiesysteme Arena]]
+| align="right" | {{PDCFlagR|Stephen Bunting|avg=(100.19)|b=1}}
+| align="center" | '''8''' – 5 
+| {{PDCFlag|Nathan Aspinall|avg=(91.36)}}
+| align="center"| <ref>{{cite web |date=6 April 2025 |title=International Open darts: Bunting beats Aspinall to win International Open |url=https://www.bbc.co.uk/sport/darts/articles/cx2v530kl45o |website=[[BBC Sport]] |access-date=6 April 2025}}</ref>
+|-
+|align=center| 4
+|align=left| 19–21 April
+| [[2025 German Darts Grand Prix]]
+| {{flagicon|GER}} [[Munich]], [[Zenith (building)|Zenith]]
+| align="right" | {{PDCFlagR|Michael van Gerwen|avg=(95.98)|b=1}}
+| align="center" |  '''8''' – 5 
+| {{PDCFlag|Gian van Veen|avg=(96.53)}}
+| align="center"|<ref>{{cite web  |last=Drury |first= Sam |date=21 April 2025 |title=Van Gerwen wins German Grand Prix after nine-darter |url=https://www.bbc.com/sport/darts/articles/cg41e3e46d0o |website=[[BBC Sport]] |access-date=22 April 2025}}</ref>
+|-
+|align=center| 5
+|align=left| 25–27 April
+| [[2025 Austrian Darts Open]]
+| {{flagicon|AUT}} [[Graz]], Premstättner Halle
+| align="right" | {{PDCFlagR|Martin Schindler|avg=(93.66)|b=1}}
+| align="center" | '''8''' – 4 
+| {{PDCFlag|Ross Smith|avg=(91.36)}}
+| align="center"|<ref>{{cite web  |last=Phillips |first=Josh |date=27 April 2025 |title=Schindler claims third Euro Tour title in Graz |url=https://www.pdc.tv/news/2025/april/27/schindler-claims-third-euro-tour-title-graz |website=[[Professional Darts Corporation]] |access-date=28 April 2025}}</ref>
+|-
+|align=center| 6
+|align=left| 2–4 May
+| [[2025 European Darts Grand Prix]]
+| {{flagicon|GER}} [[Sindelfingen]], [[Glaspalast Sindelfingen|Glaspalast]]
+| align="right" | {{PDCFlagR|Gary Anderson|avg=(92.49)|b=1}}
+| align="center" | '''8''' – 0
+| {{PDCFlag|Andrew Gilding|avg=(85.59)}}
+| align="center"|<ref>{{Cite web  |last=Gorton |first=Josh |date=2025-05-04 |title=Anderson retains European Darts Grand Prix title in Sindelfingen |url=https://www.pdc.tv/news/2025/may/04/anderson-retains-european-darts-grand-prix-title-sindelfingen |access-date=2025-05-05 |website=PDC |language=en}}</ref>
+|-
+|align=center| 7
+|align=left| 23–25 May
+| [[2025 Dutch Darts Championship]]
+| {{flagicon|NED}} [[Rosmalen]], Autotron
+| align="right" | {{PDCFlagR|Jonny Clayton|avg=(98.69)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Niko Springer|avg=(98.54)}}
+| align="center"|<ref>{{citenews|url=https://www.pdc.tv/news/2025/05/25/comeback-king-clayton-claims-dutch-darts-championship-title-rosmalen|title=Comeback king Clayton claims Dutch Darts Championship title in Rosmalen|publisher=PDC|date=25 May 2025}}</ref>
+|-
+|align=center| 8
+|align=left| 30 May–1 June
+| [[2025 European Darts Open]]
+| {{flagicon|GER}} [[Leverkusen]], [[Ostermann-Arena]]
+| align="right" | {{PDCFlagR|Nathan Aspinall|avg=(100.43)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Damon Heta|avg=(97.17)}}
+| align="center"| <ref>{{citenews|url=https://www.pdc.tv/news/2025/06/01/awesome-aspinall-doubles-european-tour-title-tally-leverkusen-thriller|title=Awesome Aspinall doubles European Tour title tally in Leverkusen thriller|publisher=PDC|date=1 June 2025}}</ref> 
+|-
+|align=center| 9
+|align=left| 11–13 July
+| [[2025 Baltic Sea Darts Open]]
+| {{flagicon|GER}} [[Kiel]], [[Wunderino Arena]]
+| align="right" | {{PDCFlagR|Gerwyn Price|avg=(91.92)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Gary Anderson|avg=(89.80)}}
+| align="center"|<ref>{{Cite web |date=2025-07-13 |title=Rampant Price wins 2025 Elten Safety Shoes Baltic Sea Darts Open |url=https://www.pdc.tv/news/2025/july/13/rampant-price-wins-2025-elten-safety-shoes-baltic-sea-darts-open |access-date=2025-07-13 |website=PDC |language=en}}</ref>
+|-
+|align=center| 10
+|align=left| 29–31 August
+| [[2025 Flanders Darts Trophy]]
+| {{flagicon|BEL}} [[Antwerp]], Antwerp Expo
+| align="right" | {{PDCFlagR|Luke Littler|avg=(107.40)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Josh Rock|avg=(100.05)}}
+| align="center"|<ref>{{Cite web |date=2025-08-31 |title=Littler completes the Belgian double with win in Antwerp |url=https://www.pdc.tv/news/2025/august/31/littler-completes-belgian-double-win-antwerp |access-date=2025-09-01 |website=PDC |language=en}}</ref>
+|-
+|align=center| 11
+|align=left| 5–7 September
+| [[2025 Czech Darts Open]]
+| {{flagicon|CZE}} [[Prague]], PVA EXPO Praha
+| align="right" | {{PDCFlagR|Luke Humphries|avg=(93.89)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Josh Rock|avg=(94.12)}}
+| align="center"|<ref>{{cite web |last=Gorton |first=Josh |date=7 September 2025 |title=Humphries completes Gambrinus Czech Darts Open hat-trick in Prague |url=https://www.pdc.tv/news/2025/september/07/humphries-completes-gambrinus-czech-darts-open-hat-trick-prague |website=Professional Darts Corporation |access-date=7 September 2025}}</ref>
+|-
+|align=center| 12
+|align=left| 19–21 September
+| [[2025 Hungarian Darts Trophy]]
+| {{flagicon|HUN}} [[Budapest]], [[MVM Dome]]
+| align="right" | {{PDCFlagR|Niko Springer|avg=(89.28)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Danny Noppert|avg=(93.59)}}
+| align="center"|<ref>{{cite web |last=Simpson |first=Will |date=21 September 2025 |title=Springer claims remarkable maiden European Tour title in Budapest |url=https://www.pdc.tv/news/2025/september/21/springer-claims-remarkable-maiden-european-tour-title-budapest |website=Professional Darts Corporation |access-date=22 September 2025}}</ref>
+|-
+|align=center| 13
+|align=left| 26–28 September
+| [[2025 Swiss Darts Trophy]]
+| {{flagicon|SUI}} [[Basel]], [[St. Jakobshalle]]
+| align="right" | {{PDCFlagR|Stephen Bunting|avg=(103.90)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Luke Woodhouse|avg=(94.74)}}
+| align="center"|<ref>{{cite web |last=Gorton |first=Josh |date=28 September 2025 |title=Brilliant Bunting wins Swiss Darts Trophy in Basel |url=https://www.pdc.tv/news/2025/september/28/brilliant-bunting-wins-swiss-darts-trophy-basel |website=Professional Darts Corporation |access-date=28 September 2025}}</ref>
+|-
+|align=center| 14
+|align=left| 17–19 October
+| [[2025 German Darts Championship]]
+| {{flagicon|GER}} [[Hildesheim]], Halle 39
+| align="right" | {{PDCFlagR|Nathan Aspinall|avg=(97.05)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Dirk van Duijvenbode|avg=(92.91)}}
+| align="center"|<ref>{{cite web |last=Keogh |first=Frank |date=20 October 2025 |title=Aspinall wins third European event of season |url=https://www.bbc.com/sport/darts/articles/ckgky1zx8dko |website=BBC |access-date=20 October 2025}}</ref>
+|}
+
+==PDC secondary tours==
+=== Challenge Tour ===
+{{Main|2025 PDC Challenge Tour series}}
+{| class="wikitable" text-align:right; margin-left:1em"
+|+2025 Challenge Tour ranking<ref>{{cite web |title=Challenge Tour Order of Merit |url=https://www.dartsrankings.com/challengetour |website=DartsRankings}}</ref>
+|-
+! Rank
+! Player
+! Earnings
+|- 
+|align=center|1 ||style="text-align:left"| {{PDCFlag|Stefan Bellmont}} || £11,150
+|- style=
+|align=center|2 ||style="text-align:left"| {{PDCFlag|Darius Labanauskas}} || £10,200
+|- style=
+|align=center|3 ||style="text-align:left"| {{PDCFlag|Ted Evetts}} || £8,725
+|-
+|align=center|4 ||style="text-align:left"| {{PDCFlag|Mervyn King}} || £7,975
+|-
+|align=center|5 ||style="text-align:left"| {{PDCFlag|Michael Unterbuchner}} || £7,825
+|-
+|align=center|6 ||style="text-align:left"| {{PDCFlag|Jamai van den Herik}} || £7,400
+|-
+|align=center|7 ||style="text-align:left"| {{PDCFlag|Jack Tweddell}} || £7,175
+|-
+|align=center|8 ||style="text-align:left"| {{PDCFlag|Sam Spivey}} || £6,225
+|-
+|align=center|9 ||style="text-align:left"| {{PDCFlag|Alexander Merkx}} || £6,200
+|-
+|align=center|10 ||style="text-align:left"| {{PDCFlag|Jurjen van der Velde}} || £5,900
+|}
+
+{| class="wikitable"
+|+ 2025 PDC Challenge Tour season
+! No.
+! Date
+! Venue
+! Winner
+! Legs
+! Runner-up
+!{{Tooltip|Ref.|Reference}}
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 1|1]]
+|align=left rowspan="2" | Friday 17 January
+|align="center" rowspan="5" | [[Arena MK]],<br>{{flagicon|ENG}} [[Milton Keynes]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(94.49)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Stefan Bellmont|avg=(88.85)}}
+| align="center" |<ref>{{cite web |date=17 January 2025 |title=PDC Challenge Tour 01 • Final {{!}} (88.85) Stefan Bellmont 4–5 Beau Greaves (94.49) |url=https://recap.dartconnect.com/matches/678a77d1f63413a02a9f9050 |website=Dart Connect |access-date=17 January 2025}}</ref><ref name=SkyCT1>{{cite web |date=17 January 2025 |title=Beau Greaves wins first Challenge Tour event in opening competition of 2025 to become second woman to claim series title |url=https://www.skysports.com/darts/news/12288/13290858/beau-greaves-wins-first-challenge-tour-event-in-opening-competition-of-2025-to-become-second-woman-to-claim-series-title |website=[[Sky Sports]] |access-date=17 January 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 2|2]]
+| align="right" | {{PDCFlagR|Carl Sneyd|avg=(91.86)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Tommy Lishman|avg=(87.56)}}
+| align="center" |<ref>{{cite web |date=17 January 2025 |title=PDC Challenge Tour 02 • Final {{!}} (87.56) Tommy Lishman 1–5 Carl Sneyd (91.86) |url=https://recap.dartconnect.com/matches/678abaeaf63413a02a9fc944 |website=Dart Connect |access-date=17 January 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 3|3]]
+|align=left rowspan="2" | {{nowrap|Saturday 18 January}}
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(101.55)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|John Henderson|avg=(90.46)}}
+| align="center" | <ref>{{cite web |date=18 January 2025 |title=PDC Challenge Tour 03 • Final {{!}} (90.46) John Henderson 0–5 Beau Greaves (101.55) |url=https://recap.dartconnect.com/matches/678bce67f63413a02aa0d41c |website=Dart Connect |access-date=18 January 2025}}</ref><ref name=SkyCT3>{{cite web |date=18 January 2025 |title=Beau Greaves adds second Challenge Tour title after whitewashing John Henderson 5-0 |url=https://www.skysports.com/darts/news/12288/13290858/beau-greaves-wins-first-challenge-tour-event-in-opening-competition-of-2025-to-become-second-woman-to-claim-series-title |website=[[Sky Sports]] |access-date=19 January 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 4|4]]
+| align="right" | {{PDCFlagR|Darius Labanauskas|avg=(87.17)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Mervyn King|avg=(91.23)}}
+| align="center" | <ref>{{cite web |date=18 January 2025 |title=PDC Challenge Tour 04 • Final {{!}} (91.23) Mervyn King 3–5 Darius Labanauskas (87.17) |url=https://recap.dartconnect.com/matches/678c14a8f63413a02aa13345 |website=Dart Connect |access-date=18 January 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 5|5]]
+|align=left | Sunday 19 January
+| align="right" | {{PDCFlagR|Stefan Bellmont|avg=(95.80)|b=1}}
+| align="center" |  '''5''' – 1
+| {{PDCFlag|Danny Jansen|avg=(84.17)}}
+| align="center" | <ref>{{cite web |date=19 January 2025 |title=PDC Challenge Tour 05 • Final {{!}} (95.80) Stefan Bellmont 5–1 Danny Jansen (84.17) |url=https://recap.dartconnect.com/matches/678d1e1bf63413a02aa20cc2 |website=Dart Connect |access-date=19 January 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 6|6]]
+|align=left rowspan="2" | Friday 14 March
+|align="center" rowspan="5" | Halle 39,<br>{{flagicon|GER}} [[Hildesheim]]
+| align="right" | {{PDCFlagR|Dragutin Horvat|avg=(97.30)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Ted Evetts|avg=(91.05)}}
+| align="center" |<ref>{{cite web |date=14 March 2025 |title=PDC Challenge Tour 06 |url=https://tv.dartconnect.com/event/pdcct25e06/matches |website=DartConnect |access-date=14 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 7|7]]
+| align="right" | {{PDCFlagR|Darius Labanauskas|avg=(81.80)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Keegan Brown|avg=(70.61)}}
+| align="center" |<ref>{{cite web |date=14 March 2025 |title=PDC Challenge Tour 07 |url=https://tv.dartconnect.com/event/pdcct25e07/matches |website=DartConnect |access-date=14 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 8|8]]
+|align=left rowspan="2" | Saturday 15 March
+| align="right" | {{PDCFlagR|Darius Labanauskas|avg=(92.58)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Scott Waites|avg=(90.64)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 08 |url=https://tv.dartconnect.com/event/pdcct25e08/matches |website=DartConnect |access-date=15 March 2025 |date=15 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 9|9]]
+| align="right" | {{PDCFlagR|Ted Evetts|avg=(94.91)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Michael Unterbuchner|avg=(88.71)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 09 |url=https://tv.dartconnect.com/event/pdcct25e09/matches |website=DartConnect |access-date=15 March 2025 |date=15 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 10|10]]
+|align=left | Sunday 16 March
+| align="right" | {{PDCFlagR|Scott Campbell|avg=(91.59)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Dan Hands|avg=(88.71)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 10 |url=https://tv.dartconnect.com/event/pdcct25e09/matches |website=DartConnect |access-date=16 March 2025 |date=16 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 11|11]]
+|align=left rowspan="2" | Friday 2 May
+|align="center" rowspan="5" | [[Arena MK]],<br>{{flagicon|ENG}} [[Milton Keynes]]
+| align="right" | {{PDCFlagR|Mervyn King|avg=(101.55)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Henry Coates|avg=(89.48)}}
+| align="center" |<ref>{{Cite web |title=PDC Challenge Tour 11|url=https://tv.dartconnect.com/event/pdcct25e11/matches |access-date=2 May 2025|website=DartConnect}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 12|12]]
+| align="right" | {{PDCFlagR|Jamai Van den Herik|avg=(92.89)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Graham Hall|avg=(90.83)}}
+| align="center" |<ref>{{Cite web |title=PDC Challenge Tour 12 |url=https://tv.dartconnect.com/event/pdcct25e12/matches |access-date=3 May 2025 |website=DartConnect}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 13|13]]
+|align=left rowspan="2" | Saturday 3 May
+| align="right" | {{PDCFlagR|Danny van Trijp|avg=(90.21)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Graham Hall|avg=(88.96)}}
+| align="center" |<ref>{{Cite web |title=PDC Challenge Tour 13 |url=https://tv.dartconnect.com/event/pdcct25e13/matches |access-date=3 May 2025 |website=DartConnect}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 14|14]]
+| align="right" | {{PDCFlagR|Stefan Bellmont|avg=(85.07)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Keegan Brown|avg=(79.52)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 14 |url=https://tv.dartconnect.com/event/pdcct25e14/matches |website=DartConnect |access-date=3 May 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 15|15]]
+|align=left | Sunday 4 May
+| align="right" | {{PDCFlagR|Jack Tweddell|avg=(92.94)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Mervyn King|avg=(91.21)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 15 |url=https://tv.dartconnect.com/event/pdcct25e15/matches |website=DartConnect |access-date=4 May 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 16|16]]
+|align=left rowspan="2" | Friday 15 August
+|align="center" rowspan="5" | [[Leicester Arena]],<br>{{flagicon|ENG}} [[Leicester]]
+| align="right" | {{PDCFlagR|Joe Hunt|avg=(85.52)|b=1}}
+| align="center" |'''5''' – 4
+| {{PDCFlag|txt=Derek Maclean|flag=SCO|avg=(88.77)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 16 |url=https://tv.dartconnect.com/event/pdcct25e16/matches |website=DartConnect |access-date=15 August 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 17|17]]
+| align="right" | {{PDCFlagR|Lee Cocks|avg=(82.65)|b=1}}
+| align="center" |'''5''' – 3
+| {{PDCFlag|Jack Tweddell|avg=(87.00)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 17 |url=https://tv.dartconnect.com/event/pdcct25e17/matches |website=DartConnect |access-date=15 August 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 18|18]]
+|align=left rowspan="2" | Saturday 16 August
+| align="right" | {{PDCFlagR|David Davies|avg=(91.50)|b=1}}
+| align="center" |'''5''' – 3
+| {{PDCFlag|Alexander Merkx|avg=(86.17)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 18 |url=https://tv.dartconnect.com/event/pdcct25e18/matches |website=DartConnect |access-date=16 August 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 19|19]]
+| align="right" | {{PDCFlagR|Jamai van den Herik|avg=(96.11)|b=1}}
+| align="center" |'''5''' – 4
+| {{PDCFlag|Jenson Walker|avg=(89.34)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 19 |url=https://tv.dartconnect.com/event/pdcct25e19/matches |website=DartConnect |access-date=16 August 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 20|20]]
+|align=left | Sunday 17 August
+| align="right" | {{PDCFlagR|Scott Waites|avg=(100.38)|b=1}}
+| align="center" |'''5''' – 2
+| {{PDCFlag|Michael Unterbuchner|avg=(98.51)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 20 |url=https://tv.dartconnect.com/event/pdcct25e20/matches |website=DartConnect |access-date=17 August 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 21|21]]
+|align=left rowspan="2" | Saturday 25 October
+|align="center" rowspan="4" | Robin Park Tennis Centre,<br>{{flagicon|ENG}} [[Wigan]]
+| align="right" | {{PDCFlagR|Michael Unterbuchner|avg=(86.10)|b=1}}
+| align="center" |'''5''' – 3
+| {{PDCFlag|Pete Burgoyne|avg=(81.09)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 21 |url=https://tv.dartconnect.com/event/pdcct25e21/matches |website=DartConnect |access-date=25 October 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 22|22]]
+| align="right" | {{PDCFlagR|Jurjen van der Velde|avg=(99.97)|b=1}}
+| align="center" |'''5''' – 2
+| {{PDCFlag|Jamie Hughes|avg=(87.22)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 22 |url=https://tv.dartconnect.com/event/pdcct25e22/matches |website=DartConnect |access-date=25 October 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 23|23]]
+|align=left rowspan="2" | Sunday 26 October
+| align="right" | {{PDCFlagR|Stefan Bellmont|avg=(98.47)|b=1}}
+| align="center" |'''5''' – 3
+| {{PDCFlag|Daniel Ayres|avg=(88.86)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 23 |url=https://tv.dartconnect.com/event/pdcct25e23/matches |website=DartConnect |access-date=26 October 2025}}</ref>
+|-
+|align=center| [[2025 PDC Challenge Tour series#Challenge Tour 24|24]]
+| align="right" | {{PDCFlagR|Sam Spivey|avg=(81.44)|b=1}}
+| align="center" |'''5''' – 3
+| {{PDCFlag|Alexander Merkx|avg=(84.35)}}
+| align="center" |<ref>{{cite web |title=PDC Challenge Tour 24 |url=https://tv.dartconnect.com/event/pdcct25e24/matches |website=DartConnect |access-date=26 October 2025}}</ref>
+|}
+
+=== Development Tour ===
+{{Main|2025 PDC Development Tour series}}
+
+{| class="wikitable" text-align:right; margin-left:1em"
+|+2025 Development Tour ranking<ref>{{cite web |title=Development Tour Order of Merit |url=https://www.dartsrankings.com/developmenttour |website=DartsRankings}}</ref>
+|-
+! Rank
+! Player
+! Earnings
+|- style=
+|align=center|1 ||style="text-align:left"| {{PDCFlag|Cam Crabtree}} || £17,775
+|- 
+|align=center|2 ||style="text-align:left"| {{PDCFlag|Beau Greaves}} || £15,250
+|- style=
+|align=center|3 ||style="text-align:left"| {{PDCFlag|Owen Bates}} || £10,900
+|-
+|align=center|4 ||style="text-align:left"| {{PDCFlag|Charlie Manby}} || £10,125
+|-
+|align=center|5 ||style="text-align:left"| {{PDCFlag|Jamai van den Herik}} || £9,600
+|-
+|align=center|6 ||style="text-align:left"| {{PDCFlag|Jurjen van der Velde}} || £9,225
+|-
+|align=center|7 ||style="text-align:left"| {{PDCFlag|Sebastian Bialecki}} || £9,100
+|-
+|align=center|8 ||style="text-align:left"| {{PDCFlag|Dominik Gruellich}} || £8,725
+|-
+|align=center|9 ||style="text-align:left"| {{PDCFlag|Ryan Branley}} || £7,300
+|-
+|align=center|10 ||style="text-align:left"| {{PDCFlag|Leon Weber}} || £6,800
+|-
+|}
+
+{| class="wikitable"
+|+ 2025 PDC Development Tour season
+! No.
+! Date
+! Venue
+! Winner
+! Legs
+! Runner-up
+!{{Tooltip|Ref.|Reference}}
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 1|1]]
+|align=left rowspan="2" | Friday 21 February
+|align="center" rowspan="5" | [[Arena MK]],<br>{{flagicon|ENG}} [[Milton Keynes]]
+| align="right" | {{PDCFlagR|Sebastian Bialecki|avg=(89.34)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Owen Bates|avg=(92.89)}}
+| align="center" |<ref name=DT1&2>{{cite web |last1=Wood-Thompson |first1=Lewis |date=21 February 2025 |title=Bialecki & Greaves win opening 2025 Development Tour titles |url=https://www.pdc.tv/news/2025/february/21/bialecki-greaves-win-opening-2025-development-tour-titles |publisher=[[Professional Darts Corporation]] |access-date=21 February 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 2|2]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(91.54)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Levy Frauenfelder|avg=(88.77)}}
+| align="center" |<ref name=DT1&2/>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 3|3]]
+|align=left rowspan="2" | Saturday 22 February
+| align="right" | {{PDCFlagR|Owen Bates|avg=(85.59)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Charlie Manby|avg=(90.00)}}
+| align="center" |<ref name=DT3&4>{{cite web |last1=Gorton |first1=Josh |date=22 February 2025 |title=Greaves & Bates triumph on Winmau Development Tour, as Manby makes history |url=https://www.pdc.tv/news/2025/february/22/greaves-bates-triumph-winmau-development-tour-manby-makes-history |publisher=[[Professional Darts Corporation]] |access-date=22 February 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 4|4]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(97.68)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|James Beeton|avg=(96.58)}}
+| align="center" |<ref name=DT3&4/>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 5|5]]
+|align=left | Sunday 23 February
+| align="right" | {{PDCFlagR|Bradly Roes|avg=(83.11)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Oliver Pearce-Burgess|avg=(76.01)}}
+| align="center" |<ref name=DT5>{{cite web |last1=Wagner |first1=Connor |date=23 February 2025 |title=Rampant Roes secures first Development Tour crown at Event Five |url=https://www.pdc.tv/news/2025/february/23/rampant-roes-secures-first-development-tour-crown-event-five |publisher=[[Professional Darts Corporation]] |access-date=23 February 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 6|6]]
+|align=left rowspan="2" | Friday 28 March
+|align="center" rowspan="5" |  [[Leicester Arena]],<br>{{flagicon|ENG}} [[Leicester]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(100.68)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Henry Coates|avg=(89.06)}}
+| align="center" |<ref name=DT6&7>{{cite web |last1=Gorton |first1=Josh |title=Brilliant Beau and Branley secure Development Tour success in Leicester |url=https://www.pdc.tv/news/2025/march/28/brilliant-beau-and-branley-secure-development-tour-success-leicester |publisher=[[Professional Darts Corporation]] |access-date=7 April 2025 |language=en |date=28 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 7|7]]
+| align="right" | {{PDCFlagR|Ryan Branley|avg=(86.26)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Dominik Gruellich|avg=(94.47)}}
+| align="center" |<ref name=DT6&7 />
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 8|8]]
+|align=left rowspan="2" | Saturday 29 March
+| align="right" | {{PDCFlagR|Patrik Williams|avg=(85.88)|b=1}}
+| align="center" |'''5''' – 2
+| {{PDCFlag|Nathan Potter|avg=(83.06)}}
+| align="center" |<ref name=DT8&9>{{cite web |last1=Wagner |first1=Connor |title=Bates doubles his tally, as Williams wins maiden title in Leicester |url=https://www.pdc.tv/news/2025/march/29/bates-doubles-his-tally-williams-wins-maiden-title-leicester |publisher=[[Professional Darts Corporation]] |access-date=7 April 2025 |language=en |date=29 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 9|9]]
+| align="right" | {{PDCFlagR|Owen Bates|avg=(99.43)|b=1}}
+| align="center" |'''5''' – 2
+| {{PDCFlag|Leon Weber|avg=(91.00)}}
+| align="center" |<ref name=DT8&9 />
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 10|10]]
+|align=left | Sunday 30 March
+| align="right" | {{PDCFlagR|Dominik Gruellich|avg=(98.88)|b=1}}
+| align="center" |'''5''' – 0
+| {{PDCFlag|Leon Weber|avg=(91.30)}}
+| align="center" |<ref>{{cite web |last1=Simpson |first1=Will |title=Gruellich gains maiden Development Tour title in Leicester |url=https://www.pdc.tv/news/2025/march/30/gruellich-gains-maiden-development-tour-title-leicester |website=[[Professional Darts Corporation]] |access-date=31 March 2025 |language=en |date=30 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 11|11]]
+|align=left rowspan="2" | Friday 9 May
+|align="center" rowspan="5" | Halle 39,<br>{{flagicon|GER}} [[Hildesheim]]
+| align="right" | {{PDCFlagR|Cam Crabtree|avg=(92.52)|b=1}}
+| align="center" |'''5''' – 2
+| {{PDCFlag|Adam Gawlas|avg=(90.14)}}
+| align="center" |<ref name="DT11&12">{{cite web |last1=Bellenie |first1=Ryan |title=Crabtree and Barkhausen enjoy Development Tour success in Hildesheim |url=https://www.pdc.tv/news/2025/may/09/crabtree-and-barkhausen-enjoy-development-tour-success-hildesheim |publisher=[[Professional Darts Corporation]] |access-date=10 May 2025 |language=en |date=9 May 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 12|12]]
+| align="right" | {{PDCFlagR|Jannis Barkhausen|avg=(82.35)|b=1}}
+| align="center" |'''5''' – 2
+| {{PDCFlag|Owen Bates|avg=(81.98)}}
+| align="center" |<ref name="DT11&12"/>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 13|13]]
+|align=left rowspan="2" | Saturday 10 May
+| align="right" | {{PDCFlagR|Cam Crabtree|avg=(89.70)|b=1}}
+| align="center" |'''5''' – 1
+| {{PDCFlag|Patrik Williams|avg=(77.42)}}
+| align="center" |<ref name="DT13&14">{{cite web |last1=Wagner |first1=Connor |title=Crabtree doubles his title tally, as Van der Velde returns to winning ways |url=https://www.pdc.tv/news/2025/may/10/crabtree-doubles-his-title-tally-van-der-velde-returns-winning-ways |website=PDC |access-date=10 May 2025 |language=en |date=10 May 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 14|14]]
+| align="right" | {{PDCFlagR|Jurjen van der Velde|avg=(91.85)|b=1}}
+| align="center" |'''5''' – 4
+| {{PDCFlag|Henry Coates|avg=(86.60)}}
+| align="center" |<ref name="DT13&14"/>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 15|15]]
+|align=left | Sunday 11 May
+| align="right" | {{PDCFlagR|Cam Crabtree|avg=(90.54)|b=1}}
+| align="center" |'''5''' – 0
+| {{PDCFlag|Jenson Walker|avg=(77.33)}}
+| align="center" |<ref>{{cite web |last1=Gorton |first1=Josh |title=Crabtree completes Development Tour hat-trick In Hildesheim |url=https://www.pdc.tv/news/2025/may/11/crabtree-completes-development-tour-hat-trick-hildesheim |website=PDC |access-date=11 May 2025 |language=en |date=11 May 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 16|16]]
+|align=left rowspan="2" | Friday 5 September
+|align="center" rowspan="9" | Robin Park Tennis Centre,<br>{{flagicon|ENG}} [[Wigan]]
+| align="right" | {{PDCFlagR|Charlie Manby|avg=(93.02)|b=1}}
+| align="center" |'''5''' – 4
+| {{PDCFlag|Owen Bates|avg=(91.39)}}
+| align="center" |<ref name="16&17">{{cite web |last1=Wagner |first1=Connor |title=Manby and van den Herik share the spoils in Wigan |url=https://www.pdc.tv/news/2025/september/05/manby-and-van-den-herik-share-spoils-wigan |website=PDC |access-date=6 September 2025 |date=5 September 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 17|17]]
+| align="right" | {{PDCFlagR|Jamai van den Herik|avg=(97.76)|b=1}}
+| align="center" |'''5''' – 1
+| {{PDCFlag|Cam Crabtree|avg=(87.17)}}
+| align="center" |<ref name="16&17"/>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 18|18]]
+|align=left rowspan="2" | Saturday 6 September
+| align="right" | {{PDCFlagR|Tyler Thorpe|avg=(98.45)|b=1}}
+| align="center" |'''5''' – 3
+| {{PDCFlag|Viktor Tingstrom|avg=(89.55)}}
+| align="center" |<ref name="18&19">{{cite web |last=Gorton |first=Josh |date=6 September 2025 |title=Clinical Crabtree extends his lead at top of Development Tour rankings |url=https://www.pdc.tv/news/2025/september/06/clinical-crabtree-extends-his-lead-top-development-tour-rankings |website=PDC |access-date=7 September 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 19|19]]
+| align="right" | {{PDCFlagR|Cam Crabtree|avg=(86.90)|b=1}}
+| align="center" |'''5''' – 3
+| {{PDCFlag|Sebastian Bialecki|avg=(87.90)}}
+| align="center" |<ref name="18&19"/>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 20|20]]
+|align=left | Sunday 7 September
+| align="right" | {{PDCFlagR|Jurjen van der Velde|avg=(92.21)|b=1}}
+| align="center" |'''5''' – 2
+| {{PDCFlag|Henry Coates|avg=(88.14)}}
+| align="center" |<ref>{{cite web |last=Phillips |first=Josh |date=7 September 2025 |title=Van der Velde doubles 2025 Development Tour title tally |url=https://www.pdc.tv/news/2025/september/07/van-der-velde-doubles-2025-development-tour-title-tally |website=Professional Darts Corporation |access-date=8 September 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 21|21]]
+|align=left rowspan="2" | Saturday 11 October
+| align="right" | {{PDCFlagR|Dominik Gruellich|avg=(84.06)|b=1}}
+| align="center" |'''5''' – 4
+| {{PDCFlag|Beau Greaves|avg=(86.66)}}
+| align="center" |<ref name="21&22"> {{cite web|url=https://www.pdc.tv/news/2025/october/11/crabtree-gruellich-share-dev-tour-spoils-greaves-secures-pdc-tour-card|title=Crabtree & Gruellich share Dev Tour spoils; Greaves secures PDC Tour Card|website=Professional Darts Corporation|last=Gorton|first=Josh|date=11 October 2025|access-date=13 October 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 22|22]]
+| align="right" | {{PDCFlagR|Cam Crabtree|avg=(81.28)|b=1}}
+| align="center" |'''5''' – 2
+| {{PDCFlag|Viktor Tingstrom|avg=(77.14)}}
+| align="center" |<ref name="21&22"/>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 23|23]]
+|align=left rowspan="2" | Sunday 12 October
+| align="right" | {{PDCFlagR|Jamai van den Herik|avg=(78.52)|b=1}}
+| align="center" |'''5''' – 4
+| {{PDCFlag|Cayden Smith|avg=(85.00)}}
+| align="center" |<ref name="23&24"> {{cite web|url=https://www.pdc.tv/news/2025/october/12/crabtree-tops-winmau-development-tour-rankings-duo-share-final-titles|title=Crabtree tops Winmau Development Tour rankings as duo share final titles|website=Professional Darts Corporation|last=Gorton|first=Josh|date=12 October 2025|access-date=13 October 2025}}</ref>
+|-
+|align=center| [[2025 PDC Development Tour series#Development Tour 24|24]]
+| align="right" | {{PDCFlagR|Leon Weber|avg=(102.95)|b=1}}
+| align="center" |'''5''' – 0
+| {{PDCFlag|Adam Gawlas|avg=(84.22)}}
+| align="center" |<ref name="23&24"/>
+|}
+
+=== Women's Series ===
+{{Main|2025 PDC Women's Series}}
+
+{| class="wikitable" style=text-align:right; margin-left:1em"
+|+2025 Women's Series standings<ref>{{cite web |title=Women's Series Order of Merit |url=https://www.dartsrankings.com/womens-series |website=DartsRankings}}</ref>
+|-
+! Rank
+! Player
+! Prize money
+|- style="background-color:#DDBBDD;"
+|align=center| 1 ||style="text-align:left"| {{PDCFlag|Beau Greaves}}{{Efn|Greaves qualified for the World Championship via the [[2025 PDC Development Tour series|Development Tour]].}} || £37,600
+|- style="background-color:#FFFFBB;"
+|align=center| 2 ||style="text-align:left"| {{PDCFlag|Fallon Sherrock}} || £14,600
+|- style="background-color:#BBF3FF"
+|align=center| 3 ||style="text-align:left"| {{PDCFlag|Lisa Ashton}} || £11,100
+|- style="background-color:#FFFFBB;"
+|align=center| 4 ||style="text-align:left"| {{PDCFlag|Noa-Lynn van Leuven}} || £9,600
+|- style="background-color:#FFFFBB;"
+|align=center| 5 ||style="text-align:left"| {{PDCFlag|Gemma Hayter}} || £8,500
+|-
+|align=center| 6 ||style="text-align:left"| {{PDCFlag|Kirsi Viinikainen}} || £6,600
+|-
+|align=center| 7 ||style="text-align:left"| {{PDCFlag|Robyn Byrne}} || £5,600
+|-
+|align=center| 8 ||style="text-align:left"| {{PDCFlag|Lorraine Winstanley}} || £5,400
+|-
+|align=center| 9 ||style="text-align:left"| {{PDCFlag|Rhian O'Sullivan}} || £5,000
+|-
+|align=center| 10 ||style="text-align:left"| {{PDCFlag|Aileen de Graaf}} || £4,400
+|-
+|}
+
+{| class="wikitable"
+!width=400|Tournament qualifications through PDC Women's Series
+|-
+|style="background-color:#DDBBDD;"|2025 Grand Slam of Darts
+|-
+|style="background-color:#FFFFBB;"|2026 PDC World Championship
+|-
+|style="background-color:#BBF3FF;"|Women's World Matchplay winner. Direct qualification to 2025 Grand Slam of Darts and 2026 PDC World Championship.
+|}
+{{notelist-la}}
+
+{| class="wikitable"
+|-
+! No.
+! Date
+! Venue
+! Winner
+! Legs
+! Runner-up
+!{{Tooltip|Ref.|Reference}}
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 1|1]]
+|align=left rowspan="2" | Saturday 15 February
+|align="center" rowspan="8" |  [[Leicester Arena]],<br>{{flagicon|ENG}} [[Leicester]]
+| align="right" | {{PDCFlagR|Lisa Ashton|avg=(92.01)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Gemma Hayter|avg=(78.08)}}
+| align="center" |<ref name=SkyWS2>{{cite web |date=15 January 2025 |title=Fallon Sherrock beats Beau Greaves in PDC Women's Series event final to win 19th title |url=https://www.skysports.com/darts/news/12288/13310380/fallon-sherrock-beats-beau-greaves-in-pdc-womens-series-event-final-to-win-19th-title |publisher=[[Sky Sports]] |access-date=16 February 2025}}</ref><ref>{{cite web |last=Wood |first=Kieran |date=15 February 2025 |title=Lisa Ashton takes first title of 2025 PDC Women's Series |url=https://dartsnews.com/pdc/lisa-ashton-takes-title-at-first-pdc-womens-series-tournament-of-2025 |publisher=Darts News |access-date=15 February 2025}}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 2|2]]
+| align="right" | {{PDCFlagR|Fallon Sherrock|avg=(76.85)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Beau Greaves|avg=(76.93)}}
+| align="center" |<ref name=SkyWS2/><ref>{{cite web |date=15 February 2025 |last=Wood |first=Kieran |title=Fallon Sherrock denies Beau Greaves in final to take victory at 2nd tournament of PDC Women's Series 2025 |url=https://dartsnews.com/pdc/fallon-sherrock-denies-beau-greaves-in-final-to-take-victory-at-2nd-tournament-of-pdc-womens-series-2025 |publisher=Darts News |access-date=15 February 2025 }}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 3|3]]
+|align=left rowspan="2" | Sunday 16 February
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(91.42)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Robyn Byrne|avg=(72.75)}}
+| align="center" |<ref name=SkyGreaves3&4>{{cite web |date=16 February 2025 |title=Beau Greaves claims back-to-back PDC Women's Series titles in Leicester to round off opening weekend |url=https://www.skysports.com/darts/news/12288/13311076/beau-greaves-claims-back-to-back-pdc-womens-series-titles-in-leicester-to-round-off-opening-weekend |publisher=[[Sky Sports]] |access-date=17 February 2025}}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 4|4]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(89.77)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Gemma Hayter|avg=(92.93)}}
+| align="center" |<ref name=SkyGreaves3&4/>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 5|5]]
+|align=left rowspan="2" | Saturday 8 March
+| align="right" | {{PDCFlagR|Kirsi Viinikainen|avg=(84.89)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Fallon Sherrock|avg=(80.60)}}
+| align="center" |<ref name=WS5&6>{{cite web |last=Gorton |first=Josh |date=8 March 2025 |title=Viinikainen & Greaves share PDC Women's Series success |url=https://www.pdc.tv/news/2025/march/08/viinikainen-greaves-share-pdc-womens-series-success |publisher=[[Professional Darts Corporation]] |access-date=8 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 6|6]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(86.88)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Lisa Ashton|avg=(85.15)}}
+| align="center" |<ref name=WS5&6/>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 7|7]]
+|align=left rowspan="2" | Sunday 9 March
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(92.78)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Katie Sheldon|avg=(73.78)}}
+| align="center" |<ref name=WS7&8>{{cite web |last=Gorton |first=Josh |date=9 March 2025 |title=Double delight for outstanding Greaves in PDC Women's Series 7-8 |url=https://www.pdc.tv/news/2025/march/09/double-delight-outstanding-greaves-pdc-womens-series-7-8 |publisher=[[Professional Darts Corporation]] |access-date=9 March 2025}}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 8|8]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(80.41)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Robyn Byrne|avg=(76.20)}}
+| align="center" |<ref name=WS7&8/>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 9|9]]
+|align=left rowspan="2" | Saturday 12 April
+|align="center" rowspan="4" | Autotron,<br>{{flagicon|NED}} [[Rosmalen]]
+| align="right" | {{PDCFlagR|Noa-Lynn van Leuven|avg=(78.28)|b=1}}
+| align="center" |  '''5''' – 0
+| {{PDCFlag|Stefanie Luck|avg=(72.37)}}
+| align="center" |<ref name=WS9&10>{{cite web |last=Gorton |first=Josh |date=12 April 2025 |title=Van Leuven seals back-to-back title wins in Rosmalen|url=https://www.pdc.tv/news/2025/april/12/noa-lynn-van-leuven-seals-back-back-title-wins-rosmalen |publisher=[[Professional Darts Corporation]] |access-date=13 April 2025}}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 10|10]]
+| align="right" | {{PDCFlagR|Noa-Lynn Van Leuven|avg=(80.41)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Rhian O'Sullivan|avg=(67.38)}}
+| align="center" |<ref name=WS9&10 />
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 11|11]]
+|align=left rowspan="2" | Sunday 13 April
+| align="right" | {{PDCFlagR|Fallon Sherrock|avg=(81.68)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Lisa Ashton|avg=(74.40)}}
+| align="center" |<ref name=WS11&12>{{cite web |last1=Gorton |first1=Josh |title=Sherrock & Greaves add to their Women's Series title hauls in Rosmalen |url=https://www.pdc.tv/news/2025/april/13/sherrock-greaves-add-their-womens-series-title-hauls-rosmalen |publisher=[[Professional Darts Corporation]] |access-date=13 April 2025 |language=en |date=13 April 2025}}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 12|12]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(100.20)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Robyn Byrne|avg=(72.13)}}
+| align="center" |<ref name=WS11&12 />
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 13|13]]
+|align=left rowspan="2" | Saturday 7 June
+|align="center" rowspan="8" | [[Arena MK]],<br>{{flagicon|ENG}} [[Milton Keynes]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(89.37)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Fallon Sherrock|avg=(84.42)}}
+| align="center" |<ref name=WS13&14>{{cite web |title=Beau Greaves beats Fallon Sherrock and Lorraine Winstanley to win two more PDC Women's Series titles |url=https://www.skysports.com/darts/news/12288/13380492/beau-greaves-beats-fallon-sherrock-and-lorraine-winstanley-to-win-two-more-pdc-womens-series-titles |website=[[Sky Sports]] |access-date=7 June 2025 |date=7 June 2025}}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 14|14]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(87.90)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Lorraine Winstanley|avg=(80.12)}}
+| align="center" |<ref name=WS13&14 />
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 15|15]]
+|align=left rowspan="2" | Sunday 8 June
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(90.57)|b=1}}
+| align="center" |  '''5''' – 2
+| {{PDCFlag|Rhian O'Sullivan|avg=(75.11)}}
+| align="center" |<ref name=WS15&16>{{cite web |title=Beau Greaves takes clean sweep of Women's Series titles in Milton Keynes |url=https://www.skysports.com/darts/news/12288/13380778/beau-greaves-takes-clean-sweep-of-womens-series-titles-in-milton-keynes |website=Sky Sports |access-date=8 June 2025 |date=8 June 2025}}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 16|16]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(86.88)|b=1}}
+| align="center" |  '''5''' – 1
+| {{PDCFlag|Lisa Ashton|avg=(76.88)}}
+| align="center" |<ref name=WS15&16 />
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 17|17]]
+|align=left rowspan="2" | Saturday 23 August
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(94.97)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Fallon Sherrock|avg=(91.63)}}
+| align="center" |<ref name="WS17&18">{{cite web |last1=Gorton |first1=Josh |title=Double delight for dominant Greaves in MK |url=https://www.pdc.tv/news/2025/august/23/double-delight-dominant-greaves-mk |website=PDC |access-date=26 August 2025 |language=en |date=23 August 2025}}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 18|18]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(90.54)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Aileen de Graaf|avg=(77.87)}}
+| align="center" |<ref name="WS17&18" />
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 19|19]]
+|align=left rowspan="2" | Sunday 24 August
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(98.56)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Fallon Sherrock|avg=(88.23)}}
+| align="center" |<ref name="WS19&20">{{cite web |last1=Wagner |first1=Connor |title=Dominant Greaves runs riot in Milton Keynes |url=https://www.pdc.tv/news/2025/august/24/dominant-greaves-runs-riot-milton-keynes |website=PDC |access-date=26 August 2025 |language=en |date=24 August 2025}}</ref>
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 20|20]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(77.96)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Lisa Ashton|avg=(81.65)}}
+| align="center" |<ref name="WS19&20" />
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 21|21]]
+|align=left rowspan="2" | Saturday 18 October
+|align="center" rowspan="4" | Robin Park Tennis Centre,<br>{{flagicon|ENG}} [[Wigan]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(99.18)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Fallon Sherrock|avg=(96.16)}}
+| align="center" |
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 22|22]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(101.98)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Fallon Sherrock|avg=(95.67)}}
+| align="center" |
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 23|23]]
+|align=left rowspan="2" | Sunday 19 October
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(92.78)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Gemma Hayter|avg=(81.85)}}
+| align="center" |
+|-
+|align=center| [[2025 PDC Women's Series#Women's Series 24|24]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(100.29)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Noa-Lynn van Leuven|avg=(87.08)}}
+| align="center" |
+|}
+
+==References==
+{{Reflist|30em}}
+
+{{2025 in PDC darts}}
+{{PDC Pro Tour}}
+
+[[Category:2025 PDC Pro Tour| ]]
+[[Category:PDC Pro Tour]]

@@ -1,0 +1,875 @@
+{{Short description|Darts tournament}}
+{{Infobox individual darts tournament
+| tournament_name = 2026 WDF World Darts Championship
+| image           =
+| dates           = 27 November – 6 December 2026
+| venue           = [[Lakeside Leisure Complex|Lakeside Country Club]]
+| location        = [[Frimley Green]], Surrey, England
+| country         = 
+| organisation    = [[World Darts Federation]] (WDF)
+| format          = [[Set (darts)|Sets]]
+| prize_fund      = £223,500 (total)
+| winners_share   = {{unbulleted list|£50,000 (open)|£25,000 (women)|£3,250 (youth)|£1,650 (girls)}}
+| nine_dart       = 
+| high_checkout   = 
+| winner          = 
+| prev            = [[2025 WDF World Darts Championship|2025]]
+| next            = [[2027 WDF World Darts Championship|2027]]
+|}}
+
+The '''2026 WDF World Darts Championship''' is an upcoming [[darts]] tournament that will be held from 27 November to 6 December 2026 at the [[Lakeside Leisure Complex|Lakeside Country Club]] in [[Frimley Green]], Surrey, England. It is the fifth [[WDF World Darts Championship|World Darts Championship]] to be organised by the [[World Darts Federation]] since it succeeded the now-defunct [[British Darts Organisation]].<ref>{{cite web |date=15 December 2021 |title=WDF World Darts Championship postponed: 2022 Lakeside tournament pushed back to April |url=https://www.skysports.com/darts/news/12288/12496541/wdf-world-darts-championship-postponed-2022-lakeside-tournament-pushed-back-to-april |website=Sky Sports |access-date=10 August 2026}}</ref> The open tournament, women's tournament, youth tournament, and girls' tournament will share a total prize fund of £223,500, with the open champion receiving the biggest winner's prize of £50,000.
+
+In the senior competitions, [[Jimmy van Schie]] is the reigning open champion after beating [[Mitchell Lawrie]] 6–3 in the [[2025 WDF World Darts Championship#Open|2025 open final]]; however, Van Schie is unable to defend his title after winning a [[PDC Tour Card]] in January 2026.<ref name="Lawrie25">{{cite web |date=7 December 2025 |title=Mitchell Lawrie, 15, described as 'future of darts' after 6-3 loss to Jimmy van Schie in WDF World Darts Championship final |url=https://www.skysports.com/darts/news/13480680/mitchell-lawrie-15-described-as-future-of-darts-after-6-3-loss-to-jimmy-van-schie-in-wdf-world-darts-championship-final |website=Sky Sports |access-date=8 November 2026}}</ref><ref>{{cite web |last=Gorton |first=Josh |date=11 January 2026 |title=Manby & De Zwaan secure automatic Tour Cards as 2026 Q Schools conclude |url=https://www.pdc.tv/news/2026/january/11/manby-de-zwaan-secure-automatic-tour-cards-2026-q-schools-conclude |website=Professional Darts Corporation |access-date=8 November 2026}}</ref> [[Deta Hedman]] is the defending women's champion, having defeated Lerena Rietbergen 4–1 in the 2025 women's final.<ref>{{cite web |last=Adams |first=Lewis |date=10 December 2025 |title=Darts champion 'blubbered like a child' after win |url=https://www.bbc.com/news/articles/clyzx9l3k2jo |website=BBC |access-date=8 November 2026}}</ref> In the youth competitions, Lawrie is the defending world youth champion, having beaten Florian Preis 4–2 in the 2025 final while [[Zehra Gemi]] is the defending girls' world champion, having won the 2025 final 3–0 against Rebecca Allen.<ref name="Lawrie25"/><ref>{{cite web |date=7 December 2025 |title=Glory for Gemi in WDF Girls' World Championship |url=https://dartswdf.com/news/glory-for-gemi-in-wdf-girls-world-championship |website=World Darts Federation |access-date=8 November 2026}}</ref>
+
+== Prize money ==
+A total of £223,500 will be on offer across the four events. The prize fund for the open and women's event remained the same as 2024 and 2025. The winner of the open event receives the highest prize of £50,000.<ref name="2026WDFPrizeMoney">{{cite web |date=11 October 2026 |title=£223,500 prize fund on offer at 2026 WDF World Championships |url=https://dartswdf.com/news/223-500-prize-fund-on-offer-at-2026-wdf-world-championships |website=World Darts Federation |access-date=11 October 2026}}</ref>
+
+{| class="wikitable"
+!rowspan=2|Position
+!colspan=4|Prize money
+|-
+!width=70px| Open
+!width=70px| Women
+!width=70px| Youth
+!width=70px| Girls
+|-
+|'''Winner'''
+| align="center" |£50,000
+| align="center" |£25,000
+| align="center" |£3,250
+| align="center" |£1,650
+|-
+|'''Runner-up''' 
+| align="center" |£16,000
+| align="center" |£8,000
+| align="center" |£1,600
+| align="center" |£1,000
+|-
+|'''Semi-finalist'''
+| align="center" |£8,000
+| align="center" |£4,000
+| align="center" |£1,000
+| align="center" |£500
+|-
+|'''Quarter-finalist'''
+| align="center" |£4,000
+| align="center" |£2,000
+| align="center" |£500
+| align="center" |£300
+|-
+|'''Last 16'''
+| align="center" |£2,000
+| align="center" |£1,000
+| align="center" |£350
+| rowspan=5 {{n/a}}
+|-
+|'''Last 24'''
+| {{n/a}}
+| align="center" |£750
+| rowspan=4 {{n/a}}
+|-
+|'''Last 32'''
+| align="center" |£1,250
+| rowspan=2 {{n/a}}
+|-
+|'''Last 48'''
+| align="center" |£750
+|-
+! colspan="5" |
+|-
+|'''Event totals'''
+| align="center" |£146,000
+| align="center" |£63,000
+| align="center" |£10,250
+| align="center" |£4,250
+|-
+! colspan="5" |
+|-
+|'''Overall total'''
+| colspan="5" align="center" |£223,500
+|}
+
+== Open ==
+=== Open – Format and qualifiers ===
+The open event consists of 48 players. Qualification for the event followed these criteria:<ref name="SeniorPDF">{{cite web |title=2026 WDF Lakeside World Championships – Seniors – Qualification Criteria |url=https://dartswdf.com/storage/uploads/dc1d2527-99b5-4df7-9375-6ef75d776403/2026-06-02_WDF_World_Champs_Qualification_Criteria-Senior.pdf |website=World Darts Federation |access-date=3 November 2026}}</ref>
+
+#Top 16 players in the WDF World Championship race table (seeded in the second round)
+#Winners of the Platinum/Gold ranked tournaments
+#First and second-ranked players from each of the nine regional tables
+#Four qualifiers from the last-chance qualification tournaments (two in [[Las Vegas]] and two at [[Lakeside Leisure Complex|Lakeside]])
+#Next highest-ranked players in the WDF World Championship race table to bring the total entry list to 48
+
+The list of participants is shown below:<ref name="Fields">{{cite web |title=2026 WDF World Championships Fields |url=https://dartswdf.com/news/2026-wdf-world-championships-fields |website=World Darts Federation |access-date=8 November 2026 |date=1 November 2026}}</ref>
+
+{{col-begin}}
+{{col-break}}
+'''1–16 in WDF rankings'''<br/>''Seeded in second round''
+# {{flagathlete|[[Mitchell Lawrie]]|SCO}}
+# {{flagathlete|[[Jenson Walker]]|ENG}}
+# {{flagathlete|{{ill|Paul Krohne|de}}|GER}}
+# {{flagathlete|[[Leonard Gates]]|USA}}
+# {{flagathlete|[[James Beeton]]|ENG}}
+# {{flagathlete|[[Matthew Edgar]]|ENG}}
+# {{flagathlete|[[Moreno Blom]]|NED}}
+# {{flagathlete|[[Kaya Baysal]]|TUR}}
+# {{flagathlete|[[Mürsel Yavuz]]|TUR}}
+# {{flagathlete|[[Ross Montgomery]]|SCO}}
+# {{flagathlete|[[Corné Groeneveld]]|NED}}
+# {{flagathlete|[[Jarno Bottenberg]]|NED}}
+# {{flagathlete|[[Chris Lim]]|USA}}
+# {{flagathlete|[[Brian Raman]]|BEL}}
+# {{flagathlete|[[Neil Duff]]|NIR}}
+# {{flagathlete|[[Scott Robertson (darts player)|Scott Robertson]]|SCO}}
+{{col-break}}
+{{col-break}}
+'''Platinum/Gold event winners'''<br/>''First round''
+* {{flagathlete|{{ill|David Davies (darts player)|lt=David Davies|de|David Davies (Dartspieler)}}|WAL}}
+* <s>{{flagathlete|[[Jack Drayton]]|ENG}}</s>{{Efn|Jack Drayton withdrew from the tournament after qualifying for the [[2027 PDC World Darts Championship]]. He was replaced by Aaron Turner.}}
+* {{flagathlete|[[Jeff Smith (darts player)|Jeff Smith]]|CAN}}
+* {{flagathlete|{{ill|Ryūsei Azemoto|de}}|JPN}}
+* {{flagathlete|[[Mark Cleaver]]|NZL}}
+* {{flagathlete|[[Blake Hatchett]]|AUS}}
+* {{flagathlete|[[Terry Tan]]|MYS}}
+'''Regional table qualifiers'''<br/>''First round''
+* {{flagathlete|{{ill|Tomoya Gotō|de}}|JPN}}
+* {{flagathlete|[[Declan Bailey]]|AUS}}
+* {{flagathlete|[[Shane Sakchekapo]]|CAN}}
+* {{flagathlete|[[Franko Giuliani]]|AUT}}
+* {{flagathlete|[[Haupai Puha]]|NZL}}
+* {{flagathlete|[[Petri Rasmus]]|FIN}}
+* {{flagathlete|[[Dennis Nilsson]]|SWE}}
+* {{flagathlete|[[Harry Lane (darts player)|Harry Lane]]|ENG}}
+* {{flagathlete|[[Joey Lynaugh]]|USA}}
+* {{flagathlete|[[Daniel Zapata]]|CAT}}
+
+{{col-break}}
+'''Las Vegas qualifiers'''<br />''First round''
+* {{flagathlete|[[Berry Pater]]|NED}}
+* {{flagathlete|{{ill|Liam Maendl-Lawrance|de}}|GER}}
+'''Lakeside qualifiers'''<br/>''First round''
+* {{flagathlete|[[Jitse van der Wal]]|NED}}
+* {{flagathlete|[[Paul Lewis (darts player)|Paul Lewis]]|ENG}}
+'''Race table qualifiers'''<br/>''First round''
+* {{flagathlete|[[Carsten Hoffmann]]|GER}}
+* {{flagathlete|[[Ben Townley (darts player)|Ben Townley]]|ENG}}
+* {{flagathlete|[[Stefan Schroder (darts player)|Stefan Schroder]]|NED}}
+* {{flagathlete|[[Lewis Gurney]]|ENG}}
+* {{flagathlete|[[Sean Fisher]]|WAL}}
+* {{flagathlete|[[Matt Clark (darts player)|Matt Clark]]|ENG}}
+* {{flagathlete|[[Alex Williams (darts player)|Alex Williams]]|WAL}}
+* {{flagathlete|[[Anthony Brown (darts player)|Anthony Brown]]|ENG}}
+* {{flagathlete|[[Dmitrii Rogov]]|ISR}}
+* {{flagathlete|[[Pat Scurfield]]|ENG}}
+* {{flagathlete|[[Ron Meulenkamp]]|NED}}
+'''Reserve players'''<br/>''First round''
+* {{flagathlete|[[Aaron Turner (darts player)|Aaron Turner]]|ENG}}
+{{col-end}}
+
+=== Open draw ===
+The draw was broadcast on the WDF's [[YouTube]] channel on 3 November.<ref name="Fields"/><ref name="Draws">{{cite web |title=2026 WDF Lakeside World Championship Draws |url=https://dartswdf.com/news/2026-wdf-lakeside-world-championship-draws |website=World Darts Federation |access-date=8 November 2026 |date=3 November 2026}}</ref>
+
+{{48TeamBracket
+| RD1-shift = -1
+| RD1='''First round'''<br/>''(best of 5 sets)''
+| RD2='''Second round'''<br/>''(best of 5 sets)''
+| RD3='''Third round'''<br/>''(best of 5 sets)''
+| RD4='''Quarter-finals'''<br/>''(best of 7 sets)''
+| RD5='''Semi-finals'''<br/>''(best of 9 sets)''
+| RD6='''Final'''<br/>''(best of 11 sets)''
+| team-width=220
+| boldwinner=high
+
+| RD1-seed1 = &nbsp;
+| RD1-team1 = {{WDFFlag|Harry Lane|avg=}}
+| RD1-score1= 
+| RD1-seed2 =
+| RD1-team2 = {{WDFFlag|Declan Bailey|avg=}}
+| RD1-score2= 
+| RD1-seed3 = &nbsp;
+| RD1-team3 = {{WDFFlag|Alex Williams|avg=}}
+| RD1-score3= 
+| RD1-seed4 = 
+| RD1-team4 = {{WDFFlag|Dmitrii Rogov|avg=}}
+| RD1-score4= 
+| RD1-seed5 = &nbsp;
+| RD1-team5 = {{WDFFlag|Stefan Schröder|avg=}}
+| RD1-score5= 
+| RD1-seed6 = 
+| RD1-team6 = {{WDFFlag|Pat Scurfield|avg=}}
+| RD1-score6= 
+| RD1-seed7 = 
+| RD1-team7 = {{WDFFlag|Daniel Zapata|avg=}}
+| RD1-score7= 
+| RD1-seed8 = Alt
+| RD1-team8 = {{WDFFlag|Aaron Turner|avg=}}
+| RD1-score8= 
+| RD1-seed09 = &nbsp;
+| RD1-team09 = {{WDFFlag|Ben Townley|avg=}}
+| RD1-score09= 
+| RD1-seed10 = 
+| RD1-team10 = {{WDFFlag|Shane Sakchekapo|avg=}}
+| RD1-score10= 
+| RD1-seed11 = &nbsp;
+| RD1-team11 = {{WDFFlag|Franko Giuliani|avg=}}
+| RD1-score11= 
+| RD1-seed12 = 
+| RD1-team12 = {{WDFFlag|Joey Lynaugh|avg=}}
+| RD1-score12= 
+| RD1-seed13 = &nbsp;
+| RD1-team13 = {{WDFFlag|Petri Rasmus|avg=}}
+| RD1-score13= 
+| RD1-seed14 = 
+| RD1-team14 = {{WDFFlag|Ryusei Azemoto|avg=}}
+| RD1-score14= 
+| RD1-seed15 = Q
+| RD1-team15 = {{WDFFlag|Liam Maendl-Lawrance|avg=}}
+| RD1-score15= 
+| RD1-seed16 = Q
+| RD1-team16 = {{WDFFlag|Berry Pater|avg=}}
+| RD1-score16= 
+| RD1-seed17 = &nbsp;
+| RD1-team17 = {{WDFFlag|Mark Cleaver|avg=}}
+| RD1-score17= 
+| RD1-seed18 = 
+| RD1-team18 = {{WDFFlag|Blake Hatchett|avg=}}
+| RD1-score18= 
+| RD1-seed19 = &nbsp;
+| RD1-team19 = {{WDFFlag|Lewis Gurney|avg=}}
+| RD1-score19= 
+| RD1-seed20 = 
+| RD1-team20 = {{WDFFlag|Ron Meulenkamp|avg=}}
+| RD1-score20= 
+| RD1-seed21 = &nbsp;
+| RD1-team21 = {{WDFFlag|Carsten Hoffmann|avg=}}
+| RD1-score21= 
+| RD1-seed22 = 
+| RD1-team22 = {{WDFFlag|Dennis Nilsson|avg=}}
+| RD1-score22= 
+| RD1-seed23 = 
+| RD1-team23 = {{WDFFlag|Sean Fisher|avg=}}
+| RD1-score23= 
+| RD1-seed24 = Q
+| RD1-team24 = {{WDFFlag|Jitse van der Wal|avg=}}
+| RD1-score24= 
+| RD1-seed25 = &nbsp;
+| RD1-team25 = {{WDFFlag|Matt Clark|avg=}}
+| RD1-score25= 
+| RD1-seed26 = 
+| RD1-team26 = {{WDFFlag|Terry Tan|avg=}}
+| RD1-score26= 
+| RD1-seed27 = 
+| RD1-team27 = {{WDFFlag|Anthony Brown|avg=}}
+| RD1-score27= 
+| RD1-seed28 = Q
+| RD1-team28 = {{WDFFlag|Paul Lewis|avg=}}
+| RD1-score28= 
+| RD1-seed29 = &nbsp;
+| RD1-team29 = {{WDFFlag|Haupai Puha|avg=}}
+| RD1-score29= 
+| RD1-seed30 = 
+| RD1-team30 = {{WDFFlag|Tomoya Goto|avg=}}
+| RD1-score30= 
+| RD1-seed31 = &nbsp;
+| RD1-team31 = {{WDFFlag|Jeff Smith|avg=}}
+| RD1-score31= 
+| RD1-seed32 = 
+| RD1-team32 = {{WDFFlag|David Davies|avg=}}
+| RD1-score32= 
+
+| RD2-seed1 = 1
+| RD2-team1 = {{WDFFlag|Mitchell Lawrie|avg=}}
+| RD2-score1= 
+| RD2-seed2 = 
+| RD2-team2 = 
+| RD2-score2= 
+| RD2-seed3 = 16
+| RD2-team3 = {{WDFFlag|Scott Robertson|avg=}}
+| RD2-score3= 
+| RD2-seed4 = 
+| RD2-team4 = 
+| RD2-score4= 
+| RD2-seed5 = 8
+| RD2-team5 = {{WDFFlag|Kaya Baysal|flag=TUR|avg=}}
+| RD2-score5= 
+| RD2-seed6 = 
+| RD2-team6 = 
+| RD2-score6= 
+| RD2-seed7 = 9
+| RD2-team7 = {{WDFFlag|Mursel Yavuz|avg=}}
+| RD2-score7= 
+| RD2-seed8 = 
+| RD2-team8 = 
+| RD2-score8= 
+| RD2-seed09 = 4
+| RD2-team09 = {{WDFFlag|Leonard Gates|avg=}}
+| RD2-score09= 
+| RD2-seed10 = 
+| RD2-team10 = 
+| RD2-score10= 
+| RD2-seed11 = 13
+| RD2-team11 = {{WDFFlag|Chris Lim|avg=}}
+| RD2-score11= 
+| RD2-seed12 = 
+| RD2-team12 = 
+| RD2-score12= 
+| RD2-seed13 = 5
+| RD2-team13 = {{WDFFlag|James Beeton|avg=}}
+| RD2-score13= 
+| RD2-seed14 = 
+| RD2-team14 = 
+| RD2-score14= 
+| RD2-seed15 = 12
+| RD2-team15 = {{WDFFlag|Jarno Bottenberg|avg=}}
+| RD2-score15= 
+| RD2-seed16 = 
+| RD2-team16 = 
+| RD2-score16= 
+| RD2-seed17 = 2
+| RD2-team17 = {{WDFFlag|Jenson Walker|avg=}}
+| RD2-score17= 
+| RD2-seed18 = 
+| RD2-team18 = 
+| RD2-score18= 
+| RD2-seed19 = 15
+| RD2-team19 = {{WDFFlag|Neil Duff|avg=}}
+| RD2-score19= 
+| RD2-seed20 = 
+| RD2-team20 = 
+| RD2-score20= 
+| RD2-seed21 = 7
+| RD2-team21 = {{WDFFlag|Moreno Blom|avg=}}
+| RD2-score21= 
+| RD2-seed22 = 
+| RD2-team22 = 
+| RD2-score22= 
+| RD2-seed23 = 10
+| RD2-team23 = {{WDFFlag|Ross Montgomery|avg=}}
+| RD2-score23= 
+| RD2-seed24 = 
+| RD2-team24 = 
+| RD2-score24= 
+| RD2-seed25 = 3
+| RD2-team25 = {{WDFFlag|Paul Krohne|avg=}}
+| RD2-score25= 
+| RD2-seed26 = 
+| RD2-team26 = 
+| RD2-score26= 
+| RD2-seed27 = 14
+| RD2-team27 = {{WDFFlag|Brian Raman|avg=}}
+| RD2-score27= 
+| RD2-seed28 = 
+| RD2-team28 = {{WDFFlag|flag=ENG|avg=}}
+| RD2-score28= 
+| RD2-seed29 = 6
+| RD2-team29 = {{WDFFlag|Matthew Edgar|avg=}}
+| RD2-score29= 
+| RD2-seed30 = 
+| RD2-team30 = 
+| RD2-score30= 
+| RD2-seed31 = 11
+| RD2-team31 = {{WDFFlag|Corne Groeneveld|avg=}}
+| RD2-score31= 
+| RD2-seed32 = 
+| RD2-team32 = 
+| RD2-score32= 
+
+| RD3-seed1 = &nbsp;
+| RD3-team1 = 
+| RD3-score1= 
+| RD3-seed2 = 
+| RD3-team2 = 
+| RD3-score2= 
+| RD3-seed3 = &nbsp;
+| RD3-team3 = 
+| RD3-score3= 
+| RD3-seed4 = 
+| RD3-team4 = 
+| RD3-score4= 
+| RD3-seed5 = &nbsp;
+| RD3-team5 = 
+| RD3-score5= 
+| RD3-seed6 = 
+| RD3-team6 = 
+| RD3-score6= 
+| RD3-seed7 = &nbsp;
+| RD3-team7 = 
+| RD3-score7= 
+| RD3-seed8 = 
+| RD3-team8 = 
+| RD3-score8= 
+| RD3-seed09 = &nbsp;
+| RD3-team09 = 
+| RD3-score09= 
+| RD3-seed10 = 
+| RD3-team10 = 
+| RD3-score10= 
+| RD3-seed11 = &nbsp;
+| RD3-team11 = 
+| RD3-score11= 
+| RD3-seed12 = 
+| RD3-team12 = 
+| RD3-score12= 
+| RD3-seed13 = &nbsp;
+| RD3-team13 = 
+| RD3-score13= 
+| RD3-seed14 = 
+| RD3-team14 = 
+| RD3-score14= 
+| RD3-seed15 = &nbsp;
+| RD3-team15 = 
+| RD3-score15= 
+| RD3-seed16 = 
+| RD3-team16 = 
+| RD3-score16= 
+
+| RD4-seed1 = &nbsp;
+| RD4-team1 = 
+| RD4-score1= 
+| RD4-seed2 = 
+| RD4-team2 = 
+| RD4-score2= 
+| RD4-seed3 = &nbsp;
+| RD4-team3 = 
+| RD4-score3= 
+| RD4-seed4 = 
+| RD4-team4 = 
+| RD4-score4= 
+| RD4-seed5 = &nbsp;
+| RD4-team5 = 
+| RD4-score5= 
+| RD4-seed6 = 
+| RD4-team6 = 
+| RD4-score6= 
+| RD4-seed7 = &nbsp;
+| RD4-team7 = 
+| RD4-score7= 
+| RD4-seed8 =  
+| RD4-team8 = 
+| RD4-score8= 
+
+| RD5-seed1 = &nbsp;
+| RD5-team1 = 
+| RD5-score1= 
+| RD5-seed2 = 
+| RD5-team2 = 
+| RD5-score2= 
+| RD5-seed3 = &nbsp;
+| RD5-team3 = 
+| RD5-score3= 
+| RD5-seed4 =  
+| RD5-team4 = 
+| RD5-score4= 
+
+| RD6-seed1 = &nbsp;
+| RD6-team1 = 
+| RD6-score1= 
+| RD6-seed2 = 
+| RD6-team2 = 
+| RD6-score2= 
+}}
+
+== Women ==
+=== Women – Format and qualifiers ===
+The women's event consists of 24 players. Qualification for the event followed these criteria:<ref name="SeniorPDF"/>
+
+#Top 8 players in the WDF World Championship race table (seeded in the second round)
+#Winners of the Platinum/Gold ranked tournaments
+#Highest-ranked players from each of the ten regional tables
+#Two qualifiers from the last-chance qualification tournaments (one in [[Las Vegas]] and one at [[Lakeside Leisure Complex|Lakeside]])
+#Next highest-ranked players in the WDF World Championship race table to bring the total entry list to 24
+
+The list of participants is shown below:<ref name="Fields"/>
+
+{{col-begin}}
+{{col-break}}
+'''1–8 in WDF rankings'''<br/>''Seeded in second round''
+* {{flagathlete|[[Deta Hedman]]|ENG}}
+* {{flagathlete|[[Rhian O'Sullivan]]|WAL}}
+* {{flagathlete|[[Priscilla Steenbergen]]|NED}}
+* {{flagathlete|[[Maria Carli]]|CAN}}
+* {{flagathlete|{{ill|Kirsi Viinikainen|de}}|FIN}}
+* {{flagathlete|[[Paula Jacklin]]|ENG}}
+* {{flagathlete|[[Aileen de Graaf]]|NED}}
+* {{flagathlete|[[Nicole Regnaud]]|NZL}}
+{{col-break}}
+'''Platinum/Gold event winners'''<br/>''First round''
+* {{flagathlete|[[Mayumi Ouchi]]|JPN}}
+* {{flagathlete|[[Christine Richardson]]|AUS}}
+* <s>{{flagathlete|[[Lovely-Mae Orteba]]|PHI}}</s>{{Efn|Lovely-Mae Orbeta withdrew from the tournament due to visa issues. She was replaced by Desi Mercer.}}
+'''Regional table qualifiers'''<br/>''First round''
+* {{flagathlete|[[Jitka Cisarova]]|CZE}}
+* {{flagathlete|[[Cali West]]|USA}}
+* {{flagathlete|[[Irina Armstrong]]|GER}}
+{{col-break}}
+'''Las Vegas qualifier'''<br/>''First round''
+* {{flagathlete|{{ill|Sophie McKinlay|de}}|SCO}}
+'''Lakeside qualifier'''<br/>''First round''
+* {{flagathlete|[[Kim Holden]]|ENG}}
+'''Race table qualifiers'''<br/>''First round''
+* {{flagathlete|[[Lerena Rietbergen]]|NED}}
+* {{flagathlete|[[Emine Dursun]]|TUR}}
+* {{flagathlete|[[Anca Zijlstra]]|NED}}
+* {{flagathlete|[[Lorraine Hyde]]|SCO}}
+* {{flagathlete|[[Aurora Fochesato]]|ITA}}
+* {{flagathlete|[[Paula Murphy (darts player)|Paula Murphy]]|USA}}
+* {{flagathlete|[[Eve Watson]]|WAL}}
+* {{flagathlete|[[Steph Clarke]]|ENG}}
+'''Reserve players'''<br/>''First round''
+* {{flagathlete|[[Desi Mercer]]|NZL}}
+{{col-end}}
+
+=== Women's draw ===
+The draw was confirmed on 3 November.<ref name="Draws"/>
+
+{{24TeamBracket-Byes
+| RD1-shift = -1
+| RD1='''First round'''<br/>''(best of 3 sets)''<br/>
+| RD2='''Second round'''<br/>''(best of 3 sets)''<br/>
+| RD3='''Quarter-finals'''<br/>''(best of 5 sets)''<br/>
+| RD4='''Semi-finals'''<br/>''(best of 5 sets)''<br/>
+| RD5='''Final'''<br/>''(best of 7 sets)''<br/>
+| team-width=220
+| boldwinner=high
+
+| RD1-seed1 = 
+| RD1-team1 = {{WDFWFlag|Cali West|avg=}}
+| RD1-score1= 
+| RD1-seed2 = Alt
+| RD1-team2 = {{WDFWFlag|Desi Mercer|avg=}}
+| RD1-score2= 
+| RD1-seed3 = &nbsp;
+| RD1-team3 = {{WDFWFlag|Irina Armstrong|avg=}}
+| RD1-score3= 
+| RD1-seed4 = 
+| RD1-team4 = {{WDFWFlag|Chris Richardson|avg=}}
+| RD1-score4= 
+| RD1-seed5 = &nbsp;
+| RD1-team5 = {{WDFWFlag|Lorraine Hyde|avg=}}
+| RD1-score5= 
+| RD1-seed6 = 
+| RD1-team6 = {{WDFWFlag|Mayumi Ouchi|avg=}}
+| RD1-score6= 
+| RD1-seed7 = &nbsp;
+| RD1-team7 = {{WDFWFlag|Aurora Fochesato|avg=}}
+| RD1-score7= 
+| RD1-seed8 = 
+| RD1-team8 = {{WDFWFlag|Steph Clarke|avg=}}
+| RD1-score8= 
+| RD1-seed09 = 
+| RD1-team09 = {{WDFWFlag|Emine Dursun|avg=}}
+| RD1-score09= 
+| RD1-seed10 = Q
+| RD1-team10 = {{WDFWFlag|Kim Holden|avg=}}
+| RD1-score10= 
+| RD1-seed11 = 
+| RD1-team11 = {{WDFWFlag|Lerena Rietbergen|avg=}}
+| RD1-score11= 
+| RD1-seed12 = Q
+| RD1-team12 = {{WDFWFlag|Sophie McKinlay|avg=}}
+| RD1-score12= 
+| RD1-seed13 = &nbsp;
+| RD1-team13 = {{WDFWFlag|Jitka Cisarova|avg=}}
+| RD1-score13= 
+| RD1-seed14 = 
+| RD1-team14 = {{WDFWFlag|Eve Watson|avg=}}
+| RD1-score14= 
+| RD1-seed15 = &nbsp;
+| RD1-team15 = {{WDFWFlag|Anca Zijlstra|avg=}}
+| RD1-score15= 
+| RD1-seed16 = 
+| RD1-team16 = {{WDFWFlag|Paula Murphy|avg=}}
+| RD1-score16= 
+
+| RD2-seed1 = 1
+| RD2-team1 = {{WDFWFlag|Deta Hedman|avg=}}
+| RD2-score1= 
+| RD2-seed2 = 
+| RD2-team2 = 
+| RD2-score2= 
+| RD2-seed3 = 8
+| RD2-team3 = {{WDFWFlag|Nicole Regnaud|avg=}}
+| RD2-score3= 
+| RD2-seed4 = 
+| RD2-team4 = 
+| RD2-score4= 
+| RD2-seed5 = 4
+| RD2-team5 = {{WDFWFlag|Maria Carli|avg=}}
+| RD2-score5=  
+| RD2-seed6 = 
+| RD2-team6 = 
+| RD2-score6= 
+| RD2-seed7 = 5
+| RD2-team7 = {{WDFWFlag|Kirsi Viinikainen|avg=}}
+| RD2-score7= 
+| RD2-seed8 = 
+| RD2-team8 = 
+| RD2-score8= 
+| RD2-seed09 = 2
+| RD2-team09 = {{WDFWFlag|Rhian O'Sullivan|avg=}}
+| RD2-score09= 
+| RD2-seed10 = 
+| RD2-team10 = 
+| RD2-score10= 
+| RD2-seed11 = 7
+| RD2-team11 = {{WDFWFlag|Aileen de Graaf|avg=}}
+| RD2-score11= 
+| RD2-seed12 = 
+| RD2-team12 = 
+| RD2-score12= 
+| RD2-seed13 = 3
+| RD2-team13 = {{WDFWFlag|Priscilla Steenbergen|avg=}}
+| RD2-score13= 
+| RD2-seed14 = 
+| RD2-team14 = 
+| RD2-score14= 
+| RD2-seed15 = 6
+| RD2-team15 = {{WDFWFlag|Paula Jacklin|avg=}}
+| RD2-score15= 
+| RD2-seed16 = 
+| RD2-team16 = 
+| RD2-score16= 
+
+| RD3-seed1 = &nbsp;
+| RD3-team1 = 
+| RD3-score1= 
+| RD3-seed2 = 
+| RD3-team2 = 
+| RD3-score2= 
+| RD3-seed3 = &nbsp;
+| RD3-team3 = 
+| RD3-score3= 
+| RD3-seed4 = 
+| RD3-team4 = 
+| RD3-score4= 
+| RD3-seed5 = &nbsp;
+| RD3-team5 = 
+| RD3-score5= 
+| RD3-seed6 = 
+| RD3-team6 = 
+| RD3-score6= 
+| RD3-seed7 = &nbsp;
+| RD3-team7 = 
+| RD3-score7= 
+| RD3-seed8 = 
+| RD3-team8 = 
+| RD3-score8= 
+
+| RD4-seed1 = &nbsp;
+| RD4-team1 = 
+| RD4-score1= 
+| RD4-seed2 = 
+| RD4-team2 = 
+| RD4-score2= 
+| RD4-seed3 = &nbsp;
+| RD4-team3 = 
+| RD4-score3=  
+| RD4-seed4 = 
+| RD4-team4 = 
+| RD4-score4= 
+
+| RD5-seed1 = &nbsp;
+| RD5-team1 = 
+| RD5-score1= 
+| RD5-seed2 = 
+| RD5-team2 = 
+| RD5-score2= 
+}}
+
+== Youth ==
+=== Youth – Format and qualifiers ===
+The open youth event consists of 12 players. Qualification for the event followed these criteria:<ref name="YouthPDF">{{cite web |title=2026 WDF Lakeside Youth World Championships – Qualification Criteria |url=https://dartswdf.com/storage/uploads/dc1d2527-99b5-4df7-9375-6ef75d776403/2026-06-02_WDF_World_Champs_Qualification_Criteria-Youth.pdf |website=World Darts Federation |access-date=5 November 2026}}</ref>
+
+#Winner of the [[2025 WDF World Darts Championship#Youth|2025 WDF Youth World Championship]]
+#Winner of the 2026 [[World Masters (darts)|WDF Youth World Masters]]
+#Next six highest-ranked players in the WDF World Championship race table
+#Four qualifiers from the last-chance qualification tournaments (two in [[Las Vegas]] and two at [[Lakeside Leisure Complex|Lakeside]])
+
+The list of participants is shown below:<ref name="Fields"/>
+
+{{col-begin}}
+{{col-break}}
+'''1–4 in WDF rankings'''<br/>''Seeded in quarter-finals''
+# {{flagathlete|[[Mitchell Lawrie]]|SCO}} ([[2025 WDF World Darts Championship#Youth|2025 WDF Youth World Championship]] winner)
+# {{flagathlete|[[Kaya Baysal]]|TUR}}
+# {{flagathlete|[[Kai Burger (darts player)|Kai Burger]]|NED}}
+# {{flagathlete|[[Mason Teese]]|ENG}}
+{{col-break}}
+'''Unseeded players'''<br/>''First round''
+* {{flagathlete|[[Jack Nankervis]]|ENG}}
+* {{flagathlete|[[Mika Donnevert]]|GER}}
+* {{flagathlete|[[Toby Clements]]|ENG}}
+* {{flagathlete|[[Ben Townley (darts player)|Ben Townley]]|ENG}} (Las Vegas qualifier)
+* {{flagathlete|[[Addison Hefferon]]|ENG}} (Las Vegas qualifier)
+* {{flagathlete|[[Benjamin Dopfer]]|GER}} (2026 [[World Masters (darts)|WDF Youth World Masters]] winner)
+* {{flagathlete|[[Cori Wiltshire]]|ENG}} (Lakeside qualifier)
+* {{flagathlete|[[Christian Ennis]]|NIR}} (Lakeside qualifier)
+{{col-end}}
+
+=== Youth draw ===
+The draw was confirmed on 3 November.<ref name="Draws"/>
+
+{{12TeamBracket-Info
+| RD1-shift = -1
+| RD1='''First round'''<br/>''(best of 3 sets)''
+| RD2='''Quarter-finals'''<br/>''(best of 3 sets)''
+| RD3='''Semi-Finals'''<br/>''(best of 5 sets)''
+| RD4='''Final'''<br/>''(best of 7 sets)''
+| team-width=220
+| boldwinner=high
+
+| RD1-seed1 = 
+| RD1-team1 = {{WDFFlag|txt=Jack Nankervis|flag=ENG|avg=}}
+| RD1-score1= 
+| RD1-seed2 = Q
+| RD1-team2 = {{WDFFlag|txt=Cori Wiltshire|flag=ENG|avg=}}
+| RD1-score2= 
+| RD1-seed3 = Q
+| RD1-team3 = {{WDFFlag|Ben Townley|avg=}}
+| RD1-score3= 
+| RD1-seed4 = Q
+| RD1-team4 = {{WDFFlag|txt=Addison Hefferon|flag=ENG|avg=}}
+| RD1-score4= 
+| RD1-seed5 = 
+| RD1-team5 = {{WDFFlag|txt=Toby Clements|flag=ENG|avg=}}
+| RD1-score5= 
+| RD1-seed6 = Q
+| RD1-team6 = {{WDFFlag|txt=Christian Ennis|flag=NIR|avg=}}
+| RD1-score6= 
+| RD1-seed7 = &nbsp;
+| RD1-team7 = {{WDFFlag|txt=Mika Donnevert|flag=GER|avg=}}
+| RD1-score7= 
+| RD1-seed8 = 
+| RD1-team8 = {{WDFFlag|txt=Benjamin Dopfer|flag=GER|avg=}}
+| RD1-score8= 
+
+| RD2-seed1 = 1
+| RD2-team1 = {{WDFFlag|Mitchell Lawrie|avg=}}
+| RD2-score1= 
+| RD2-seed2 = 
+| RD2-team2 = {{WDFFlag|flag=ENG|avg=}}
+| RD2-score2= 
+| RD2-seed3 = 4
+| RD2-team3 = {{WDFFlag|Mason Teese|avg=}}
+| RD2-score3= 
+| RD2-seed4 = 
+| RD2-team4 = {{WDFFlag|flag=ENG|avg=}}
+| RD2-score4= 
+| RD2-seed5 = 2
+| RD2-team5 = {{WDFFlag|Kaya Baysal|flag=TUR|avg=}}
+| RD2-score5= 
+| RD2-seed6 = 
+| RD2-team6 = 
+| RD2-score6= 
+| RD2-seed7 = 3
+| RD2-team7 = {{WDFFlag|txt=Kai Burger|flag=NED|avg=}}
+| RD2-score7= 
+| RD2-seed8 = 
+| RD2-team8 = {{WDFFlag|flag=GER|avg=}}
+| RD2-score8= 
+
+| RD3-seed1 = &nbsp;
+| RD3-team1 = 
+| RD3-score1= 
+| RD3-seed2 = 
+| RD3-team2 = {{WDFFlag|flag=ENG|avg=}}
+| RD3-score2= 
+| RD3-seed3 = &nbsp;
+| RD3-team3 = 
+| RD3-score3= 
+| RD3-seed4 =
+| RD3-team4 = 
+| RD3-score4= 
+
+| RD4-seed1 = &nbsp;
+| RD4-team1 = 
+| RD4-score1= 
+| RD4-seed2 = 
+| RD4-team2 = 
+| RD4-score2= 
+}}
+
+== Girls ==
+=== Girls – Format and qualifiers ===
+The girls' event consists of six players. Qualification for the event followed these criteria:<ref name="YouthPDF"/>
+
+#Winner of the [[2025 WDF World Darts Championship#Girls'|2025 WDF Girls' World Championship]]
+#Winner of the 2026 [[World Masters (darts)|WDF Girls' World Masters]]
+#Next two highest-ranked players in the WDF World Championship race table
+#Two qualifiers from the last-chance qualification tournaments (one in [[Las Vegas]] and one at [[Lakeside Leisure Complex|Lakeside]])
+
+The list of participants is shown below:<ref name="Fields"/>
+
+{{col-begin}}
+{{col-break}}
+'''1–2 in WDF rankings'''<br/>''Seeded in semi-finals''
+# {{flagathlete|[[Paige Pauling]]|ENG}}
+# {{flagathlete|[[Macy Gibbons]]|ENG}}
+{{col-break}}
+'''Unseeded players'''<br/>''First round''
+* {{flagathlete|[[Ruby Grey]]|ENG}} (2026 [[World Masters (darts)|WDF Girls' World Masters]] winner)
+* {{flagathlete|[[Zehra Gemi]]|TUR}} ([[2025 WDF World Darts Championship#Girls'|2025 WDF Girls' World Championship]] winner)
+* {{flagathlete|[[Rebecca Allen (darts player)|Rebecca Allen]]|IRL}} (Lakeside qualifier)
+* {{flagathlete|[[Celina Glaser]]|AUT}} (Las Vegas qualifier)
+{{col-end}}
+
+=== Girls' draw ===
+The draw was confirmed on 3 November.<ref name="Draws"/>
+
+{{6TeamBracket-Info
+| RD1-shift = -1
+| RD1='''First round'''<br/>''(best of 3 sets)''
+| RD2='''Semi-finals'''<br/>''(best of 3 sets)''
+| RD3='''Final'''<br/>''(best of 5 sets)''
+| team-width=220
+| boldwinner=high
+
+| RD1-seed1 = 
+| RD1-team1 = {{WDFWFlag|Ruby Grey|avg=}}
+| RD1-score1= 
+| RD1-seed2 = Q
+| RD1-team2 = {{WDFWFlag|Rebecca Allen|avg=}}
+| RD1-score2= 
+| RD1-seed3 = 
+| RD1-team3 = {{WDFWFlag|Zehra Gemi|avg=}}
+| RD1-score3= 
+| RD1-seed4 = Q
+| RD1-team4 = {{WDFWFlag|txt=Celina Glaser|flag=AUT|avg=}}
+| RD1-score4= 
+
+| RD2-seed1 = 1
+| RD2-team1 = {{WDFWFlag|Paige Pauling|avg=}}
+| RD2-score1= 
+| RD2-seed2 = 
+| RD2-team2 = 
+| RD2-score2= 
+| RD2-seed3 = 2
+| RD2-team3 = {{WDFWFlag|txt=Macy Gibbons|flag=ENG|avg=}}
+| RD2-score3= 
+| RD2-seed4 = 
+| RD2-team4 = 
+| RD2-score4= 
+
+| RD3-seed1 = &nbsp;
+| RD3-team1 = 
+| RD3-score1= 
+| RD3-seed2 = 
+| RD3-team2 =
+| RD3-score2= 
+}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+{{World Darts Championship}}
+{{World championships in 2026}}
+
+{{DEFAULTSORT:WDF World Darts Championship 2026}}
+[[Category:2026 in darts]]
+[[Category:2026 in English sport]]
+[[Category:2020s in Surrey]]
+[[Category:WDF World Darts Championships]]
+[[Category:November 2026 sports events in the United Kingdom|WDF]]
+[[Category:December 2026 sports events in the United Kingdom|WDF]]

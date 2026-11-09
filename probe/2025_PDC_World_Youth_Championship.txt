@@ -1,0 +1,1420 @@
+{{Short description|Youth darts tournament}}
+{{Infobox individual darts tournament
+|tournament_name = 2025 Winmau World Youth Championship
+|image = 
+|dates = 13 October 2025<br/>23 November 2025 (final)
+|venue = Robin Park Leisure Centre<br/>[[Butlin's Minehead]] (final)
+|location = [[Wigan]], England<br/>[[Minehead]], England (final)
+|organisation = {{nowrap|[[Professional Darts Corporation]] (PDC)}}
+|format = [[Leg (darts)|Legs]]<br/>First to 5 (group stage)<br/>First to 6 (knockout stage)
+|prize_fund = £100,000
+|winners_share = £12,000
+|nine_dart =
+|high_checkout = {{ubl|'''170'''|[[Adam Gawlas]]|[[Cam Crabtree]]|{{nowrap|[[Sebastian Białecki]]}}}}
+|winner = {{flagathlete|[[Gian van Veen]]|NED}}
+|prev = [[2024 PDC World Youth Championship|2024]]
+|next = 
+}}
+The '''2025 PDC World Youth Championship''' (known for sponsorship reasons as the '''2025 Winmau World Youth Championship''') was the fifteenth edition of the [[PDC World Youth Championship]], a [[darts]] tournament organised by the [[Professional Darts Corporation]] (PDC) for players aged between 16 and 24. The first stages of the tournament were played on 13 October 2025 at the Robin Park Leisure Centre in [[Wigan]], England. The final was played in between the semi-finals and final of the [[2025 Players Championship Finals|Players Championship Finals]] on 23 November 2025 at the [[Butlin's Minehead|Butlin's Resort]] in [[Minehead]], England. The total prize fund was £100,000, with the winner receiving £12,000.
+
+The tournament featured 128 players, comprising [[List of players with a 2025 PDC Tour Card|PDC Tour Card holders]], players who competed on the [[2025 PDC Development Tour series|2025 PDC Development Tour]], and additional international qualifiers. Reigning world champion [[Luke Littler]], who won the [[2023 PDC World Youth Championship|2023 World Youth Championship]], took part in the tournament after winning the [[2025 World Grand Prix (darts)|World Grand Prix]] the previous night. He was defeated 6–5 in the semi-finals by [[Beau Greaves]], who became the first woman to reach the final of the tournament.<ref name="BBCSemis">{{cite web |last=Abraham |first=Timothy |date=13 October 2025 |title=Greaves stuns Littler a day after Grand Prix win  |url=https://www.bbc.co.uk/sport/darts/articles/c0jdp9dplg7o |publisher=BBC Sport |access-date=13 October 2025}}</ref><ref name="GuardianSemis">{{cite news |date=13 October 2025 |title=Beau Greaves stuns Luke Littler in PDC world youth championship thriller |url=https://www.theguardian.com/sport/2025/oct/13/beau-greaves-luke-littler-pdc-world-youth-championship-darts |publisher=Guardian sport |agency=PA Media |access-date=13 October 2025}}</ref><ref name="WarringtonShock">{{cite news |last=Turner |first=Matt |date=13 October 2025 |title=Luke Littler's shock World Youth Championship defeat  |url=https://www.warringtonguardian.co.uk/sport/latest_sport/25540202.luke-littlers-shock-world-youth-championship-defeat/ |publisher=Warrington Guardian |access-date=13 October 2025}}</ref>
+
+Defending champion [[Gian van Veen]], who defeated [[Jurjen van der Velde]] 6–5 to win the [[2024 PDC World Youth Championship|2024 final]], retained his title by defeating Greaves 6–3 in the final. He became the second player, after [[Dimitri Van den Bergh]], to defend the title.<ref>{{cite web |last=Mirza |first=Raz |date=23 November 2025 |title=Beau Greaves beaten by Gian van Veen as he successfully defends his World Youth Championship title in Minehead |url=https://www.skysports.com/darts/news/12040/13474454/beau-greaves-beaten-by-gian-van-veen-as-he-successfully-defends-his-world-youth-championship-title-in-minehead |website=Sky Sports |access-date=23 November 2025}}</ref>
+
+==Overview==
+===Background===
+The [[PDC World Youth Championship|World Youth Championship]] was first held in 2010, following the expansion of the [[Professional Darts Corporation]] (PDC) in the wake of [[Split in darts#PDC bid to take over BDO|their rejected offer to purchase]] the [[British Darts Organisation]] (BDO), their rival darts organisation.<ref>{{Cite news |last=Jackson |first=Jamie |date=21 October 2009 |title=BDO founder rejects takeover by Barry Hearn's PDC |url=https://www.theguardian.com/sport/2009/oct/21/barry-hearn-pdc-olly-croft-bdo |access-date=15 October 2025 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{Cite web |date=16 February 2010 |title=PDC launch three new events |url=https://www.pdc.tv/news/pdc-launch-three-new-events |access-date=15 October 2025 |website=Professional Darts Corporation |language=en}}</ref> [[Arron Monk]] won the inaugural tournament, defeating future world champion [[Michael van Gerwen]] in the final on 3 January 2011.<ref>{{cite web |date=3 January 2011 |title=Monk claims PDC Unicorn U21 title |url=https://www.pdc.tv/news/monk-claims-pdc-unicorn-u21-title |website=Professional Darts Corporation |access-date=15 October 2025}}</ref> As in all years but 2021, the tournament was held with a knockout stage behind closed doors while the final was televised at a later date – on that occasion before the final of the [[2011 PDC World Darts Championship|2011 World Championship]]. After the 2011 edition, the following finals were held on [[Premier League Darts|Premier League]] finals night, before settling in 2015 upon their current calendar position during the final session of the [[Players Championship Finals]].<ref>{{Cite web |date=19 October 2015 |title=Hopp & Aspinall reach World Youth final |url=https://www.pdc.tv/news/pdc-unicorn-world-youth-championship-l64 |access-date=15 October 2025 |website=Professional Darts Corporation |language=en}}</ref> The fourteen previous editions saw thirteen different champions, with [[Dimitri Van den Bergh]] being the only player to successfully defend their title.<ref>{{Cite web |last=Gorton |first=Josh |date=14 December 2018 |title=Dimitri Van den Bergh retains World Youth Championship title with victory over Martin Schindler |url=https://www.skysports.com/darts/news/12288/11563866/dimitri-van-den-bergh-retains-world-youth-championship-title-with-victory-over-martin-schindler |access-date=15 October 2025 |website=Sky Sports}}</ref>
+
+The first stages of the 2025 tournament—from the group stage to the semi-finals—were played behind closed doors at the Robin Park Leisure Centre in [[Wigan]], England on 13 October 2025. The final was played in between the semi-finals and final of the [[2025 Players Championship Finals]] on 23 November 2025 at the [[Butlin's Minehead|Butlin's Resort]] in [[Minehead]], England.<ref name="SkySemis">{{cite web |date=13 October 2025 |title=Luke Littler beaten by Beau Greaves in last-leg decider in semi-finals of World Youth Championship darts |url=https://www.skysports.com/darts/news/12288/13449582/luke-littler-beaten-by-beau-greaves-in-last-leg-decider-in-semi-finals-of-world-youth-darts-championship |publisher=Sky Sports |access-date=13 October 2025}}</ref> [[Gian van Veen]], who won the [[2025 European Championship (darts)|2025 European Championship]],<ref>{{cite web |date=27 October 2025 |title=Gian van Veen denies Luke Humphries to claim maiden major at European Championship |url=https://www.rte.ie/sport/darts/2025/1027/1540768-van-veen-denies-humphries-to-claim-maiden-major/ |website=RTÉ |access-date=27 October 2025 |agency=Press Association}}</ref> was the defending champion, having defeated [[Jurjen van der Velde]] 6–5 in the [[2024 PDC World Youth Championship|2024 final]].<ref>{{cite web |last=Allen |first=Dave |date=24 November 2024 |title=Van Veen becomes first Dutch winner of Winmau World Youth Championship |url=https://www.pdc.tv/news/2024/november/24/van-veen-becomes-first-dutch-winner-winmau-world-youth-championship |publisher=Professional Darts Corporation |access-date=13 October 2025}}</ref> Following his [[2025 World Grand Prix (darts)|World Grand Prix]] victory on 12 October 2025, reigning world champion [[Luke Littler]], who won the [[2023 PDC World Youth Championship|2023 World Youth Championship]], announced that he was going to take part in the World Youth Championship the following day.<ref name="SkyHeadline">{{cite web |last=Ali |first=Stafford |date=13 October 2025 |title=Luke Littler: World champion to headline World Youth Championship qualifier the day after World Grand Prix victory  |url=https://www.skysports.com/darts/news/12288/13449075/luke-littler-world-champion-to-headline-world-youth-championship-qualifier-the-day-after-world-grand-prix-victory |publisher=[[Sky Sports]] |access-date=13 October 2025 |location=[[Leicester Arena]]}}</ref><ref>{{cite web |last=Castle |first=Will |date=13 October 2025 |title=Luke Littler explains controversial move to play World Youth Championship |url=https://www.independent.co.uk/sport/darts/luke-littler-world-youth-championship-darts-b2844470.html |publisher=The Independent |access-date=13 October 2025}}</ref> Both Littler and Van Veen were attempting to win a second World Youth Championship.<ref>{{Cite web |title=PDC Roll of Honour, Darts Championships |url=https://www.pdc.tv/players/pdc-roll-honour |access-date=15 October 2025 |website=Professional Darts Corporation}}</ref>
+
+===Format and qualification===
+The [[PDC World Youth Championship]] is open to players aged between 16 and 24.<ref name="BBCWhy">{{cite web |last=Chowdhury |first=Tasnim |date=13 October 2025 |title=Why is Littler playing in World Youth Championship? |url=https://www.bbc.co.uk/sport/darts/articles/cpv1ykpe1dwo  |publisher=[[BBC Sport]] |access-date=13 October 2025}}</ref><ref>{{cite web |title=PDC Rankings Rules |url=https://www.pdc.tv/pdc-order-merit-rules-1 |publisher=Professional Darts Corporation |access-date=13 October 2025}}</ref> The tournament consisted of a group stage with four players in each group, followed by a knockout stage.<ref>{{cite web |last=Allen |first=Dave |date=9 October 2024 |title=2024 PDC Winmau World Youth Championship pre-qualified players confirmed |url=https://www.pdc.tv/news/2024/october/09/2024-pdc-winmau-world-youth-championship-pre-qualified-players-confirmed |publisher=Professional Darts Corporation |access-date=13 October 2025}}</ref> The knockout stage was expanded to 64 players for the 2025 edition, with two players qualifying from each group.<ref>{{cite web |last=Allen |first=Dave |date=13 October 2025 |title=2025 PDC Order of Merit Rules confirmed |url=https://www.pdc.tv/news/2025/january/13/2025-pdc-order-merit-rules-confirmed |publisher=Professional Darts Corporation |access-date=13 October 2025}}</ref> The group stage matches were played over the best of nine [[Leg (darts)|legs]] (first to five) and the knockout stage matches were played to the best of eleven (first to six).<ref name="SkyHeadline"/>
+
+The tournament featured 128 players; all [[List of players with a 2025 PDC Tour Card|PDC Tour Card holders]] aged 23 or under at the start of the season were invited, and were joined by additional international qualifiers and players who competed on the [[2025 PDC Development Tour series|2025 PDC Development Tour]].<ref name="PDPA"/>
+
+===Prize money===
+The total prize fund for the event was £100,000, with the winner receiving £12,000. The prize fund breakdown was:<ref name="PDPA">{{cite web |date=13 October 2025 |title=World Championship Youth 2025 |url=https://pdpa.co.uk/event/pdc-world-championship-youth-2025/ |publisher=[[Professional Darts Players Association]] |access-date=13 October 2025}}</ref><ref name="Mastercaller">{{cite web |date=13 October 2025 |title=PDC World Championship Youth 2025 |url=https://mastercaller.com/tournaments/pdc-world-championship-youth/2025 |publisher=Mastercaller |access-date=13 October 2025}}</ref>
+
+{| class="wikitable"
+! colspan=2 | Position <small>(no. of players)</small>
+! Prize money<br /><small>(Total: £100,000)</small>
+|-
+|'''Winner'''
+| align=center | <small>(1)</small>
+| align=center | £12,000
+|-
+|'''Runner-up'''
+| align=center | <small>(1)</small>
+| align=center | £6,000
+|-
+|'''Semi-finalists'''
+| align=center | <small>(2)</small>
+| align=center | £3,000
+|-
+|'''Quarter-finalists'''
+| align=center | <small>(4)</small>
+| align=center | £2,000
+|-
+|'''Last 16'''
+| align=center | <small>(8)</small>
+| align=center | £1,500
+|-
+|'''Last 32'''
+| align=center | <small>(16)</small>
+| align=center | £1,000
+|-
+|'''Last 64'''
+| align=center | <small>(32)</small>
+| align=center | £600
+|-
+|'''Third in group'''
+| align=center | <small>(32)</small>
+| align=center | £400
+|-
+|'''Fourth in group'''
+| align=center | <small>(32)</small>
+| align=center | £250
+|}
+
+==Seeds==
+The 24 qualified players who were ranked on the [[PDC Order of Merit]] and the next 8 highest ranked players on the [[2025 PDC Development Tour series|2025 PDC Development Tour]] ranking were [[seeding (sports)|seeded]] in the group stage.<ref name="PDPA"/>
+
+'''Seeded players'''
+{{columns-list|colwidth=22em|
+#{{flagathlete|[[Luke Littler]]|ENG}}
+#{{flagathlete|[[Gian van Veen]]|NED}}
+#{{flagathlete|[[Keane Barry]]|IRL}}
+#{{flagathlete|[[Dylan Slevin]]|IRL}}
+#{{flagathlete|[[Sebastian Białecki]]|POL}}
+#{{flagathlete|[[Owen Bates]]|ENG}}
+#{{flagathlete|[[Cam Crabtree]]|ENG}}
+#{{flagathlete|[[Dominik Grüllich]]|GER}}
+#{{flagathlete|Leon Weber|GER}}
+#{{flagathlete|[[Jamai van den Herik]]|NED}}
+#{{flagathlete|Viktor Tingström|SWE}}
+#{{flagathlete|Tavis Dudeney|ENG}}
+#{{flagathlete|[[Beau Greaves]]|ENG}}
+#{{flagathlete|Jarno Bottenberg|NED}}
+#{{flagathlete|[[Jurjen van der Velde]]|NED}}
+#{{flagathlete|[[Henry Coates]]|ENG}}
+#{{flagathlete|[[Nathan Girvan]]|SCO}}
+#{{flagathlete|[[Charlie Manby]]|ENG}}
+#{{flagathlete|[[Adam Gawlas]]|CZE}}
+#{{flagathlete|Xanti Van den Bergh|BEL}}
+#{{flagathlete|Liam Maendl-Lawrance|GER}}
+#{{flagathlete|Joshua Hermann|GER}}
+#{{flagathlete|Jenson Walker|ENG}}
+#{{flagathlete|Ryan Branley|ENG}}
+#{{flagathlete|James Beeton|ENG}}
+#{{flagathlete|Jannis Barkhausen|GER}}
+#{{flagathlete|Patrik Williams|ENG}}
+#{{flagathlete|Nathan Potter|ENG}}
+#{{flagathlete|Tyler Thorpe|ENG}}
+#{{flagathlete|Levy Frauenfelder|NED}}
+#{{flagathlete|Bradly Roes|NED}}
+#{{flagathlete|Damian Vetjens|NED}}
+}}
+
+==Draw==
+===Group stage===
+<ref name="DCL128">{{cite web |date=13 October 2025 |title=PDC World Youth Championship Last 128 2025 {{!}} Matches
+|url=https://tv.dartconnect.com/event/pdcwyc25/matches |publisher=Dart Connect TV |access-date=13 October 2025}}</ref><ref name="DCL128LB">{{cite web |date=13 October 2025 |title=PDC World Youth Championship Last 128 2025 {{!}} Event Leaderboard |url=https://leaderboard.dartconnect.com/leaderboard#T-pdcwyc25-singles_01_501_si_do-all-all-all-all-all |publisher=Dart Connect TV |access-date=13 October 2025}}</ref><ref name="MCGroups">{{cite web |title=PDC World Championship Youth {{!}} Groups |url=https://mastercaller.com/tournaments/pdc-world-championship-youth/2025/groupstage |website=Mastercaller}}</ref>
+
+NB: Pos. = Position; P = Played; W = Won; L = Lost; LF = Legs For; LA = Legs Against; +/− = Leg difference; Pts = Points; Avg = [[Three-dart average]]; Q = Qualified
+
+{{col-begin}}
+{{col-2}}
+==== Group 1 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| '''{{flagathlete|[[Luke Littler]]|ENG}}''' (1) || 3 || 3 || 0 || 15 || 5 || 10 || 6 || 97.88 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left| '''{{flagathlete|Jeffrey Keen|NED}}''' || 3 || 2 || 1 || 11 || 13 || –2 || 4 || 82.31
+|-
+| 3 ||align=left| {{flagathlete|Matthias Moors|BEL}} || 3 || 1 || 2 || 11 || 13 || –2 || 2 || 79.72 ||
+|-
+| 4 ||align=left| {{nowrap|{{flagathlete|Alexander-Veigar Thorvaldsson|ISL}}}} || 3 || 0 || 3 || 9 || 15 || –6 || 0 || 82.46 ||
+|}
+
+{{col-2}}
+==== Group 2 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| '''{{flagathlete|Charlie Large|ENG}}''' || 3 || 3 || 0 || 15 || 7 || 8 || 6 || 85.13 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left| {{nowrap|'''{{flagathlete|Damian Vetjens|NED}}''' (32)}} || 3 || 2 || 1 || 12 || 8 || 4 || 4 || 88.31
+|-
+| 3 ||align=left| {{nowrap|{{flagathlete|Shane de Jong|NED}}}} || 3 || 1 || 2 || 10 || 11 || –1 || 2 || 84.78 ||
+|-
+| 4 ||align=left| {{nowrap|{{flagathlete|Matthew Gordon|ENG}}}} || 3 || 0 || 3 || 4 || 15 || –11 || 0 || 76.91 ||
+|}
+
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+
+==== Group 3 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Henry Coates]]|ENG}}''' (16)}} || 3 || 3 || 0 || 15 || 2 || 13 || 6 || 86.44 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left| '''{{nowrap|{{flagathlete|Kilian Hohnstedt|GER}}}}''' || 3 || 2 || 1 || 11 || 9 || 2 || 4 || 79.51
+|-
+| 3 ||align=left| {{nowrap|{{flagathlete|Dylan Oaff|AUS}}}} || 3 || 1 || 2 || 10 || 12 || –2 || 2 || 71.14 ||
+|-
+| 4 ||align=left| {{nowrap|{{flagathlete|Emmett Taylor|AUS}}}} || 3 || 0 || 3 || 2 || 15 || –13 || 0 || 64.43 ||
+|}
+
+{{col-2}}
+
+==== Group 4 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Nathan Girvan]]|SCO}}''' (17)}} || 3 || 3 || 0 || 15 || 8 || 7 || 6 || 79.45 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Ben Edgar|NIR}}''' || 3 || 2 || 1 || 14 || 7 || 7 || 4 || 77.31
+|-
+| 3 ||align=left| {{flagathlete|Harrison Leigh|ENG}} || 3 || 1 || 2 || 9 || 12 || –3 || 2 || 74.75 ||
+|-
+| 4 ||align=left| {{flagathlete|Bradley Roberts|WAL}} || 3 || 0 || 3 || 4 || 15 || –11 || 0 || 65.70 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+
+==== Group 5 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Dominik Grüllich]]|GER}}''' (8)}} || 3 || 3 || 0 || 15 || 7 || 8 || 6 || 89.58 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Jarod Becker|GER}}''' || 3 || 2 || 1 || 13 || 8 || 5 || 4 || 79.82
+|-
+| 3 ||align=left| {{flagathlete|Lennert Faes|BEL}} || 3 || 1 || 2 || 7 || 12 || –5 || 2 || 82.21 ||
+|-
+| 4 ||align=left| {{flagathlete|Kimi Seemann|GER}} || 3 || 0 || 3 || 7 || 15 || –8 || 0 || 75.21 ||
+|}
+
+{{col-2}}
+
+==== Group 6 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|JJ Wright|ENG}}'''}} || 3 || 2 || 1 || 12 || 10 || 2 || 4 || 80.38 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Keenan Thomas|WAL}}''' || 3 || 2 || 1 || 12 || 13 || –1 || 4 || 87.12
+|-
+| 3 ||align=left| {{flagathlete|Jack Male|ENG}} || 3 || 1 || 2 || 12 || 12 || 0 || 2 || 83.95 ||
+|-
+| 4 ||align=left| {{nowrap|{{flagathlete|James Beeton|ENG}} (25)}} || 3 || 1 || 2 || 12 || 13 || –1 || 2 || 83.87 ||
+|}
+
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+==== Group 7 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Leon Weber|GER}}''' (9)}} || 3 || 2 || 1 || 13 || 7 || 6 || 4 || 85.06 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Daniel Perry|ENG}}''' || 3 || 2 || 1 || 12 || 9 || 3 || 4 || 74.96
+|-
+| 3 ||align=left| {{nowrap|{{flagathlete|Jannes Bremermann|GER}}}} || 3 || 1 || 2 || 10 || 12 || –2 || 2 || 76.14 ||
+|-
+| 4 ||align=left| {{flagathlete|Niclas Wierling|GER}} || 3 || 1 || 2 || 7 || 14 || –7 || 2 || 69.64 ||
+|}
+
+{{col-2}}
+
+==== Group 8 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Ryan Branley|ENG}}''' (24)}} || 3 || 3 || 0 || 15 || 2 || 13 || 6 || 88.54 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Sean McKeon|IRE}}''' || 3 || 2 || 1 || 11 || 9 || 2 || 4 || 82.01
+|-
+| 3 ||align=left| {{flagathlete|Jack Boardman|ENG}} || 3 || 1 || 2 || 8 || 12 || –4 || 2 || 73.62 ||
+|-
+| 4 ||align=left| {{flagathlete|Johnny Stewart|NIR}} || 3 || 0 || 3 || 4 || 15 || –11 || 0 || 67.13 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+==== Group 9 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Dylan Slevin]]|IRE}}''' (4)}} || 3 || 3 || 0 || 15 || 3 || 12 || 6 || 86.84 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Finley Pember|WAL}}''' || 3 || 2 || 1 || 11 || 10 || 1 || 4 || 78.76
+|-
+| 3 ||align=left| {{nowrap|{{flagathlete|Denfie Drenthen|NED}}}} || 3 || 1 || 2 || 7 || 11 || –4 || 2 || 73.98 ||
+|-
+| 4 ||align=left| {{flagathlete|Ky Smith|AUS}} || 3 || 0 || 3 || 6 || 15 || –9 || 0 || 72.82 ||
+|}
+
+{{col-2}}
+
+==== Group 10 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Tyler Thorpe|ENG}}''' (29)}} || 3 || 3 || 0 || 15 || 5 || 10 || 6 || 84.38 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Mark Tabak|NED}}''' || 3 || 2 || 1 || 10 || 10 || 0 || 4 || 75.14
+|-
+| 3 ||align=left| {{flagathlete|David Fidler|CZE}} || 3 || 1 || 2 || 10 || 14 || –4 || 2 || 84.02 ||
+|-
+| 4 ||align=left| {{nowrap|{{flagathlete|Oliver Pearce-Burgess|ENG}}}} || 3 || 0 || 3 || 9 || 15 || –6 || 0 || 76.05 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+==== Group 11 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Beau Greaves]]|ENG}}''' (13)}} || 3 || 3 || 0 || 15 || 4 || 11 || 6 || 97.00 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Noah Röschlein|GER}}''' || 3 || 2 || 1 || 12 || 10 || 2 || 4 || 80.94
+|-
+| 3 ||align=left| {{flagathlete|Joey Lynaugh|USA}} || 3 || 1 || 2 || 7 || 11 || –4 || 2 || 78.75 ||
+|-
+| 4 ||align=left| {{flagathlete|Keanu van Velzen|NED}} || 3 || 0 || 3 || 6 || 15 || –9 || 0 || 83.67 ||
+|}
+
+{{col-2}}
+==== Group 12 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Danny Jansen (darts player)|Danny Jansen]]|NED}}'''}} || 3 || 2 || 1 || 14 || 10 || 4 || 4 || 79.08 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Cayden Smith|ENG}}''' || 3 || 2 || 1 || 14 || 13 || 1 || 4 || 78.74
+|-
+| 3 ||align=left| {{nowrap|{{flagathlete|Xanti Van den Bergh|BEL}} (20)}} || 3 || 1 || 2 || 13 || 14 || –1 || 2 || 77.82 ||
+|-
+| 4 ||align=left| {{flagathlete|Jamie McKinnon|ENG}} || 3 || 1 || 2 || 10 || 14 || –4 || 2 || 72.22 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+==== Group 13 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Justin Atellinghusen|NED}}'''}} || 3 || 3 || 0 || 15 || 4 || 11 || 6 || 77.05 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|{{nowrap|'''{{flagathlete|[[Sebastian Białecki]]|POL}}''' (5)}} || 3 || 2 || 1 || 13 || 9 || 4 || 4 || 84.59
+|-
+| 3 ||align=left| {{flagathlete|Rohan Brouwers|NED}} || 3 || 1 || 2 || 9 || 11 || –2 || 2 || 80.97 ||
+|-
+| 4 ||align=left| {{flagathlete|Owen Roelofs|NED}} || 3 || 0 || 3 || 2 || 15 || –13 || 0 || 65.59 ||
+|}
+
+{{col-2}}
+==== Group 14 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Dylan Dowling|IRL}}'''}} || 3 || 3 || 0 || 15 || 9 || 6 || 6 || 75.36 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|{{nowrap|'''{{flagathlete|Nathan Potter|ENG}}''' (28)}} || 3 || 2 || 1 || 13 || 9 || 4 || 4 || 80.03
+|-
+| 3 ||align=left| {{flagathlete|Thomas Banks|ENG}} || 3 || 1 || 2 || 8 || 14 || –6 || 2 || 78.49 ||
+|-
+| 4 ||align=left| {{flagathlete|Connor Arberry|ENG}} || 3 || 0 || 3 || 11 || 15 || –4 || 0 || 77.23 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+==== Group 15 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Tavis Dudeney|ENG}}''' (12)}} || 3 || 3 || 0 || 15 || 8 || 7 || 6 || 81.04 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Jack Gillett|ENG}}''' || 3 || 2 || 1 || 14 || 10 || 4 || 4 || 72.52
+|-
+| 3 ||align=left| {{flagathlete|Mitchell Beswick|AUS}} || 3 || 1 || 2 || 11 || 12 || –1 || 2 || 70.46 ||
+|-
+| 4 ||align=left| {{flagathlete|Michael Andersen|AUS}} || 3 || 0 || 3 || 5 || 15 || –10 || 0 || 55.81 ||
+|}
+
+{{col-2}}
+==== Group 16 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Liam Maendl-Lawrance|GER}}''' (21)}} || 3 || 3 || 0 || 15 || 9 || 6 || 6 || 83.97 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Mitchell Leeming|ENG}}''' || 3 || 2 || 1 || 14 || 11 || 3 || 4 || 72.21
+|-
+| 3 ||align=left| {{flagathlete|Zacarno King|NZL}} || 3 || 1 || 2 || 13 || 12 || 1 || 2 || 67.10 ||
+|-
+| 4 ||align=left| {{flagathlete|Cody Dewey|AUS}} || 3 || 0 || 3 || 5 || 15 || –10 || 0 || 66.57 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+==== Group 17 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Gian van Veen]]|NED}}''' (2)}} || 3 || 3 || 0 || 15 || 3 || 12 || 6 || 98.41 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Ronan McDonagh|IRL}}''' || 3 || 2 || 1 || 13 || 7 || 6 || 4 || 88.84
+|-
+| 3 ||align=left| {{flagathlete|Zac Prince|ENG}} || 3 || 1 || 2 || 6 || 12 || –6 || 2 || 77.64 ||
+|-
+| 4 ||align=left| {{nowrap|{{flagathlete|Wessel Tempelaars|NED}}}} || 3 || 0 || 3 || 3 || 15 || –12 || 0 || 78.68 ||
+|}
+
+{{col-2}}
+==== Group 18 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Shusaku Nakamura|JPN}}'''}} || 3 || 3 || 0 || 15 || 3 || 12 || 6 || 78.87 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Tom Garfield|ENG}}''' || 3 || 2 || 1 || 10 || 9 || 1 || 4 || 71.64
+|-
+| 3 ||align=left| {{flagathlete|Lleyton Molyneux|ENG}} || 3 || 1 || 2 || 12 || 14 || –2 || 2 || 68.29 ||
+|-
+| 4 ||align=left| {{flagathlete|Bradly Roes|NED}} (31) || 3 || 0 || 3 || 4 || 15 || –11 || 0 || 62.96 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+==== Group 19 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Aidan O'Hara|IRL}}'''}} || 3 || 3 || 0 || 15 || 7 || 8 || 6 || 83.64 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|{{nowrap|'''{{flagathlete|[[Jurjen van der Velde]]|NED}}''' (15)}} || 3 || 2 || 1 || 14 || 10 || 4 || 4 || 88.64
+|-
+| 3 ||align=left| {{flagathlete|Jack Peet|ENG}} || 3 || 1 || 2 || 7 || 14 || –7 || 2 || 73.36 ||
+|-
+| 4 ||align=left| {{flagathlete|Alfie Busby|ENG}} || 3 || 0 || 3 || 10 || 15 || –5 || 0 || 82.74 ||
+|}
+
+{{col-2}}
+==== Group 20 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Cole Davey|WAL}}'''}} || 3 || 3 || 0 || 15 || 4 || 11 || 6 || 86.37 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|{{nowrap|'''{{flagathlete|[[Charlie Manby]]|ENG}}''' (18)}} || 3 || 2 || 1 || 13 || 7 || 6 || 4 || 91.63
+|-
+| 3 ||align=left| {{flagathlete|Zac Griffiths|ENG}} || 3 || 1 || 2 || 7 || 13 || –6 || 2 || 80.08 ||
+|-
+| 4 ||align=left| {{flagathlete|Keelan Kay|ENG}} || 3 || 0 || 3 || 4 || 15 || –11 || 0 || 76.96 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+
+==== Group 21 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Cam Crabtree]]|ENG}}''' (7)}} || 3 || 3 || 0 || 15 || 3 || 12 || 6 || 91.55 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Ciaran Forde|ENG}}''' || 3 || 2 || 1 || 10 || 5 || 5 || 4 || 77.00
+|-
+| 3 ||align=left| {{flagathlete|William Bristow|ENG}} || 3 || 1 || 2 || 5 || 11 || –6 || 2 || 73.44 ||
+|-
+| 4 ||align=left| {{flagathlete|Nicholas Cripps|CAN}} || 3 || 0 || 3 || 4 || 15 || –11 || 0 || 73.41 ||
+|}
+
+{{col-2}}
+==== Group 22 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Bram van Dijk|NED}}'''}} || 3 || 3 || 0 || 15 || 9 || 6 || 6 || 83.87 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Lok Yin Lee|HKG}}''' || 3 || 2 || 1 || 13 || 10 || 3 || 4 || 79.70
+|-
+| 3 ||align=left| {{nowrap|{{flagathlete|Bradley van der Velden|NED}}}} || 3 || 1 || 2 || 10 || 13 || –3 || 2 || 72.22 ||
+|-
+| 4 ||align=left| {{nowrap|{{flagathlete|Jannis Barkhausen|GER}} (26)}} || 3 || 0 || 3 || 9 || 15 || –6 || 0 || 79.16 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+==== Group 23 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Nunjo Dewaele|BEL}}'''}} || 3 || 3 || 0 || 15 || 4 || 11 || 6 || 78.14 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|{{nowrap|'''{{flagathlete|Jamai van den Herik|NED}}''' (10)}} || 3 || 2 || 1 || 12 || 6 || 6 || 4 || 91.81
+|-
+| 3 ||align=left| {{flagathlete|Jack Howarth|ENG}} || 3 || 1 || 2 || 7 || 14 || –7 || 2 || 77.03 ||
+|-
+| 4 ||align=left| {{flagathlete|Brad Phillips|ENG}} || 3 || 0 || 3 || 5 || 15 || –10 || 0 || 72.50 ||
+|}
+
+{{col-2}}
+==== Group 24 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Jack Drayton|ENG}}'''}} || 3 || 3 || 0 || 15 || 5 || 10 || 6 || 87.71 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|{{nowrap|'''{{flagathlete|Jenson Walker|ENG}}''' (23)}} || 3 || 2 || 1 || 12 || 7 || 5 || 4 || 83.69
+|-
+| 3 ||align=left| {{flagathlete|Daniel Stephenson|ENG}} || 3 || 1 || 2 || 10 || 11 || –1 || 2 || 82.42 ||
+|-
+| 4 ||align=left| {{flagathlete|Gavin Nicoll|USA}} || 3 || 0 || 3 || 1 || 15 || –14 || 0 || 73.63 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+==== Group 25 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Keane Barry]]|IRE}}''' (3)}} || 3 || 3 || 0 || 15 || 6 || 9 || 6 || 85.11 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|{{nowrap|'''{{flagathlete|James Buckby|ENG}}'''}} || 3 || 2 || 1 || 14 || 10 || 4 || 4 || 80.07
+|-
+| 3 ||align=left| {{flagathlete|Dylan Quinn|IRE}} || 3 || 1 || 2 || 8 || 10 || –2 || 2 || 77.11 || 
+|-
+| 4 ||align=left| {{flagathlete|Pim van Bijnen|NED}} || 3 || 0 || 3 || 4 || 15 || –11 || 0 || 75.65 || 
+|}
+
+{{col-2}}
+
+==== Group 26 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Jack Sheppard|NZL}}'''}} || 3 || 3 || 0 || 15 || 5 || 10 || 6 || 79.94 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|{{nowrap|'''{{flagathlete|Levy Frauenfelder|NED}}''' (30)}} || 3 || 2 || 1 || 11 || 11 || 0 || 4 || 77.75
+|-
+| 3 ||align=left| {{flagathlete|Justin Hewitt|GIB}} || 3 || 1 || 2 || 13 || 10 || 3 || 2 || 76.64 ||
+|-
+| 4 ||align=left| {{flagathlete|Carl van Mens|GER}} || 3 || 0 || 3 || 2 || 15 || –13 || 0 || 64.94 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+==== Group 27 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Jarno Bottenberg|NED}}''' (14)}} || 3 || 3 || 0 || 15 || 9 || 6 || 6 || 79.72 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Kyle Manton|ENG}}''' || 3 || 2 || 1 || 12 || 12 || 0 || 4 || 78.62
+|-
+| 3 ||align=left| {{flagathlete|Ondrej Frystacky|CZE}} || 3 || 1 || 2 || 12 || 11 || 1 || 2 || 77.59 || 
+|-
+| 4 ||align=left| {{flagathlete|Eleanor Cairns|ENG}} || 3 || 0 || 3 || 8 || 15 || –7 || 0 || 75.34  || 
+|}
+
+{{col-2}}
+==== Group 28 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Adam Gawlas]]|CZE}}''' (19)}} || 3 || 3 || 0 || 15 || 2 || 13 || 6 || 89.14 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|{{nowrap|'''{{flagathlete|Coby Jones-Swanson|ENG}}'''}} || 3 || 2 || 1 || 11 || 12 || -1 || 4 || 73.99
+|-
+| 3 ||align=left| {{flagathlete|Ieuan Halsall|WAL}} || 3 || 1 || 2 || 8 || 13 || -5 || 2 || 84.03 ||
+|-
+| 4 ||align=left| {{flagathlete|Stef Kosters|NED}} || 3 || 0 || 3 || 8 || 15 || –7 || 0 || 80.06 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+
+==== Group 29 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|[[Owen Bates]]|ENG}}''' (6)}} || 3 || 3 || 0 || 15 || 8 || 7 || 6 || 82.28 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|'''{{flagathlete|Lewis Gurney|ENG}}''' || 3 || 2 || 1 || 12 || 10 || 2 || 4 || 75.28
+|-
+| 3 ||align=left| {{flagathlete|Travis Baur|NIR}} || 3 || 1 || 2 || 8 || 13 || -5 || 2 || 73.45 ||
+|-
+| 4 ||align=left| {{nowrap|{{flagathlete|Kieran Thompson|ENG}}}} || 3 || 0 || 3 || 11|| 15 || –4 || 0 || 71.72 || 
+|}
+
+{{col-2}}
+
+==== Group 30 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| {{nowrap|'''{{flagathlete|Patrik Williams|ENG}}''' (27)}} || 3 || 3 || 0 || 15 || 4 || 11 || 6 || 88.13 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left|{{nowrap|'''{{flagathlete|Duyane-Wade Decena|PHI}}'''}} || 3 || 2 || 1 || 13 || 10 || 3 || 4 || 88.50
+|-
+| 3 ||align=left| {{flagathlete|Daan Bastiaansen|NED}} || 3 || 1 || 2 || 10 || 12 || -2 || 2 || 81.21 || 
+|-
+| 4 ||align=left| {{flagathlete|Huey de Jong|NED}} || 3 || 0 || 3 || 3 || 15 || –12 || 0 || 74.58 ||
+|}
+
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+
+==== Group 31 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left| '''{{nowrap|{{flagathlete|Roy Rietbergen|NED}}}}''' || 3 || 3 || 0 || 15 || 8 || 7 || 6 || 83.61 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left| '''{{nowrap|{{flagathlete|Ralfs Laumanis|LAT}}}}''' || 3 || 2 || 1 || 12 || 9 || 3 || 4 || 81.03
+|-
+| 3 ||align=left| {{nowrap|{{flagathlete|Viktor Tingström|SWE}} (11)}} || 3 || 1 || 2 || 10 || 11 || -1 || 2 || 78.64 ||
+|-
+| 4 ||align=left| {{nowrap|{{flagathlete|Trevor Pettigrew|CAN}}}} || 3 || 0 || 3 || 6 || 15 || –9 || 0 || 70.86 || 
+|}
+
+{{col-2}}
+
+==== Group 32 ====
+{| class="wikitable" style="text-align:center; margin: 1em auto 1em auto, align:left"
+|-
+!width=20|Pos.
+!width=auto|Player
+!width=20|P
+!width=20|W
+!width=20|L
+!width=20|LF
+!width=20|LA
+!width=30|+/−
+!width=20|Pts
+!width=20|Avg
+!width=40|Status
+|- style="background:#D0F0C0;
+| 1 ||align=left|{{nowrap|'''{{flagathlete|Joshua Hermann|GER}}''' (22)}} || 3 || 2 || 1 || 14 || 8 || 6 || 4 || 75.17 || rowspan="2"|Q
+|- style="background:#D0F0C0;
+| 2 ||align=left| '''{{nowrap|{{flagathlete|Dean Fitch|SCO}}}}''' || 3 || 2 || 1 || 11 || 10 || 1 || 4 || 78.91
+|-
+| 3 ||align=left| {{nowrap|{{flagathlete|Florian Preis|GER}}}} || 3 || 1 || 2 || 11 || 13 || -2 || 2 || 77.08 || 
+|-
+| 4 ||align=left| {{nowrap|{{flagathlete|Justin van der Velden|NED}}}} || 3 || 0 || 3 || 9 || 14 || –15 || 2 || 72.22 ||
+|}
+
+{{col-end}}
+
+===Knockout stage===
+Numbers to the left of a player's name show the seedings for the top 32 players in the tournament. Figures to the right of a player's name show their [[three-dart average]] in a match. Players in bold denote match winners.<ref>{{cite web |title=Results of PDC World Championship Youth 2025 |url=https://mastercaller.com/tournaments/pdc-world-championship-youth/2025/results |website=Mastercaller |access-date=22 November 2025}}</ref>
+{{#invoke:bracket|64TeamBracket
+| RD1= {{nowrap|'''Last 64'''<br/>''(best of 11 legs)''<br/> 13 October}}
+| RD2= {{nowrap|'''Last 32'''<br/>''(best of 11 legs)''<br/> 13 October}}
+| RD3= {{nowrap|'''Last 16'''<br/>''(best of 11 legs)''<br/> 13 October}}
+| RD4= {{nowrap|'''Quarter-finals'''<br/>''(best of 11 legs)''<br/> 13 October}}
+| RD5= {{nowrap|'''Semi-finals'''<br/>''(best of 11 legs)''<br/> 13 October}}
+| RD6= {{nowrap|'''Final'''<br/>''(best of 11 legs)''<br/> 23 November}}
+| boldwinner = high
+
+| RD1-seed1   = 1
+| RD1-team1   = {{PDCFlag|Luke Littler|avg=102.38}}
+| RD1-score1  = 6
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Tom Garfield|avg=80.79}}
+| RD1-score2  = 2
+| RD1-seed3   = &nbsp;
+| RD1-team3   = {{PDCFlag|Charlie Large|avg=75.94}}
+| RD1-score3  = 1
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Ronan McDonagh|avg=82.83}}
+| RD1-score4  = 6
+| RD1-seed5   = 16
+| RD1-team5   = {{PDCFlag|Henry Coates|avg=89.90}}
+| RD1-score5  = 2
+| RD1-seed6   = 18
+| RD1-team6   = {{PDCFlag|Charlie Manby|avg=95.07}}
+| RD1-score6  = 6
+| RD1-seed7   = 17
+| RD1-team7   = {{PDCFlag|Nathan Girvan|avg=63.30}}
+| RD1-score7  = 0
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Jurjen van der Velde|avg=109.98}}
+| RD1-score8  = 6
+| RD1-seed09  = 8
+| RD1-team09  = {{PDCFlag|Dominik Gruellich|avg=87.70}}
+| RD1-score09 = 2
+| RD1-seed10  =
+| RD1-team10  = {{PDCFlag|Lok Yin Lee|avg=83.12}}
+| RD1-score10 = 6
+| RD1-seed11  = &nbsp;
+| RD1-team11  = {{PDCFlag|JJ Wright|avg=84.81}}
+| RD1-score11 = 5
+| RD1-seed12  =
+| RD1-team12  = {{PDCFlag|Ciaran Forde|avg=84.34}}
+| RD1-score12 = 6
+| RD1-seed13  = 9
+| RD1-team13  = {{PDCFlag|Leon Weber|avg=85.93}}
+| RD1-score13 = 6
+| RD1-seed14  = 23
+| RD1-team14  = {{PDCFlag|Jenson Walker|avg=78.10}}
+| RD1-score14 = 1
+| RD1-seed15  = 24
+| RD1-team15  = {{PDCFlag|Ryan Branley|avg=81.52}}
+| RD1-score15 = 5
+| RD1-seed16  = 10
+| RD1-team16  = {{PDCFlag|Jamai van den Herik|avg=83.23}}
+| RD1-score16 = 6
+
+| RD1-seed17= 4
+| RD1-team17={{PDCFlag|Dylan Slevin|avg=79.84}}
+| RD1-score17= 6
+| RD1-seed18=
+| RD1-team18={{PDCFlag|Levy Frauenfelder|avg=75.36}}
+| RD1-score18= 4
+
+| RD1-seed19= &nbsp;
+| RD1-team19= {{PDCFlag|Tyler Thorpe|avg=84.34}}
+| RD1-score19= 6
+| RD1-seed20=
+| RD1-team20= {{PDCFlag|James Buckby|avg=75.71}}
+| RD1-score20= 2
+
+| RD1-seed21= 13
+| RD1-team21= {{PDCFlag|Beau Greaves|avg=96.97}}
+| RD1-score21= 6
+| RD1-seed22=
+| RD1-team22= {{PDCFlag|Coby Jones-Swanson|avg=76.00}}
+| RD1-score22= 0
+
+| RD1-seed23= &nbsp;
+| RD1-team23= {{PDCFlag|Danny Jansen|avg=83.91}}
+| RD1-score23= 6
+| RD1-seed24=
+| RD1-team24= {{PDCFlag|Kyle Manton|avg=84.79}}
+| RD1-score24= 5
+
+| RD1-seed25= &nbsp;
+| RD1-team25= {{PDCFlag|Justin Atellinghusen|avg=81.34}}
+| RD1-score25=6
+| RD1-seed26=
+| RD1-team26={{PDCFlag|Duyane-Wade Decena|avg=79.69}}
+| RD1-score26=4
+
+| RD1-seed27=&nbsp;
+| RD1-team27={{PDCFlag|Dylan Dowling|avg=79.57}}
+| RD1-score27=4
+| RD1-seed28=
+| RD1-team28={{PDCFlag|Lewis Gurney|avg=72.78}}
+| RD1-score28=6
+
+| RD1-seed29=12
+| RD1-team29={{PDCFlag|Tavis Dudeney|avg=75.77}}
+| RD1-score29=6
+| RD1-seed30=
+| RD1-team30={{PDCFlag|Dean Fitch Jr|avg=80.31}}
+| RD1-score30=5
+
+| RD1-seed31=21
+| RD1-team31={{PDCFlag|Liam Maendl-Lawrance|avg=81.88}}
+| RD1-score31=6
+| RD1-seed32=
+| RD1-team32={{PDCFlag|Ralfs Laumanis|avg=77.79}}
+| RD1-score32=3
+
+| RD1-seed33=2
+| RD1-team33={{PDCFlag|Gian Van Veen|avg=94.52}}
+| RD1-score33=6
+| RD1-seed34=32
+| RD1-team34={{PDCFlag|Damian Vetjens|avg=87.15}}
+| RD1-score34=2
+
+| RD1-seed35=&nbsp;
+| RD1-team35={{PDCFlag|Shusaku Nakamura|avg=80.34}}
+| RD1-score35=4
+| RD1-seed36=
+| RD1-team36={{PDCFlag|Jeffrey Keen|avg=84.23}}
+| RD1-score36=6
+
+| RD1-seed37=&nbsp;
+| RD1-team37={{PDCFlag|Aidan O'Hara|avg=80.27}}
+| RD1-score37=6
+| RD1-seed38=
+| RD1-team38={{PDCFlag|Ben Edgar|avg=68.98}}
+| RD1-score38=1
+
+| RD1-seed39=&nbsp;
+| RD1-team39={{PDCFlag|Cole Davey|avg=84.59}}
+| RD1-score39=5
+| RD1-seed40=
+| RD1-team40={{PDCFlag|Kilian Hohnstedt|avg=82.03}}
+| RD1-score40=6
+
+| RD1-seed41=7
+| RD1-team41={{PDCFlag|Cam Crabtree|avg=82.82}}
+| RD1-score41=6
+| RD1-seed42=
+| RD1-team42={{PDCFlag|Keenan Thomas|avg=78.70}}
+| RD1-score42=5
+
+| RD1-seed43= &nbsp;
+| RD1-team43={{PDCFlag|Bram van Dijk|avg=85.75}}
+| RD1-score43=6
+| RD1-seed44=
+| RD1-team44={{PDCFlag|Jarod Becker|avg=71.46}}
+| RD1-score44=1
+
+| RD1-seed45= &nbsp;
+| RD1-team45={{PDCFlag|Nunjo Dewaele|avg=78.90}}
+| RD1-score45=6
+| RD1-seed46=
+| RD1-team46={{PDCFlag|Sean McKeon|avg=75.87}}
+| RD1-score46=5
+
+| RD1-seed47= &nbsp;
+| RD1-team47={{PDCFlag|Jack Drayton|avg=94.32}}
+| RD1-score47=5
+| RD1-seed48=
+| RD1-team48={{PDCFlag|Daniel Perry|avg=89.85}}
+| RD1-score48=6
+
+| RD1-seed49=3
+| RD1-team49={{PDCFlag|Keane Barry|avg=85.50}}
+| RD1-score49=6
+| RD1-seed50=
+| RD1-team50={{PDCFlag|Mark Tabak|avg=74.32}}
+| RD1-score50=4
+
+| RD1-seed51=&nbsp;
+| RD1-team51={{PDCFlag|Jack Sheppard|avg=75.02}}
+| RD1-score51=3
+| RD1-seed52=
+| RD1-team52={{PDCFlag|Finley Pember|avg=77.37}}
+| RD1-score52=6
+
+| RD1-seed53=14
+| RD1-team53={{PDCFlag|Jarno Bottenberg|avg=73.33}}
+| RD1-score53=2
+| RD1-seed54=
+| RD1-team54={{PDCFlag|Cayden Smith|avg=79.45}}
+| RD1-score54=6
+
+| RD1-seed55=19
+| RD1-team55='''{{PDCFlag|Adam Gawlas}}'''
+| RD1-score55=<small>'''{{nowrap|[[Walkover|w/o]]}}'''</small>
+| RD1-seed56=
+| RD1-team56={{PDCFlag|Noah Roeschlein}}
+| RD1-score56=
+
+| RD1-seed57=6
+| RD1-team57={{PDCFlag|Owen Bates|avg=80.21}}
+| RD1-score57=4
+| RD1-seed58=28
+| RD1-team58={{PDCFlag|Nathan Potter|avg=85.90}}
+| RD1-score58=6
+
+| RD1-seed59=27
+| RD1-team59={{PDCFlag|Patrik Williams|avg=86.59}}
+| RD1-score59=4
+| RD1-seed60=5
+| RD1-team60={{PDCFlag|Sebastian Białecki|avg=90.27}}
+| RD1-score60=6
+
+| RD1-seed61=&nbsp;
+| RD1-team61={{PDCFlag|Roy Rietbergen|avg=76.80}}
+| RD1-score61=6
+| RD1-seed62=
+| RD1-team62={{PDCFlag|Mitchell Leeming|avg=74.79}}
+| RD1-score62=3
+
+| RD1-seed63=22
+| RD1-team63={{PDCFlag|Joshua Hermann|avg=75.79}}
+| RD1-score63=1
+| RD1-seed64=
+| RD1-team64={{PDCFlag|Jack Gillett|avg=80.19}}
+| RD1-score64=6
+
+| RD2-seed1 = 1
+| RD2-team1 = {{PDCFlag|Luke Littler|avg=93.70}}
+| RD2-score1= 6
+| RD2-seed2 = 
+| RD2-team2 = {{PDCFlag|Ronan McDonagh|avg=81.66}}
+| RD2-score2= 1
+| RD2-seed3 = 18
+| RD2-team3 = {{PDCFlag|Charlie Manby|avg=88.76}}
+| RD2-score3= 6
+| RD2-seed4 = 15
+| RD2-team4 = {{PDCFlag|Jurjen van der Velde|avg=87.54}}
+| RD2-score4= 4
+| RD2-seed5 = &nbsp;
+| RD2-team5 = {{PDCFlag|Lok Yin Lee|avg=84.07}}
+| RD2-score5= 6
+| RD2-seed6 = 
+| RD2-team6 = {{PDCFlag|Ciaran Forde|avg=71.62}}
+| RD2-score6= 1
+| RD2-seed7 = 9
+| RD2-team7 = {{PDCFlag|Leon Weber|avg=82.63}}
+| RD2-score7= 0
+| RD2-seed8 = 10
+| RD2-team8 = {{PDCFlag|Jamai van den Herik|avg=91.09}}
+| RD2-score8= 6
+| RD2-seed9 = 4
+| RD2-team9 = {{PDCFlag|Dylan Slevin|avg=93.61}}
+| RD2-score9= 4
+| RD2-seed10 = 29
+| RD2-team10 = {{PDCFlag|Tyler Thorpe|avg=93.38}}
+| RD2-score10= 6
+| RD2-seed11 = 13
+| RD2-team11 = {{PDCFlag|Beau Greaves|avg=93.26}}
+| RD2-score11= 6
+| RD2-seed12 = 
+| RD2-team12 = {{PDCFlag|Danny Jansen|avg=82.02}}
+| RD2-score12= 2
+| RD2-seed13 = &nbsp;
+| RD2-team13 = {{PDCFlag|Justin Atellinghusen|avg=71.77}}
+| RD2-score13= 2
+| RD2-seed14 = 
+| RD2-team14 = {{PDCFlag|Lewis Gurney|avg=72.21}}
+| RD2-score14= 6
+| RD2-seed15 = 12
+| RD2-team15 = {{PDCFlag|Tavis Dudeney|avg=81.88}}
+| RD2-score15= 3
+| RD2-seed16 = 21
+| RD2-team16 = {{PDCFlag|Liam Maendl-Lawrance|avg=92.53}}
+| RD2-score16= 6
+| RD2-seed17 = 2
+| RD2-team17 = {{PDCFlag|Gian van Veen|avg=94.93}}
+| RD2-score17= 6
+| RD2-seed18 = 
+| RD2-team18 = {{PDCFlag|Jeffrey Keen|avg=89.97}}
+| RD2-score18= 0
+| RD2-seed19 = &nbsp;
+| RD2-team19 = {{PDCFlag|Aidan O'Hara|avg=81.88}}
+| RD2-score19= 6
+| RD2-seed20 = 
+| RD2-team20 = {{PDCFlag|Kilian Hohnstedt|avg=76.04}}
+| RD2-score20= 2
+| RD2-seed21 = 7
+| RD2-team21 = {{PDCFlag|Cam Crabtree|avg=95.38}}
+| RD2-score21= 6
+| RD2-seed22 = 
+| RD2-team22 = {{PDCFlag|Bram van Dijk|avg=90.59}}
+| RD2-score22= 4
+| RD2-seed23 = &nbsp;
+| RD2-team23 = {{PDCFlag|Nunjo Dewaele|avg=76.26}}
+| RD2-score23= 6
+| RD2-seed24 = 
+| RD2-team24 = {{PDCFlag|Daniel Perry|avg=79.80}}
+| RD2-score24= 4
+| RD2-seed25 = 3
+| RD2-team25 = {{PDCFlag|Keane Barry|avg=85.28}}
+| RD2-score25= 6
+| RD2-seed26 = 
+| RD2-team26 = {{PDCFlag|Finley Pember|avg=80.58}}
+| RD2-score26= 4
+| RD2-seed27 = &nbsp;
+| RD2-team27 = {{PDCFlag|Cayden Smith|avg=77.22}}
+| RD2-score27= 1
+| RD2-seed28 = 19
+| RD2-team28 = {{PDCFlag|Adam Gawlas|avg=92.89}}
+| RD2-score28= 6
+| RD2-seed29 = 28
+| RD2-team29 = {{PDCFlag|Nathan Potter|avg=97.35}}
+| RD2-score29= 3
+| RD2-seed30 = 5
+| RD2-team30 = {{PDCFlag|Sebastian Bialecki|avg=95.28}}
+| RD2-score30= 6
+| RD2-seed31 = &nbsp;
+| RD2-team31 = {{PDCFlag|Roy Rietbergen|avg=81.23}}
+| RD2-score31= 6
+| RD2-seed32 = 
+| RD2-team32 = {{PDCFlag|Jack Gillett|avg=79.35}}
+| RD2-score32= 3
+
+| RD3-seed1 = 1
+| RD3-team1 = {{PDCFlag|Luke Littler|avg=103.46|surname=1}}
+| RD3-score1= 6
+| RD3-seed2 = 18
+| RD3-team2 = {{PDCFlag|Charlie Manby|avg=102.35|surname=1}}
+| RD3-score2= 5
+| RD3-seed3 =
+| RD3-team3 = {{PDCFlag|Lok Yin Lee|avg=83.67|surname=1}}
+| RD3-score3= 3
+| RD3-seed4 = 10
+| RD3-team4 = {{PDCFlag|Jamai van den Herik|avg=87.40|surname=Van den Herik}}
+| RD3-score4= 6
+| RD3-seed5 = 29
+| RD3-team5 = {{PDCFlag|Tyler Thorpe|avg=87.67|surname=1}}
+| RD3-score5= 4
+| RD3-seed6 = 13
+| RD3-team6 = {{PDCFlag|Beau Greaves|avg=99.29|surname=1}}
+| RD3-score6= 6
+| RD3-seed7 =
+| RD3-team7 = {{PDCFlag|Lewis Gurney|avg=72.68|surname=1}}
+| RD3-score7= 2
+| RD3-seed8 = 21
+| RD3-team8 = {{PDCFlag|Liam Maendl-Lawrance|avg=80.82|surname=1}}
+| RD3-score8= 6
+| RD3-seed9 = 2
+| RD3-team9 = {{PDCFlag|Gian van Veen|avg=90.40|surname=van Veen}}
+| RD3-score9= 6
+| RD3-seed10 = 
+| RD3-team10 = {{PDCFlag|Aidan O'Hara|avg=88.64|surname=1}}
+| RD3-score10= 5
+| RD3-seed11 = 7
+| RD3-team11 = {{PDCFlag|Cam Crabtree|avg=85.41|surname=1}}
+| RD3-score11= 6
+| RD3-seed12 = 
+| RD3-team12 = {{PDCFlag|Nunjo Dewaele|avg=85.10|surname=1}}
+| RD3-score12= 5
+| RD3-seed13 = 3
+| RD3-team13 = {{PDCFlag|Keane Barry|avg=91.84|surname=1}}
+| RD3-score13= 6
+| RD3-seed14 = 19
+| RD3-team14 = {{PDCFlag|Adam Gawlas|avg=85.26|surname=1}}
+| RD3-score14= 3
+| RD3-seed15 = 5
+| RD3-team15 = {{PDCFlag|Sebastian Bialecki|avg=86.06|surname=1}}
+| RD3-score15= 6
+| RD3-seed16 = 
+| RD3-team16 = {{PDCFlag|Roy Rietbergen|avg=87.61|surname=1}}
+| RD3-score16= 5
+
+| RD4-seed1 = 1
+| RD4-team1 = {{PDCFlag|Luke Littler|avg=105.61|surname=1}}
+| RD4-score1= 6
+| RD4-seed2 = 10
+| RD4-team2 = {{PDCFlag|Jamai van den Herik|avg=95.90|surname=Van den Herik}}
+| RD4-score2= 1
+| RD4-seed3 = 13
+| RD4-team3 = {{PDCFlag|Beau Greaves|avg=95.32|surname=1}}
+| RD4-score3= 6
+| RD4-seed4 = 21
+| RD4-team4 = {{PDCFlag|Liam Maendl-Lawrance|avg=92.43|surname=1}}
+| RD4-score4= 2
+| RD4-seed5 = 2
+| RD4-team5 = {{PDCFlag|Gian van Veen|avg=99.45|surname=van Veen}}
+| RD4-score5= 6
+| RD4-seed6 = 7
+| RD4-team6 = {{PDCFlag|Cam Crabtree|avg=87.61|surname=1}}
+| RD4-score6= 2
+| RD4-seed7 = 3
+| RD4-team7 = {{PDCFlag|Keane Barry|avg=91.94|surname=1}}
+| RD4-score7= 5
+| RD4-seed8 = 5
+| RD4-team8 = {{PDCFlag|Sebastian Bialecki|avg=92.25|surname=1}}
+| RD4-score8= 6
+
+| RD5-seed1   = 1
+| RD5-team1   = {{PDCFlag|Luke Littler|avg=107.40|surname=1}}
+| RD5-score1  = 5
+| RD5-seed2   = 13
+| RD5-team2   = {{PDCFlag|Beau Greaves|avg=105.02|surname=1}}
+| RD5-score2  = 6
+
+| RD5-seed3 = 2
+| RD5-team3 = {{PDCFlag|Gian van Veen|avg=93.51|surname=van Veen}}
+| RD5-score3= 6
+| RD5-seed4 = 
+| RD5-team4 = {{PDCFlag|Sebastian Bialecki|avg=85.91|surname=1}}
+| RD5-score4= 4
+
+| RD6-seed1 = 13
+| RD6-team1 = {{PDCFlag|Beau Greaves|avg=90.42|surname=1}}
+| RD6-score1= 3
+| RD6-seed2 = 2
+| RD6-team2 = {{PDCFlag|Gian van Veen|avg=96.55|surname=van Veen}}
+| RD6-score2= 6
+}}
+
+==References==
+{{reflist}}
+
+{{PDC World Youth Championship}}
+{{2025 in PDC darts}}
+
+[[Category:2025 in darts|World Youth Championship]]
+[[Category:2025 in English sport|PDC World Youth Championship]]
+[[Category:2025 in youth sport|PDC World Youth Championship]]
+[[Category:PDC World Youth Championship|2025]]
+[[Category:November 2025 sports events in the United Kingdom|PDC World Youth Championship]]
+[[Category:October 2025 sports events in the United Kingdom|PDC World Youth Championship]]
+[[Category:Sport in Wigan]]
+[[Category:2020s in Greater Manchester]]
+[[Category:2020s in Somerset]]
+[[Category:Minehead]]
+[[Category:Sports competitions in Somerset]]

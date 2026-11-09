@@ -1,0 +1,2331 @@
+{{Short description|Darts tournament series}}
+The '''2025 PDC Players Championship series''' was a series of 34 non-televised [[darts]] tournaments on the [[2025 PDC Pro Tour]].<ref name="More ProTour">{{cite web |last=Allen |first=Dave |date=29 August 2024 |title=More darts than ever in 2025 as PDC calendar released |url=https://www.pdc.tv/news/2024/August/29/more-darts-ever-2025-pdc-calendar-released |access-date=29 August 2024 |publisher=PDC}}{{dead link|date=February 2026|bot=medic}}{{cbignore|bot=medic}}</ref><ref name=Sky2025Calendar>{{cite web |date=3 January 2025 |title=Darts 2025 schedule and dates: Premier League Darts, World Matchplay and more with Luke Littler among those in action |url=https://www.skysports.com/darts/news/12288/13282459/darts-2025-schedule-and-dates-premier-league-darts-world-matchplay-and-more-with-luke-littler-among-those-in-action |publisher=[[Sky Sports]] |access-date=4 January 2025}}</ref><ref name=PlanetCalendar>{{cite web |last=Allen |first=Scott |date=6 January 2025 |title=2025 Darts Calendar: Every major televised tournament, dates, results and where to watch |url=https://www.planetsport.com/news/darts-2025-calendar-every-major-televised-tournament-dates-pdc-results-and-where-to-watch |website=Planet Sport |access-date=15 January 2025}}</ref><ref name=SLifeCalendar>{{cite web |date=22 January 2025 |title=PDC Darts 2025 season: Tournament calendar, fixtures and results |url=https://www.sportinglife.com/darts/news/pdc-darts-2025-season-tournament-calendar-fixtures-and-results/222906 |website=Sporting Life |access-date=23 January 2025}}</ref> The Players Championship Order of Merit, a ranking list that only includes the prize money won by each player in the Players Championship events, determined the field of 64 participants for the [[2025 Players Championship Finals]] in November.
+
+The number of events increased by four compared to the four previous years, bringing the total to 34 Players Championship events.
+
+A total of 33 [[nine-dart finish]]es were hit during the series.
+
+==Prize money==
+The prize money remained the same as the previous year, with a prize fund for each event of £125,000; £15,000 is given to each event‘s winner.
+
+This is how the prize money is divided:<ref>{{cite web |title=PDC Order of Merit Rules |url=https://www.pdc.tv/pdc-order-merit-rules-1 |website=Professional Darts Corporation |access-date=12 March 2025 |archive-url=https://web.archive.org/web/20250214155250/https://www.pdc.tv/pdc-order-merit-rules-1 |archive-date=14 February 2025}}</ref><ref name="DNPCPM">{{cite web |last=Gill |first=Samuel |date=30 October 2025 |title=How much prize money can Luke Littler, Michael van Gerwen and Luke Humphries earn in 2025 Players Championship series  |url=https://dartsnews.com/pdc/prize-money-players-championship-this-is-how-much-is-up-for-grabs-on-protour-this-season |website=Darts News |access-date=30 October 2025}}</ref>
+
+{| class="wikitable"
+! colspan=2 | Stage <small>(no. of players)</small>
+! Prize money<br /><small>(Total: £125,000)</small>
+|-
+| '''Winner'''
+| align=center | <small>(1)</small>
+| align=center | £15,000
+|-
+| '''Runner-up'''
+| align=center | <small>(1)</small>
+| align=center | £10,000
+|-
+| '''Semi-finalists'''
+| align=center | <small>(2)</small>
+| align=center | £5,000
+|-
+| '''Quarter-finalists'''
+| align=center | <small>(4)</small>
+| align=center | £3,500
+|-
+| '''Last 16 (fourth round)'''
+| align=center | <small>(8)</small>
+| align=center | £2,500
+|-
+| '''Last 32 (third round)'''
+| align=center | <small>(16)</small>
+| align=center | £1,500
+|-
+| '''Last 64 (second round)'''
+| align=center | <small>(32)</small>
+| align=center | £1,000
+
+|}
+
+==February==
+===Players Championship 1===
+Players Championship 1 was contested on Monday 10 February 2025 at the Robin Park Tennis Centre in [[Wigan]]. The tournament was won by [[Rob Cross]] who defeated [[Joe Cullen (darts player)|Joe Cullen]] 8–3 in the final.<ref>{{cite web |author=PA Sport Staff |date=10 February 2025 |title=Rob Cross wins Players Championship One after Luke Littler falls in third round |url=https://www.independent.co.uk/sport/luke-littler-rob-cross-wigan-peter-wright-luke-humphries-b2695671.html |website=[[The Independent]] |access-date=10 February 2025}}</ref><ref>{{cite web |date=10 February 2025 |title=Darts Players Championship: Rob Cross wins first event of 2025 after Luke Littler loses in last 32 |url=https://www.skysports.com/darts/news/12040/13306681/darts-players-championship-rob-cross-wins-first-event-of-2025-after-luke-littler-loses-in-last-32 |website=[[Sky Sports]] |access-date=10 February 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 16
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Rob Cross|avg=89.51}}
+| RD1-score1  = 6
+| RD1-seed2   = 25
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=93.75}}
+| RD1-score2  = 5
+| RD1-seed3   = 29
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Andrew Gilding|avg=98.11}}
+| RD1-score3  = 6
+| RD1-seed4   = 28
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Luke Woodhouse|avg=93.62}}
+| RD1-score4  = 3
+| RD1-seed5   = 31
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Joe Cullen|avg=98.02}}
+| RD1-score5  = 6
+| RD1-seed6   =
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Richard Veenstra|avg=99.93}}
+| RD1-score6  = 4
+| RD1-seed7   = 3
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Luke Humphries|avg=95.64}}
+| RD1-score7  = 6
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Darryl Pilgrim|avg=88.78}}
+| RD1-score8  = 1
+
+| RD2-seed1   = 16
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Rob Cross|avg=108.55}}
+| RD2-score1  = 7
+| RD2-seed2   = 29
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Andrew Gilding|avg=99.20}}
+| RD2-score2  = 3
+| RD2-seed3   = 31
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Joe Cullen|avg=105.05}}
+| RD2-score3  = 7
+| RD2-seed4   = 3
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Luke Humphries|avg=102.05}}
+| RD2-score4  = 6
+
+| RD3-seed1   = 16
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Rob Cross|avg=104.60}}
+| RD3-score1  = 8
+| RD3-seed2   = 31
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Joe Cullen|avg=94.26}}
+| RD3-score2  = 3
+}}
+
+===Players Championship 2===
+Players Championship 2 was contested on Tuesday 11 February 2025 at the Robin Park Tennis Centre in [[Wigan]]. The tournament was won by [[Gerwyn Price]] who defeated [[Chris Dobey]] 8–7 in the final.<ref>{{cite web |date=11 February 2025 |title=Price wins Players Championship as Littler stumbles |url=https://www.bbc.co.uk/sport/darts/articles/cn57d45vgd1o |website=BBC Sport |access-date=11 February 2025}}</ref><ref>{{cite web |date=11 February 2025 |title=Gerwyn Price beats Luke Littler on his way to Players Championship title in Wigan |url=https://www.skysports.com/darts/news/12288/13307464/gerwyn-price-beats-luke-littler-on-his-way-to-players-championship-title-in-wigan |website=Sky Sports |access-date=19 February 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 1
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Dave Chisnall|avg=75.74}}
+| RD1-score1  = 2
+| RD1-seed2   = 9
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=96.73}}
+| RD1-score2  = 6
+| RD1-seed3   =
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Florian Hempel|avg=93.30}}
+| RD1-score3  = 5
+| RD1-seed4   = 5
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=94.35}}
+| RD1-score4  = 6
+| RD1-seed5   = 15
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=85.50}}
+| RD1-score5  = 3
+| RD1-seed6   = 7
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=91.72}}
+| RD1-score6  = 6
+| RD1-seed7   = 3
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Luke Littler|avg=100.88}}
+| RD1-score7  = 5
+| RD1-seed8   = 22
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=102.32}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 9
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=89.10}}
+| RD2-score1  = 4
+| RD2-seed2   = 5
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=98.59}}
+| RD2-score2  = 7
+| RD2-seed3   = 7
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=98.81}}
+| RD2-score3  = 5
+| RD2-seed4   = 22
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=99.26}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 5
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=101.83}}
+| RD3-score1  = 7
+| RD3-seed2   = 22
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=99.58}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 3===
+Players Championship 3 was contested on Monday 17 February 2025 at the Autotron in [[Rosmalen]]. The tournament was won by [[Chris Dobey]] who defeated [[Jelle Klaasen]] 8–4 in the final.<ref>{{cite web |date=18 February 2025 |title=Chris Dobey beats Jelle Klaasen to win Players Championship 3 as Michael van Gerwen stunned by Irish amateur |url=https://www.skysports.com/darts/news/12288/13311596/chris-dobey-beats-jelle-klaasen-to-win-players-championship-3-as-michael-van-gerwen-stunned-by-irish-amateur |website=Sky Sports |access-date=19 February 2025}}</ref><ref>{{cite web |date=18 February 2025 |title=Darts results: Chris Dobey overcomes Jelle Klaasen in the Players Championship 3 final in Rosmalen |url=https://www.sportinglife.com/darts/news/darts-results-chris-dobey-overcomes-jelle-klaasen-in-the-players-championship-3-final-in-rosmalen/223822 |publisher=Sporting Life |access-date=19 February 2025}}</ref><ref>{{cite web |last=Abraham |first=Timothy |date=17 February 2025 |title=Michael van Gerwen: Three-time world champion suffers shock defeat by Irish amateur Michael Flynn in Players Championship |url=https://www.bbc.co.uk/sport/darts/articles/cn010z4972do |website=BBC Sport |access-date=19 February 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Nick Kenny|avg=88.70}}
+| RD1-score1  = 6
+| RD1-seed2   = 24
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=96.02}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Jelle Klaasen|avg=84.55}}
+| RD1-score3  = 6
+| RD1-seed4   = 12
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Rob Cross|avg=92.24}}
+| RD1-score4  = 4
+| RD1-seed5   = 23
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=99.53}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Callan Rydz|avg=103.81}}
+| RD1-score6  = 6
+| RD1-seed7   = 3
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=113.54}}
+| RD1-score7  = 6
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Krzysztof Ratajski|avg=91.55}}
+| RD1-score8  = 1
+
+| RD2-seed1   = 
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Nick Kenny|avg=93.16}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Jelle Klaasen|avg=94.54}}
+| RD2-score2  = 7
+| RD2-seed3   =
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Callan Rydz|avg=101.69}}
+| RD2-score3  = 6
+| RD2-seed4   = 3
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=100.34}}
+| RD2-score4  = 7
+
+| RD3-seed1   =
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Jelle Klaasen|avg=87.34}}
+| RD3-score1  = 4
+| RD3-seed2   = 3
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=100.87}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 4===
+Players Championship 4 was contested on Tuesday 18 February 2025 at the Autotron in [[Rosmalen]]. The tournament was won by [[Ryan Searle (darts player)|Ryan Searle]] who defeated [[Cameron Menzies]] 8–3 in the final.<ref>{{cite web |date=18 February 2025 |title=Darts news: Ryan Searle wins Players Championship 4 as Michael van Gerwen misses home event |url=https://www.skysports.com/darts/news/12288/13312089/darts-news-ryan-searle-wins-players-championship-4-as-michael-van-gerwen-misses-home-event |website=Sky Sports |access-date=19 February 2025}}</ref><ref>{{cite web |last=Shaw |first=Jamie |date=18 February 2025 |title=Ryan Searle storms to sixth Players Championship success |url=https://www.live-darts.com/pdc-darts-news/pdc-players-championship/searle-storms-to-players-championship-4-title/ |website=Live Darts |access-date=19 February 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=94.01}}
+| RD1-score1  = 4
+| RD1-seed2   = 9
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=101.70}}
+| RD1-score2  = 6
+| RD1-seed3   =
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Stefan Bellmont|avg=93.62}}
+| RD1-score3  = 6
+| RD1-seed4   = 5
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=90.27}}
+| RD1-score4  = 2
+| RD1-seed5   = 31
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Gabriel Clemens|avg=100.51}}
+| RD1-score5  = 3
+| RD1-seed6   =
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Dom Taylor|avg=106.64}}
+| RD1-score6  = 6
+| RD1-seed7   = 19
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=96.24}}
+| RD1-score7  = 6
+| RD1-seed8   = 22
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|James Wade|avg=90.15}}
+| RD1-score8  = 3
+
+| RD2-seed1   = 9
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=99.89}}
+| RD2-score1  = 7
+| RD2-seed2   =
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Stefan Bellmont|avg=98.71}}
+| RD2-score2  = 6
+| RD2-seed3   =
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Dom Taylor|avg=100.00}}
+| RD2-score3  = 4
+| RD2-seed4   = 19
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=99.00}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 9
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=100.76}}
+| RD3-score1  = 8
+| RD3-seed2   = 19
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=96.99}}
+| RD3-score2  = 3
+}}
+
+==March==
+===Players Championship 5===
+Players Championship 5 was contested on Tuesday 11 March 2025 at the [[Leicester Arena]]. [[Gary Anderson (darts player)|Gary Anderson]] and [[Luke Littler]] both hit a nine-dart finish in their victories against [[Ryan Joyce]] and [[Adam Hunt]] respectively. The tournament was won by [[Joe Cullen (darts player)|Joe Cullen]] who defeated [[Gian van Veen]] 8–7 in the final.<ref>{{cite web |date=11 March 2025 |title=Littler throws nine-darter but 19-match win streak ends |url=https://www.bbc.co.uk/sport/darts/articles/c7783kzkd6no |website=BBC Sport |access-date=12 March 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 16
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=108.16}}
+| RD1-score1  = 6
+| RD1-seed2   = 9
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Michael van Gerwen|avg=101.49}}
+| RD1-score2  = 4
+| RD1-seed3   = 4
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Luke Littler|avg=122.96}}
+| RD1-score3  = 6
+| RD1-seed4   = 12
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=99.57}}
+| RD1-score4  = 1
+| RD1-seed5   = 18
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Mike De Decker|avg=92.16}}
+| RD1-score5  = 6
+| RD1-seed6   =
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Rob Owen|avg=89.43}}
+| RD1-score6  = 2
+| RD1-seed7   = 30
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Joe Cullen|avg=90.60}}
+| RD1-score7  = 6
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Kevin Doets|avg=87.02}}
+| RD1-score8  = 3
+
+| RD2-seed1   = 16
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=96.56}}
+| RD2-score1  = 7
+| RD2-seed2   = 4
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Luke Littler|avg=100.17}}
+| RD2-score2  = 6
+| RD2-seed3   = 18
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Mike De Decker|avg=93.50}}
+| RD2-score3  = 5
+| RD2-seed4   = 30
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Joe Cullen|avg=100.60}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 16
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=100.33}}
+| RD3-score1  = 7
+| RD3-seed2   = 30
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Joe Cullen|avg=104.18}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 6===
+Players Championship 6 was contested on Wednesday 12 March 2025 at the [[Leicester Arena]]. [[Luke Humphries]] and [[Alan Soutar]] both hit a nine-dart finish in their respective victory and defeat against [[Andy Boulton]] and [[Luke Littler]]. The tournament was won by [[Gian van Veen]] who defeated [[Luke Humphries]] 8–3 in the final.<ref>{{cite web |date=12 March 2025 |title=Luke Humphries beaten by Gian van Veen in final of sixth Players Championship, Luke Littler suffers early exit |url=https://www.bbc.com/sport/darts/articles/ckgzj93vllyo |website=BBC Sport |access-date=12 March 2025}}</ref><ref>{{cite web |last=Phillips |first=Josh |date=12 March 2025 |title=Van Veen bounces back to claim first ranking title at PC6 |url=https://www.pdc.tv/news/2025/march/12/van-veen-bounces-back-claim-first-ranking-title-pc6 |website=Professional Darts Corporation |access-date=12 March 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Kevin Doets|avg=91.43}}
+| RD1-score1  = 3
+| RD1-seed2   = 8
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=90.72}}
+| RD1-score2  = 6
+| RD1-seed3   = 4
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Luke Humphries|avg=97.68}}
+| RD1-score3  = 6
+| RD1-seed4   = 12
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=98.85}}
+| RD1-score4  = 5
+| RD1-seed5   = 2
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=95.30}}
+| RD1-score5  = 4
+| RD1-seed6   = 
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Madars Razma|avg=99.10}}
+| RD1-score6  = 6
+| RD1-seed7   = 14
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=99.87}}
+| RD1-score7  = 6
+| RD1-seed8   = 22
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|James Wade|avg=96.74}}
+| RD1-score8  = 2
+
+| RD2-seed1   = 8
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=96.75}}
+| RD2-score1  = 4
+| RD2-seed2   = 4
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Luke Humphries|avg=107.39}}
+| RD2-score2  = 7
+| RD2-seed3   =
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Madars Razma|avg=90.44}}
+| RD2-score3  = 1
+| RD2-seed4   = 14
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=103.34}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 4
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Luke Humphries|avg=97.95}}
+| RD3-score1  = 3
+| RD3-seed2   = 14
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=97.41}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 7===
+Players Championship 7 was contested on Monday 17 March 2025 at the Halle 39 in [[Hildesheim]]. [[Ryan Searle (darts player)|Ryan Searle]], [[Dirk van Duijvenbode]] and [[William O'Connor (darts player)|William O'Connor]] hit a nine-dart finish. The tournament was won by [[Gary Anderson (darts player)|Gary Anderson]] who defeated [[Adam Lipscombe]] 8–3 in the final.<ref>{{cite web |date=17 March 2025 |title=Anderson wins 30th Players Championship title |url=https://www.bbc.co.uk/sport/darts/articles/cnvzpyvyz2vo |website=BBC Sport}}</ref><ref name="PC7Nine">{{cite web |date=20 March 2025 |title=Gary Anderson wins Players Championship 7 after nine-darters for Ryan Searle, Dirk van Duijvenbode and William O'Connor |url=https://www.skysports.com/darts/news/12288/13330994/gary-anderson-wins-players-championship-7-after-nine-darters-for-ryan-searle-dirk-van-duijvenbode-and-william-oconnor |publisher=[[Sky Sports]] |access-date=27 September 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=90.28}}
+| RD1-score1  = 4
+| RD1-seed2   =  
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Adam Lipscombe|avg=94.11}}
+| RD1-score2  = 6
+| RD1-seed3   = 29
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Kevin Doets|avg=92.84}}
+| RD1-score3  = 3
+| RD1-seed4   = 21
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Dirk van Duijvenbode|avg=93.49}}
+| RD1-score4  = 6
+| RD1-seed5   = 15
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Gary Anderson|avg=104.72}}
+| RD1-score5  = 6
+| RD1-seed6   = 26
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Krzysztof Ratajski|avg=98.15}}
+| RD1-score6  = 5
+| RD1-seed7   = 19
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Peter Wright|avg=92.36}}
+| RD1-score7  = 3
+| RD1-seed8   = 11
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Mike De Decker|avg=97.91}}
+| RD1-score8  = 6
+
+| RD2-seed1   =  
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Adam Lipscombe|avg=91.03}}
+| RD2-score1  = 7
+| RD2-seed2   = 21
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Dirk van Duijvenbode|avg=95.21}}
+| RD2-score2  = 4
+| RD2-seed3   = 15
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Gary Anderson|avg=99.98}}
+| RD2-score3  = 7
+| RD2-seed4   = 11
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Mike De Decker|avg=89.48}}
+| RD2-score4  = 3
+
+| RD3-seed1   =
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Adam Lipscombe|avg=89.58}}
+| RD3-score1  = 3
+| RD3-seed2   = 15
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Gary Anderson|avg=93.64}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 8===
+Players Championship 8 was contested on Tuesday 18 March 2025 at the Halle 39 in [[Hildesheim]]. [[Lukas Wenig]] hit a nine-dart finish in his defeat against [[Dom Taylor]]. The tournament was won by [[Martin Schindler]] who defeated [[Jeffrey de Graaf]] 8–1 in the final.<ref>{{cite web |date=20 March 2025 |title=Martin Schindler storms past Jeffrey de Graaf to win maiden Players Championship 8 title |url=https://www.skysports.com/darts/news/12288/13331584/martin-schindler-storms-past-jeffrey-de-graaf-to-win-maiden-players-championship-8-title |website=[[Sky Sports]] |access-date=31 March 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Dylan Slevin|avg=85.70}}
+| RD1-score1  = 5
+| RD1-seed2   =  
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Jeffrey de Graaf|avg=88.51}}
+| RD1-score2  = 6
+| RD1-seed3   = 29
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Dom Taylor|avg=99.78}}
+| RD1-score3  = 6
+| RD1-seed4   = 5
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=106.27}}
+| RD1-score4  = 5
+| RD1-seed5   = 2
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Martin Schindler|avg=92.76}}
+| RD1-score5  = 6
+| RD1-seed6   = 26
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Kevin Doets|avg=90.02}}
+| RD1-score6  = 5
+| RD1-seed7   = 30
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=94.22}}
+| RD1-score7  = 4
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Patrick Geeraets|avg=92.11}}
+| RD1-score8  = 6
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Jeffrey de Graaf|avg=88.04}}
+| RD2-score1  = 7
+| RD2-seed2   = 29
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Dom Taylor|avg=94.74}}
+| RD2-score2  = 4
+| RD2-seed3   = 2
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Martin Schindler|avg=85.86}}
+| RD2-score3  = 7
+| RD2-seed4   =
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Patrick Geeraets|avg=87.56}}
+| RD2-score4  = 6
+
+| RD3-seed1   =
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Jeffrey de Graaf|avg=78.31}}
+| RD3-score1  = 1
+| RD3-seed2   = 2
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Martin Schindler|avg=86.57}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 9===
+Players Championship 9 was contested on Monday 31 March 2025 at the [[Leicester Arena]]. [[Gary Anderson (darts player)|Gary Anderson]] hit a nine-dart finish in his victory against [[Krzysztof Ratajski]]. The tournament was won by [[Gerwyn Price]] who defeated [[Ian White (darts player)|Ian White]] 8–4 in the final.<ref>{{cite web |date=31 March 2025 |title=Price wins ninth Players Championship as Littler exits early |url=https://www.bbc.co.uk/sport/darts/articles/c8eplw0yxgdo |website=BBC Sport |access-date=31 March 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 16
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=90.69}}
+| RD1-score1  = 6
+| RD1-seed2   =
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=86.37}}
+| RD1-score2  = 3
+| RD1-seed3   = 29
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Andrew Gilding|avg=93.58}}
+| RD1-score3  = 2
+| RD1-seed4   =
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Brendan Dolan|avg=94.83}}
+| RD1-score4  = 6
+| RD1-seed5   = 18
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=96.43}}
+| RD1-score5  = 6
+| RD1-seed6   = 7
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=93.23}}
+| RD1-score6  = 4
+| RD1-seed7   =
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Ian White|avg=86.75}}
+| RD1-score7  = 6
+| RD1-seed8   = 6
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=87.96}}
+| RD1-score8  = 5
+
+| RD2-seed1   = 16
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=114.36}}
+| RD2-score1  = 7
+| RD2-seed2   =
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Brendan Dolan|avg=93.61}}
+| RD2-score2  = 0
+| RD2-seed3   = 18
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=87.31}}
+| RD2-score3  = 3
+| RD2-seed4   =
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Ian White|avg=98.60}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 16
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=94.67}}
+| RD3-score1  = 8
+| RD3-seed2   =
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Ian White|avg=96.99}}
+| RD3-score2  = 4
+}}
+
+==April==
+===Players Championship 10===
+Players Championship 10 was contested on Tuesday 1 April 2025 at the [[Leicester Arena]]. The tournament was won by [[Josh Rock]] who defeated [[Cameron Menzies]] 8–4 in the final.<ref>{{cite web |title=Luke Littler suffers another early exit as Josh Rock seals Players Championship 10 title |url=https://www.skysports.com/darts/news/12288/13339951/luke-littler-suffers-another-early-exit-as-josh-rock-seals-players-championship-10-title |website=[[Sky Sports]] |access-date=8 April 2025 |language=en |date=2 April 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 16
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=93.14}}
+| RD1-score1  = 6
+| RD1-seed2   = 24
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Raymond van Barneveld|avg=89.86}}
+| RD1-score2  = 4
+| RD1-seed3   = 4
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=97.28}}
+| RD1-score3  = 1
+| RD1-seed4   = 21
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Michael Smith|avg=100.76}}
+| RD1-score4  = 6
+| RD1-seed5   = 2
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Luke Littler|avg=92.98}}
+| RD1-score5  = 4
+| RD1-seed6   =
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Scott Williams|avg=86.90}}
+| RD1-score6  = 6
+| RD1-seed7   = 3
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Martin Schindler|avg=91.82}}
+| RD1-score7  = 1
+| RD1-seed8   = 6
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=110.34}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 16
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=92.13}}
+| RD2-score1  = 7
+| RD2-seed2   = 21
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Michael Smith|avg=91.71}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Scott Williams|avg=94.54}}
+| RD2-score3  = 5
+| RD2-seed4   = 6
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=98.16}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 16
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=92.90}}
+| RD3-score1  = 4
+| RD3-seed2   = 6
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=95.56}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 11===
+Players Championship 11 was contested on Tuesday 8 April 2025 at the [[Leicester Arena]]. The tournament was won by [[Cameron Menzies]] who defeated [[Peter Wright (darts player)|Peter Wright]] 8–3 in the final.<ref>{{cite web |title=Luke Littler among first-round casualties as Cameron Menzies wins Players Championship 11 |url=https://www.skysports.com/darts/news/12288/13344491/luke-littler-crashes-out-of-players-championship-11-in-first-round-loss-to-irishman-dylan-slevin |website=Sky Sports |access-date=11 July 2025 |date=8 April 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Adam Lipscombe|avg=85.31}}
+| RD1-score1  = 1
+| RD1-seed2   =  
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=95.86}}
+| RD1-score2  = 6
+| RD1-seed3   =
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Matthew Dennant|avg=88.30}}
+| RD1-score3  = 2
+| RD1-seed4   = 12
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=92.01}}
+| RD1-score4  = 6
+| RD1-seed5   = 15
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Gary Anderson|avg=109.93}}
+| RD1-score5  = 6
+| RD1-seed6   = 10
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=105.12}}
+| RD1-score6  = 2
+| RD1-seed7   = 3
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=99.04}}
+| RD1-score7  = 5
+| RD1-seed8   = 22
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Peter Wright|avg=98.81}}
+| RD1-score8  = 6
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=82.65}}
+| RD2-score1  = 2
+| RD2-seed2   = 12
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=87.15}}
+| RD2-score2  = 7
+| RD2-seed3   = 15
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Gary Anderson|avg=103.92}}
+| RD2-score3  = 5
+| RD2-seed4   = 22
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Peter Wright|avg=105.88}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 12
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Cameron Menzies|avg=107.25}}
+| RD3-score1  = 8
+| RD3-seed2   = 22
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Peter Wright|avg=103.45}}
+| RD3-score2  = 3
+}}
+
+===Players Championship 12===
+Players Championship 12 was contested on Wednesday 9 April 2025 at the [[Leicester Arena]]. [[Josh Rock]] hit a nine-dart finish in his victory against [[Matt Campbell (darts player)|Matt Campbell]]. The tournament was won by [[Gerwyn Price]] who defeated [[Josh Rock]] 8–7 in the final.<ref>{{cite web |last1=Matthews |first1=Callum |title=Price wins in Leicester after Littler's early exit |url=https://www.bbc.com/sport/darts/articles/c5yggemeqzyo |website=BBC Sport |access-date=11 July 2025 |date=9 April 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Ian White|avg=97.72}}
+| RD1-score1  = 6
+| RD1-seed2   = 24
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Luke Woodhouse|avg=94.22}}
+| RD1-score2  = 3
+| RD1-seed3   = 13
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=98.61}}
+| RD1-score3  = 1
+| RD1-seed4   = 12
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=112.25}}
+| RD1-score4  = 6
+| RD1-seed5   = 18
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Ritchie Edhouse|avg=97.84}}
+| RD1-score5  = 4
+| RD1-seed6   = 10
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=97.84}}
+| RD1-score6  = 6
+| RD1-seed7   = 3
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=108.05}}
+| RD1-score7  = 6
+| RD1-seed8   = 11
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Gary Anderson|avg=101.46}}
+| RD1-score8  = 3
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Ian White|avg=98.84}}
+| RD2-score1  = 2
+| RD2-seed2   = 12
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=110.80}}
+| RD2-score2  = 7
+| RD2-seed3   = 10
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=99.77}}
+| RD2-score3  = 4
+| RD2-seed4   = 3
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=100.45}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 12
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=101.39}}
+| RD3-score1  = 8
+| RD3-seed2   = 3
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=110.70}}
+| RD3-score2  = 7
+}}
+
+===Players Championship 13===
+Players Championship 13 was contested on Monday 14 April 2025 at the Autotron in [[Rosmalen]]. [[Wessel Nijman]] hit a nine-dart finish in his victory against [[Robert Owen (darts player)|Robert Owen]]. The tournament was won by [[Damon Heta]] who defeated [[Nathan Aspinall]] 8–6 in the final.<ref>{{cite web |last1=Abraham |first1=Timothy |title=Players Championship: Damon Heta beats Nathan Aspinall to win first PDC title of 2025 as Michael van Gerwen suffers early exit |url=https://www.bbc.com/sport/darts/articles/cx2vxre1l8eo |website=BBC Sport |access-date=15 April 2025 |date=14 April 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 32
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Martin Lukeman|avg=74.05}}
+| RD1-score1  = 2
+| RD1-seed2   = 24
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Nathan Aspinall|avg=84.17}}
+| RD1-score2  = 6
+| RD1-seed3   = 4
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Martin Schindler|avg=93.82}}
+| RD1-score3  = 5
+| RD1-seed4   = 12
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=97.70}}
+| RD1-score4  = 6
+| RD1-seed5   =
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Karel Sedlacek|avg=93.13}}
+| RD1-score5  = 2
+| RD1-seed6   = 10
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=94.85}}
+| RD1-score6  = 6
+| RD1-seed7   = 14
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=91.16}}
+| RD1-score7  = 4
+| RD1-seed8   = 22
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Andrew Gilding|avg=95.41}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 24
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Nathan Aspinall|avg=88.31}}
+| RD2-score1  = 7
+| RD2-seed2   = 12
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=84.71}}
+| RD2-score2  = 4
+| RD2-seed3   = 10
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=101.20}}
+| RD2-score3  = 7
+| RD2-seed4   = 22
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Andrew Gilding|avg=97.62}}
+| RD2-score4  = 2
+
+| RD3-seed1   = 24
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Nathan Aspinall|avg=88.45}}
+| RD3-score1  = 6
+| RD3-seed2   = 10
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=94.91}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 14===
+Players Championship 14 was contested on Tuesday 15 April 2025 at the Autotron in [[Rosmalen]]. [[Ross Smith (darts player)|Ross Smith]] hit a nine-dart finish in his victory against [[Thibault Tricole]]. The tournament was won by [[Jonny Clayton]] who defeated [[Dominik Grüllich]] 8–2 in the final.<ref>{{cite web |last1=Abraham |first1=Timothy |title=Players Championship: Jonny Clayton beats Dominik Gruellich to win first PDC ranking title of 2025 |url=https://www.bbc.com/sport/darts/articles/cpdzjwe98pvo |website=BBC Sport |access-date=15 April 2025 |date=15 April 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Dominik Gruellich|avg=88.98}}
+| RD1-score1  = 6
+| RD1-seed2   = 24
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Dirk van Duijvenbode|avg=95.30}}
+| RD1-score2  = 5
+| RD1-seed3   = 20
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Michael Smith|avg=97.15}}
+| RD1-score3  = 6
+| RD1-seed4   = 28
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Ricardo Pietreczko|avg=89.30}}
+| RD1-score4  = 2
+| RD1-seed5   = 15
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=95.10}}
+| RD1-score5  = 6
+| RD1-seed6   =
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Mickey Mansell|avg=87.45}}
+| RD1-score6  = 1
+| RD1-seed7   = 19
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|James Wade|avg=87.75}}
+| RD1-score7  = 0
+| RD1-seed8   = 11
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=101.33}}
+| RD1-score8  = 6
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Dominik Gruellich|avg=95.12}}
+| RD2-score1  = 7
+| RD2-seed2   = 20
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Michael Smith|avg=90.53}}
+| RD2-score2  = 4
+| RD2-seed3   = 15
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=91.88}}
+| RD2-score3  = 3
+| RD2-seed4   = 11
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=103.56}}
+| RD2-score4  = 7
+
+| RD3-seed1   =
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Dominik Gruellich|avg=92.24}}
+| RD3-score1  =2
+| RD3-seed2   = 11
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=109.68}}
+| RD3-score2  =8
+}}
+
+==May==
+===Players Championship 15===
+Players Championship 15 was contested on Monday 12 May 2025 at the Halle 39 in [[Hildesheim]]. [[Luke Woodhouse]] hit a nine-dart finish in his defeat against Martijn Dragt. [[Dave Chisnall]] hit a nine-dart finish in his victory against [[Darius Labanauskas]]. [[Krzysztof Ratajski]] won his first title since September 2023 by defeating [[Dave Chisnall]] 8–4 in the final.<ref>{{cite web |date=12 May 2025 |title=Michael van Gerwen: Dutchman suffers sixth first-round exit on ProTour this year as Krzysztof Ratajski picks up spoils |url=https://www.skysports.com/darts/news/12288/13366591/michael-van-gerwen-dutchman-suffers-sixth-first-round-exit-on-protour-this-year-with-defeat-in-hildesheim 
+|website=Sky Sports |access-date=3 February 2026}}</ref><ref>{{cite web |date=13 May 2025 |title=Ratajski Returns: Polish Eagle Ends Torrid Run with Pro Tour title |url=https://dartsworld.com/2025/05/ratajski-returns-polish-eagle-ends-torrid-run-with-pro-tour-title/ |website=Darts World |access-date=3 February 2026}}</ref><ref>{{cite web |last=Shaw |first=Jamie |date=12 May 2025 |title=Krzysztof Ratajski ends two-year wait for ranking title at Players Championship 15 |url=https://www.live-darts.com/pdc-darts-news/pdc-players-championship/ratajski-ends-two-year-wait-for-ranking-title/ |website=Live Darts |access-date=3 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 32
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Dom Taylor|avg=94.18}}
+| RD1-score1  = 3
+| RD1-seed2   =
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Scott Williams|avg=101.65}}
+| RD1-score2  = 6
+| RD1-seed3   = 4
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=102.56}}
+| RD1-score3  = 5
+| RD1-seed4   = 28
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Krzysztof Ratajski|avg=96.52}}
+| RD1-score4  = 6
+| RD1-seed5   = 2
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Dave Chisnall|avg=104.28}}
+| RD1-score5  = 6
+| RD1-seed6   = 10
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Mike De Decker|avg=88.79}}
+| RD1-score6  = 2
+| RD1-seed7   = 14
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=103.57}}
+| RD1-score7  = 6
+| RD1-seed8   = 6
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=99.44}}
+| RD1-score8  = 1
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Scott Williams|avg=91.28}}
+| RD2-score1  = 4
+| RD2-seed2   = 28
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Krzysztof Ratajski|avg=96.70}}
+| RD2-score2  = 7
+| RD2-seed3   = 2
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Dave Chisnall|avg=97.82}}
+| RD2-score3  = 7
+| RD2-seed4   = 14
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=97.58}}
+| RD2-score4  = 6
+
+| RD3-seed1   = 28
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Krzysztof Ratajski|avg=101.73}}
+| RD3-score1  = 8
+| RD3-seed2   = 2
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Dave Chisnall|avg=98.39}}
+| RD3-score2  = 4
+}}
+
+===Players Championship 16===
+Players Championship 16 was contested on Tuesday 13 May 2025 at the Halle 39 in [[Hildesheim]]. [[Ross Smith (darts player)|Ross Smith]] won his last twenty-four consecutive legs of the tournament; he whitewashed [[Brendan Dolan]] 8–0 in the final. Smith also hit two nine-dart finishes during the tournament; in his victories against both [[Dylan Slevin]] and [[Chris Landman]].<ref> {{cite web |date=13 May 2025 |title=Ross Smith hits two nine-darters on way to Players Championship 16 win after Michael Van Gerwen withdraws |url=https://www.skysports.com/darts/news/12288/13367216/ross-smith-hits-two-nine-darters-on-way-to-players-championship-16-win-after-michael-van-gerwen-withdraws  |website=Sky Sports |access-date=3 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 32
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Gabriel Clemens|avg=97.86}}
+| RD1-score1  = 6
+| RD1-seed2   = 25
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Kevin Doets|avg=94.25}}
+| RD1-score2  = 4
+| RD1-seed3   =
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Brendan Dolan|avg=94.32}}
+| RD1-score3  = 6
+| RD1-seed4   = 12
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Dirk van Duijvenbode|avg=91.14}}
+| RD1-score4  = 3
+| RD1-seed5   = 15
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Luke Woodhouse|avg=92.94}}
+| RD1-score5  = 6
+| RD1-seed6   =
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Ricky Evans|avg=87.18}}
+| RD1-score6  = 4
+| RD1-seed7   = 3
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=98.02}}
+| RD1-score7  = 6
+| RD1-seed8   = 11
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=87.14}}
+| RD1-score8  = 0
+
+| RD2-seed1   = 32
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Gabriel Clemens|avg=99.81}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Brendan Dolan|avg=93.80}}
+| RD2-score2  = 7
+| RD2-seed3   = 15
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Luke Woodhouse|avg=89.24}}
+| RD2-score3  = 0
+| RD2-seed4   = 3
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=105.21}}
+| RD2-score4  = 7
+
+| RD3-seed1   =
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Brendan Dolan|avg=93.86}}
+| RD3-score1  = 0
+| RD3-seed2   = 3
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=104.56}}
+| RD3-score2  = 8
+}}
+
+==June==
+===Players Championship 17===
+Players Championship 17 was contested on Tuesday 17 June 2025 at the [[Leicester Arena]]. The tournament was won by [[Chris Dobey]] who defeated [[Dirk van Duijvenbode]] 8–7 in the final.<ref>{{cite web |date=17 June 2025 |title=Chris Dobey wins Players Championship 17 in Leicester after final-leg decider against Dirk van Duijvenbode |url=https://www.skysports.com/darts/news/12288/13385171/chris-dobey-wins-players-championship-17-in-leicester-after-final-leg-decider-against-dirk-van-duijvenbode |publisher=[[Sky Sports]] |access-date=23 June 2025}}</ref><ref>{{cite web |date=17 June 2025 |title=Dobey clinches dramatic 17th Players Championship |url=https://www.bbc.co.uk/sport/darts/articles/c873gq41r33o |publisher=[[BBC Sport]] |access-date=23 June 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 16
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Dirk van Duijvenbode|avg=97.38}}
+| RD1-score1  = 6
+| RD1-seed2   = 25
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Michael Smith|avg=93.77}}
+| RD1-score2  = 1
+| RD1-seed3   =
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Richard Veenstra|avg=91.44}}
+| RD1-score3  = 2
+| RD1-seed4   = 5
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=108.94}}
+| RD1-score4  = 6
+| RD1-seed5   = 18
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|James Wade|avg=87.76}}
+| RD1-score5  = 3
+| RD1-seed6   = 10
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=98.93}}
+| RD1-score6  = 6
+| RD1-seed7   =
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Thibault Tricole|avg=83.47}}
+| RD1-score7  = 3
+| RD1-seed8   = 11
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=90.52}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 16
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Dirk van Duijvenbode|avg=98.62}}
+| RD2-score1  = 7
+| RD2-seed2   = 5
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=97.03}}
+| RD2-score2  = 6
+| RD2-seed3   = 10
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=97.26}}
+| RD2-score3  = 7
+| RD2-seed4   = 11
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=94.02}}
+| RD2-score4  = 5
+
+| RD3-seed1   = 16
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Dirk van Duijvenbode|avg=102.4}}
+| RD3-score1  = 7
+| RD3-seed2   = 10
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=98.69}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 18===
+Players Championship 18 was contested on Wednesday 18 June 2025 at the [[Leicester Arena]]. The tournament was won by [[Stephen Bunting]] who defeated [[Jermaine Wattimena]] 8–5 in the final.<ref>{{cite web |date=18 June 2025 |title=Stephen Bunting storms to Players Championship 18 title in Leicester |url=https://www.skysports.com/darts/news/12040/13385660/stephen-bunting-storms-to-players-championship-18-title-in-leicester |publisher=[[Sky Sports]] |access-date=19 June 2025}}</ref><ref>{{cite web |last=Drury |first=Sam |date=18 June 2025 |title=Bunting wins first Players Championship title since 2021 |url=https://www.bbc.co.uk/sport/darts/articles/cvgndpgpz0lo |publisher=[[BBC Sport]] |access-date=23 June 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 1
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Dave Chisnall|avg=93.08}}
+| RD1-score1  = 6
+| RD1-seed2   = 
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Cam Crabtree|avg=88.30}}
+| RD1-score2  = 4
+| RD1-seed3   = 4
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=102.51}}
+| RD1-score3  = 6
+| RD1-seed4   =
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Karel Sedlacek|avg=94.69}}
+| RD1-score4  = 5
+| RD1-seed5   = 31
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=88.33}}
+| RD1-score5  = 6
+| RD1-seed6   =
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Benjamin Reus|avg=95.44}}
+| RD1-score6  = 5
+| RD1-seed7   = 14
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Mike De Decker|avg=103.42}}
+| RD1-score7  = 5
+| RD1-seed8   = 19
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=97.87}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 1
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Dave Chisnall|avg=100.52}}
+| RD2-score1  = 6
+| RD2-seed2   = 4
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=97.54}}
+| RD2-score2  = 7
+| RD2-seed3   = 31
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=90.23}}
+| RD2-score3  = 6
+| RD2-seed4   = 19
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=99.49}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 4
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=104.84}}
+| RD3-score1  = 8
+| RD3-seed2   = 19
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=99.65}}
+| RD3-score2  = 5
+}}
+
+===Players Championship 19===
+Players Championship 19 was contested on Thursday 19 June 2025 at the [[Leicester Arena]]. The tournament was won by [[James Wade]] who defeated [[Scott Williams (darts player)|Scott Williams]] 8–3 in the final.<ref>{{cite web |date=19 June 2025 |title=James Wade wins Players Championship 19 title in Leicester to end near three-year wait for PDC ranking title |url=https://www.skysports.com/darts/news/12288/13385966/james-wade-wins-players-championship-19-title-in-leicester-to-end-near-three-year-wait-for-pdc-ranking-title |publisher=[[Sky Sports]] |access-date=23 June 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 17
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|James Wade|avg=98.20}}
+| RD1-score1  = 6
+| RD1-seed2   = 9
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=100.43}}
+| RD1-score2  = 4
+| RD1-seed3   = 20
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Andrew Gilding|avg=98.70}}
+| RD1-score3  = 6
+| RD1-seed4   = 5
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=86.97}}
+| RD1-score4  = 2
+| RD1-seed5   =
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Scott Williams|avg=89.12}}
+| RD1-score5  = 6
+| RD1-seed6   =  
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Bradley Brooks|avg=90.66}}
+| RD1-score6  = 2
+| RD1-seed7   =
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Alan Soutar|avg=89.67}}
+| RD1-score7  = 5
+| RD1-seed8   = 11
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=99.67}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 17
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|James Wade|avg=98.74}}
+| RD2-score1  = 7
+| RD2-seed2   = 20
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Andrew Gilding|avg=92.19}}
+| RD2-score2  = 3
+| RD2-seed3   =
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Scott Williams|avg=93.87}}
+| RD2-score3  = 7
+| RD2-seed4   = 11
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=93.90}}
+| RD2-score4  = 6
+
+| RD3-seed1   = 17
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|James Wade|avg=101.52}}
+| RD3-score1  = 8
+| RD3-seed2   =
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Scott Williams |avg=99.58}}
+| RD3-score2  = 3
+}}
+
+==July==
+===Players Championship 20===
+Players Championship 20 was contested on Tuesday 8 July 2025 at the [[Leicester Arena]]. [[Josh Rock]], Leon Weber and [[Stephen Bunting]] hit a nine-dart finish in their victories against [[Sebastian Białecki]], [[Tytus Kanik]] and [[Rob Cross]] respectively. The tournament was won by [[Damon Heta]] who defeated [[Stephen Bunting]] 8–7 in the final.<ref>{{cite web |date=8 July 2025 |title=Players Championship Darts: Damon Heta beats Stephen Bunting in thriller, Michael Smith's World Matchplay hopes at risk |url=https://www.skysports.com/darts/news/12288/13394214/players-championship-darts-damon-heta-beats-stephen-bunting-in-thriller-michael-smiths-world-matchplay-hopes-at-risk |website=Sky Sports |access-date=8 July 2025}}</ref>
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 16
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=100.13}}
+| RD1-score1  = 6
+| RD1-seed2   = 8
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=101.33}}
+| RD1-score2  = 4
+| RD1-seed3   = 4
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=97.37}}
+| RD1-score3  = 6
+| RD1-seed4   = 21
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Daryl Gurney|avg=93.33}}
+| RD1-score4  = 1
+| RD1-seed5   = 2
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=97.36}}
+| RD1-score5  = 6
+| RD1-seed6   = 7
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=88.72}}
+| RD1-score6  = 1
+| RD1-seed7   = 30
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Rob Cross|avg=109.81}}
+| RD1-score7  = 6
+| RD1-seed8   = 6
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=108.89}}
+| RD1-score8  = 5
+
+| RD2-seed1   = 16
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=95.27}}
+| RD2-score1  = 5
+| RD2-seed2   = 4
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=109.14}}
+| RD2-score2  = 7
+| RD2-seed3   = 2
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=100.19}}
+| RD2-score3  = 7
+| RD2-seed4   = 30
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Rob Cross|avg=97.85}}
+| RD2-score4  = 6
+
+| RD3-seed1   = 4
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=98.86}}
+| RD3-score1  = 8
+| RD3-seed2   = 2
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=102.09}}
+| RD3-score2  = 7
+}}
+
+===Players Championship 21===
+Players Championship 21 was contested on Wednesday 9 July 2025 at the [[Leicester Arena]]. [[Dirk van Duijvenbode]] hit a nine-dart finish in his victory against [[Jim Williams (darts player)|Jim Williams]]. The tournament was won by [[Bradley Brooks]] who defeated [[Gerwyn Price]] 8–5 in the final.<ref>{{cite web |last=Allen |first=Dave |date=9 July 2025 |title=Brilliant Brooks wins maiden ProTour title at PC21 |url=https://www.pdc.tv/news/2025/july/09/brilliant-brooks-wins-maiden-protour-title-pc21 |website=Professional Darts Corporation |access-date=9 July 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 32
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Kevin Doets|avg=89.62}}
+| RD1-score1  = 4
+| RD1-seed2   =
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|James Hurrell|avg=85.24}}
+| RD1-score2  = 6
+| RD1-seed3   =
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Bradley Brooks|avg=94.46}}
+| RD1-score3  = 6
+| RD1-seed4   = 5
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=96.06}}
+| RD1-score4  = 1
+| RD1-seed5   = 18
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Andrew Gilding|avg=87.26}}
+| RD1-score5  = 6
+| RD1-seed6   =
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Wesley Plaisier|avg=91.05}}
+| RD1-score6  = 5
+| RD1-seed7   = 14
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=99.26}}
+| RD1-score7  = 6
+| RD1-seed8   = 27
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Krzysztof Ratajski|avg=95.24}}
+| RD1-score8  = 2
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|James Hurrell|avg=92.62}}
+| RD2-score1  = 6
+| RD2-seed2   =  
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Bradley Brooks|avg=95.47}}
+| RD2-score2  = 7
+| RD2-seed3   = 18
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Andrew Gilding|avg=90.70}}
+| RD2-score3  = 4
+| RD2-seed4   = 14
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=99.18}}
+| RD2-score4  = 7
+
+| RD3-seed1   =
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Bradley Brooks|avg=96.46}}
+| RD3-score1  = 8
+| RD3-seed2   = 14
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=100.73}}
+| RD3-score2  = 5
+}}
+
+===Players Championship 22===
+Players Championship 22 was contested on Tuesday 29 July 2025 at the Halle 39 in [[Hildesheim]]. The tournament was won by [[Sebastian Białecki]] who defeated [[Niels Zonneveld]] 8–6 in the final.<ref>{{cite web |date=29 July 2025 |title=Players Championship darts: Polish star Sebastian Bialecki defies Cameron Menzies and Gian van Veen in Hildesheim win |url=https://www.skysports.com/darts/news/12288/13403733/players-championship-darts-polish-star-sebastian-bialecki-defies-cameron-menzies-and-gian-van-veen-in-hildesheim-win |publisher=[[Sky Sports]] |access-date=30 July 2025}}</ref><ref> {{cite web|url=https://www.pdc.tv/news/2025/july/29/bialecki-breaks-new-ground-pc22-triumph|title=Bialecki breaks new ground with PC22 triumph|publisher=[[Professional Darts Corporation]]|last=Gorton|first=Josh|date=29 July 2025|access-date=29 July 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Jimmy van Schie|avg=84.53}}
+| RD1-score1  = 4
+| RD1-seed2   = 8
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=85.30}}
+| RD1-score2  = 6
+| RD1-seed3   =
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Sebastian Bialecki|avg=101.00}}
+| RD1-score3  = 6
+| RD1-seed4   = 5
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=95.11}}
+| RD1-score4  = 4
+| RD1-seed5   =
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Matthew Dennant|avg=88.83}}
+| RD1-score5  = 3
+| RD1-seed6   =  
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Cam Crabtree|avg=99.82}}
+| RD1-score6  = 6
+| RD1-seed7   = 19
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=92.87}}
+| RD1-score7  = 6
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Jamai van den Herik|avg=90.03}}
+| RD1-score8  = 1
+
+| RD2-seed1   = 8
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=91.57}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Sebastian Bialecki|avg=92.90}}
+| RD2-score2  = 7
+| RD2-seed3   =
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Cam Crabtree|avg=95.48}}
+| RD2-score3  = 5
+| RD2-seed4   = 19
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=98.31}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Sebastian Bialecki|avg=91.78}}
+| RD3-score1  = 8
+| RD3-seed2   = 19
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=90.03}}
+| RD3-score2  = 6
+}}
+
+===Players Championship 23===
+Players Championship 23 was contested on Wednesday 30 July 2025 at the Halle 39 in [[Hildesheim]]. [[Gian van Veen]] hit a nine-dart finish in his victory against [[Ryan Meikle]]. The tournament was won by [[Jermaine Wattimena]] who defeated [[Lukas Wenig]] 8–5 in the final.<ref>{{cite web |date=30 July 2025 |title=Players Championship darts: Dutch player Jermaine Wattimena secures maiden PDC ranking title with victory over Lukas Wenig |url=https://www.skysports.com/darts/news/12040/13404313/players-championship-darts-dutch-player-jermaine-wattimena-secures-maiden-pdc-ranking-title-with-victory-over-lukas-wenig |website=Sky Sports |access-date=11 August 2025}}</ref><ref>{{cite web |last=Gorton |first=Josh |date=30 July 2025 |title=Wattimena sees off Wenig to win first ranking title in Hildesheim |url=https://www.pdc.tv/news/2025/july/30/wattimena-sees-wenig-win-first-ranking-title-hildesheim |website=Professional Darts Corporation |access-date=11 August 2025}}</ref>
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 17
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Ryan Joyce|avg=90.90}}
+| RD1-score1  = 4
+| RD1-seed2   = 9
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=98.11}}
+| RD1-score2  = 6
+| RD1-seed3   = &nbsp;
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Mervyn King|avg=86.04}}
+| RD1-score3  = 3
+| RD1-seed4   = 
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Bradley Brooks|avg=94.17}}
+| RD1-score4  = 6
+| RD1-seed5   = &nbsp;
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Justin Hood|avg=82.57}}
+| RD1-score5  = 2
+| RD1-seed6   = 
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Lukas Wenig|avg=89.02}}
+| RD1-score6  = 6
+| RD1-seed7   = 3
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=87.00}}
+| RD1-score7  = 3
+| RD1-seed8   = 6
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=92.59}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 9
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=99.95}}
+| RD2-score1  = 7
+| RD2-seed2   = 
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Bradley Brooks|avg=94.10}}
+| RD2-score2  = 2
+| RD2-seed3   = 
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Lukas Wenig|avg=89.64}}
+| RD2-score3  = 7
+| RD2-seed4   = 6
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=92.34}}
+| RD2-score4  = 6
+
+| RD3-seed1   = 9
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=95.52}}
+| RD3-score1  = 8
+| RD3-seed2   = 
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Lukas Wenig|avg=93.56}}
+| RD3-score2  = 5
+}}
+
+==August==
+===Players Championship 24===
+Players Championship 24 was contested on Monday 25 August 2025 at [[Arena MK]] in [[Milton Keynes]]. [[Jeffrey de Graaf]] won his first PDC ranking title by defeating [[Stephen Bunting]] 8–7 in the final. [[Scott Williams (darts player)|Scott Williams]] hit a nine-dart finish in his victory against [[James Hurrell]].<ref>{{cite web |last=Staniforth |first=Mark |date=25 August 2025 |title=Luke Littler falls at last-16 stage as Jeffrey de Graaf wins maiden PDC title |url=https://www.independent.co.uk/sport/pdc-luke-littler-swedish-scott-williams-michael-van-gerwen-b2813774.html |website=[[The Independent]] |access-date=3 February 2026}}</ref><ref>{{cite web |date=25 August 2025 |title=Jeffrey de Graaf lowers Stephen Bunting to secure maiden PDC title |url=https://www.rte.ie/sport/darts/2025/0825/1530131-de-graaf-lowers-bunting-to-secure-maiden-pdc-title/ |website=[[RTÉ]] |access-date=3 February 2026}}</ref><ref>{{cite web |last=Simpson |first=Will |date=25 August 2025 |title=De Graaf makes history with PC24 victory |url=https://www.pdc.tv/news/2025/august/25/de-graaf-makes-history-pc24-victory |website=Professional Darts Corporation |access-date=3 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 16
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Dirk van Duijvenbode|avg=95.47}}
+| RD1-score1  = 4
+| RD1-seed2   =
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Scott Williams|avg=87.63}}
+| RD1-score2  = 6
+| RD1-seed3   =
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Alan Soutar|avg=91.04}}
+| RD1-score3  = 2
+| RD1-seed4   =  
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Jeffrey de Graaf|avg=98.28}}
+| RD1-score4  = 6
+| RD1-seed5   = 2
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=99.57}}
+| RD1-score5  = 6
+| RD1-seed6   = 26
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Rob Cross|avg=102.00}}
+| RD1-score6  = 1
+| RD1-seed7   = 
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Karel Sedlacek|avg=92.57}}
+| RD1-score7  = 1
+| RD1-seed8   = 6
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=101.47}}
+| RD1-score8  = 6
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Scott Williams|avg=88.24}}
+| RD2-score1  = 1
+| RD2-seed2   =   
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Jeffrey de Graaf|avg=92.93}}
+| RD2-score2  = 7
+| RD2-seed3   = 2
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=106.49}}
+| RD2-score3  = 7
+| RD2-seed4   = 6
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=94.25}}
+| RD2-score4  = 2
+
+| RD3-seed1   = 
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Jeffrey de Graaf|avg=102.10}}
+| RD3-score1  = 8
+| RD3-seed2   = 2
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=106.31}}
+| RD3-score2  = 7
+}}
+
+===Players Championship 25===
+Players Championship 25 was contested on Tuesday 26 August 2025 at [[Arena MK]] in [[Milton Keynes]]. [[Stephen Bunting]] won his second Players Championship title of the year by defeating [[Jonny Clayton]] 8–6 in the final. [[Dirk van Duijvenbode]] hit a nine-dart finish in his defeat against [[Daryl Gurney]].<ref>{{cite web |date=26 August 2025 |title=Bunting wins second Players Championship title of 2025
+|url=https://www.bbc.co.uk/sport/darts/articles/ |website=BBC Sport |access-date=26 August 2025}}</ref><ref>{{cite web |last=Gorton |first=Josh |date=26 August 2025 |title=Bunting defies Clayton onslaught to win PC25 in Milton Keynes |url=https://www.pdc.tv/news/2025/august/26/bunting-defies-clayton-onslaught-win-pc25-milton-keynes |website=Professional Darts Corporation |access-date=3 February 2026}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 1
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=105.67}}
+| RD1-score1  = 6
+| RD1-seed2   = 8
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=95.64}}
+| RD1-score2  = 1
+| RD1-seed3   = 29
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=104.28}}
+| RD1-score3  = 6
+| RD1-seed4   = 
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Karel Sedlacek|avg=96.07}}
+| RD1-score4  = 3
+| RD1-seed5   = 2
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Martin Schindler|avg=104.86}}
+| RD1-score5  = 6
+| RD1-seed6   = 7
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Gian Van Veen|avg=98.14}}
+| RD1-score6  = 3
+| RD1-seed7   = 
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Alan Soutar|avg=98.03}}
+| RD1-score7  = 1
+| RD1-seed8   = 6
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=106.64}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 1
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=98.00}}
+| RD2-score1  = 7
+| RD2-seed2   = 29
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=93.83}}
+| RD2-score2  = 6
+| RD2-seed3   = 2
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Martin Schindler|avg=100.29}}
+| RD2-score3  = 6
+| RD2-seed4   = 6
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=98.78}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 1
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=101.73}}
+| RD3-score1  = 8
+| RD3-seed2   = 6
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=91.34}}
+| RD3-score2  = 6
+}}
+
+==September==
+===Players Championship 26===
+Players Championship 26 was contested on Tuesday 9 September 2025 at the Halle 39 in [[Hildesheim]]. [[Gerwyn Price]] won his fourth Players Championship title of the year, defeating [[Gian van Veen]] 8–5 in the final.<ref>{{cite web |date=9 September 2025 |title=Price hits 13 maximums on way to Players Championship 26 win |url=https://www.bbc.com/sport/darts/articles/c62l71zq3lvo |publisher=BBC Sport |access-date=10 September 2025}}</ref><ref>{{cite web |date=9 September 2025 |title=Gerwyn Price battles to Players Championship 26 title with victory over Gian van Veen in Halle 39 final |url=https://www.skysports.com/darts/news/12288/13427804/gerwyn-price-battles-to-players-championship-26-title-with-victory-over-gian-van-veen-in-halle-39-final |publisher=Sky Sports |access-date=30 September 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 16
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=95.96}}
+| RD1-score1  = 5
+| RD1-seed2   = 9
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Gary Anderson|avg=89.53}}
+| RD1-score2  = 6
+| RD1-seed3   = 4
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=101.65}}
+| RD1-score3  = 6
+| RD1-seed4   = 5
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=96.78}}
+| RD1-score4  = 3
+| RD1-seed5   = 2
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=96.99}}
+| RD1-score5  = 6
+| RD1-seed6   = 7
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=95.52}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Bradley Brooks|avg=96.18}}
+| RD1-score7  = 3
+| RD1-seed8   = 22
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=104.09}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 9
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Gary Anderson|avg=96.62}}
+| RD2-score1  = 4
+| RD2-seed2   = 4
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=104.62}}
+| RD2-score2  = 7
+| RD2-seed3   = 2
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=97.32}}
+| RD2-score3  = 7
+| RD2-seed4   = 22
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=93.49}}
+| RD2-score4  = 6
+
+| RD3-seed1   = 4
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Gian van Veen|avg=97.40}}
+| RD3-score1  = 5
+| RD3-seed2   = 2
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=109.28}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 27===
+Players Championship 27 was contested on Wednesday 10 September 2025 at the Halle 39 in [[Hildesheim]]. [[Joe Cullen (darts player)|Joe Cullen]] won his second title of the year by defeating [[Gerwyn Price]] 8–7 in the final.<ref>{{cite web |date=10 September 2025 |title=Joe Cullen edges out Gerwyn Price to win Players Championship |url=https://www.rte.ie/sport/darts/2025/0910/1532852-cullen-edges-out-price-to-win-players-championship/ |website=RTÉ |access-date=23 September 2025 |agency=PA}}</ref> [[Danny Noppert]] hit a nine-dart finish in his victory against [[Mario Vandenbogaerde]].<ref>{{cite web |date=10 September 2025 |title=Players Championship 27: Joe Cullen defeats Gerwyn Price in classy display and takes step towards World Grand Prix qualification  |url=https://www.skysports.com/darts/news/12288/13428264/players-championship-27-joe-cullen-defeats-gerwyn-price-in-classy-display-and-takes-step-towards-world-grand-prix-qualification |website=Sky Sports |access-date=23 September 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|James Hurrell|avg=96.41}}
+| RD1-score1  = 4
+| RD1-seed2   = 24
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Joe Cullen|avg=99.19}}
+| RD1-score2  = 6
+| RD1-seed3   = 29
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Scott Williams|avg=101.94}}
+| RD1-score3  = 6
+| RD1-seed4   = 
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Alexander Merkx|avg=91.00}}
+| RD1-score4  = 1
+| RD1-seed5   = 2
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=88.56}}
+| RD1-score5  = 6
+| RD1-seed6   = 
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Michael Unterbuchner|avg=87.83}}
+| RD1-score6  = 4
+| RD1-seed7   = 14
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=86.38}}
+| RD1-score7  = 6
+| RD1-seed8   = 
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Richard Veenstra|avg=86.37}}
+| RD1-score8  = 1
+
+| RD2-seed1   = 24
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Joe Cullen|avg=100.63}}
+| RD2-score1  = 7
+| RD2-seed2   = 29
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Scott Williams|avg=94.83}}
+| RD2-score2  = 1
+| RD2-seed3   = 2
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=104.98}}
+| RD2-score3  = 7
+| RD2-seed4   = 14
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=92.82}}
+| RD2-score4  = 3
+
+| RD3-seed1   = 24
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Joe Cullen|avg=99.78}}
+| RD3-score1  = 8
+| RD3-seed2   = 2
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=97.31}}
+| RD3-score2  = 7
+}}
+
+===Players Championship 28===
+Players Championship 28 was contested on Tuesday 30 September 2025 at the [[Leicester Arena]]. [[Ryan Searle (darts player)|Ryan Searle]] won his second title of the year by defeating [[Mario Vandenbogaerde]] 8–6 in the final.
+[[Niko Springer]], [[Adam Hunt]] and [[Stefan Bellmont]] each hit a nine-dart finish.<ref> {{cite web|url=https://www.pdc.tv/news/2025/september/30/seventh-heaven-searle-players-championship-28|title=Seventh heaven for Searle at Players Championship 28|publisher=[[Professional Darts Corporation]]|last=Gorton|first=Josh|date=30 September 2025|access-date=30 September 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 16
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=90.29}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Mario Vandenbogaerde|avg=91.56}}
+| RD1-score2  = 6
+| RD1-seed3   =
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Michele Turetta|avg=81.20}}
+| RD1-score3  = 2
+| RD1-seed4   =   
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Brendan Dolan|avg=89.23}}
+| RD1-score4  = 6
+| RD1-seed5   =
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Kevin Doets|avg=97.72}}
+| RD1-score5  = 6
+| RD1-seed6   = 7
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=100.88}}
+| RD1-score6  = 4
+| RD1-seed7   = 19
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=102.62}}
+| RD1-score7  = 6
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Darren Beveridge|avg=94.62}}
+| RD1-score8  = 4
+
+| RD2-seed1   =
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Mario Vandenbogaerde|avg=93.87}}
+| RD2-score1  = 7
+| RD2-seed2   =   
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Brendan Dolan|avg=83.86}}
+| RD2-score2  = 3
+| RD2-seed3   =
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Kevin Doets|avg=94.17}}
+| RD2-score3  = 4
+| RD2-seed4   = 19
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=100.02}}
+| RD2-score4  = 7
+
+| RD3-seed1   =
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Mario Vandenbogaerde|avg=89.38}}
+| RD3-score1  = 6
+| RD3-seed2   = 19
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=95.43}}
+| RD3-score2  = 8
+}}
+
+==October==
+===Players Championship 29===
+Players Championship 29 was contested on Wednesday 1 October 2025 at the [[Leicester Arena]]. [[Ross Smith (darts player)|Ross Smith]] won his second title of the year by defeating [[Josh Rock]] 8–7 in the final. Rock also hit a nine-dart finish in his victory against [[Wesley Plaisier]].<ref>{{cite web |date=2 October 2025 |title=Players Championship 29: Emotional Ross Smith beats nine-dart star Josh Rock to win second ProTour title of season |url=https://www.skysports.com/darts/news/12288/13442394/players-championship-29-emotional-ross-smith-beats-nine-dart-star-josh-rock-to-win-second-protour-title-of-season |website=Sky Sports |access-date=28 October 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Ryan Meikle|avg=95.55}}
+| RD1-score1  = 4
+| RD1-seed2   = 8
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=97.91}}
+| RD1-score2  = 6
+| RD1-seed3   = 13
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=98.02}}
+| RD1-score3  = 6
+| RD1-seed4   = 5
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Jonny Clayton|avg=89.10}}
+| RD1-score4  = 0
+| RD1-seed5   = 18
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Gary Anderson|avg=96.39}}
+| RD1-score5  = 6
+| RD1-seed6   = 7
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Luke Humphries|avg=103.20}}
+| RD1-score6  = 5
+| RD1-seed7   = 3
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=94.92}}
+| RD1-score7  = 6
+| RD1-seed8   = 11
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Danny Noppert|avg=89.29}}
+| RD1-score8  = 2
+
+| RD2-seed1   = 8
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=105.02}}
+| RD2-score1  = 7
+| RD2-seed2   = 13
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=98.39}}
+| RD2-score2  = 3
+| RD2-seed3   = 18 
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Gary Anderson|avg=98.59}}
+| RD2-score3  = 4
+| RD2-seed4   = 3
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=97.79}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 8
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Ross Smith|avg=104.32}}
+| RD3-score1  = 8
+| RD3-seed2   = 3
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Josh Rock|avg=102.76}}
+| RD3-score2  = 7
+}}
+
+===Players Championship 30===
+Players Championship 30 was contested on Thursday 2 October 2025 at the [[Leicester Arena]]. The tournament was won by [[Wessel Nijman]] who defeated [[Damon Heta]] 8–3 in the final.<ref>{{cite web |date=2 October 2025 |title=Wessel Nijman warms up for World Grand Prix by clinching Players Championship 30 crown  |url=https://www.skysports.com/darts/news/12288/13442985/wessel-nijman-warms-up-for-world-grand-prix-by-clinching-players-championship-30-crown |website=Sky Sports |access-date=28 October 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 16
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=96.14}}
+| RD1-score1  = 2
+| RD1-seed2   = 9
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=100.49}}
+| RD1-score2  = 6
+| RD1-seed3   = 13
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=91.34}}
+| RD1-score3  = 6
+| RD1-seed4   =
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Mickey Mansell|avg=84.52}}
+| RD1-score4  = 3
+| RD1-seed5   =
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Rob Owen|avg=91.59}}
+| RD1-score5  = 3
+| RD1-seed6   = 7
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=90.91}}
+| RD1-score6  = 6
+| RD1-seed7   =
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Bradley Brooks|avg=95.22}}
+| RD1-score7  = 5
+| RD1-seed8   =  &nbsp;
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Wesley Plaisier|avg=96.93}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 9
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=98.18}}
+| RD2-score1  =7
+| RD2-seed2   = 13
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Ryan Searle|avg=91.42}}
+| RD2-score2  =2
+| RD2-seed3   = 7
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=90.22}}
+| RD2-score3  = 7
+| RD2-seed4   =
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Wesley Plaisier|avg=91.75}}
+| RD2-score4  = 6
+
+| RD3-seed1   = 9
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=103.44}}
+| RD3-score1  =8
+| RD3-seed2   = 7
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Damon Heta|avg=102.00}}
+| RD3-score2  =3
+}}
+
+===Players Championship 31===
+Players Championship 31 was contested on Tuesday 14 October 2025 at the Robin Park Tennis Centre in [[Wigan]]. [[Jermaine Wattimena]] won his second title of the year by defeating [[Nathan Aspinall]] 8–2 in the final. Aspinall also hit two nine-dart finishes in his respective victories against [[Steve Lennon]] and [[Lukas Wenig]].<ref>{{cite web |date=14 October 2025 |title=Luke Littler: World champion suffers shock defeat on ProTour to dent hopes of making Players Championship Finals |url=https://www.skysports.com/darts/news/12288/13450080/luke-littler-world-champion-suffers-shock-defeat-to-ritchie-edhouse-on-protour-in-blow-to-players-championship-finals-hopes |website=Sky Sports |access-date=14 October 2025}}</ref><ref>{{cite web |date=14 October 2025 |title=Nathan Aspinall nails two nine-darters in the PDC Players Championship 31 |url=https://www.skysports.com/darts/video/30998/13450115/nathan-aspinall-nails-two-nine-darters-in-the-pdc-players-championship-31 |website=Sky Sports |access-date=14 October 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 1
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=96.84}}
+| RD1-score1  = 6
+| RD1-seed2   = 9
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=100.62}}
+| RD1-score2  = 4
+| RD1-seed3   = 13
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Nathan Aspinall|avg=98.09}}
+| RD1-score3  = 6
+| RD1-seed4   = 12
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|James Wade|avg=98.56}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Joe Hunt|avg=92.38}}
+| RD1-score5  = 2
+| RD1-seed6   = 23
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=99.52}}
+| RD1-score6  = 6
+| RD1-seed7   = 14
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=88.38}}
+| RD1-score7  = 6
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Chris Landman|avg=87.06}}
+| RD1-score8  = 1
+
+| RD2-seed1   = 1
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=96.08}}
+| RD2-score1  = 3
+| RD2-seed2   = 13
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Nathan Aspinall|avg=92.00}}
+| RD2-score2  = 7
+| RD2-seed3   = 23
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Niels Zonneveld|avg=72.32}}
+| RD2-score3  = 0
+| RD2-seed4   = 14
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=101.16}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 13
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Nathan Aspinall|avg=85.84}}
+| RD3-score1  = 2
+| RD3-seed2   = 14
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=101.02}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 32===
+Players Championship 32 was contested on Wednesday 15 October 2025 at the Robin Park Tennis Centre in [[Wigan]]. [[Luke Littler]] won his fourth Players Championship title by defeating [[Dennie Olde Kalter]] 8–2 in the final.<ref name="BouncesBack">{{cite web |date=16 October 2025 |title=Players Championship: Luke Littler bounces back from recent defeats to claim Event 32 title and qualify for Finals |url=https://www.skysports.com/darts/news/12288/13450735/players-championship-luke-littler-bounces-back-from-recent-defeats-to-claim-event-32-title-and-qualify-for-finals |website=Sky Sports |access-date=27 October 2025}}</ref><ref name="ESPN15Oct">{{cite web |date=15 October 2025 |title=Luke Littler secures Players Championship spot with 32 event win |url=https://www.espn.co.uk/darts/story/_/id/46606614/luke-littler-secures-players-championship-spot-32-event-win |website=ESPN |access-date=27 October 2025}}</ref><ref name="BBC15Oct">{{cite web |last=Emons |first=Michael |date=15 October 2025 |title=Littler secures spot at Players Championship Finals |url=https://www.bbc.com/sport/darts/articles/cp3x9pg5l06o |website=BBC Sport |access-date=27 October 2025}}</ref><ref name="HotStreak">{{cite web |title=Luke Littler’s hot streak continues as he wins Players Championship 32 |url=https://www.independent.co.uk/sport/luke-littler-wigan-grand-prix-b2846159.html |website=Independent |agency=PA Sport |access-date=27 October 2025}}</ref> [[Andreas Harrysson]] hit a nine-dart finish in his victory against [[Radek Szagański]].<ref>{{cite web |last=Gorton |first=Josh |date=15 October 2025 |title=Imperious Littler seals Minehead spot with PC32 success |url=https://www.pdc.tv/news/2025/october/15/imperious-littler-seals-minehead-spot-pc32-success |website=Professional Darts Corporation |access-date=27 October 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 1
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=98.61}}
+| RD1-score1  = 6
+| RD1-seed2   = 8
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=87.46}}
+| RD1-score2  = 2
+| RD1-seed3   = 13
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Luke Littler|avg=100.64}}
+| RD1-score3  = 6
+| RD1-seed4   =
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Rhys Griffin|avg=89.64}}
+| RD1-score4  = 3
+| RD1-seed5   = 15
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=100.24}}
+| RD1-score5  = 5
+| RD1-seed6   = 10
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=100.34}}
+| RD1-score6  = 6
+| RD1-seed7   = 
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Dennie Olde Kalter|avg=96.76}}
+| RD1-score7  = 6
+| RD1-seed8   = 11
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Nathan Aspinall|avg=95.84}}
+| RD1-score8  = 4
+
+| RD2-seed1   = 1
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Stephen Bunting|avg=107.20}}
+| RD2-score1  = 3
+| RD2-seed2   = 13
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Luke Littler|avg=109.50}}
+| RD2-score2  = 7
+| RD2-seed3   = 10
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=89.38}}
+| RD2-score3  = 4
+| RD2-seed4   =
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Dennie Olde Kalter|avg=89.73}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 13
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Luke Littler|avg=110.73}}
+| RD3-score1  = 8
+| RD3-seed2   =
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Dennie Olde Kalter|avg=97.35}}
+| RD3-score2  = 2
+}}
+
+===Players Championship 33===
+Players Championship 33 was contested on Wednesday 29 October 2025 at the Robin Park Tennis Centre in [[Wigan]]. [[Chris Dobey]] won his third title of the year by defeating [[William O'Connor (darts player)|William O'Connor]] 8–6 in the final. This win confirmed Dobey's qualification for the [[2025 Grand Slam of Darts]]. [[Nathan Aspinall]] and [[Damon Heta]] both hit a nine-dart finish in their victories against [[Ian White (darts player)|Ian White]] and [[George Killington]] respectively.<ref name="SkyPC33">{{cite web |date=30 October 2025 |title=Chris Dobey wins penultimate Players Championship event as Luke Humphries' qualification for finals waits to final day |url=https://www.skysports.com/darts/news/12288/13460182/chris-dobey-wins-penultimate-players-championship-event-as-luke-humphries-qualification-for-finals-waits-to-final-day |website=Sky Sports |access-date=30 October 2025}}</ref><ref name="Seals">{{cite web |date=30 October 2025 |title=Darts results: Chris Dobey seals Grand Slam spot with victory at Players Championship 33 |url=https://www.sportinglife.com/darts/news/darts-results-chris-dobey-seals-grand-slam-spot-with-victory-at-players-championship-33/228405 |website=Sporting Life |access-date=31 October 2025}}</ref><ref name="DobeyConfirms">{{cite web |last=Gorton |first=Josh |date=29 October 2025 |title=Dominant Dobey confirms Grand Slam spot with PC33 success |url=https://www.pdc.tv/news/2025/october/29/dominant-dobey-confirms-grand-slam-spot-pc33-success |website=Professional Darts Corporation |access-date=29 October 2025}}</ref><ref name="DNDelight">{{cite web |last=Michael |first=Lucas |date=29 October 2025 |title=Delight for Dobey! Clinical Chris Dobey triumphs in Players Championship 33 to secure spot in Grand Slam of Darts |url=https://dartsnews.com/pdc/live-players-championship-33-humphries-bunting-and-price-lead-final-run-to-minehead |website=Darts News |access-date=29 October 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   = 17
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Ryan Joyce|avg=97.43}}
+| RD1-score1  = 6
+| RD1-seed2   =
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Cam Crabtree|avg=89.18}}
+| RD1-score2  = 1
+| RD1-seed3   = 20
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=93.00}}
+| RD1-score3  = 6
+| RD1-seed4   =
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Thibault Tricole|avg=87.86}}
+| RD1-score4  = 3
+| RD1-seed5   = 2
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|Gerwyn Price|avg=85.55}}
+| RD1-score5  = 0
+| RD1-seed6   = 7
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=98.02}}
+| RD1-score6  = 6
+| RD1-seed7   = 3
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Nathan Aspinall|avg=91.36}}
+| RD1-score7  = 2
+| RD1-seed8   = 11
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=111.29}}
+| RD1-score8  = 6
+
+| RD2-seed1   = 17
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Ryan Joyce|avg=87.17}}
+| RD2-score1  = 2
+| RD2-seed2   = 20
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=92.90}}
+| RD2-score2  = 7
+| RD2-seed3   = 7
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=93.50}}
+| RD2-score3  = 2
+| RD2-seed4   = 11
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=94.67}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 20
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=96.46}}
+| RD3-score1  = 6
+| RD3-seed2   = 11
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=99.72}}
+| RD3-score2  = 8
+}}
+
+===Players Championship 34===
+Players Championship 34 was contested on Thursday 30 October 2025 at the Robin Park Tennis Centre in [[Wigan]]. [[Wessel Nijman]] won his third title by defeating [[Luke Woodhouse]] 8–5 in the final.<ref>{{cite web |date=30 October 2025 |title=Luke Humphries secures Players Championship Finals spot as Wessel Nijman claims PC34 victory |url=https://www.skysports.com/darts/news/12288/13460729/luke-humphries-secures-players-championship-finals-spot-as-wessel-nijman-claims-pc34-victory |website=Sky Sports |access-date=31 October 2025}}</ref><ref>{{cite web |date=30 October 2025  |title=Darts results: Wessel Nijman wins final Players Championship event of the season |url=https://www.sportinglife.com/darts/news/darts-results-wessel-nijman-wins-final-players-championship-event-of-the-season/228424 |website=Sporting Life |access-date=31 October 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1 = {{nowrap|1='''Quarter-finals''' <br>''(best of 11 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals''' <br> ''(best of 13 legs)''}}
+| RD3= {{nowrap|1='''Final''' <br> ''(best of 15 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{#invoke:DartsRankings|PDCFlag|Dimitri Van den Bergh|avg=88.88}}
+| RD1-score1  = 4
+| RD1-seed2   = 9
+| RD1-team2   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=99.18}}
+| RD1-score2  = 6
+| RD1-seed3   = 29
+| RD1-team3   = {{#invoke:DartsRankings|PDCFlag|Kevin Doets|avg=86.63}}
+| RD1-score3  = 4
+| RD1-seed4   = 5
+| RD1-team4   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=89.77}}
+| RD1-score4  = 6
+| RD1-seed5   = 18
+| RD1-team5   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=95.64}}
+| RD1-score5  = 6
+| RD1-seed6   = 7
+| RD1-team6   = {{#invoke:DartsRankings|PDCFlag|Jermaine Wattimena|avg=93.58}}
+| RD1-score6  = 1
+| RD1-seed7   = 14
+| RD1-team7   = {{#invoke:DartsRankings|PDCFlag|Luke Woodhouse|avg=112.29}}
+| RD1-score7  = 6
+| RD1-seed8   =
+| RD1-team8   = {{#invoke:DartsRankings|PDCFlag|Keane Barry|avg=89.83}}
+| RD1-score8  = 2
+
+| RD2-seed1   = 9
+| RD2-team1   = {{#invoke:DartsRankings|PDCFlag|Chris Dobey|avg=104.33}}
+| RD2-score1  = 6
+| RD2-seed2   = 5
+| RD2-team2   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=100.70}}
+| RD2-score2  = 7
+| RD2-seed3   = 18
+| RD2-team3   = {{#invoke:DartsRankings|PDCFlag|William O'Connor|avg=86.33}}
+| RD2-score3  = 2
+| RD2-seed4   = 14
+| RD2-team4   = {{#invoke:DartsRankings|PDCFlag|Luke Woodhouse|avg=90.88}}
+| RD2-score4  = 7
+
+| RD3-seed1   = 5
+| RD3-team1   = {{#invoke:DartsRankings|PDCFlag|Wessel Nijman|avg=100.45}}
+| RD3-score1  = 8
+| RD3-seed2   = 14
+| RD3-team2   = {{#invoke:DartsRankings|PDCFlag|Luke Woodhouse|avg=97.33}}
+| RD3-score2  = 5
+}}
+
+== Players Championship Order of Merit ==
+The top 64 on the Players Championship Order of Merit qualified for the [[2025 Players Championship Finals]]:<ref name="DartsRankingsOOM">{{cite web |title=Players Championship Order of Merit |url=https://www.dartsrankings.com/pc |website=DartsRankings}}</ref><ref>{{cite web |date=31 October 2025 |title= Luke Humphries to open Players Championship Finals defence against Gian Van Veen with Luke Littler up against Jeffrey de Graaf |url=https://www.skysports.com/darts/news/12288/13461162/luke-humphries-to-open-players-championship-finals-defence-against-gian-van-veen-with-luke-littler-up-against-jeffrey-de-graaf |website=Sky Sports |access-date=31 October 2025}}</ref>
+
+Prize money in the table is in units of £1,000.
+
+'''Standings after PC34'''
+{| class="wikitable"
+|- 
+!Rank !! Player !! Prize money !! Rank !! Player !! Prize money 
+|-
+| align=center | '''1''' ||{{flagathlete|[[Gerwyn Price]]|WAL}} || align=center | 103 || align=center| '''33''' ||{{flagathlete|[[Sebastian Białecki]]|POL}} || align=center | 39.5
+|-
+| align=center | '''2''' ||{{flagathlete|[[Wessel Nijman]]|NED}} || align=center | 98 || align=center| '''34''' || {{flagathlete|[[Nathan Aspinall]]|ENG}} || align=center | 38.5
+|-
+| align=center | '''3''' ||{{flagathlete|[[Damon Heta]]|AUS}} || align=center | 92.5 || align=center| '''35''' || {{flagathlete|[[Dom Taylor]]|ENG}} || align=center | 38.5
+|-
+| align=center | '''4''' ||{{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}} || align=center | 92.5 || align=center| '''36''' ||{{flagathlete|[[Luke Littler]]|ENG}} || align=center | 37.5
+|-
+| align=center | '''5''' ||{{flagathlete|[[Chris Dobey]]|ENG}} || align=center | 90 || align=center| '''37''' ||{{flagathlete|[[Cam Crabtree]]|ENG}} || align=center | 36
+|-
+| align=center | '''6''' ||{{flagathlete|[[Jermaine Wattimena]]|NED}} || align=center | 89.5 || align=center| '''38''' ||{{flagathlete|[[Ryan Joyce]]|ENG}} || align=center | 35.5
+|-
+| align=center | '''7''' ||{{flagathlete|[[Gian van Veen]]|NED}} || align=center | 89 || align=center| '''39''' || {{flagathlete|[[Raymond van Barneveld]]|NED}}|| align=center | 35.5
+|-
+| align=center | '''8''' ||{{flagathlete|[[Stephen Bunting]]|ENG}} || align=center | 84.5 || align=center| '''40''' || {{flagathlete|[[Daryl Gurney]]|NIR}} || align=center | 35.5
+|-
+| align=center | '''9''' || {{flagathlete|[[Cameron Menzies]]|SCO}} || align=center | 73 || align=center| '''41''' || {{flagathlete|[[Martin Lukeman]]|ENG}}|| align=center | 34.5
+|-
+| align=center | '''10''' ||{{flagathlete|[[Josh Rock]]|NIR}} || align=center | 65.5 || align=center| '''42''' ||{{flagathlete|[[Ian White (darts player)|Ian White]]|ENG}} || align=center | 34.5
+|-
+| align=center | '''11''' ||{{flagathlete|[[Ryan Searle (darts player)|Ryan Searle]]|ENG}} || align=center | 65.5 || align=center| '''43''' || {{flagathlete|[[Callan Rydz]]|ENG}} || align=center | 34
+|-
+| align=center | '''12''' ||{{flagathlete|[[Jonny Clayton]]|WAL}} || align=center | 65 || align=center| '''44''' || {{flagathlete|[[Alan Soutar]]|SCO}} || align=center | 33.5
+|-
+| align=center | '''13''' ||{{flagathlete|[[William O'Connor (darts player)|William O'Connor]]|IRL}} || align=center | 63 || align=center| '''45''' || {{flagathlete|[[Mario Vandenbogaerde]]|BEL}} || align=center | 33
+|-
+| align=center | '''14''' ||{{flagathlete|[[Joe Cullen (darts player)|Joe Cullen]]|ENG}} || align=center | 61.5 || align=center| '''46''' || {{flagathlete|[[Mickey Mansell]]|NIR}} || align=center | 30.5
+|-
+| align=center | '''15''' ||{{flagathlete|[[Danny Noppert]]|NED}} || align=center | 61 || align=center| '''47''' || {{flagathlete|[[Madars Razma]]|LAT}} || align=center | 30
+|-
+| align=center | '''16''' ||{{flagathlete|[[Martin Schindler]]|GER}} || align=center | 60.5 || align=center| '''48''' ||{{flagathlete|[[Nick Kenny (darts player)|Nick Kenny]]|WAL}} || align=center | 30
+|-
+| align=center | '''17''' ||{{flagathlete|[[Niels Zonneveld]]|NED}} || align=center | 59.5 || align=center| '''49''' ||{{flagathlete|[[Michael Smith (darts player)|Michael Smith]]|ENG}} || align=center | 30
+|-
+| align=center | '''18''' ||{{flagathlete|[[Dirk van Duijvenbode]]|NED}} || align=center | 58 || align=center| '''50''' || {{flagathlete|[[Ricky Evans (darts player)|Ricky Evans]]|ENG}} || align=center | 29.5 
+|-
+| align=center | '''19''' ||{{flagathlete|[[James Wade]]|ENG}} || align=center | 54.5 || align=center| '''51''' || {{flagathlete|[[Peter Wright (darts player)|Peter Wright]]|SCO}} || align=center | 29.5
+|-
+| align=center | '''20''' ||{{flagathlete|[[Gary Anderson (darts player)|Gary Anderson]]|SCO}} || align=center | 53.5 || align=center| '''52''' || {{flagathlete|[[Ricardo Pietreczko]]|GER}} || align=center | 29.5
+|-
+| align=center | '''21''' ||{{flagathlete|[[Luke Woodhouse]]|ENG}} || align=center | 52.5 || align=center| '''53''' || {{flagathlete|[[James Hurrell]]|ENG}} || align=center | 29
+|-
+| align=center | '''22''' ||{{flagathlete|[[Kevin Doets]]|NED}} || align=center | 52 || align=center| '''54''' || {{flagathlete|Darren Beveridge|SCO}} || align=center | 29
+|-
+| align=center | '''23''' ||{{flagathlete|[[Scott Williams (darts player)|Scott Williams]]|ENG}} || align=center | 48.5 || align=center| '''55''' || {{flagathlete|[[Gabriel Clemens]]|GER}}|| align=center | 29
+|-
+| align=center | '''24''' ||{{flagathlete|[[Bradley Brooks]]|ENG}} || align=center | 47.5 || align=center| '''56''' || {{flagathlete|[[Adam Lipscombe]]|ENG}} || align=center | 28.5
+|-
+| align=center | '''25''' || {{flagathlete|[[Brendan Dolan]]|NIR}} || align=center | 47.5 || align=center| '''57''' || {{flagathlete|[[Ritchie Edhouse]]|ENG}} || align=center | 28
+|-
+| align=center | '''26''' ||{{flagathlete|[[Krzysztof Ratajski]]|POL}} || align=center | 47 || align=center| '''58''' || {{flagathlete|[[Luke Humphries]]|ENG}} || align=center | 28
+|-
+| align=center | '''27''' ||{{flagathlete|[[Dave Chisnall]]|ENG}} || align=center | 45.5 || align=center| '''59''' || {{flagathlete|[[Wesley Plaisier]]|NED}} || align=center | 28
+|-
+| align=center | '''28''' ||{{flagathlete|[[Mike De Decker]]|BEL}} || align=center | 44 || align=center| '''60''' || {{flagathlete|[[Keane Barry]]|IRL}} || align=center | 27.5
+|-
+| align=center | '''29''' ||{{flagathlete|[[Jeffrey de Graaf]]|SWE}} || align=center | 43 || align=center| '''61''' || {{flagathlete|[[Niko Springer]]|GER}}{{Efn|name=Meikle}} || align=center | 27.5
+|-
+| align=center | '''30''' ||{{flagathlete|[[Andrew Gilding]]|ENG}} || align=center | 42 || align=center| '''62''' || {{flagathlete|[[Justin Hood (darts player)|Justin Hood]]|ENG}} || align=center | 27
+|-
+| align=center | '''31''' ||{{flagathlete|[[Karel Sedláček]]|CZE}} || align=center | 41.5 || align=center| '''63''' || {{flagathlete|[[Richard Veenstra]]|NED}} || align=center | 26.5
+|-
+| align=center | '''32''' ||{{flagathlete|[[Rob Cross]]|ENG}} || align=center | 40.5 || align=center| '''64''' || {{flagathlete|[[Max Hopp]]|GER}} || align=center | 26.5
+|-
+|}
+
+{| class="wikitable"
+|- 
+!Rank !! Player !! Prize money
+|-
+| align=center| '''65''' || {{flagathlete|[[Ryan Meikle]]|ENG}}{{Efn|name=Meikle|Niko Springer withdrew from the Players Championship Finals due to illness. He was replaced by the highest-ranked non-qualifier from the Players Championship Order of Merit, Ryan Meikle.<ref>{{cite web |last=Gorton |first=Josh |date=20 November 2025 |title=Springer withdraws from Ladbrokes Players Championship Finals |url=https://www.pdc.tv/news/2025/november/20/springer-withdraws-ladbrokes-players-championship-finals |website=Professional Darts Corporation |access-date=20 November 2025}}</ref>}} || align=center | 26.5
+|-
+|}
+
+==Nine-darters==
+The table below lists all 33 [[nine-dart finish]]es hit during the 2025 Players Championship season. In the case one player has multiple nine-darters, this is indicated by the number in brackets.
+
+{| class ="wikitable sortable"
+|-
+! Number
+! Event
+! Round
+! Player
+! Result
+! Opponent
+! Ref
+|-
+! 1.
+| style="text-align:center" rowspan="2"| 5
+| 1
+| {{flagathlete|[[Gary Anderson (darts player)|Gary Anderson]]|SCO}}
+| style="text-align:center"| 6 – 5
+| [[Ryan Joyce]]
+| rowspan="2"|<ref name="PC5Performance">{{cite web |date=11 March 2025 |title=Players Championship 5 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e05/performance/108586 |publisher=DartConnect TV}}</ref>
+|-
+! 2.
+| 2
+| {{flagathlete|[[Luke Littler]]|ENG}}
+| style="text-align:center"| 6 – 5
+| [[Adam Hunt]]
+|-
+! 3.
+| style="text-align:center" rowspan="2"| 6
+| rowspan="3"| 1
+| {{flagathlete|[[Luke Humphries]]|ENG}}
+| style="text-align:center"| 6 – 3
+| [[Andy Boulton]]
+| rowspan="2" |<ref name="PC6Performance">{{cite web |date=12 March 2025 |title=Players Championship 6 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e06/performance/108588 |publisher=DartConnect TV}}</ref> 
+|-
+! 4.
+| {{flagathlete|[[Alan Soutar]]|SCO}}
+| style="text-align:center"| 5 – 6
+| [[Luke Littler]]
+|-
+! 5.
+| style="text-align:center" rowspan="3"| 7
+| {{flagathlete|[[Ryan Searle (darts player)|Ryan Searle]]|ENG}}
+| style="text-align:center"| 6 – 5
+| Joshua Richardson
+| rowspan="3" |<ref name="PC7Performance">{{cite web |date=17 March 2025 |title=Players Championship 7 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e07/performance/108590 |publisher=DartConnect TV}}</ref> 
+|-
+! 6.
+| 2
+| {{flagathlete|[[Dirk van Duijvenbode]]|NED}}
+| style="text-align:center"| 6 – 2
+| Thomas Lovely
+|-
+! 7.
+| {{nowrap|Quarter-final}}
+| {{flagathlete|[[William O'Connor (darts player)|William O’Connor]]|IRL}}
+| style="text-align:center"| 6 – 1
+| [[Jimmy van Schie]]
+|-
+! 8.
+| style="text-align:center" |8
+| rowspan="2"| 1
+| {{flagathlete|[[Lukas Wenig]]|GER}}
+| style="text-align:center"|4 – 6
+| [[Dom Taylor]]
+|<ref name="PC8Performance">{{cite web |date=18 March 2025 |title=Players Championship 8 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e08/performance/108592 |publisher=DartConnect TV}}</ref>
+|-
+! 9.
+| style="text-align:center" | 9
+| Gary Anderson (2)
+| style="text-align:center"| 6 – 5
+| [[Krzysztof Ratajski]]
+|<ref name="PC9Performance">{{cite web |date=31 March 2025 |title=Players Championship 9 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e09/performance/108606 |publisher=DartConnect TV}}</ref>
+|-
+! 10.
+| style="text-align:center" | 12
+| 3
+| {{flagathlete|[[Josh Rock]]|NIR}}
+| style="text-align:center" | 6 – 4
+| [[Matt Campbell (darts player)|Matt Campbell]]
+|<ref name="PC12Performance">{{cite web |date=9 April 2025 |title=Players Championship 12 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e12/performance/114224 |publisher=DartConnect TV}}</ref>
+|-
+! 11.
+| style="text-align:center" | 13
+| 1
+| {{flagathlete|[[Wessel Nijman]]|NED}}
+| style="text-align:center" | 6 – 0
+| [[Robert Owen (darts player)|Robert Owen]]
+|<ref name="PC13Performance">{{cite web |date=14 April 2025 |title=Players Championship 13 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e13/performance/114227 |publisher=DartConnect TV}}</ref>
+|-
+! 12.
+| style="text-align:center" | 14
+| rowspan="3"| 2
+| {{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}}
+| style="text-align:center" | 6 – 3
+| [[Thibault Tricole]]
+|<ref name="PC14Performance">{{cite web |date=15 April 2025 |title=Players Championship 14 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e14/performance/114230 |publisher=DartConnect TV}}</ref>
+|-
+! 13.
+| rowspan="2" style="text-align:center" | 15
+| {{flagathlete|[[Luke Woodhouse]]|ENG}}
+| style="text-align:center" | 4 – 6
+| Martijn Dragt
+| rowspan="2" |<ref name="PC15Performance">{{cite web |date=12 May 2025 |title=Players Championship 15 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e15/performance/115808 |publisher=DartConnect TV}}</ref>
+|-
+! 14.
+| {{flagathlete|[[Dave Chisnall]]|ENG}}
+| style="text-align:center" | 6 – 1
+| [[Darius Labanauskas]]
+|-
+! 15.
+| rowspan="2" style="text-align:center" | 16
+| 1
+| Ross Smith (2)
+| style="text-align:center" | 6 – 3
+| [[Dylan Slevin]]
+| rowspan="2" |<ref name="PC16Performance">{{cite web |date=13 May 2025 |title=Players Championship 16 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e16/performance/115811 |publisher=DartConnect TV}}</ref>
+|-
+! 16.
+| Quarter-final
+| Ross Smith (3)
+| style="text-align:center" | 6 – 3
+| [[Chris Landman]]
+|-
+! 17.
+| rowspan="3" style="text-align:center" | 20
+| rowspan="2" | 1
+| Josh Rock (2)
+| style="text-align:center" | 6 – 1
+| [[Sebastian Białecki]]
+| rowspan="3" |<ref name="PC20Performance">{{cite web |date=8 July 2025 |title=Players Championship 20 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e20/performance/123335 |publisher=DartConnect TV}}</ref>
+|-
+! 18.
+| {{flagathlete|Leon Weber|GER}}
+| style="text-align:center" | 6 – 3
+| [[Tytus Kanik]]
+|-
+! 19.
+| Semi-final
+| {{flagathlete|[[Stephen Bunting]]|ENG}}
+| style="text-align:center" | 7 – 6
+| [[Rob Cross]]
+|-
+! 20.
+| style="text-align:center" | 21
+| 1
+| Dirk van Duijvenbode (2)
+| style="text-align:center" | 6 – 4
+| [[Jim Williams (darts player)|Jim Williams]]
+|<ref name="PC21Performance">{{cite web |date=9 July 2025 |title=Players Championship 21 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e21/performance/123338 |publisher=DartConnect TV}}</ref>
+|-
+! 21.
+| style="text-align:center" | 23
+| rowspan="3"| 3
+| {{flagathlete|[[Gian van Veen]]|NED}}
+| style="text-align:center" | 6 – 2
+| [[Ryan Meikle]]
+|<ref name="PC23Performance">{{cite web |date=30 July 2025 |title=Players Championship 23 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e23/performance/123344 |publisher=DartConnect TV}}</ref>
+|-
+! 22.
+| style="text-align:center" | 24
+| {{flagathlete|[[Scott Williams (darts player)|Scott Williams]]|ENG}}
+| style="text-align:center" | 6 – 0
+| [[James Hurrell]]
+|<ref name="PC24Performance">{{cite web |date=25 August 2025 |title=Players Championship 24 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e24/performance/133325 |publisher=DartConnect TV}}</ref>
+|-
+! 23.
+| style="text-align:center" | 25
+| Dirk van Duijvenbode (3)
+| style="text-align:center" | 2 – 6
+| [[Daryl Gurney]]
+|<ref name="PC25Performance">{{cite web |date=26 August 2025 |title=Players Championship 25 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e25/performance/133328 |publisher=DartConnect TV}}</ref>
+|-
+! 24.
+| style="text-align:center" | 27
+| rowspan="2"| 1
+| {{flagathlete|[[Danny Noppert]]|NED}}
+| style="text-align:center" | 6 – 4
+| [[Mario Vandenbogaerde]]
+|<ref name="PC27Performance">{{cite web |date=10 September 2025 |title=Players Championship 27 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e27 |publisher=DartConnect TV}}</ref>
+|-
+! 25.
+| rowspan="3" style="text-align:center" | 28
+| {{flagathlete|[[Niko Springer]]|GER}}
+| style="text-align:center" | 6 – 1
+| [[Dimitri Van den Bergh]]
+| rowspan="3" |<ref name="PC28Performance">{{cite web |date=30 September 2025 |title=Players Championship 28 {{!}} Top 501 Performers |url=https://tv.dartconnect.com/event/pdcpc25e28/performance/133400 |publisher=DartConnect TV}}</ref>
+|-
+! 26.
+| rowspan="2"| 2
+| {{flagathlete|[[Adam Hunt]]|ENG}}
+| style="text-align:center" | 6 – 2
+| [[Bradley Brooks]]
+|-
+! 27.
+| {{flagathlete|[[Stefan Bellmont]]|SUI}}
+| style="text-align:center" | 2 – 6
+| [[Wessel Nijman]]
+|-
+! 28.
+| style="text-align:center" | 29
+| 3
+| [[Josh Rock]] (3)
+| style="text-align:center" | 6 – 3
+| [[Wesley Plaisier]]
+| <ref name="PC29Performance">{{cite web |date=1 October 2025 |title=Players Championship 29 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e29/performance/133403 |publisher=DartConnect TV}}</ref>
+|-
+! 29.
+| rowspan="2" style="text-align:center" | 31
+| 2
+| {{flagathlete|[[Nathan Aspinall]]|ENG}}
+| style="text-align:center" | 6 – 4
+| [[Steve Lennon]]
+| rowspan=2| <ref name="PC31Performance">{{cite web |date=14 October 2025 |title=Players Championship 31 {{!}} Top 501 Performers |url=https://tv.dartconnect.com/event/pdcpc25e31/performance/133424 |publisher=DartConnect TV}}</ref>
+|-
+! 30.
+| 4
+| Nathan Aspinall (2)
+| style="text-align:center" | 6 – 5
+| [[Lukas Wenig]]
+|-
+! 31.
+| style="text-align:center" | 32
+| 1
+| {{flagathlete|[[Andreas Harrysson]]|SWE}} 
+| style="text-align:center" | 6 – 5
+| [[Radek Szagański]]
+| <ref name="PC32Performance">{{cite web |date=15 October 2025 |title=Players Championship 32 {{!}} Top 501 Performers  |url=https://tv.dartconnect.com/event/pdcpc25e32/performance/133427 |publisher=DartConnect TV}}</ref>
+|-
+! 32.
+| rowspan="2" style="text-align:center" | 33
+| rowspan="2" | 1
+| Nathan Aspinall (3)
+| style="text-align:center" | 6 – 2
+| [[Ian White (darts player)|Ian White]]
+| rowspan=2| <ref name="PC33Performance">{{cite web |date=29 October 2025 |title=Players Championship 33 {{!}} Top 501 Performers |url=https://tv.dartconnect.com/event/pdcpc25e33/performance/133445 |publisher=DartConnect TV |access-date=30 October 2025}}</ref>
+|-
+! 33.
+| {{flagathlete|[[Damon Heta]]|AUS}}
+| style="text-align:center" | 6 – 5
+| [[George Killington]]
+|}
+
+==Top averages==
+The table lists all players who achieved a [[three-dart average]] of at least 110 in a match.<ref>{{cite web |title=2025 PDC Players Championship Tour {{!}} Tour Leaderboard |url= https://leaderboard.dartconnect.com/leaderboard#t-t_987-singles_01_501_si_do-all-all-all-all-all |website=DartConnect}}</ref> In the case one player has multiple records, this is indicated by the number in brackets.
+{| class ="wikitable sortable"
+|-
+! #
+! Player
+! Round
+! Average
+! Event
+! Result
+! Ref
+|-
+|1 || [[Luke Littler]] || Quarter-final || 122.96 || 5 || rowspan="35" style="background:#CCFFCC;|'''Won''' || <ref name=PC5Ave>{{cite web |last=Wood |first=Kieran |date=12 March 2025 |title=Players Championship 5 sees string of incredibly high averages including personal records for Luke Littler and James Wade |url=https://dartsnews.com/pdc/players-championship-5-sees-string-of-incredibly-high-averages-including-personal-records-for-luke-littler-and-james-wade |website=Darts News |access-date=12 March 2025}}</ref>
+|-
+|2 || [[Josh Rock]] || 4 || 119.04 || 11 || <ref name="PC11Performance">{{cite web |date=8 April 2025 |title=PDC Players Championship 11 {{!}} Top 501 Perfomers |url=https://tv.dartconnect.com/event/pdcpc25e11/performance/114221 |publisher=DartConnect TV}}</ref>
+|-
+|3 || [[Bradley Brooks]] || 1 || 117.49 || 20 || <ref name="PC20Performance"/>
+|-
+|4 || [[Wessel Nijman]] || 4 || 116.87 || 34 || <ref>{{cite web |last=Thursday |first=Lucas Michael |date=30 October 2025 |title=Dutch Delight in Wigan! Wessel Nijman defeats Luke Woodhouse to claim third Players Championship title |url=https://dartsnews.com/pdc/live-players-championship-34-last-chance-saloon-for-humphries-in-minehead-hunt |website=Darts News |access-date=30 October 2025}}</ref>
+|-
+|5 || [[James Wade]] || 2 || 115.92 || 5 || <ref name=PC5Ave/>
+|-
+|6 || [[Gary Anderson (darts player)|Gary Anderson]] || rowspan=2 | 1 || 115.66 || 9 || <ref name="PC9Performance"/>
+|-
+|7 || Bradley Brooks (2) || 114.38 || 11 || <ref name="PC11Performance"/>
+|-
+|8 || [[Gerwyn Price]] || Semi-final || 114.36 || 9 || <ref name="PC9Performance"/>
+|-
+|9 || Gary Anderson (2) || 3 || 114.15 || 8 || <ref name="PC8Performance"/>
+|-
+|10 || [[Ryan Joyce]] || 4 || 114.03 || 23 || <ref name="PC23Performance"/>
+|-
+|11 || [[Dimitri Van den Bergh]] || 2 || 113.97 || 1 || <ref name="PC1Performance">{{cite web |date=10 February 2025 |title=PDC Players Championship 1 {{!}} Top 501 Perfomers |url=https://tv.dartconnect.com/event/pdcpc25e01/performance/101289 |publisher=DartConnect TV}}</ref>
+|-
+|12 || [[Chris Dobey]] || Quarter-final || 113.54 || 3 || <ref name="PC3Performance">{{cite web |date=17 February 2025 |title=PDC Players Championship 3 {{!}} Top 501 Perfomers |url=https://tv.dartconnect.com/event/pdcpc25e03/performance/108554 |publisher=DartConnect TV}}</ref>
+|-
+|13 || [[Dave Chisnall]] || 3 || 113.18 || 7 || <ref name="PC7Performance"/>
+|-
+|14 || Gerwyn Price (2) || rowspan=2 | 1 || 113.05 || 8 || <ref name="PC8Performance"/>
+|-
+|15 || [[Luke Humphries]] || 112.99 || 29 || <ref name="PC29Performance"/>
+|-
+|16 || [[Nick Kenny (darts player)|Nick Kenny]] || 2 || 112.32 || 4 || <ref name="PC4Performance">{{cite web |date=18 February 2025 |title=PDC Players Championship 4 {{!}} Top 501 Perfomers |url=https://tv.dartconnect.com/event/pdcpc25e04/performance/108556 |publisher=DartConnect TV}}</ref>
+|-
+|17 || [[Luke Woodhouse]] || rowspan=2 | Quarter-final || 112.29 || 34 || <ref name="PC34Performance">{{cite web |date=30 October 2025 |title=PDC Players Championship 34 {{!}} Top 501 Performers |url=https://tv.dartconnect.com/event/pdcpc25e34/performance/133448 |publisher=DartConnect TV}}</ref>
+|-
+|18 || Gerwyn Price (3) || 112.25 || 12 || <ref name="PC12Performance"/>
+|-
+|19 || Gerwyn Price (4) || 3 || 112.15 || 3 || <ref name="PC3Performance"/>
+|-
+|20 || Bradley Brooks (3) || 2 || 111.96 || 26 || <ref name="PC26Performance">{{cite web |date=9 September 2025 |title=PDC Players Championship 26 {{!}} Top 501 Perfomers |url=https://tv.dartconnect.com/event/pdcpc25e26/performance/133373 |publisher=DartConnect TV}}</ref>
+|-
+|21 || [[Ross Smith (darts player)|Ross Smith]] || 1 || 111.88 || 18 || <ref name="PC18Performance">{{cite web |date=9 September 2025 |title=PDC Players Championship 18 {{!}} Top 501 Perfomers |url=https://tv.dartconnect.com/event/pdcpc25e18/performance/123317 |publisher=DartConnect TV}}</ref>
+|-
+|22 || Gary Anderson (3) || rowspan=3 | 3 || 111.84 || rowspan=2 | 10 || <ref name="PC10Performance">{{cite web |date=9 September 2025 |title=PDC Players Championship 10 {{!}} Top 501 Perfomers |url=https://tv.dartconnect.com/event/pdcpc25e10/performance/108608g |publisher=DartConnect TV}}</ref>
+|- 
+|23 || [[Stephen Bunting]] || 111.72 || <ref name="PC10Performance"/>
+|-
+|24 || [[Gian van Veen]] || 111.68 || 23 || <ref name="PC23Performance"/>
+|-
+|25 || Stephen Bunting (2) || 2 || 111.66 || 25 || <ref name="PC25Performance"/>
+|-
+|26 || Gary Anderson (4) || 3 || 111.43 || 16 || <ref name="PC16Performance"/>
+|-
+|27 || Wessel Nijman (2) || 1 || 111.33 || 13 || <ref name="PC13Performance"/>
+|-
+| rowspan="2" | 28 || Stephen Bunting (3) || 2 || rowspan="2" | 111.29 || 7 || <ref name="PC7Performance"/>
+|-
+|| Chris Dobey (2) || Quarter-final || 33 || <ref>{{cite web |last=Wood |first=Kieran |date=30 October 2025 |title=Chris Dobey completely dominant at Players Championship 33: Three highest averages alongside title win |url=https://dartsnews.com/pdc/chris-dobey-completely-dominant-at-players-championship-33-three-highest-averages-alongside-title-win |website=Darts News |access-date=30 October 2025}}</ref>
+|-
+|30 || [[Jonny Clayton]] || 1 || 111.16 || 14 || <ref>{{cite web |last=Wood |first=Kieran |date=16 April 2025 |title=After Jonny Clayton's title win, find the highest averages from Players Championship 14 right here! |url=https://dartsnews.com/pdc/after-jonny-claytons-title-win-find-the-highest-averages-from-players-championship-14-right-here |website=Darts News |access-date=17 April 2025}}</ref>
+|-
+|31 || [[Michael Van Gerwen]] || 3 || 111.13 || 5 || <ref name=PC5Ave/>
+|-
+|32 || Jonny Clayton (2) || 4 || 110.92 || 28 || <ref name="PC28Performance"/>
+|-
+|33 || Luke Woodhouse (2) || 1 || 110.87 || 3 || <ref name="PC3Performance"/>
+|-
+| rowspan="2" | 34 || Gerwyn Price (5) || Semi-final || rowspan="2" | 110.80 || 12 || <ref name="PC12Performance"/>
+|-
+|| Jonny Clayton (3) || 3 || 25 || <ref name="PC25Performance"/>
+|-
+|36 || Josh Rock (2) || Final || 110.70 || 12 || style="background:#FFccCC;|''Lost'' || <ref name="PC12Performance"/>
+|-
+|37 || [[Danny Noppert]] || rowspan=3 | 1 || 110.68 || 18 || rowspan="7" style="background:#CCFFCC;|'''Won''' || <ref name="PC18Performance"/>
+|-
+|38 || [[Andrew Gilding]] || 110.38 || 19 || <ref name="PC19Performance">{{cite web |date=19 June 2025 |url=https://tv.dartconnect.com/event/pdcpc25e19/performance/123320 |title=PDC Players Championship 19 {{!}} Top 501 Perfomers |publisher=DartConnect TV}}</ref>
+|-
+|39 || Josh Rock (3) || 110.34 || 4 || <ref name="PC4Performance"/>
+|-
+|40 || Luke Humphries (2) || rowspan=3 | 2 || 110.30 || 7 || <ref name="PC7Performance"/>
+|-
+|41 || Michael van Gerwen (2) || 110.21 || 29 || <ref name="PC29Performance"/>
+|-
+|42 || [[Andreas Harrysson]] || 110.18 || 22 || <ref name="PC22Performance">{{cite web |date=29 July 2025 |title=PDC Players Championship 22 {{!}} Top 501 Perfomers |url=https://tv.dartconnect.com/event/pdcpc25e22/performance/123341 |publisher=DartConnect TV}}</ref>
+|-
+|43 || [[Daryl Gurney]] || 3 || 110.17 || 23 || <ref name="PC23Performance"/>
+|-
+|}
+
+==Notes==
+{{reflist|group=lower-alpha}}
+{{notelist}}
+
+==References==
+<references/>
+
+{{PDC Players Championship}}
+{{2025 in PDC darts}}
+
+[[Category:PDC Players Championship]]
+[[Category:2025 PDC Pro Tour]]

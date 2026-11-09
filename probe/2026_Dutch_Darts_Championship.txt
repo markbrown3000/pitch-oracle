@@ -1,0 +1,452 @@
+{{infobox individual darts tournament
+|tournament_name = 2026 Dutch Darts Championship
+|image =
+|dates=16–18 October 2026
+|venue=[[MECC Maastricht]]
+|location=[[Maastricht]], Netherlands
+|country = 
+|organisation = [[Professional Darts Corporation]] (PDC)
+|format = [[Leg (darts)|Legs]]
+|prize_fund = £230,000
+|winners_share = £35,000
+|nine_dart = 
+|high_checkout = '''164''' [[Martin Schindler]]
+|winner = '''{{flagathlete|[[Niels Zonneveld]]|NED}}'''
+|prev = [[2026 Swiss Darts Trophy|Event 14]]
+}}
+
+The '''2026 Dutch Darts Championship''' was a professional [[darts]] tournament that took place at the [[MECC Maastricht]] in [[Maastricht]], from 16 to 18 October 2026. It was the first time Maastricht has hosted the Dutch Darts Championship since 2018, and was the fifteenth and final [[PDC European Tour]] event on the [[2026 PDC Pro Tour]]. It featured a field of 48 players and £230,000 in prize money, with £35,000 going to the winner.
+
+[[Jonny Clayton]] was the defending champion, having defeated [[Niko Springer]] 8–6 in the [[2025 Dutch Darts Championship|2025 final]].<ref>{{Cite web |last=Wellens |first=Megan |date=25 May 2025 |title=Dutch Darts Championship: Jonny Clayton beats Luke Humphries on his way to third Euro Tour title. |url=https://www.skysports.com/darts/news/12288/13374440/dutch-darts-championship-jonny-clayton-beats-luke-humphries-on-way-to-third-euro-tour-title |url-status=live |website=Sky Sports}}</ref><ref>{{Cite web |date=2025-05-25 |title=Jonny Clayton wins in Netherlands to earn first European title in two years |url=https://www.bbc.com/sport/darts/articles/cy5e0ed711ro |access-date=20 September 2026 |website=BBC Sport |language=en-GB}}</ref> However, he lost 6–1 to [[Damon Heta]] in the second round.
+
+During the event, [[Gian van Veen]] broke the record for the highest ever [[three-dart average]] on the European Tour, previously held by [[Dave Chisnall]] at the [[2018 German Darts Championship]], averaging 120.24 in his 6–0 win over [[Sebastian Białecki]] in the second round.
+
+[[Niels Zonneveld]] won his first European Tour title, defeating [[Danny Noppert]] 8–5 in the final.
+
+== Prize money ==
+As part of a mass boost in prize money for [[Professional Darts Corporation]] (PDC) events in 2026, the prize fund for all [[2026 PDC Pro Tour#European Tour%23European Tour|2026 European Tour]] events rose to £230,000, of which the winner received £35,000.<ref>{{Cite web |last=Phillips |first=Josh |date=31 March 2025 |title=Biggest prize money increase in PDC history confirmed |url=https://www.pdc.tv/news/2025/march/31/biggest-prize-money-increase-pdc-history-confirmed |access-date=2026-09-20 |website=www.pdc.tv}}</ref><ref>{{Cite web |title=German Darts Grand Prix 2026 - Mastercaller |url=https://mastercaller.com/tournaments/german-darts-grand-prix/2026 |access-date=20 September 2026 |website=mastercaller.com}}</ref>
+{| class="wikitable"
+! colspan="2" |Stage <small>(num. of players)</small>
+!Prize money
+|-
+|'''Winner'''
+| align="center" |<small>(1)</small>
+| align="center" |£35,000
+|-
+|'''Runner-up'''
+| align="center" |<small>(1)</small>
+| align="center" |£15,000
+|-
+|'''Semi-finalists'''
+| align="center" |<small>(2)</small>
+| align="center" |£10,000
+|-
+|'''Quarter-finalists'''
+| align="center" |<small>(4)</small>
+| align="center" |£8,000
+|-
+|'''Third round losers'''
+| align="center" |<small>(8)</small>
+| align="center" |£5,000
+|-
+|'''Second round losers'''
+| align="center" |<small>(16)</small>
+| align="center" |£3,500*
+|-
+|'''First round losers'''
+| align="center" |<small>(16)</small>
+| align="center" |£2,000*
+|-
+! colspan="3" |
+|-
+|'''Total'''
+| colspan="2" align="center" |£230,000
+|}
+
+* Pre-qualified players from the Orders of Merit who lose in their first match of the event shall not be credited with prize money on any Order of Merit.<ref>{{Cite web |title=PDC Rankings Rules |url=https://www.pdc.tv/rankings/pdc-rankings-rules |access-date=20 September 2026 |website=www.pdc.tv}}</ref>
+
+== Qualification and format ==
+The top 16 players on the two-year [[PDC Order of Merit]] were [[Seeding (sports)|seeded]] and entered the tournament in the second round, while the next 16 highest-ranked players from the one-year [[PDC Pro Tour Order of Merit]] automatically qualified for the first round. The seedings were confirmed on 17 September.<ref>{{cite web |last=Gorton |first=Josh |date=21 September 2026 |title=2026 ET15 Seeds & Tour Card Holder qualifier entries confirmed |url=https://www.pdc.tv/news/2026/september/21/2026-et15-seeds-tour-card-holder-qualifier-entries-confirmed/ |website=Professional Darts Corporation |access-date=21 September 2026}}</ref> The remaining 16 places went to players from four qualifying events – 10 from the Tour Card Holder Qualifier (held on 24 September),<ref>{{cite web |date=24 September 2026 |title=PDC ET15 Tour Card Holder Qualifier |url=https://tv.dartconnect.com/event/pdceutcq26et15/matches |website=DartConnect |access-date=24 September 2026}}</ref> four from the Host Nation Qualifier (held on 15 October),<ref>{{cite web |date=15 October 2026 |title=PDC ET15 Host Nation Qualifier |url=https://tv.dartconnect.com/event/pdc26et15hnq/matches |website=DartConnect |access-date=21 September 2026}}</ref> one from the Nordic & Baltic Associate Member Qualifier (held on 8 August),<ref>{{cite web |date=8 August 2026 |title=PDCNB 2026 Tour - Norway - Weekend 05 |url=https://tv.dartconnect.com/event/pdcnbpro26e05/matches |website=DartConnect |access-date=8 August 2026}}</ref> and one from the East European Associate Member Qualifier (held on 9 August).<ref>{{cite web |date=9 August 2026 |title=PDC ET15 E. Europe Qualifier |url=https://tv.dartconnect.com/event/pdceeu26et15q/matches |website=DartConnect |access-date=21 September 2026}}</ref>
+
+[[Luke Littler]], [[Josh Rock]] and [[Gary Anderson (darts player)|Gary Anderson]] didn't enter the event.
+
+In addition, before the Tour Card Holder Qualifier, [[James Wade]] and [[Kevin Doets]] withdrew and were replaced by [[Karel Sedláček]] and [[Jeffrey de Graaf]]. [[Martin Schindler]] and [[Krzysztof Ratajski]]  moved up to become the 14th and 15th seeds respectively.
+
+[[Luke Humphries]] and [[Joe Cullen (darts player)|Joe Cullen]] withdrew and were replaced by [[Mike De Decker]] and [[Daryl Gurney]]. After the draw was made, [[Rob Cross]] withdrew from the tournament. [[Brendan Dolan]] replaced him from the reserve list, going straight in at the second-round stage.
+
+{{col-begin}}
+{{col-break}}
+'''Seeded players'''
+# {{flagathlete|[[Gian van Veen]]|NED}} ''(semi-finals)''
+# {{flagathlete|[[Gerwyn Price]]|WAL}} ''(third round)''
+# {{flagathlete|[[Jonny Clayton]]|WAL}} ''(second round)''
+# {{flagathlete|[[Michael van Gerwen]]|NED}} ''(second round)''
+# {{flagathlete|[[Danny Noppert]]|NED}} ''(runner-up)''
+# {{flagathlete|[[Stephen Bunting]]|ENG}} ''(semi-finals)''
+# {{flagathlete|[[Wessel Nijman]]|NED}} ''(quarter-finals)''
+# {{flagathlete|[[Ryan Searle (darts player)|Ryan Searle]]|ENG}} ''(quarter-finals)''
+# {{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}} ''(third round)''
+# {{flagathlete|[[Chris Dobey]]|ENG}} ''(second round)''
+# {{flagathlete|[[Nathan Aspinall]]|ENG}} ''(third round)''
+# {{flagathlete|[[Jermaine Wattimena]]|NED}} ''(third round)''
+# {{flagathlete|[[Luke Woodhouse]]|ENG}} ''(quarter-finals)''
+# {{flagathlete|[[Martin Schindler]]|GER}}  ''(third round)''
+# {{flagathlete|[[Krzysztof Ratajski]]|POL}} ''(second round)''
+# {{strikethrough|{{flagathlete|[[Rob Cross]]|ENG}}}} ''(withdrew)''
+{{col-break}}
+:'''PDC Pro Tour Order of Merit qualifiers'''
+:* {{flagathlete|[[Andrew Gilding]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Niko Springer]]|GER}} ''(first round)''
+:* {{flagathlete|[[William O'Connor (darts player)|William O’Connor]]|IRL}} ''(third round)''
+:* {{flagathlete|[[Damon Heta]]|AUS}} ''(quarter-finals)''
+:* {{flagathlete|[[Ryan Joyce]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Dirk van Duijvenbode]]|NED}} ''(second round)''
+:* '''{{flagathlete|[[Niels Zonneveld]]|NED}} (champion)'''
+:* {{flagathlete|[[Cameron Menzies]]|SCO}} ''(second round)''
+:* {{flagathlete|[[Dave Chisnall]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Kim Huybrechts]]|BEL}} ''(first round)''
+:* {{flagathlete|[[Sebastian Białecki]]|POL}} ''(second round)''
+:* {{flagathlete|[[Cristo Reyes]]|ESP}}  ''(third round)''
+:* {{flagathlete|[[Karel Sedláček]]|CZE}} ''(second round)''
+:* {{flagathlete|[[Jeffrey de Graaf]]|SWE}} ''(second round)''
+{{col-break}}
+:'''Tour Card qualifier'''
+:* {{flagathlete|[[Scott Williams (darts player)|Scott Williams]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Max Hopp]]|GER}} ''(first round)''
+:* {{flagathlete|[[Ricardo Pietreczko]]|GER}} ''(first round)''
+:* {{flagathlete|[[Michael Smith (darts player)|Michael Smith]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Nick Kenny (darts player)|Nick Kenny]]|WAL}} ''(first round)''
+:* {{flagathlete|[[Callan Rydz]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Stephen Burton (darts player)|Stephen Burton]]|ENG}} ''(first round)''
+:* {{flagathlete|[[James Hurrell]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Mickey Mansell]]|IRL}} ''(first round)''
+:* {{flagathlete|[[Owen Bates]]|ENG}} ''(first round)''
+:'''Host Nation qualifier'''
+:* {{flagathlete|[[Jimmy van Schie]]|NED}} ''(second round)''
+:* {{flagathlete|[[Heine Uuldriks]]|NED}} ''(second round)''
+:* {{flagathlete|[[Richard Veenstra]]|NED}} ''(first round)''
+:* {{flagathlete|[[Maikel Verberk]]|NED}} ''(first round)''
+:'''Nordic & Baltic qualifier'''
+:* {{flagathlete|[[Jonas Masalin]]|FIN}} ''(first round)''
+:'''East European qualifier'''
+:* {{flagathlete|[[Krzysztof Kciuk]]|POL}} ''(first round)''
+:'''Reserve list'''
+:* {{flagathlete|[[Mike De Decker]]|BEL}} ''(first round)''
+:* {{flagathlete|[[Daryl Gurney]]|NIR}} ''(first round)''
+:* {{flagathlete|[[Brendan Dolan]]|IRL}} ''(third round)''
+{{col-end}}
+
+== Draw ==
+The draw was announced on 15th October. Numbers to the left of a player's name show the seedings for the top 16 in the tournament. The 
+figures to the right of a player's name state their [[three-dart average]] in a match. Players in bold 
+denote match winners. The three reserve players are indicated by 'Alt'. 
+{{48TeamBracket 
+| RD1-shift = -1 
+| RD1='''First round'''<br>''(best of 11 legs)''<br>16 October
+| RD2='''Second round'''<br>''(best of 11 legs)''<br>17 October 
+| RD3='''Third round'''<br>''(best of 11 legs)''<br>18 October
+| RD4='''Quarter-finals'''<br>''(best of 11 legs)''<br>18 October
+| RD5='''Semi-finals'''<br>''(best of 13 legs)''<br>18 October
+| RD6='''Final'''<br>''(best of 15 legs)''<br>18 October
+| team-width=220 
+| boldwinner=high 
+| RD1-seed01 = &nbsp; 
+| RD1-team01 = {{PDCFlag|Sebastian Białecki|avg=96.06}} 
+| RD1-score01= 6 
+| RD1-seed02 = Alt
+| RD1-team02 = {{PDCFlag|Daryl Gurney|avg=85.03}} 
+| RD1-score02= 4 
+| RD1-seed03 = &nbsp; 
+| RD1-team03 = {{PDCFlag|Ricardo Pietreczko|avg=101.74}} 
+| RD1-score03= 5 
+| RD1-seed04 = &nbsp; 
+| RD1-team04 = {{PDCFlag|txt=Heine Uuldriks|flag=NED|avg=98.00}} 
+| RD1-score04= 6 
+| RD1-seed05 = &nbsp; 
+| RD1-team05 = {{PDCFlag|Dirk van Duijvenbode|avg=94.24}} 
+| RD1-score05= 6 
+| RD1-seed06 = &nbsp; 
+| RD1-team06 = {{PDCFlag|James Hurrell|avg=85.95}} 
+| RD1-score06= 1 
+| RD1-seed07 = &nbsp; 
+| RD1-team07 = {{PDCFlag|Ryan Joyce|avg=95.94}} 
+| RD1-score07= 6
+| RD1-seed08 = &nbsp; 
+| RD1-team08 = {{PDCFlag|Owen Bates|avg=80.47}} 
+| RD1-score08= 0 
+| RD1-seed09 = &nbsp; 
+| RD1-team09 = {{PDCFlag|William O'Connor|avg=89.56}} 
+| RD1-score09= 6 
+| RD1-seed10 = &nbsp; 
+| RD1-team10 = {{PDCFlag|Richard Veenstra|avg=87.69}} 
+| RD1-score10= 2 
+| RD1-seed11 = &nbsp; 
+| RD1-team11 = {{PDCFlag|Andrew Gilding|avg=87.78}} 
+| RD1-score11= 6 
+| RD1-seed12 = &nbsp; 
+| RD1-team12 = {{PDCFlag|Max Hopp|avg=89.69}} 
+| RD1-score12= 5 
+| RD1-seed13 = &nbsp; 
+| RD1-team13 = {{PDCFlag|Dave Chisnall|avg=90.83}} 
+| RD1-score13= 6 
+| RD1-seed14 = &nbsp; 
+| RD1-team14 = {{PDCFlag|Jonas Masalin|avg=81.63}} 
+| RD1-score14= 4 
+| RD1-seed15 = &nbsp;  
+| RD1-team15 = {{PDCFlag|Kim Huybrechts|avg=96.61}} 
+| RD1-score15= 5 
+| RD1-seed16 = &nbsp; 
+| RD1-team16 = {{PDCFlag|Jimmy van Schie|avg=92.63}} 
+| RD1-score16= 6 
+| RD1-seed17 = &nbsp; 
+| RD1-team17 = {{PDCFlag|Niko Springer|avg=94.04}} 
+| RD1-score17= 5 
+| RD1-seed18 = &nbsp; 
+| RD1-team18 = {{PDCFlag|Scott Williams|avg=96.23}} 
+| RD1-score18= 6 
+| RD1-seed19 = &nbsp; 
+| RD1-team19 = {{PDCFlag|Niels Zonneveld|avg=98.51}} 
+| RD1-score19= 6 
+| RD1-seed20 = Alt
+| RD1-team20 = {{PDCFlag|Mike De Decker|avg=92.40}} 
+| RD1-score20= 4 
+| RD1-seed21 = &nbsp; 
+| RD1-team21 = {{PDCFlag|Jeffrey de Graaf|avg=100.12}} 
+| RD1-score21= 6 
+| RD1-seed22 = &nbsp; 
+| RD1-team22 = {{PDCFlag|Mickey Mansell|flag=IRL|avg=94.14}} 
+| RD1-score22= 3 
+| RD1-seed23 = &nbsp; 
+| RD1-team23 = {{PDCFlag|Cristo Reyes|avg=95.80}} 
+| RD1-score23= 6 
+| RD1-seed24 = &nbsp; 
+| RD1-team24 = {{PDCFlag|Krzysztof Kciuk|avg=86.36}} 
+| RD1-score24= 2 
+| RD1-seed25 = &nbsp; 
+| RD1-team25 = {{PDCFlag|Damon Heta|avg=92.46}} 
+| RD1-score25= 6 
+| RD1-seed26 = &nbsp; 
+| RD1-team26 = {{PDCFlag|txt=Maikel Verberk|flag=NED|avg=84.37}} 
+| RD1-score26= 4 
+| RD1-seed27 = &nbsp; 
+| RD1-team27 = {{PDCFlag|Karel Sedláček|avg=90.81}} 
+| RD1-score27= 6 
+| RD1-seed28 = &nbsp; 
+| RD1-team28 = {{PDCFlag|Callan Rydz|avg=85.31}} 
+| RD1-score28= 4 
+| RD1-seed29 = &nbsp; 
+| RD1-team29 = {{PDCFlag|Cameron Menzies|avg=87.43}} 
+| RD1-score29= 6
+| RD1-seed30 = &nbsp; 
+| RD1-team30 = {{PDCFlag|Nick Kenny|avg=78.78}} 
+| RD1-score30= 1 
+| RD1-seed31 = &nbsp; 
+| RD1-team31 = {{PDCFlag|Michael Smith|avg=88.89}} 
+| RD1-score31= 6 
+| RD1-seed32 = &nbsp; 
+| RD1-team32 = {{PDCFlag|Stephen Burton|avg=92.89}} 
+| RD1-score32= 5
+
+<!-- Second round -->
+| RD2-seed01 = 1 
+| RD2-team01 = {{PDCFlag|Gian van Veen|avg=120.24}} 
+| RD2-score01= 6 
+| RD2-seed02 = &nbsp; 
+| RD2-team02 = {{PDCFlag|Sebastian Białecki|avg=82.54}} 
+| RD2-score02= 0 
+| RD2-seed03 = Alt
+| RD2-team03 = {{PDCFlag|Brendan Dolan|flag=IRL|avg=93.46}} 
+| RD2-score03= 6
+| RD2-seed04 = &nbsp; 
+| RD2-team04 = {{PDCFlag|txt=Heine Uuldriks|flag=NED|avg=88.31}} 
+| RD2-score04= 4
+| RD2-seed05 = 8 
+| RD2-team05 = {{PDCFlag|Ryan Searle|avg=97.96}} 
+| RD2-score05= 6
+| RD2-seed06 = &nbsp; 
+| RD2-team06 = {{PDCFlag|Dirk van Duijvenbode|avg=96.42}} 
+| RD2-score06= 5
+| RD2-seed07 = 9 
+| RD2-team07 = {{PDCFlag|Ross Smith|avg=101.55}} 
+| RD2-score07= 6
+| RD2-seed08 = &nbsp; 
+| RD2-team08 = {{PDCFlag|Ryan Joyce|avg=80.95}} 
+| RD2-score08=  2
+| RD2-seed09 = 4 
+| RD2-team09 = {{PDCFlag|Michael van Gerwen|avg=99.27}} 
+| RD2-score09= 5 
+| RD2-seed10 = &nbsp; 
+| RD2-team10 = {{PDCFlag|William O'Connor|avg=101.83}} 
+| RD2-score10= 6 
+| RD2-seed11 = 13 
+| RD2-team11 = {{PDCFlag|Luke Woodhouse|avg=87.18}} 
+| RD2-score11= 6 
+| RD2-seed12 = &nbsp; 
+| RD2-team12 = {{PDCFlag|Andrew Gilding|avg=80.34}} 
+| RD2-score12= 1 
+| RD2-seed13 = 5 
+| RD2-team13 = {{PDCFlag|Danny Noppert|avg=100.84}} 
+| RD2-score13= 6
+| RD2-seed14 = &nbsp; 
+| RD2-team14 = {{PDCFlag|Dave Chisnall|avg=95.50}} 
+| RD2-score14= 4
+| RD2-seed15 = 12 
+| RD2-team15 = {{PDCFlag|Jermaine Wattimena|avg=90.09}} 
+| RD2-score15= 6 
+| RD2-seed16 = &nbsp; 
+| RD2-team16 = {{PDCFlag|Jimmy van Schie|avg=88.31}} 
+| RD2-score16= 2 
+| RD2-seed17 = 2 
+| RD2-team17 = {{PDCFlag|Gerwyn Price|avg=97.14}} 
+| RD2-score17= 6 
+| RD2-seed18 = &nbsp; 
+| RD2-team18 = {{PDCFlag|Scott Williams|avg=86.01}} 
+| RD2-score18= 3 
+| RD2-seed19 = 15 
+| RD2-team19 = {{PDCFlag|Krzysztof Ratajski|avg=88.61}} 
+| RD2-score19= 5
+| RD2-seed20 = &nbsp; 
+| RD2-team20 = {{PDCFlag|Niels Zonneveld|avg=96.77}} 
+| RD2-score20= 6
+| RD2-seed21 = 7 
+| RD2-team21 = {{PDCFlag|Wessel Nijman|avg=88.24}} 
+| RD2-score21= 6
+| RD2-seed22 = &nbsp; 
+| RD2-team22 = {{PDCFlag|Jeffrey de Graaf|avg=87.21}} 
+| RD2-score22= 3
+| RD2-seed23 = 10 
+| RD2-team23 = {{PDCFlag|Chris Dobey|avg=99.49}} 
+| RD2-score23= 2 
+| RD2-seed24 = &nbsp; 
+| RD2-team24 = {{PDCFlag|Cristo Reyes|avg=110.26}} 
+| RD2-score24= 6 
+| RD2-seed25 = 3 
+| RD2-team25 = {{PDCFlag|Jonny Clayton|avg=98.39}} 
+| RD2-score25= 1 
+| RD2-seed26 = &nbsp; 
+| RD2-team26 = {{PDCFlag|Damon Heta|avg=103.57}} 
+| RD2-score26= 6 
+| RD2-seed27 = 14 
+| RD2-team27 = {{PDCFlag|Martin Schindler|avg=92.24}} 
+| RD2-score27= 6
+| RD2-seed28 = &nbsp; 
+| RD2-team28 = {{PDCFlag|Karel Sedláček|avg=96.39}} 
+| RD2-score28= 4
+| RD2-seed29 = 6 
+| RD2-team29 = {{PDCFlag|Stephen Bunting|avg=92.70}} 
+| RD2-score29= 6 
+| RD2-seed30 = &nbsp; 
+| RD2-team30 = {{PDCFlag|Cameron Menzies|avg=80.72}} 
+| RD2-score30= 2 
+| RD2-seed31 = 11 
+| RD2-team31 = {{PDCFlag|Nathan Aspinall|avg=102.45}} 
+| RD2-score31= 6 
+| RD2-seed32 = &nbsp; 
+| RD2-team32 = {{PDCFlag|Michael Smith|avg=91.06}} 
+| RD2-score32= 1 
+
+<!-- Third round -->
+| RD3-seed01 = 1 
+| RD3-team01 = {{PDCFlag|Gian van Veen|surname=van Veen|avg=96.72}} 
+| RD3-score01= 6
+| RD3-seed02 = Alt
+| RD3-team02 = {{PDCFlag|Brendan Dolan|flag=IRL|surname=1|avg=86.35}} 
+| RD3-score02= 1
+| RD3-seed03 = 8
+| RD3-team03 = {{PDCFlag|Ryan Searle|surname=1|avg=92.70}} 
+| RD3-score03= 6
+| RD3-seed04 = 9
+| RD3-team04 = {{PDCFlag|Ross Smith|surname=R Smith|avg=91.14}} 
+| RD3-score04= 4
+| RD3-seed05 = &nbsp; 
+| RD3-team05 = {{PDCFlag|William O'Connor|surname=1|avg=94.20}} 
+| RD3-score05= 4
+| RD3-seed06 = 13
+| RD3-team06 = {{PDCFlag|Luke Woodhouse|surname=1|avg=98.01}} 
+| RD3-score06= 6
+| RD3-seed07 = 5
+| RD3-team07 = {{PDCFlag|Danny Noppert|surname=1|avg=100.44}} 
+| RD3-score07= 6
+| RD3-seed08 = 12 
+| RD3-team08 = {{PDCFlag|Jermaine Wattimena|surname=1|avg=99.18}} 
+| RD3-score08= 3
+| RD3-seed09 = 2 
+| RD3-team09 = {{PDCFlag|Gerwyn Price|surname=1|avg=94.87}} 
+| RD3-score09= 4
+| RD3-seed10 = &nbsp;
+| RD3-team10 = {{PDCFlag|Niels Zonneveld|surname=1|avg=95.59}} 
+| RD3-score10= 6
+| RD3-seed11 = 7
+| RD3-team11 = {{PDCFlag|Wessel Nijman|surname=1|avg=97.04}} 
+| RD3-score11= 6
+| RD3-seed12 = &nbsp; 
+| RD3-team12 = {{PDCFlag|Cristo Reyes|surname=1|avg=89.93}} 
+| RD3-score12= 3
+| RD3-seed13 = &nbsp; 
+| RD3-team13 = {{PDCFlag|Damon Heta|surname=1|avg=102.50}} 
+| RD3-score13= 6
+| RD3-seed14 = 14
+| RD3-team14 = {{PDCFlag|Martin Schindler|surname=1|avg=104.09}} 
+| RD3-score14= 4
+| RD3-seed15 = 6 
+| RD3-team15 = {{PDCFlag|Stephen Bunting|surname=1|avg=92.30}} 
+| RD3-score15= 6
+| RD3-seed16 = 11 
+| RD3-team16 = {{PDCFlag|Nathan Aspinall|surname=1|avg=90.98}} 
+| RD3-score16= 1
+
+<!-- Quarterfinals -->
+| RD4-seed01 = 1
+| RD4-team01 = {{PDCFlag|Gian van Veen|surname=van Veen|avg=99.24}} 
+| RD4-score01= 6
+| RD4-seed02 = 8
+| RD4-team02 = {{PDCFlag|Ryan Searle|surname=1|avg=100.50}} 
+| RD4-score02= 3
+| RD4-seed03 = 13
+| RD4-team03 = {{PDCFlag|Luke Woodhouse|surname=1|avg=99.84}} 
+| RD4-score03= 2
+| RD4-seed04 = 5
+| RD4-team04 = {{PDCFlag|Danny Noppert|surname=1|avg=113.42}} 
+| RD4-score04= 6
+| RD4-seed05 = &nbsp;
+| RD4-team05 = {{PDCFlag|Niels Zonneveld|surname=1|avg=102.06}} 
+| RD4-score05= 6
+| RD4-seed06 = 7
+| RD4-team06 = {{PDCFlag|Wessel Nijman|surname=1|avg=100.80}} 
+| RD4-score06= 5
+| RD4-seed07 = &nbsp;
+| RD4-team07 = {{PDCFlag|Damon Heta|surname=1|avg=94.00}} 
+| RD4-score07= 3 
+| RD4-seed08 = 6
+| RD4-team08 = {{PDCFlag|Stephen Bunting|surname=1|avg=97.95}} 
+| RD4-score08= 6 
+
+<!-- Semifinals -->
+| RD5-seed01 = 1
+| RD5-team01 = {{PDCFlag|Gian van Veen|surname=van Veen|avg=91.47}} 
+| RD5-score01= 5 
+| RD5-seed02 = 5
+| RD5-team02 = {{PDCFlag|Danny Noppert|surname=1|avg=94.65}} 
+| RD5-score02= 7 
+| RD5-seed03 = &nbsp;
+| RD5-team03 = {{PDCFlag|Niels Zonneveld|surname=1|avg=92.22}} 
+| RD5-score03= 7
+| RD5-seed04 = 6 
+| RD5-team04 = {{PDCFlag|Stephen Bunting|surname=1|avg=86.07}} 
+| RD5-score04= 4
+
+<!-- Final -->
+| RD6-seed01 = 5 
+| RD6-team01 = {{PDCFlag|Danny Noppert|surname=1|avg=87.66}} 
+| RD6-score01= 5 
+| RD6-seed02 = &nbsp; 
+| RD6-team02 = {{PDCFlag|Niels Zonneveld|surname=1|avg=92.93}} 
+| RD6-score02= 8 
+}}
+
+== References ==
+<references />{{2026 in PDC darts}}
+[[Category:2026 PDC European Tour]]
+[[Category:Sports competitions in Maastricht]]
+[[Category:Darts in the Netherlands]]
+[[Category:International sports competitions hosted by the Netherlands]]

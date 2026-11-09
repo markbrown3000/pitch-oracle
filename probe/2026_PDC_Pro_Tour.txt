@@ -1,0 +1,1062 @@
+{{short description|Darts tournament series}}
+{{Use British English|date=November 2025}}
+{{Use dmy dates|date=November 2025}}
+{{About|the PDC's 2026 Players Championship series, European Tour and accompanying secondary tours|an overview of PDC darts in 2026|2026 in PDC}}
+
+The '''2026 PDC Pro Tour''' is a series of non-televised [[darts]] tournaments organised by the [[Professional Darts Corporation]] (PDC). [[PDC Pro Tour#Players Championships|Players Championships]] and [[PDC European Tour|European Tours]] are the events that make up the [[PDC Pro Tour|Pro Tour]]. The 2026 calendar consists of 34 Players Championship events, 15 European Tour events, as well as 24 events for each of the PDC's [[PDC secondary tours|secondary tours]]—the [[2026 PDC Challenge Tour|Challenge Tour]], [[2026 PDC Development Tour|Development Tour]] and [[2026 PDC Women's Series|Women's Series]].<ref>{{cite web |last=Gorton |first=Josh |date=11 September 2025 |title=European Tour set for further expansion in 2026 with PDC calendar released |url=https://www.pdc.tv/news/2025/september/11/european-tour-set-further-expansion-2026-pdc-calendar-released |website=Professional Darts Corporation |access-date=12 October 2025}}</ref>
+
+==Prize money==
+On 31 March 2025, the PDC announced a mass increase in prize money for [[PDC Pro Tour]] tournaments, along with increases for the PDC's [[PDC secondary tours|secondary tours]].<ref>{{cite web |date=31 March 2025 |title=The million-pound dart: PDC doubles prize money for world championship |url=https://www.theguardian.com/sport/2025/mar/31/world-darts-championship-pdc-doubles-prize-money-million-pounds |website=The Guardian |access-date=3 July 2025 |agency=PA Media}}</ref><ref>{{cite web |last=Phillips |first=Josh |date=31 March 2025 |title=Biggest prize money increase in PDC history confirmed |url=https://www.pdc.tv/news/2025/march/31/biggest-prize-money-increase-pdc-history-confirmed |website=Professional Darts Corporation |access-date=1 November 2025}}</ref> The breakdown for each tour is shown below:
+
+{| class="wikitable"
+|-
+! Stage !! {{Tooltip|ET|European Tour}} !! {{Tooltip|PC|Players Championships}} !! {{Tooltip|CT/DT|Challenge/Development Tour}} !! {{Tooltip|WS|Women's Series}}
+|-
+| '''Winner''' || £35,000 || £15,000 || £3,000 || £2,500
+|-
+| '''Runner-up''' || £15,000 || £10,000 || £2,000 || £1,000
+|-
+| '''Semi-finalists''' || £10,000 || £6,500 || £1,000 || £750
+|-
+| '''Quarter-finalists''' || £8,000 || £4,000 || £750 || £500
+|-
+| '''Last 16''' || £5,000 || £3,000 || £350 || £300
+|-
+| '''Last 32''' || £3,500{{Efn|name=No Money ET|Pre-qualified players from the PDC and PDC Pro Tour Orders of Merit who lose in their first match of the event shall not be credited with prize money on any Order of Merit. A player who qualifies as a qualifier, but later becomes a seed due to the withdrawal of one or more other players shall be credited with their prize money on all Orders of Merit regardless of how far they progress in the event.}} || £2,000 || £250 || £200
+|-
+| '''Last 48''' || £2,000{{Efn|name=No Money ET}} || N/A || N/A || N/A
+|- style="border-bottom:2px solid black;"
+| '''Last 64''' || N/A || £1,250 || £100 || £75{{Efn|Last 64 prize money is only paid out if a minimum of 128 participants take part in a Women's Series event.}}
+|-
+| '''Total''' || '''£230,000''' || '''£150,000''' || '''£20,000''' || '''£15,000'''
+|}
+{{Notelist}}
+
+==PDC Tour Card==
+128 players are granted [[PDC Tour Card]]s, which enables them to participate in all Players Championship events, the [[UK Open]], and qualifiers for all European Tours and select televised events.
+
+===Tour Cards===
+{{main|List of players with a 2026 PDC Tour Card}}
+The 2026 PDC Tour Cards were awarded to:
+* (64) The top 64 players from the [[PDC Order of Merit]] after the [[2026 PDC World Darts Championship|2026 World Championship]]
+* (28) Qualifiers from [[2025 PDC Pro Tour#Q-School|2025 Q-School]] not ranked in the top 64 of the [[PDC Order of Merit]] following the World Championship
+* (2) Two highest qualifiers from the [[2024 PDC Challenge Tour series|2024 Challenge Tour]] ([[Wesley Plaisier]] and [[Christian Kist]])
+* (1) The highest qualifier from the [[2024 PDC Development Tour series|2024 Development Tour]] ([[Sebastian Białecki]])
+** [[Niko Springer]], who also earned a Tour Card through the 2024 Development Tour, entered the top 64 in his first year on tour. Therefore, one extra Tour Card was awarded at 2026 Q-School.
+* (2) Two highest qualifiers from the [[2025 PDC Challenge Tour series|2025 Challenge Tour]] ([[Stefan Bellmont]] and [[Darius Labanauskas]])
+* (2) Two highest qualifiers from the [[2025 PDC Development Tour series|2025 Development Tour]] ([[Beau Greaves]] and [[Owen Bates]])
+* (16) The daily finalists from the 2026 Q-Schools.
+
+Afterwards, the playing field was complemented by the highest qualified players from the Q-School Orders of Merit until the maximum number of 128 Tour Card players had been reached.
+
+===Q-School===
+PDC Qualifying School (or Q-School) is split into two different events: '''UK Q-School''' for British and Irish players, held at the [[Arena MK]] in [[Milton Keynes]], England; and '''European Q-School''' for the rest of Europe, held at [[Wunderland Kalkar]] in [[Kalkar]], Germany. Non-European players can choose which Q-School to compete in.<ref name="DNQS">{{cite web |last=Gill |first=Samuel |date=2 November 2025 |title=When is PDC UK and European Q-School? How many Tour Cards are available? Key Dates, Costs, Locations, Format and How to Enter |url=https://dartsnews.com/faq/explanation-pdc-q-school-2025-what-do-you-have-to-do-to-win-a-pdc-tour-card-and-what-can-you-do-with-it |website=Darts News |access-date=13 November 2025}}</ref>
+ 
+There are two stages in Q-School:<ref>{{cite web |title=2026 PDC Qualifying School - PDPA Information |url=https://pdpa.co.uk/qs-info-induction/ |website=PDPA |access-date=8 January 2026}}</ref>
+* The First Stage, played between 5–7 January, was entered by any darts player who registered to compete. The players who reached the last 16 of each of the three days qualified for the Final Stage alongside other players coming from a First Stage Order of Merit ranking, producing a full list of 128 players for each Final Stage. 
+* The Final Stage, held between 8–11 January, consisted of all players qualified from the First Stage plus the players exempted to the Final Stage; players who were exempted were those who lost their PDC Tour Cards after the [[2026 PDC World Darts Championship|2026 World Championship]], and those who finished from third to sixteenth in the [[2025 PDC Challenge Tour series|2025 Challenge Tour]] and [[2025 PDC Development Tour series|Development Tour]] Orders of Merit who did not have PDC Tour Cards yet. In a change from prior years, players from lower in the First Stage Order of Merit came in after the first day to replace Tour Card winners, with the intent of consistently having a 128-player field at both Q-Schools.
+
+The final two players of each day's play in the Final Stage were given a PDC Tour Card. The remaining Tour Cards were then awarded to players in qualifying positions on the respective UK and European Q-School Orders of Merit.<ref>{{cite web |last=Gorton |first=Josh |date=7 January 2026 |title=Henderson headlines automatic Final Stage qualifiers at 2026 Q Schools |url=https://www.pdc.tv/news/2026/january/07/henderson-headlines-automatic-final-stage-qualifiers-2026-q-schools |website=Professional Darts Corporation |access-date=8 January 2026}}</ref><ref>{{cite web |date=8 January 2026 |title=PDC Qualifying School: Three-time world champion John Part through to final stage alongside John Henderson |url=https://www.skysports.com/darts/news/12040/13491605/pdc-qualifying-school-three-time-world-champion-john-part-through-to-final-stage-alongside-john-henderson |website=Sky Sports |access-date=11 January 2026}}</ref> A total of 29 PDC Tour Cards were distributed—13 at UK Q-School and 16 at European Q-School.<ref name="DNQS" />
+
+{| class="wikitable"
+|-
+! 8 January<ref name="SkyQDay1">{{cite web |date=8 January 2026 |title=Steve Beaton in prime position to regain PDC Tour Card after quarter-final run at Q-School |url=https://www.skysports.com/darts/news/12288/13492119/steve-beaton-in-prime-position-to-regain-pdc-tour-card-after-quarter-final-run-at-q-school |website=Sky Sports |access-date=9 January 2026}}</ref>
+! 9 January<ref name="SkyQDay2">{{cite web |date=9 January 2026 |title=PDC Tour Q-School: Cristo Reyes secures return after five years while two debutants to join professional circuit |url=https://www.skysports.com/darts/news/12288/13492575/pdc-tour-q-school-cristo-reyes-secures-return-after-five-years-while-two-debutants-to-join-professional-circuit |website=Sky Sports |access-date=10 January 2026}}</ref>
+! 10 January<ref name="SkyQDay3">{{cite web |date=10 January 2026 |title=PDC Tour Qualifying School: Lakeside champions Jimmy Van Schie, Shane McGuirk earn cards as Charlie Manby's bid goes to last day |url=https://www.skysports.com/darts/news/12040/13492799/pdc-tour-qualifying-school-lakeside-champions-jimmy-van-schie-shane-mcguirk-earn-cards-as-charlie-manbys-bid-goes-to-last-day |website=Sky Sports |access-date=11 January 2026}}</ref>
+! 11 January<ref name="SkyQDay4">{{cite web |date=11 January 2026 |title=PDC Tour Qualifying School: Charlie Manby, Jeffrey de Zwaan secure 2026 Tour Cards as Andreas Harrysson misses out |url=https://www.skysports.com/darts/news/12040/13493091/pdc-tour-qualifying-school-charlie-manby-jeffrey-de-zwaan-secure-2026-tour-cards-as-andreas-harrysson-misses-out |website=Sky Sports |access-date=11 January 2026}}</ref>
+|-
+!colspan=4|UK Q-School
+|-
+|{{flagathlete|[[Rhys Griffin]]|WAL}}<br>{{flagathlete|Adam Leek|AUS}}
+|{{flagathlete|Carl Sneyd|ENG}}<br>{{flagathlete|Niall Culleton|IRL}}
+|{{flagathlete|[[Shane McGuirk]]|IRL}}<br>{{flagathlete|Tom Sykes|ENG}}
+|{{flagathlete|[[Charlie Manby]]|ENG}}<br>{{flagathlete|Samuel Price|ENG}}
+|-
+!colspan=4|European Q-School
+|-
+|{{flagathlete|[[Arno Merk]]|GER}}<br>{{flagathlete|Filip Bereza|POL}}
+|{{flagathlete|[[Jeffrey Sparidaans]]|NED}}<br>{{flagathlete|[[Cristo Reyes]]|ESP}}
+|{{flagathlete|Matthias Ehlers|GER}}<br>{{flagathlete|Yorick Hofkens|GER}}
+|{{flagathlete|Sietse Lap|NED}}<br>{{flagathlete|[[Jeffrey de Zwaan]]|NED}}
+|-
+|}
+
+At the end of the fourth day in the Final Stage, the following players earned Tour Cards through the Orders of Merit:<ref name="QDay4">{{cite web |last=Gorton |first=Josh |date=11 January 2026 |title=Manby & De Zwaan secure automatic Tour Cards as 2026 Q Schools conclude |url=https://www.pdc.tv/news/2026/january/11/manby-de-zwaan-secure-automatic-tour-cards-2026-q-schools-conclude |website=Professional Darts Corporation |access-date=11 January 2026}}</ref>
+
+{{col-begin}}
+{{col-break}}
+'''UK Q-School Order of Merit'''
+# {{flagathlete|[[Stephen Burton (darts player)|Stephen Burton]]|ENG}}
+# {{flagathlete|[[Mervyn King (darts player)|Mervyn King]]|ENG}}
+# {{flagathlete|Tyler Thorpe|ENG}}
+# {{flagathlete|Stephen Rosney|IRL}}
+# {{flagathlete|David Sharp|SCO}}
+{{col-break}}
+'''European Q-School Order of Merit'''
+# {{flagathlete|[[Jimmy van Schie]]|NED}}
+# {{flagathlete|[[Chris Landman]]|NED}}
+# {{flagathlete|Marvin Kraft|GER}}
+# {{flagathlete|[[Benjamin Pratnemer]]|SVN}}
+# {{flagathlete|[[Adam Gawlas]]|CZE}}
+# {{flagathlete|[[Jurjen van der Velde]]|NED}}
+# {{flagathlete|[[Alexander Merkx]]|NED}}
+# {{flagathlete|Pascal Rupprecht|GER}}
+{{col-end}}
+
+==Players Championships==
+{{Main|2026 PDC Players Championship series}}
+
+The '''PDC Players Championships (PC)''' are a series of non-televised darts events that are part of the PDC Pro Tour. The number of events was the same as the previous year, with a total of 34 [[2026 PDC Players Championship series|Players Championship]] events.
+
+The Players Championship Order of Merit is determined based on the total prize money won by each player in the Players Championship events throughout the year. The top 64 players on this ranking will qualify for the [[2026 Players Championship Finals|Players Championship Finals]].
+
+{| class="wikitable"
+|+ 2026 PDC Players Championship season
+! No.
+! Date
+! Venue
+! Winner
+! Legs
+! Runner-up
+!{{Tooltip|Ref.|Reference}}
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 1|1]]
+|align=left| Monday 9 February
+|align="center" rowspan="2" | {{flagicon|GER}} Halle 39, [[Hildesheim]], Germany
+| align="right" | {{PDCFlagR|James Wade|avg=(93.69)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Nathan Aspinall|avg=(95.26)}}
+| align="center" | <ref>{{cite web|url=https://www.pdc.tv/news/2026/february/09/2026-players-championship-one-latest|title=Wonderful Wade denies Aspinall to clinch PC1 title|website=[[Professional Darts Corporation]]|last=Wagner|first=Connor|date=9 February 2026|access-date=9 February 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 2|2]]
+|align=left| Tuesday 10 February
+| align="right" | {{PDCFlagR|Wessel Nijman|avg=(102.78)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Gerwyn Price|avg=(107.41)}}
+| align="center" |<ref>{{cite web|url=https://www.pdc.tv/news/2026/february/10/Nerveless-Nijman-denies-Price-PC2|title=Nerveless Nijman denies heroic Price to capture PC2 glory|website=[[Professional Darts Corporation]]|last=Gorton|first=Josh|date=10 February 2026|access-date=10 February 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 3|3]]
+|align=left| Monday 16 February
+|align="center" rowspan="2" | {{flagicon|ENG}} Robin Park Leisure Centre, [[Wigan]], England
+| align="right" | {{PDCFlagR|Chris Dobey|avg=(95.37)|b=1}}
+| align="center" | '''8''' – 1
+| {{PDCFlag|Stephen Bunting|avg=(84.92)}}
+| align="center" |<ref>{{cite web |last=Wagner |first=Connor |date=16 February 2026 |title=Dazzling Dobey beats Bunting to claim PC3 victory in Wigan |url=https://www.pdc.tv/news/2026/february/16/2026-players-championship-3-latest/ |website=Professional Darts Corporation |access-date=16 February 2026}}{{dead link|date=February 2026|bot=medic}}{{cbignore|bot=medic}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 4|4]]
+|align=left| Tuesday 17 February
+| align="right" |{{PDCFlagR|Luke Humphries|avg=(104.62)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Wessel Nijman|avg=(92.87)}}
+| align="center" |<ref>{{cite web |title=Luke Humphries battles past Wessel Nijman to win Players Championship 4 title in Wigan |url=https://www.skysports.com/darts/news/12288/13508757/luke-humphries-battles-past-wessel-nijman-to-win-players-championship-4-title-in-wigan |website=Sky Sports |access-date=17 February 2026 |date=17 February 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 5|5]]
+|align=left| Tuesday 24 February
+|align="center" rowspan="4" | {{flagicon|ENG}} [[Leicester Arena]], England
+| align="right" |{{PDCFlagR|Ross Smith|avg=(104.24)|b=1}}
+| align="center" | '''8''' – 2
+| {{PDCFlag|Chris Dobey|avg=(97.86)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=24 February 2026 |title=Smith storms to Players Championship Five title in Leicester |url=https://www.pdc.tv/news/2026/february/24/smith-storms-players-championship-five/ |website=Professional Darts Corporation |access-date=24 February 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 6|6]]
+|align=left| Wednesday 25 February
+| align="right" |{{PDCFlagR|Gerwyn Price|avg=(95.59)|b=1}}
+| align="center" | '''8''' – 1
+| {{PDCFlag|Andrew Gilding|avg=(94.67)}}
+| align="center" |<ref>{{Cite web |last=Gorton |first=Josh |date=25 February 2026 |title=Price powers to Players Championship Six glory in Leicester |url=https://www.pdc.tv/news/2026/february/25/price-powers-players-championship-six-glory/ |website=Professional Darts Corporation |access-date=25 February 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 7|7]]
+|align=left| Monday 30 March
+| align="right" |{{PDCFlagR|Ryan Searle|avg=(95.65)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Alan Soutar|avg=(99.00)}}
+| align="center" |<ref>{{Cite web |last=Wagner |first=Connor |date=30 March 2026 |title= Searle races to Players Championship Seven title in Leicester |url=https://www.pdc.tv/news/2026/march/30/2026-players-championship-seven-latest/ |website=Professional Darts Corporation |access-date=30 March 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 8|8]]
+|align=left| Tuesday 31 March
+| align="right" | {{PDCFlagR|Wessel Nijman|avg=(97.70)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Joe Cullen|avg=(98.98)}}
+| align="center" |<ref>{{Cite web |last=Gorton |first=Josh |date=31 March 2026 |title=Nijman clinches third title of 2026 with PC8 success in Leicester |url= https://www.pdc.tv/news/2026/march/31/Nijman-clinches-third-title-2026-PC8/ |website=Professional Darts Corporation |access-date=31 March 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 9|9]]
+|align=left| Monday 13 April
+|align="center" rowspan="2" | {{flagicon|ENG}} Robin Park Leisure Centre, [[Wigan]], England
+| align="right" | {{PDCFlagR|Chris Dobey|avg=(105.28)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Justin Hood|avg=(102.91)}}
+| align="center" | <ref>{{Cite web |last=Simpson |first=Will |date=13 April 2026 |title=Dazzling Dobey doubles Players Championship title tally in 2026 |url=https://www.pdc.tv/news/2026/april/13/Dazzling-Dobey-doubles-Players-Championship-titles-in-2026/ |website=Professional Darts Corporation |access-date=14 April 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 10|10]]
+|align=left| Tuesday 14 April
+| align="right" | {{PDCFlagR|Wessel Nijman|avg=(101.34)|b=1}}
+| align="center" | '''8''' – 2
+| {{PDCFlag|Scott Waites|avg=(83.98)}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=14 April 2026 |title= Relentless Nijman powers to third Players Championship title of 2026 |url= https://www.pdc.tv/news/2026/april/14/Relentess-Nijman-powers-third-Players-Championship-title-2026/ |website=Professional Darts Corporation |access-date=15 April 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 11|11]]
+|align=left| Monday 27 April
+|align="center" rowspan="2" | {{flagicon|ENG}} [[Arena MK]], [[Milton Keynes]], England
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(96.49)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Michael Smith|avg=(97.74)}}
+| align="center" |<ref>{{Cite web |last=Simpson |first=Will |date=27 April 2026 |title= Greaves becomes first women to win ProTour event with PC11 triumph |url=https://www.pdc.tv/news/2026/april/27/Greaves-becomes-first-woman-to-win-ProTour-event-with-PC11-triumph/ |website= Professional Darts Corporation| access-date=28 April 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 12|12]]
+|align=left| Tuesday 28 April
+| align="right" | {{PDCFlagR|Wessel Nijman|avg=(96.84)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Jermaine Wattimena|avg=(94.12)}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=28 April 2026 |title= Nijman maintains ProTour monopoly with clinical PC12 victory |url= https://www.pdc.tv/news/2026/april/28/Nijman-maintains-pro-tour-monopoly-with-PC12-victory/ |website= Professional Darts Corporation| access-date=28 April 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 13|13]]
+|align=left| Monday 4 May
+|align="center" rowspan="2" | {{flagicon|GER}} Halle 39, [[Hildesheim]], Germany
+| align="right" | {{PDCFlagR|Kevin Doets|avg=(100.61)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Luke Woodhouse|avg=(94.26)}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=4 May 2026 |title= Delight for Doets with breakthrough PC13 triumph |url= https://www.pdc.tv/news/2026/may/04/delight-doets-breakthrough-players-championship-13-triumph/ |website= Professional Darts Corporation| access-date=4 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 14|14]]
+|align=left| Tuesday 5 May
+| align="right" | {{PDCFlagR|Wessel Nijman|avg=(104.62)|b=1}}
+| align="center" | '''8''' – 1
+| {{PDCFlag|Max Hopp|avg=(98.08)}}
+| align="center" | <ref>{{Cite web |last=Simpson |first=Will |date=5 May 2026 |title= Nijman maintains 2026 Players Championship supremacy with fifth title |url= https://www.pdc.tv/news/2026/may/05/Nijman-maintains-2026-Players-Championship-supremacy-with-fifth-title/ |website= Professional Darts Corporation| access-date=5 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 15|15]]
+|align=left| Tuesday 12 May
+|align="center" rowspan="4" | {{flagicon|ENG}} [[Leicester Arena]], England
+| align="right" | {{PDCFlagR|Michael van Gerwen|avg=(106.57)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Dirk van Duijvenbode|avg=(101.86)}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=12 May 2026 |title= Vintage Van Gerwen wins Players Championship Fifteen |url= https://www.pdc.tv/news/2026/may/12/vintage-van-gerwen-wins-players-championship-15/ |website= Professional Darts Corporation| access-date=12 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 16|16]]
+|align=left| Wednesday 13 May
+| align="right" | {{PDCFlagR|Andrew Gilding|avg=(99.78)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Jonny Clayton|avg=(95.24)}}
+| align="center" | <ref>{{Cite web |last=Simpson |first=Will |date=13 May 2026 |title= Gilding earns maiden ProTour title with PC16 triumph |url= https://www.pdc.tv/news/2026/may/13/Gilding-earns-maiden-ProTour-title-with-PC16-triumph/ |website= Professional Darts Corporation| access-date=13 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 17|17]]
+|align=left| Monday 18 May
+| align="right" | {{PDCFlagR|Luke Humphries|avg=(104.89)|b=1}}
+| align="center" | '''8''' – 4 
+| {{PDCFlag|Jermaine Wattimena|avg=(97.16)}}
+| align="center" | <ref>{{Cite web |last=Wagner |first=Connor |date=18 May 2026 |title= Humphries keeps his cool to clinch PC17 crown |url= https://www.pdc.tv/news/2026/may/18/2026-players-championship-17-latest/ |website=Professional Darts Corporation |access-date=18 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 18|18]]
+|align=left| Tuesday 19 May
+| align="right" | {{PDCFlagR|Luke Woodhouse|avg=(102.04)|b=1}}
+| align="center" | '''8''' – 4 
+| {{PDCFlag|Andrew Gilding|avg=(96.96)}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=19 May 2026 |title= Woodhouse wins maiden PDC ranking title at PC18 |url= https://www.pdc.tv/news/2026/may/19/Woodhouse-wins-maiden-ranking-title-pc18/ |website= Professional Darts Corporation| access-date=19 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 19|19]]
+|align=left| Tuesday 2 June
+|align="center" rowspan="2" | {{flagicon|ENG}} [[Arena MK]], [[Milton Keynes]], England
+| align="right" | {{PDCFlagR|Jeffrey de Graaf|avg=(101.11)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Jonny Clayton|avg=(100.69)}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=2 June 2026 |title= De Graaf celebrates second ranking title with PC19 victory |url= https://www.pdc.tv/news/2026/june/02/de-graaf-celebrates-second-ranking-title-pc19-victory/ |website= Professional Darts Corporation| access-date=2 June 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 20|20]]
+|align=left| Wednesday 3 June
+| align="right" | {{PDCFlagR|Ross Smith|avg=(107.01)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|William O'Connor|avg=(93.49)}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=3 June 2026 |title= Super Smith storms to Players Championship 20 title |url= https://www.pdc.tv/news/2026/june/03/Super-smith-storms-players-championship-20-title/ |website= Professional Darts Corporation| access-date=3 June 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 21|21]]
+|align=left| Tuesday 16 June
+|align="center" rowspan="2" | {{flagicon|ENG}} Robin Park Leisure Centre, [[Wigan]], England
+| align="right" | {{PDCFlagR|Wessel Nijman|avg=(96.56)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Ryan Searle|avg=(95.90)}}
+| align="center" | <ref>{{cite web |last=Gorton |first=Josh |date=16 June 2026 |title= Nijman joins exclusive club with Players Championship 21 success|url= https://www.pdc.tv/news/2026/june/16/nijman-joins-exclusive-club-players-championship-21/ |website=Professional Darts Corporation |access-date=16 June 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 22|22]]
+|align=left| Wednesday 17 June
+| align="right" | {{PDCFlagR|Rob Cross|avg=(97.83)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Maik Kuivenhoven|avg=(82.53)}}
+| align="center" | <ref>{{Cite web |last=Simpson |first=Will |date=17 June 2026 |title= Cross cruises to first PC title of 2026 |url= https://www.pdc.tv/news/2026/june/17/Cross-cruises-to-first-PC-title-of-2026/ |website= Professional Darts Corporation| access-date=17 June 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 23|23]]
+|align=left| Monday 6 July
+|align="center" rowspan="2" | {{flagicon|ENG}} [[Leicester Arena]], England
+| align="right" | {{PDCFlagR|Cameron Menzies|avg=(95.54)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Cristo Reyes|avg=(94.78)}}
+| align="center" | <ref>{{Cite web |last= Bellenie |first=Ryan |date=6 July 2026 |title= Menzies clinches first PC title of 2026 |url= https://www.pdc.tv/news/2026/july/06/2026-players-championship-23-latest/ |website= Professional Darts Corporation| access-date=6 July 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 24|24]]
+|align=left| Tuesday 7 July
+| align="right" | {{PDCFlagR|Gabriel Clemens|avg=(94.53)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Luke Woodhouse|avg=(96.00)}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=7 July 2026 |title= Courageous Clemens wins maiden PDC title at PC24 |url= https://www.pdc.tv/news/2026/july/07/courageous-clemens-wins-maiden-pdc-title-pc24/ |website= Professional Darts Corporation| access-date=7 July 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 25|25]]
+|align=left| Tuesday 28 July
+|align="center" rowspan="2" | {{flagicon|GER}} Halle 39, [[Hildesheim]], Germany
+| align="right" | {{PDCFlagR|Henry Coates|avg=(104.88)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Damon Heta|avg=(106.11)}}
+| align="center" | <ref>{{Cite web |last=Simpson |first=Will |date=28 July 2026 |title= Coates creates history with maiden PDC title at PC25 |url= https://www.pdc.tv/news/2026/july/28/Coates-creates-history-with-maiden-PDC-title-at-PC25/ |website= Professional Darts Corporation| access-date=28 July 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 26|26]]
+|align=left| Wednesday 29 July
+| align="right" | {{PDCFlagR|Sebastian Białecki|avg=(93.80)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Mario Vandenbogaerde|avg=(85.91)}}
+| align="center" | <ref>{{Cite web |last=Gorton |first=Josh |date=29 July 2026 |title= Brilliant Bialecki repeats previous heroics in Hildesheim |url= https://www.pdc.tv/news/2026/july/29/brilliant-bialecki-repeats-previous-heroics-hildesheim/ |website= Professional Darts Corporation| access-date=29 July 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 27|27]]
+|align=left| Tuesday 25 August
+|align="center" rowspan="2" | {{flagicon|ENG}} [[Leicester Arena]], England
+| align="right" | {{PDCFlagR|Jermaine Wattimena|avg=(93.81)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Kevin Doets|avg=(93.22)}}
+| align="center" | <ref>{{cite web |last=Gorton |first=Josh |date=25 August 2026 |title=Wattimena wins third ranking title with PC27 success in Leicester |url=https://www.pdc.tv/news/2026/august/25/Wattimena-wins-third-ranking-title-pc27-leicester/ |website=Professional Darts Corporation |access-date=26 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 28|28]]
+|align=left| Wednesday 26 August
+| align="right" |{{PDCFlagR|Luke Humphries|avg=(93.88)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Brendan Dolan|flag=IRL|avg=(87.31)}}
+| align="center" | <ref>{{cite web |last=Gorton |first=Josh |date=26 August 2026 |title= Humphries completes Players Championship hat-trick in Leicester |url= https://www.pdc.tv/news/2026/august/26/humphries-completes-players-championship-hat-trick-leicester/ |website=Professional Darts Corporation |access-date=27 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 29|29]]
+|align=left| Tuesday 22 September
+|align="center" rowspan="4" | {{flagicon|NED}} [[Maaspoort]], [[Den Bosch]], Netherlands
+| align="right" |{{PDCFlagR|Cameron Menzies|avg=(96.77)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Gian van Veen|avg=(89.16)}}
+| align="center" |<ref>{{Cite web |last=Simpson |first=Will |date=22 September 2026 |title= Menzies wins second title of 2026 with PC29 triumph|url=https://www.pdc.tv/news/2026/september/22/Menzies-wins-second-title-of-2026-with-PC29-triumph/|website= Professional Darts Corporation| access-date=22 September 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 30|30]]
+|align=left| Wednesday 23 September
+| align="right" |{{PDCFlagR|Karel Sedláček|avg=(91.92)|b=1}}
+| align="center" | '''8''' – 7
+| {{PDCFlag|Scott Williams|avg=(96.25)}}
+| align="center" | <ref>{{cite web |last=Gorton |first=Josh |date=23 September 2026 |title= Sedlacek creates history with PC30 success in Den Bosch |url= https://www.pdc.tv/news/2026/september/23/sedlacek-creates-history-pc30-success-den-bosch/ |website=Professional Darts Corporation |access-date=23 September 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 31|31]]
+|align=left| Wednesday 28 October
+| align="right" |{{PDCFlagR|Charlie Manby|avg=(99.72)|b=1}}
+| align="center" | '''8''' – 2
+| {{PDCFlag|Maik Kuivenhoven|avg=(84.76)}}
+| align="center" | <ref>{{cite web |last=Gorton |first=Josh |date=28 October 2026 |title= Manby storms to milestone victory at Players Championship 31
+ |url= https://www.pdc.tv/news/2026/october/28/manby-storms-milestone-victory-players-championship-31/ |website=Professional Darts Corporation |access-date=28 October 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 32|32]]
+|align=left| Thursday 29 October
+| align="right" | {{PDCFlagR|Chris Dobey|avg=(103.01)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Tommy Morris|avg=(94.07)}}
+| align="center" |<ref>{{cite web |last=Gorton |first=Josh |date=29 October 2026 |title= Dutch delight for Dobey at PC32 in Den Bosch
+ |url= https://www.pdc.tv/news/2026/october/29/dutch-delight-dobey-pc32-den-bosch/ |website=Professional Darts Corporation |access-date=29 October 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 33|33]]
+|align=left| Wednesday 4 November
+|align="center" rowspan="2" | {{flagicon|ENG}} [[Leicester Arena]], England
+| align="right" |{{PDCFlagR|Luke Humphries|avg=(103.77)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Niels Zonneveld|avg=(92.50)}}
+| align="center" | <ref>{{cite web |last=Gorton |first=Josh |date=4 November 2026 |title= Humphries continues Leicester love-affair with PC33 success|url=https://www.pdc.tv/news/2026/november/04/humphries-continues-leicester-love-affair-pc33-success/ |website=Professional Darts Corporation |access-date=4 November 2026}}</ref>
+|-
+|align=center| [[2026 PDC Players Championship series#Players Championship 34|34]]
+|align=left| Thursday 5 November
+| align="right" |{{PDCFlagR|Tommy Morris|avg=(95.76)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Luke Humphries|avg=(92.43)}}
+| align="center" | <ref>{{cite web |last=Simpson |first=Will |date=5 November 2026 | title=Morris breaks new ground with Players Championship 34 triumph  | url=https://www.pdc.tv/news/2026/november/05/Morris-breaks-new-ground-with-Players-Championship-34-triumph/ |website=Professional Darts Corporation |access-date=5 November 2026}}</ref>
+|}
+
+==European Tour==
+{{further|PDC European Tour}}
+The '''PDC European Tour (ET)''' is a series of darts events that are part of the PDC Pro Tour. In 2026, the total number of events expanded to fifteen, one more than the previous year. European Tour events in Poland and Slovakia will be held for the first time.<ref>{{cite web |date=17 December 2025 |title=Darts 2026 schedule and dates: Premier League Darts, World Matchplay and more with Luke Littler in action |url=https://www.skysports.com/darts/news/37278/13428768/darts-2026-schedule-and-dates-premier-league-darts-world-matchplay-and-more-with-luke-littler-in-action |website=Sky Sports |access-date=1 January 2026}}</ref>
+
+The PDC European Tour Order of Merit is determined based on the total prize money won by each player in the European Tour events throughout the year. The top 32 players on this ranking will qualify for the [[2026 European Championship (darts)|European Championship]].
+
+{| class="wikitable"
+|+ 2026 PDC European Tour season
+! No.
+! Date
+! Event
+! Location
+! Winner
+! Legs
+! Runner-up
+!{{Tooltip|Ref.|Reference}}
+|-
+|align=center| 1
+|align=left| 20–22 February
+| [[2026 Poland Darts Open]]
+| {{flagicon|POL}} [[EXPO Kraków]]
+| align="right" | {{PDCFlagR|Luke Littler|avg=(108.06)|b=1}}
+| align="center" | '''8''' – 4
+|{{PDCFlag|Gian van Veen|avg=(96.11)}}
+| align="center"|<ref>{{Cite web |last=Gorton |first=Josh |date=22 February 2026 |title=Sublime Littler defies nine-dart Van Veen to win Poland Darts Open |url=https://www.pdc.tv/news/2026/february/22/superb-littler-defies-van-veen-poland-darts-open/ |website=Professional Darts Corporation |access-date=24 February 2026}}</ref>
+|-
+|align=center| 2
+|align=left| 13–15 March
+| [[2026 European Darts Trophy]]
+| {{flagicon|GER}} Lokhalle, [[Göttingen]]
+| align="right" | {{PDCFlagR|Wessel Nijman|avg=(100.80)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Gerwyn Price|avg=(92.38)}}
+| align="center"| <ref>{{Cite web |last=Gorton |first=Josh |date=15 March 2026 |title=Inspired Nijman powers past Price to win European Darts Trophy |url=https://www.pdc.tv/news/2026/march/15/inspired-Nijman-powers-Price-European-Darts-Trophy/ |website=Professional Darts Corporation |access-date=24 March 2026}}</ref>
+|-
+|align=center| 3
+|align=left| 20–22 March
+| [[2026 Belgian Darts Open]]
+| {{flagicon|BEL}} Oktoberhallen, [[Wieze]]
+| align="right" | {{PDCFlagR|Luke Humphries|avg=(97.37)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Jonny Clayton|avg=(94.16)}}
+| align="center"| <ref>{{Cite web |last=Wagner |first=Connor |date=22 March 2026 |title=Heroic Humphries edges past Clayton to clinch Belgian Darts Open |url= https://www.pdc.tv/news/2026/march/22/2026-lecot-belgian-darts-open---finals-day-latest/ |website=Professional Darts Corporation |access-date=24 March 2026}}</ref>
+|-
+|align=center| 4
+|align=left| 4–6 April
+| [[2026 German Darts Grand Prix]]
+| {{flagicon|GER}} [[Zenith (building)|Zenith]], [[Munich]]
+| align="right" | {{PDCFlagR|Nathan Aspinall|avg=(100.35)|b=1}}
+| align="center" | '''8''' – 5
+| {{PDCFlag|Danny Noppert|avg=(93.16)}}
+| align="center"| <ref>{{Cite web |last=Gorton |first=Josh |date=6 April 2026 |title=Aspinall celebrates German Darts Grand Prix success in Munich |url= https://www.pdc.tv/news/2026/april/06/Aspinall-celebrates-German-Grand-Prix-success-Munich/ |website=Professional Darts Corporation |access-date=7 April 2026}}</ref>
+|-
+|align=center| 5
+|align=left| 17–19 April
+| [[2026 European Darts Grand Prix]]
+| {{flagicon|GER}} [[Glaspalast Sindelfingen]]
+| align="right" | {{PDCFlagR|Gerwyn Price|avg=(95.70)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Ross Smith|avg=(96.25)}}
+| align="center"| <ref>{{Cite web |last=Simpson |first=Will |date=19 April 2026 |title= Peerless Price claims tenth European Tour title in Sindelfingen |url= https://www.pdc.tv/news/2026/april/19/Peerless-Price-claims-tenth-European-Tour-title-in-Sindelfingen/ |website=Professional Darts Corporation |access-date=20 April 2026}}</ref>
+|-
+|align=center| 6
+|align=left| 8–10 May
+| [[2026 Austrian Darts Open]]
+| {{flagicon|AUT}} [[Stadthalle Graz]]
+| align="right" | {{PDCFlagR|Josh Rock|avg=(101.56)|b=1}}
+| align="center" | '''8''' – 6
+| {{PDCFlag|Kevin Doets|avg=(101.20)}}
+| align="center"| <ref>{{Cite web |last=Simpson |first=Will |date=10 May 2026 |title= Rampant Rock downs Doets to scoop Austrian Darts Open |url= https://www.pdc.tv/news/2026/may/10/Rampant-Rock-downs-Doets-to-scoop-Austrian-Darts-Open/ |website=Professional Darts Corporation |access-date=11 May 2026}}</ref>
+|-
+|align=center| 7
+|align=left| 22–24 May
+| [[2026 International Darts Open]]
+| {{flagicon|GER}} [[Sachsen Arena|WT Energiesysteme Arena]], [[Riesa]]
+| align="right" | {{PDCFlagR|Ross Smith|avg=(90.81)|b=1}}
+| align="center" | '''8''' – 3
+| {{PDCFlag|Ryan Searle|avg=(90.11)}}
+| align="center"| <ref>{{Cite web |last=Wagner |first=Connor |date=24 May 2026 |title= Super Smith wins maiden European Tour title in Riesa |url= https://www.pdc.tv/news/2026/may/24/2026-elten-safety-shoes-international-darts-open-finals-day-latest/ |website=Professional Darts Corporation |access-date=25 May 2026}}</ref>
+|-
+|align=center| 8
+|align=left| 29–31 May
+| [[2026 Baltic Sea Darts Open]]
+| {{flagicon|GER}} [[Merkur Ostseehalle]], [[Kiel]]
+| align="right" | {{PDCFlagR|Luke Woodhouse|avg=(98.61)|b=1}}
+| align="center" | '''8''' – 4
+| {{PDCFlag|Ryan Joyce|avg=(94.46)}}
+| align="center"| <ref>{{Cite web |last=Wagner |first=Connor |date=31 May 2026 |title= Wonderful Woodhouse wins maiden European Tour title in Kiel |url= https://www.pdc.tv/news/2026/may/31/2026-elten-safety-shoes-baltic-sea-darts-open---finals-day-latest/ |website=Professional Darts Corporation |access-date=31 May 2026}}</ref>
+|-
+|align=center| 9
+|align=left| 19–21 June
+| [[2026 Slovak Darts Open]]
+| {{flagicon|SVK}} [[Incheba]], [[Bratislava]]
+| align="right" | {{PDCFlagR|Wessel Nijman|avg=(103.80)|b=1}}
+| align="center" | '''8''' – 3
+|{{PDCFlag|Rob Cross|avg=(102.57)}}
+| align="center"| <ref>{{Cite web |last=Simpson |first=Will |date=21 June 2026 |title= Unassailable Nijman bags inaugural Slovak Darts Open title |url= https://www.pdc.tv/news/2026/june/21/Unassailable-Nijman-bags-inaugural-Slovak-Darts-Open-title/ |website=Professional Darts Corporation |access-date=21 June 2026}}</ref>
+|-
+|align=center| 10
+|align=left| 10–12 July
+| [[2026 European Darts Open]]
+| {{flagicon|GER}} [[Ostermann-Arena]], [[Leverkusen]]
+| align="right" |{{PDCFlagR|Krzysztof Ratajski|avg=(92.43)|b=1}}
+| align="center" |'''8''' – 6
+|{{PDCFlag|Jermaine Wattimena|avg=(86.73)}}
+| align="center"| <ref>{{Cite web |last=Simpson |first=Will |date=12 July 2026 |title= Ratajski seals Euro Tour hat-trick with European Darts Open triumph |url= https://www.pdc.tv/news/2026/july/12/Ratajski-seals-Euro-Tour-hat-trick-with-European-Darts-Open-triumph/ |website=Professional Darts Corporation |access-date=12 July 2026}}</ref>
+|-
+|align=center| 11
+|align=left| 28–30 August
+| [[2026 Hungarian Darts Trophy]]
+| {{flagicon|HUN}} [[MVM Dome]], [[Budapest]]
+| align="right" | {{PDCFlagR|Ross Smith|avg=(101.01)|b=1}}
+| align="center" | '''8''' – 2
+|{{PDCFlag|Gary Anderson|avg=(90.50)}}
+| align="center"| <ref>{{Cite web |last=Simpson |first=Will |date=30 August 2026 |title= Smith routs Anderson to win Hungarian Darts Trophy |url= https://www.pdc.tv/news/2026/august/30/Smith-routs-Anderson-to-win-Hungarian-Darts-Trophy/ |website=Professional Darts Corporation |access-date=30 August 2026}}</ref>
+|-
+|align=center| 12
+|align=left| 4–6 September
+| [[2026 Czech Darts Open]]
+| {{flagicon|CZE}} PVA EXPO, [[Prague]]
+| align="right" | {{PDCFlagR|Luke Littler|avg=(95.25)|b=1}}
+| align="center" | '''8''' – 6
+|{{PDCFlag|Luke Humphries|avg=(94.81)}}
+| align="center"| <ref>{{Cite web |last=Gorton |first=Josh |date=6 September 2026 |title= Littler denies Humphries to win 2026 Czech Darts Open |url= https://www.pdc.tv/news/2026/september/06/littler-denies-humphries-win-czech-darts-open/ |website=Professional Darts Corporation |access-date=6 September 2026}}</ref>
+|-
+|align=center| 13
+|align=left| 11–13 September
+| [[2026 Flanders Darts Trophy]]
+| {{flagicon|BEL}} [[Antwerp]] Expo
+| align="right" | {{PDCFlagR|James Wade|avg=(95.50)|b=1}}
+| align="center" | '''8''' – 4  
+|{{PDCFlag|Ross Smith|avg=(94.82)}}
+| align="center"| <ref>{{Cite web |last=Wagner |first=Connor |date=13 September 2026 |title= Wade beats Smith to win 2026 Flanders Darts Trophy |url= https://www.pdc.tv/news/2026/september/13/Wade-beats-Smith-win-Flanders-Darts-Trophy/ |website=Professional Darts Corporation |access-date=13 September 2026}}</ref>
+|-
+|align=center| 14
+|align=left| 9–11 October
+| [[2026 Swiss Darts Trophy]]
+| {{flagicon|SUI}} [[St. Jakobshalle]], [[Basel]]
+| align="right" | {{PDCFlagR|Jonny Clayton|avg=(101.68)|b=1}}
+| align="center" | '''8''' – 4 
+|{{PDCFlag|Luke Humphries|avg=(101.75)}}
+| align="center"|<ref>{{Cite web |last=Simpson |first=Will |date=11 October 2026 |title= Clayton defies Humphries to claim Swiss Darts Trophy |url= https://www.pdc.tv/news/2026/october/11/Clayton-defies-Humphries-to-claim-Swiss-Darts-Trophy/ |website=Professional Darts Corporation |access-date=11 October 2026}}</ref>
+|-
+|align=center| 15
+|align=left| 16–18 October
+| [[2026 Dutch Darts Championship]]
+| {{flagicon|NED}} [[MECC Maastricht]]
+| align="right" | {{PDCFlagR|Niels Zonneveld|avg=(92.93)|b=1}}
+| align="center" | '''8''' – 5
+|{{PDCFlag|Danny Noppert|avg=(87.66)}}
+| align="center"| <ref>{{Cite web |last=Simpson |first=Will |date=18 October 2026 |title= Zonneveld wins first ranking title at Dutch Darts Championship |url= https://www.pdc.tv/news/2026/october/18/Zonneveld-wins-first-ranking-title-at-Dutch-Darts-Championship/ |website=Professional Darts Corporation |access-date=18 October 2026}}</ref>
+|}
+
+==PDC secondary tours==
+=== Challenge Tour ===
+{{Main|2026 PDC Challenge Tour}}
+{| class="wikitable"
+|+ 2026 PDC Challenge Tour season
+! No.
+! Date
+! Venue
+! Winner
+! Legs
+! Runner-up
+!{{Tooltip|Ref.|Reference}}
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 1|1]]
+|align=left rowspan="2" | Friday 16 January
+|align="center" rowspan="5" | {{flagicon|ENG}} [[Arena MK]], [[Milton Keynes]], England
+| align="right" | {{PDCFlagR|Tommy Lishman|avg=(99.12)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Tommy Morris|avg=(98.52)}}
+| align="center" |<ref>{{cite web |date=16 January 2026 |title=PDC Challenge Tour 01 |url=https://tv.dartconnect.com/event/pdcct26e01/matches |website=DartConnect |access-date=18 January 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 2|2]]
+| align="right" | {{PDCFlagR|Joe Hunt|avg=(99.49)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Jose Justicia|avg=(90.20)}}
+| align="center" |<ref>{{cite web |date=16 January 2026 |title=PDC Challenge Tour 02 |url=https://tv.dartconnect.com/event/pdcct26e02/matches |website=DartConnect |access-date=18 January 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 3|3]]
+|align=left rowspan="2" | Saturday 17 January
+| align="right" | {{PDCFlagR|Joe Hunt|avg=(88.04)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Arron Monk|avg=(80.40)}}
+| align="center" |<ref>{{cite web |date=17 January 2026 |title=PDC Challenge Tour 03 |url=https://tv.dartconnect.com/event/pdcct26e03/matches |website=DartConnect |access-date=18 January 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 4|4]]
+| align="right" | {{PDCFlagR|Martijn Dragt|avg=(88.23)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Scott Waites|avg=(88.38)}}
+| align="center" |<ref>{{cite web |date=17 January 2026 |title=PDC Challenge Tour 04 |url=https://tv.dartconnect.com/event/pdcct26e04/matches |website=DartConnect |access-date=18 January 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 5|5]]
+|align=left | Sunday 18 January
+| align="right" | {{PDCFlagR|Jack Tweddell|avg=(85.68)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Steve Lennon|avg=(84.06)}}
+| align="center" |<ref>{{cite web |date=18 January 2026 |title=PDC Challenge Tour 05 |url=https://tv.dartconnect.com/event/pdcct26e05/matches |website=DartConnect |access-date=18 January 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 6|6]]
+|align=left rowspan="2" | Friday 27 March
+|align="center" rowspan="5" | {{flagicon|ENG}} [[Leicester Arena]], England
+| align="right" | {{PDCFlagR|Derek Coulson|avg=(93.94)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Oliver Mitchell|avg=(77.88)}}
+| align="center" |<ref>{{cite web |date=27 March 2026 |title=PDC Challenge Tour 06 |url=https://tv.dartconnect.com/event/pdcct26e06/matches |website=DartConnect |access-date=27 March 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 7|7]]
+| align="right" | {{PDCFlagR|Daniel Klose|avg=(87.88)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Callum Goffin|avg=(80.89)}}
+| align="center" | <ref>{{cite web |date=27 March 2026 |title=PDC Challenge Tour 07 |url=https://tv.dartconnect.com/event/pdcct26e07/matches |website=DartConnect |access-date=27 March 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 8|8]]
+|align=left rowspan="2" | Saturday 28 March
+| align="right" | {{PDCFlagR|Ted Evetts|avg=(86.61)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Aden Kirk|avg=(84.98)}}
+| align="center" | <ref>{{cite web |date=28 March 2026 |title=PDC Challenge Tour 08 |url=https://tv.dartconnect.com/event/pdcct26e08/matches |website=DartConnect |access-date=28 March 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 9|9]]
+| align="right" | {{PDCFlagR|Florian Preis|avg=(86.71)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Aden Kirk|avg=(87.85)}}
+| align="center" | <ref>{{cite web |date=28 March 2026 |title=PDC Challenge Tour 09 |url=https://tv.dartconnect.com/event/pdcct26e09/matches |website=DartConnect |access-date=28 March 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 10|10]]
+|align=left | Sunday 29 March
+| align="right" | {{PDCFlagR|Nathan Potter|avg=(101.13)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Radek Szaganski|avg=(83.50)}}
+| align="center" | <ref>{{cite web |date=29 March 2026 |title=PDC Challenge Tour 10 |url=https://tv.dartconnect.com/event/pdcct26e10/matches |website=DartConnect |access-date=29 March 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 11|11]]
+|align=left rowspan="2" | Friday 1 May
+|align="center" rowspan="5" | {{flagicon|GER}} Halle 39, [[Hildesheim]], Germany
+| align="right" | {{PDCFlagR|Levy Frauenfelder|avg=(93.34)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Henry Coates|avg=(102.90)}}
+| align="center" | <ref>{{cite web |date=1 May 2026 |title=PDC Challenge Tour 11 |url=https://tv.dartconnect.com/event/pdcct26e11/matches |website=DartConnect |access-date=1 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 12|12]]
+| align="right" | {{PDCFlagR|Harry Ward|avg=(89.80)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Tommy Lishman|avg=(84.69)}}
+| align="center" | <ref>{{cite web |date=1 May 2026 |title=PDC Challenge Tour 12 |url=https://tv.dartconnect.com/event/pdcct26e12/matches |website=DartConnect |access-date=1 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 13|13]]
+|align=left rowspan="2" | Saturday 2 May
+| align="right" | {{PDCFlagR|Christopher Wickenden|avg=(87.54)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|David Evans|avg=(93.49)}}
+| align="center" | <ref>{{cite web |date=2 May 2026 |title=PDC Challenge Tour 13 |url=https://tv.dartconnect.com/event/pdcct26e13/matches |website=DartConnect |access-date=2 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 14|14]]
+| align="right" | {{PDCFlagR|Joe Hunt|avg=(88.38)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Tommy Morris|avg=(80.52)}}
+| align="center" | <ref>{{cite web |date=2 May 2026 |title=PDC Challenge Tour 14 |url=https://tv.dartconnect.com/event/pdcct26e14/matches |website=DartConnect |access-date=2 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 15|15]]
+|align=left | Sunday 3 May
+| align="right" | {{PDCFlagR|Daniel Ayres|avg=(93.58)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Kevin Burness|avg=(91.64)}}
+| align="center" | <ref>{{cite web |date=3 May 2026 |title=PDC Challenge Tour 15 |url=https://tv.dartconnect.com/event/pdcct26e15/matches |website=DartConnect |access-date=3 May 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 16|16]]
+|align=left rowspan="2" | Friday 14 August
+|align="center" rowspan="5" | {{flagicon|ENG}} [[Arena MK]], [[Milton Keynes]], England
+| align="right" | {{PDCFlagR|Derek Coulson|avg=(90.62)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|txt=Stef Kosters|flag=NED|avg=(80.63)}}
+| align="center" | <ref>{{cite web |date=14 August 2026 |title=PDC Challenge Tour 16 |url=https://tv.dartconnect.com/event/pdcct26e16/matches |website=DartConnect |access-date=14 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 17|17]]
+| align="right" | {{PDCFlagR|David Davies|avg=(102.90)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Dan Hands|avg=(89.61)}}
+| align="center" | <ref>{{cite web |date=14 August 2026 |title=PDC Challenge Tour 17 |url=https://tv.dartconnect.com/event/pdcct26e17/matches |website=DartConnect |access-date=14 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 18|18]]
+|align=left rowspan="2" | Saturday 15 August
+| align="right" | {{PDCFlagR|Archie Self|avg=(94.29)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Daniel Klose|avg=(89.61)}}
+| align="center" | <ref>{{cite web |date=15 August 2026 |title=PDC Challenge Tour 18 |url=https://tv.dartconnect.com/event/pdcct26e18/matches |website=DartConnect |access-date=15 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 19|19]]
+| align="right" | {{PDCFlagR|Dylan Slevin|avg=(97.78)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Tommy Morris|avg=(86.12)}}
+| align="center" | <ref>{{cite web |date=15 August 2026 |title=PDC Challenge Tour 19 |url=https://tv.dartconnect.com/event/pdcct26e19/matches |website=DartConnect |access-date=15 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 20|20]]
+|align=left | Sunday 16 August
+| align="right" | {{PDCFlagR|Daniel Klose|avg=(96.07)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Derek Coulson|avg=(93.78)}}
+| align="center" | <ref>{{cite web |date=16 August 2026 |title=PDC Challenge Tour 20 |url=https://tv.dartconnect.com/event/pdcct26e20/matches |website=DartConnect |access-date=16 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 21|21]]
+|align=left rowspan="2" | Saturday 26 September
+|align="center" rowspan="4" | {{flagicon|ENG}} Robin Park Leisure Centre, [[Wigan]], England
+| align="right" | {{PDCFlagR|Archie Self|avg=(104.49)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Tommy Morris|avg=(98.13)}}
+| align="center" | <ref>{{cite web |date=26 September 2026 |title=PDC Challenge Tour 21 |url=https://tv.dartconnect.com/event/pdcct26e21/matches |website=DartConnect |access-date=26 September 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 22|22]]
+|align="right" | {{PDCFlagR|Joe Hunt|avg=(93.68)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Callum Francis|avg=(94.37)}}
+| align="center" |<ref>{{cite web |date=26 September 2026 |title=PDC Challenge Tour 22 |url=https://tv.dartconnect.com/event/pdcct26e22/matches |website=DartConnect |access-date=26 September 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 23|23]]
+|align=left rowspan="2" | Sunday 27 September
+|align="right" | {{PDCFlagR|Joe Hunt|avg=(99.48)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Jack Tweddell|avg=(93.32)}}
+| align="center" |<ref>{{cite web |date=27 September 2026 |title=PDC Challenge Tour 23 |url=https://tv.dartconnect.com/event/pdcct26e23/matches |website=DartConnect |access-date=27 September 2026}}</ref>
+|-
+|align=center| [[2026 PDC Challenge Tour#Challenge Tour 24|24]]
+|align="right" | {{PDCFlagR|Patrik Williams|avg=(94.78)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Jack Aldridge|avg=(78.89)}}
+| align="center" |<ref>{{cite web |date=27 September 2026 |title=PDC Challenge Tour 24 |url=https://tv.dartconnect.com/event/pdcct26e24/matches |website=DartConnect |access-date=27 September 2026}}</ref>
+|}
+
+=== Development Tour ===
+{{Main|2026 PDC Development Tour}}
+{| class="wikitable"
+|+ 2026 PDC Development Tour season
+! No.
+! Date
+! Venue
+! Winner
+! Legs
+! Runner-up
+!{{Tooltip|Ref.|Reference}}
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 1|1]]
+|align=left rowspan="2" | Friday 20 February
+|align="center" rowspan="5" | {{flagicon|ENG}} [[Leicester Arena]], England
+| align="right" | {{PDCFlagR|Jurjen van der Velde|avg=(95.35)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Dylan Slevin|avg=(86.10)}}
+| align="center" |<ref>{{cite web |date=20 February 2026 |title=PDC Development Tour 01 |url=https://tv.dartconnect.com/event/pdcdt26e01/matches |website=DartConnect |access-date=20 February 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 2|2]]
+| align="right" | {{PDCFlagR|Sebastian Białecki|avg=(90.41)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|James Beeton|avg=(84.51)}}
+| align="center" |<ref>{{cite web |date=20 February 2026 |title=PDC Development Tour 02 |url=https://tv.dartconnect.com/event/pdcdt26e02/matches |website=DartConnect |access-date=20 February 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 3|3]]
+|align=left rowspan="2" | Saturday 21 February
+| align="right" | {{PDCFlagR|Jurjen van der Velde|avg=(97.54)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Charlie Manby|avg=(94.96)}}
+| align="center" |<ref>{{cite web |date=21 February 2026 |title=PDC Development Tour 03 |url=https://tv.dartconnect.com/event/pdcdt26e03/matches |website=DartConnect |access-date=21 February 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 4|4]]
+| align="right" | {{PDCFlagR|Jack Drayton|avg=(86.31)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Angelo Balsamo|avg=(75.39)}}
+| align="center" |<ref>{{cite web |date=21 February 2026 |title=PDC Development Tour 04 |url=https://tv.dartconnect.com/event/pdcdt26e04/matches |website=DartConnect |access-date=21 February 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 5|5]]
+|align=left | Sunday 22 February
+| align="right" | {{PDCFlagR|Jack Drayton|avg=(90.67)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Cam Crabtree|avg=(89.35)}}
+| align="center" |<ref>{{cite web |date=22 February 2026 |title=PDC Development Tour 05 |url=https://tv.dartconnect.com/event/pdcdt26e05/matches |website=DartConnect |access-date=22 February 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 6|6]]
+|align=left rowspan="2" | Friday 24 April
+|align="center" rowspan="10" | {{flagicon|ENG}} [[Arena MK]], [[Milton Keynes]], England
+| align="right" | {{PDCFlagR|James Beeton|avg=(89.05)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Nathan Potter|avg=(86.53)}}
+| align="center" | <ref>{{cite web |date=24 April 2026 |title=PDC Development Tour 06 |url=https://tv.dartconnect.com/event/pdcdt26e06/matches |website=DartConnect |access-date=24 April 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 7|7]]
+| align="right" | {{PDCFlagR|Leon Weber|avg=(97.18)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Dominik Gruellich|avg=(93.03)}}
+| align="center" | <ref>{{cite web |date=24 April 2026 |title=PDC Development Tour 07 |url=https://tv.dartconnect.com/event/pdcdt26e07/matches |website=DartConnect |access-date=24 April 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 8|8]]
+|align=left rowspan="2" | Saturday 25 April
+| align="right" | {{PDCFlagR|Sebastian Białecki|avg=(92.75)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Jack Drayton|avg=(91.17)}}
+| align="center" | <ref>{{cite web |date=25 April 2026 |title=PDC Development Tour 08 |url=https://tv.dartconnect.com/event/pdcdt26e08/matches |website=DartConnect |access-date=25 April 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 9|9]]
+| align="right" | {{PDCFlagR|Leon Weber|avg=(88.16)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|txt=Ben Townley|flag=ENG|avg=(85.20)}}
+| align="center" | <ref>{{cite web |date=25 April 2026 |title=PDC Development Tour 09 |url=https://tv.dartconnect.com/event/pdcdt26e09/matches |website=DartConnect |access-date=25 April 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 10|10]]
+|align=left | Sunday 26 April
+| align="right" | {{PDCFlagR|Sebastian Białecki|avg=(90.46)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Dominik Gruellich|avg=(85.19)}}
+| align="center" | <ref>{{cite web |date=26 April 2026 |title=PDC Development Tour 10 |url=https://tv.dartconnect.com/event/pdcdt26e10/matches |website=DartConnect |access-date=26 April 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 11|11]]
+|align=left rowspan="2" | Friday 5 June
+| align="right" | {{PDCFlagR|Sebastian Białecki|avg=(99.53)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|David Fidler|avg=(88.24)}}
+| align="center" | <ref>{{cite web |date=5 June 2026 |title=PDC Development Tour 11 |url=https://tv.dartconnect.com/event/pdcdt26e11/matches |website=DartConnect |access-date=5 June 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 12|12]]
+| align="right" | {{PDCFlagR|Sebastian Białecki|avg=(91.17)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Cam Crabtree|avg=(85.13)}}
+| align="center" | <ref>{{cite web |date=5 June 2026 |title=PDC Development Tour 12 |url=https://tv.dartconnect.com/event/pdcdt26e12/matches |website=DartConnect |access-date=5 June 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 13|13]]
+|align=left rowspan="2" | Saturday 6 June
+| align="right" | {{PDCFlagR|Sebastian Białecki|avg=(88.61)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Leon Weber|avg=(77.56)}}
+| align="center" | <ref>{{cite web |date=6 June 2026 |title=PDC Development Tour 13 |url=https://tv.dartconnect.com/event/pdcdt26e13/matches |website=DartConnect |access-date=6 June 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 14|14]]
+| align="right" | {{PDCFlagR|Cam Crabtree|avg=(91.87)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Nathan Potter|avg=(87.72)}}
+| align="center" | <ref>{{cite web |date=6 June 2026 |title=PDC Development Tour 14 |url=https://tv.dartconnect.com/event/pdcdt26e14/matches |website=DartConnect |access-date=6 June 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 15|15]]
+|align=left | Sunday 7 June
+| align="right" | {{PDCFlagR|Adam Gawlas|avg=(92.43)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Sebastian Białecki|avg=(83.71)}}
+| align="center" | <ref>{{cite web |date=7 June 2026 |title=PDC Development Tour 15 |url=https://tv.dartconnect.com/event/pdcdt26e15/matches |website=DartConnect |access-date=7 June 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 16|16]]
+|align=left rowspan="2" | Friday 31 July
+|align="center" rowspan="5" | {{flagicon|GER}} Halle 39, [[Hildesheim]], Germany
+| align="right" | {{PDCFlagR|Owen Bates|avg=(97.60)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Kaya Baysal|flag=TUR|avg=(85.72)}}
+| align="center" | <ref>{{Cite web |date=31 July 2026 |title=PDC Development Tour 16 |url=https://tv.dartconnect.com/event/pdcdt26e16/matches |website=DartConnect |access-date=1 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 17|17]]
+| align="right" | {{PDCFlagR|Sam Jackson|avg=(93.99)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Jan Schmidt|avg=(87.82)}}
+| align="center" | <ref>{{Cite web |date=31 July 2026 |title=PDC Development Tour 17 |url=https://tv.dartconnect.com/event/pdcdt26e17/matches |website=DartConnect |access-date=1 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 18|18]]
+|align=left rowspan="2" | Saturday 1 August
+| align="right" | {{PDCFlagR|Jamai van den Herik|avg=(92.63)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Angelo Balsamo|avg=(81.26)}}
+| align="center" | <ref>{{Cite web |date=1 August 2026 |title=PDC Development Tour 18 |url=https://tv.dartconnect.com/event/pdcdt26e18/matches |website=DartConnect |access-date=2 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 19|19]]
+| align="right" | {{PDCFlagR|Yorick Hofkens|avg=(85.80)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Adam Gawlas|avg=(86.36)}}
+| align="center" | <ref>{{Cite web |date=1 August 2026 |title=PDC Development Tour 19 |url=https://tv.dartconnect.com/event/pdcdt26e19/matches |website=DartConnect |access-date=2 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 20|20]]
+|align=left | Sunday 2 August
+| align="right" | {{PDCFlagR|Lenny Schlueter|avg=(81.00)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Henry Coates|avg=(87.86)}}
+| align="center" | <ref>{{Cite web |date=2 August 2026 |title=PDC Development Tour 20 |url=https://tv.dartconnect.com/event/pdcdt26e20/matches |website=DartConnect |access-date=2 August 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 21|21]]
+|align=left rowspan="2" | Saturday 3 October
+|align="center" rowspan="4" | {{flagicon|ENG}} Robin Park Leisure Centre, [[Wigan]], England
+| align="right" | {{PDCFlagR|Nunjo Dewaele|avg=(83.31)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Cole Davey|avg=(86.38)}}
+| align="center" | <ref>{{Cite web |date=3 October 2026 |title=PDC Development Tour 21 |url=https://tv.dartconnect.com/event/pdcdt26e21/matches |website=DartConnect |access-date=3 October 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 22|22]]
+| align="right" | {{PDCFlagR|Archie Self|avg=(91.64)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Sam Jackson|avg=(95.57)}}
+| align="center" | <ref>{{Cite web |date=3 October 2026 |title=PDC Development Tour 22 |url=https://tv.dartconnect.com/event/pdcdt26e22/matches |website=DartConnect |access-date=3 October 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 23|23]]
+|align=left rowspan="2" | Sunday 4 October
+| align="right" | {{PDCFlagR|Henry Coates|avg=(97.41)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Owen Bates|avg=(89.55)}}
+| align="center" | <ref>{{Cite web |date=4 October 2026 |title=PDC Development Tour 23 |url=https://tv.dartconnect.com/event/pdcdt26e23/matches |website=DartConnect |access-date=4 October 2026}}</ref>
+|-
+|align=center| [[2026 PDC Development Tour#Development Tour 24|24]]
+| align="right" | {{PDCFlagR|Kaya Baysal|avg=(86.15)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Jurjen van der Velde|avg=(80.01)}}
+| align="center" | <ref>{{Cite web |date=4 October 2026 |title=PDC Development Tour 24 |url=https://tv.dartconnect.com/event/pdcdt26e24/matches |website=DartConnect |access-date=4 October 2026}}</ref>
+|}
+
+=== Women's Series ===
+{{Main|2026 PDC Women's Series}}
+{| class="wikitable"
+|+ 2026 PDC Women's Series season
+! No.
+! Date
+! Venue
+! Winner
+! Legs
+! Runner-up
+!{{Tooltip|Ref.|Reference}}
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 1|1]]
+|align=left rowspan="2" | Saturday 7 February
+|align="center" rowspan="4" | {{flagicon|GER}} Halle 39, [[Hildesheim]], Germany
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(98.43)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Lisa Ashton|avg=(92.61)}}
+| align="center" |<ref>{{Cite web |title=PDC Women Series 01 |url=https://tv.dartconnect.com/event/pdcwomseries26e01/matches |access-date=2026-02-24 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 2|2]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(89.46)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Lisa Ashton|avg=(75.48)}}
+| align="center" |<ref>{{Cite web |title= PDC Women Series 02  |url=https://tv.dartconnect.com/event/pdcwomseries26e02/matches |access-date=2026-02-24 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 3|3]]
+|align=left rowspan="2" | Sunday 8 February
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(86.39)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Fallon Sherrock|avg=(76.08)}}
+| align="center" |<ref>{{Cite web |title=PDC Women Series 03 |url=https://tv.dartconnect.com/event/pdcwomseries26e03/matches |access-date=2026-02-24 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 4|4]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(100.20)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Lisa Ashton|avg=(75.92)}}
+| align="center" |<ref>{{Cite web |title=PDC Women Series 04 |url=https://tv.dartconnect.com/event/pdcwomseries26e04/matches |access-date=2026-02-24 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 5|5]]
+|align=left rowspan="2" | Saturday 21 March
+|align="center" rowspan="4" | {{flagicon|ENG}} Robin Park Leisure Centre, [[Wigan]], England
+| align="right" | {{PDCFlagR|Lisa Ashton|avg=(90.32)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Fallon Sherrock|avg=(88.46)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 05 |url=https://tv.dartconnect.com/event/pdcwomseries26e05/matches |access-date=2026-03-22 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 6|6]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(101.55)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Gemma Hayter|avg=(80.21)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 06 |url=https://tv.dartconnect.com/event/pdcwomseries26e06/matches |access-date=2026-03-22 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 7|7]]
+|align=left rowspan="2" | Sunday 22 March
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(99.16)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Fallon Sherrock|avg=(95.98)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 07 |url=https://tv.dartconnect.com/event/pdcwomseries26e07/matches |access-date=2026-03-22 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 8|8]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(92.60)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Rhian O‘Sullivan|avg=(80.87)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 08 |url=https://tv.dartconnect.com/event/pdcwomseries26e08/matches |access-date=2026-03-22 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 9|9]]
+|align=left rowspan="2" | Saturday 16 May
+|align="center" rowspan="4" | {{flagicon|ENG}} [[Leicester Arena]], England
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(88.35)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Trina Gulliver|avg=(77.97)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 09|url=https://tv.dartconnect.com/event/pdcwomseries26e09/matches |access-date=2026-05-16 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 10|10]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(93.57)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Karolina Ratajska|flag=POL|avg=(79.08)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 10|url=https://tv.dartconnect.com/event/pdcwomseries26e10/matches |access-date=2026-05-16 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 11|11]]
+|align=left rowspan="2" | Sunday 17 May
+| align="right" | {{PDCFlagR|Deta Hedman|avg=(89.21)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Kirsi Viinikainen|avg=(76.32)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 11|url=https://tv.dartconnect.com/event/pdcwomseries26e11/matches |access-date=2026-05-17 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 12|12]]
+| align="right" | {{PDCFlagR|Vicky Pruim|avg=(72.48)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Gemma Hayter|avg=(65.35)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 12|url=https://tv.dartconnect.com/event/pdcwomseries26e12/matches |access-date=2026-05-17 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 13|13]]
+|align=left rowspan="2" | Saturday 20 June
+|align="center" rowspan="4" | {{flagicon|ENG}} Robin Park Leisure Centre, [[Wigan]], England
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(88.41)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Vicky Pruim|avg=(75.07)|b=}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 13|url=https://tv.dartconnect.com/event/pdcwomseries26e13/matches |access-date=2026-06-20 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 14|14]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(82.05)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Karolina Ratajska|flag=POL|avg=(70.17)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 14|url=https://tv.dartconnect.com/event/pdcwomseries26e14/matches |access-date=2026-06-20 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 15|15]]
+|align=left rowspan="2" | Sunday 21 June
+| align="right" | {{PDCFlagR|Lisa Ashton|avg=(82.04)|b=1}}
+| align="center" | '''5''' – 1
+| {{PDCFlag|Beau Greaves|avg=(79.25)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 15|url=https://tv.dartconnect.com/event/pdcwomseries26e15/matches |access-date=2026-06-21 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 16|16]]
+| align="right" | {{PDCFlagR|Eleanor Cairns|avg=(79.67)|b=1}}
+| align="center" | '''5''' – 4
+| {{PDCFlag|Angela Kirkwood|avg=(76.38)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 16|url=https://tv.dartconnect.com/event/pdcwomseries26e16/matches |access-date=2026-06-21 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 17|17]]
+|align=left rowspan="2" | Saturday 22 August
+|align="center" rowspan="4" | {{flagicon|ENG}} [[Leicester Arena]], England
+| align="right" | {{PDCFlagR|Lisa Ashton|avg=(67.70)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Lauryn Salter|avg=(62.86)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 17|url=https://tv.dartconnect.com/event/pdcwomseries26e17/matches |access-date=2026-08-22 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 18|18]]
+| align="right" | {{PDCFlagR|Fallon Sherrock|avg=(81.68)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Lisa Ashton|avg=(61.38)}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 18|url=https://tv.dartconnect.com/event/pdcwomseries26e18/matches |access-date=2026-08-22 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 19|19]]
+|align=left rowspan="2" | Sunday 23 August
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(84.55)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Lisa Ashton|avg=(81.28)}}
+| align="center" |<ref>{{Cite web |title=PDC Women Series 19 |url=https://tv.dartconnect.com/event/pdcwomseries26e19/matches |access-date=2026-08-23 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 20|20]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(91.65)|b=1}}
+| align="center" | '''5''' – 0
+| {{PDCFlag|Aileen de Graaf|avg=(60.81)}}
+| align="center" |<ref>{{Cite web |title=PDC Women Series 20 |url=https://tv.dartconnect.com/event/pdcwomseries26e20/matches |access-date=2026-08-23 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 21|21]]
+|align=left rowspan="2" | Saturday 10 October
+|align="center" rowspan="4" | {{flagicon|ENG}} Robin Park Leisure Centre, [[Wigan]], England
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(84.50)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Vicky Pruim|avg=(78.34)|b=}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 21|url=https://tv.dartconnect.com/event/pdcwomseries26e21/matches |access-date=2026-10-10 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 22|22]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(92.44)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Gemma Hayter|avg=(90.51)|b=}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 22|url=https://tv.dartconnect.com/event/pdcwomseries26e22/matches |access-date=2026-10-10 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 23|23]]
+|align=left rowspan="2" | Sunday 11 October
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(101.59)|b=1}}
+| align="center" | '''5''' – 3
+| {{PDCFlag|Jade Gofford|avg=(79.14)|b=}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 23|url=https://tv.dartconnect.com/event/pdcwomseries26e23/matches |access-date=2026-10-11 |website=tv.dartconnect.com}}</ref>
+|-
+|align=center| [[2026 PDC Women's Series#Women's Series 24|24]]
+| align="right" | {{PDCFlagR|Beau Greaves|avg=(79.28)|b=1}}
+| align="center" | '''5''' – 2
+| {{PDCFlag|Aurora Fochesato|avg=(70.97)|b=}}
+| align="center" | <ref>{{Cite web |title=PDC Women Series 24|url=https://tv.dartconnect.com/event/pdcwomseries26e24/matches |access-date=2026-10-11 |website=tv.dartconnect.com}}</ref>
+|}
+
+== References ==
+{{reflist}}
+{{2026 in PDC darts}}
+[[Category:PDC Pro Tour]]
+[[Category:2026 PDC Pro Tour| ]]

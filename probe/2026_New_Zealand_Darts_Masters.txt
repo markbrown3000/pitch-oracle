@@ -1,0 +1,238 @@
+{{Short description|Darts tournament in New Zealand}}
+{{Use New Zealand English|date=July 2026}}
+{{Use dmy dates|date=July 2026}}
+{{Infobox individual darts tournament
+|tournament_name = 2026 SkyCity New Zealand Darts Masters
+|image = 
+|dates = 14–15 August 2026
+|venue = [[Spark Arena]]
+|location = [[Auckland]], New Zealand
+|country = 
+|organisation = [[Professional Darts Corporation]] (PDC)
+|format = [[Leg (darts)|Legs]]
+|prize_fund = £100,000
+|winners_share = £30,000
+|nine_dart = 
+|high_checkout = '''158''' [[Jonny Clayton]]
+|winner = '''{{flagathlete|[[Jonny Clayton]]|WAL}}'''
+|prev = [[2025 New Zealand Darts Masters|2025]]
+|next = [[2027 New Zealand Darts Masters|2027]]
+}}
+
+The '''2026 New Zealand Darts Masters''' (known for sponsorship reasons as the '''2026 SkyCity New Zealand Darts Masters''') was a professional [[darts]] tournament that took place from 14 to 15 August 2026 at the [[Spark Arena]] in [[Auckland]], New Zealand. It was the sixth staging of the tournament by the [[Professional Darts Corporation]] (PDC), and was the fifth event in the [[2026 World Series of Darts]].<ref>{{cite web |last=Phillips |first=Josh |date=5 October 2025 |title=2026 World Series of Darts schedule confirmed |url=https://www.pdc.tv/news/2025/october/05/2026-world-series-darts-schedule-confirmed |website=Professional Darts Corporation |access-date=1 July 2026}}</ref> The total prize fund is £100,000, with the winner receiving £30,000.
+
+Sponsored by [[SkyCity Entertainment Group|SkyCity]], the tournament featured 16 players, consisting of eight PDC representatives and eight [[Oceanian]] representatives. [[Luke Littler]] was the reigning champion, having defeated [[Luke Humphries]] 8–4 in the [[2025 New Zealand Darts Masters|2025 final]]. However, Littler did not enter the tournament and therefore did not defend his title.
+
+[[Jonny Clayton]] won his second [[World Series of Darts|World Series]] title by defeating [[Gerwyn Price]] 8–4 in the final, avenging his loss to Price by the same scoreline in the [[2022 New Zealand Darts Masters|2022 final]].
+
+== Overview ==
+[[File:Spark Arena 20220220 131032.jpg|thumb|The event was held at the [[Spark Arena]] ''(pictured in 2022)'' in [[Auckland]], New Zealand.]]
+=== Format ===
+Eight elite PDC representatives were drawn to play eight [[Oceanian]] representatives in the first round on Friday 14 August; the quarter-finals, semi-finals and final took place on Saturday 15 August.<ref name="Draw"/>
+
+*'''First round and quarter-finals:''' Best of eleven legs
+*'''Semi-finals:''' Best of thirteen legs
+*'''Final:''' Best of fifteen legs
+
+=== Prize money ===
+The total prize fund for the event remained at £100,000. The breakdown of prize money is shown below:<ref>{{cite web |title=New Zealand Darts Masters 2026 |url=https://mastercaller.com/tournaments/new-zealand-darts-masters/2026 |website=Mastercaller |access-date=1 July 2026}}</ref>
+
+{| class="wikitable"
+! colspan=2 | Position <small>(no. of players)</small>
+! Prize money<br /><small>(Total: £100,000)</small>
+|-
+|'''Winner'''
+| align=center | <small>(1)</small>
+| align=center | £30,000
+|-
+|'''Runner-up'''
+| align=center | <small>(1)</small>
+| align=center | £16,000
+|-
+|'''Semi-finalists'''
+| align=center | <small>(2)</small>
+| align=center | £10,000
+|-
+|'''Quarter-finalists'''
+| align=center | <small>(4)</small>
+| align=center | £5,000
+|-
+|'''First round'''
+| align=center | <small>(8)</small>
+| align=center | £1,750
+|}
+
+=== Broadcasts ===
+The tournament was broadcast in [[ITV4]] in the United Kingdom, [[Sky Sport (New Zealand)|Sky Sport]] in New Zealand and [[Fox Sports (Australia)|Fox Sports]] in Australia. Other broadcasters included [[DAZN]] in Germany, Austria, and Switzerland; [[Viaplay]] in the Netherlands, Iceland and [[Scandinavia]]; [[VTM (TV channel)|VTM]] in Belgium; [[Canal+ (Polish TV provider)|Canal+]] in Poland; [[Nova Sport (Czech Republic and Slovakia)|Nova Sport]] in the Czech Republic and Slovakia; Network 4 Pragosport in Hungary; [[TV3 Group (Baltics)|TV3]] in the [[Baltic states]]; Zonasport in Croatia; [[Setanta Sports Eurasia|Setanta]] in Ukraine; and [[Arena Sport]] in Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. It was also available for subscribers outside of Germany, Austria, Switzerland and Poland on the PDC's streaming service, PDCTV.<ref>{{cite web |date=13 August 2026 |title=Where to watch the 2026 SkyCity New Zealand Darts Masters |url=https://www.pdc.tv/news/2026/august/13/where-to-watch-the-2026-skycity-new-zealand-darts-masters/ |website=Professional Darts Corporation |access-date=14 August 2026}}</ref>
+
+== Participants ==
+The PDC announced the eight PDC representatives on 17 June 2026.<ref name="Field"/> [[Ross Smith (darts player)|Ross Smith]] made his [[World Series of Darts]] debut (excluding Finals), while world number two [[Gian van Veen]] made his first appearance [[Down Under]].<ref name="Preview">{{cite web |last=Gorton |first=Josh |date=13 August 2026 |title=2026 SkyCity New Zealand Darts Masters preview |url=https://www.pdc.tv/news/2026/august/13/2026-skycity-new-zealand-darts-masters-preview/ |website=Professional Darts Corporation |access-date=14 August 2026}}</ref> Reigning champion [[Luke Littler]], who defeated [[Luke Humphries]] 8–4 in the [[2025 New Zealand Darts Masters|2025 final]],<ref>{{cite web |last=Ramsdale |first=Ben |date=16 August 2025 |title=Littler completes World Series double at NZ Masters |url=https://www.bbc.com/sport/darts/articles/c4gl99jqezlo |website=BBC Sport |access-date=1 July 2026}}</ref> did not enter the tournament.<ref name="Field">{{cite web |last=Gorton |first=Josh |date=17 June 2026 |title=Van Veen & Smith set for World Series debuts Down Under |url=https://www.pdc.tv/news/2026/june/16/van-veen-smith-set-for-world-series-debuts-down-under/ |website=Professional Darts Corporation |access-date=1 July 2026}}</ref>
+
+The [[Seeding (sports)|seedings]] were based on the [[2026 World Series of Darts|2026 World Series]] rankings after four events:
+# {{flagathlete|[[Gian van Veen]]|NED}} ''(quarter-finals)''
+# {{flagathlete|[[Gerwyn Price]]|WAL}} ''(runner-up)''
+# {{flagathlete|[[Stephen Bunting]]|ENG}} ''(first round)''
+# {{flagathlete|[[James Wade]]|ENG}} ''(semi-finals)''
+# '''{{flagathlete|[[Jonny Clayton]]|WAL}} (champion) '''
+# {{flagathlete|[[Josh Rock]]|NIR}} ''(quarter-finals)''
+# {{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}} ''(first round)''
+# {{flagathlete|[[Damon Heta]]|AUS}} ''(quarter-finals)''
+
+The first two Oceanian representatives were also confirmed on 17 June: [[List of players with a 2026 PDC Tour Card|2026 PDC Tour Card]] holder and World Series debutant [[Adam Leek]], and reigning [[2025 in PDC#ANZ Premier League|ANZ Premier League]] champion [[Simon Whitlock]].<ref name="Field"/> They were joined by five [[2026 in PDC#Dartplayers New Zealand (DPNZ) Pro Tour|Dartplayers New Zealand]] (DPNZ) qualifiers and one [[2026 in PDC#Australian Darts Association (ADA) Tour|Australian Darts Association]] (ADA) qualifier.<ref>{{cite web |last=Simpson |first=Will |date=6 July 2026 |title=Robb and Tata headline Oceanic field at New Zealand Darts Masters |url=https://www.pdc.tv/news/2026/july/06/robb-and-tata-headline-oceanic-field-at-new-zealand-darts-masters/ |website=Professional Darts Corporation |access-date=6 July 2026}}</ref> 
+
+{| class="wikitable"
+|- style="font-size:10pt;font-weight:bold"
+! Qualification
+! Player
+|-
+| '''PDC Tour Card holders'''
+| {{flagathlete|Adam Leek|AUS}} ''(quarter-finals)''
+|-
+| '''ANZ Premier League Champion'''
+| {{flagathlete|[[Simon Whitlock]]|AUS}} ''(first round)''
+|-
+| rowspan="5" | '''DPNZ qualifiers'''
+| {{flagathlete|[[Ben Robb]]|NZL}} ''(first round)''
+|-
+| {{flagathlete|[[Jonny Tata]]|NZL}} ''(first round)''
+|-
+| {{flagathlete|[[Mark Cleaver]]|NZL}} ''(first round)''
+|-
+| {{flagathlete|Kayden Milne|NZL}} ''(first round)''
+|-
+| {{flagathlete|[[Haupai Puha]]|NZL}} ''(first round)''
+|-
+| '''ADA qualifier'''
+| {{flagathlete|[[Raymond Smith (darts player)|Raymond Smith]]|AUS}} ''(semi-finals)''
+|}
+
+== Summary ==
+=== First round ===
+[[File:Ross Smith 2024 World Matchplay.png|thumb|[[Ross Smith (darts player)|Ross Smith]] ''(pictured in 2024)'' lost 6–5 to Oceanian representative Adam Leek after missing six [[Glossary of darts#Match dart|match darts]].]]
+The first round (best of 11 [[Leg (darts)|legs]]) was played on 14 August.<ref name="PDC_R1">{{cite web |last=Gorton |first=Josh |date=14 August 2026 |title=Smith & Leek set up quarter-final showdown in Auckland |url=https://www.pdc.tv/news/2026/august/14/smith-leek-set-up-showdown-auckland/ |website=Professional Darts Corporation |access-date=14 August 2026}}</ref> Six of the eight PDC representatives were victorious in the opening round. Third seed [[Stephen Bunting]] was beaten 6–2 by Australia's [[Raymond Smith (darts player)|Raymond Smith]]. Smith, who finished the match with a [[three-dart average]] of 99.81 and a [[Glossary of darts#Checkout|checkout]] success rate of 86 per cent, won the last five legs of the contest and completed his victory with a 124 checkout on the [[Bullseye (target)|bullseye]]. "It feels pretty awesome," said Smith, also highlighting the PDC's investment into darts in Oceania and how it had shown its effect.<ref name="Sky_R1">{{cite web |date=14 August 2026 |title=New Zealand Darts Masters: Stephen Bunting dumped out by Raymond Smith in sensational fashion |url=https://www.skysports.com/darts/news/12288/13572929/new-zealand-darts-masters-stephen-bunting-dumped-out-by-raymond-smith-in-sensational-fashion |website=Sky Sports |access-date=14 August 2026}}</ref> Fellow Australian [[Adam Leek]] staged a comeback from 4–1 down against [[Ross Smith (darts player)|Ross Smith]]. The two World Series debutants went to a [[Glossary of darts#Decider|deciding leg]], where Leek secured a 6–5 victory after Smith missed a total of six [[Glossary of darts#Match dart|match darts]]. Setting up an all-Australian quarter-final meeting with Raymond Smith, Leek called the win "the best feeling in the world" and "a dream come true".<ref name="PDC_R1"/>
+
+Top seed [[Gian van Veen]] marked his first appearance [[Down Under]] with a 6–1 win against [[Jonny Tata]], while [[2022 New Zealand Darts Masters|2022]] champion and second seed [[Gerwyn Price]] defeated [[Mark Cleaver]] by the same scoreline. [[Damon Heta]] and [[Jonny Clayton]] overturned deficits of 6–1 and 6–2 in their respective victories over [[Ben Robb]] and [[Haupai Puha]]. Fourth seed [[James Wade]] earned a [[Whitewash (sport)|whitewash]] win against Kayden Milne, while [[Josh Rock]] beat [[Simon Whitlock]] 6–4 in a rematch of their meeting at the [[2025 Australian Darts Masters]].<ref name="Preview"/><ref name="PDC_R1"/><ref name="Sky_R1"/>
+
+=== Quarter-finals, semi-finals and final ===
+[[File:2026-03-26 Premier League Darts – Night 8 – Berlin 2026 by Sandro Halank–026.jpg|thumb|In a rematch of the [[2022 New Zealand Darts Masters|2022 final]], [[Jonny Clayton]] ''(pictured in 2026)'' won his second World Series title by defeating [[Gerwyn Price]] 8–4.]]
+The quarter-finals (best of 11 legs), semi-finals (best of 13 legs) and final (best of 15 legs) were played on 15 August.<ref name="PDC_Final">{{cite web |last=Gorton |first=Josh |date=15 August 2026 |title=Clinical Clayton topples Price to win NZ Darts Masters |url=https://www.pdc.tv/news/2026/august/15/clinical-clayton-topples-price-nz-darts-masters/ |website=Professional Darts Corporation |access-date=15 August 2026}}</ref> Gian van Veen was eliminated by Jonny Clayton, who hit six of his seven attempts at [[Glossary of darts#Double|double]] to defeat the top seed 6–3. James Wade completed a 6–4 win over Josh Rock with a 12-dart [[Glossary of darts#Break|break of throw]]. Gerwyn Price secured a place in the last four by defeating Australian number one Damon Heta 6–2, while Raymond Smith beat compatriot Adam Leek 6–3.<ref name="PDC_Final"/> Clayton converted checkouts of 135 and 118 on his way to defeating Wade 7–2 in the first semi-final. Price went seven darts into a [[nine-dart finish]] attempt in the eighth leg of his semi-final with Smith, eventually winning 7–2 to progress to an all-Welsh final against Clayton.<ref name="DNews">{{cite web |last=Wood |first=Kieran |date=15 August 2026 |title=Jonny Clayton avenges 2022 final defeat to Gerwyn Price to claim Auckland title in all-Welsh final |url=https://dartsnews.com/pdc/new-zealand-darts-masters-2026-roundup-jonny-clayton-avenges-2022-final-defeat-to-gerwyn-price-to-claim-auckland-title-in-all-welsh-final |website=dartsnews.com |access-date=15 August 2026}}</ref> A rematch of Price's 8–4 victory over Clayton in the 2022 final,<ref>{{cite web |date=27 August 2022 |title=Gerwyn Price beats fellow Welshman Jonny Clayton to win NZ Masters title |url=https://www.bbc.com/sport/darts/62700270 |website=BBC Sport |access-date=15 August 2026}}</ref> Price was looking to win his fifth World Series title, while Clayton aimed to win his second.<ref name="BBC_Final">{{cite web |last=Snelson |first=Flora |date=15 August 2026 |title=Ruthless Clayton wins New Zealand title |url=https://www.bbc.com/sport/darts/articles/cdewwnw5lklo |website=BBC Sport |access-date=15 August 2026}}</ref>
+
+Clayton converted a 158 checkout to take a 3–0 lead in the opening stages of the final. He hit further finishes of 80 and 62 as he went 5–1 in front heading into the interval. Missed doubles from Price allowed Clayton to extend his lead to 7–1. The next three legs saw Clayton miss chances to win the final, including him opting to leave a different finish rather than attempting a title-winning bullseye in the tenth leg, as Price reduced the deficit to 7–4. In the twelfth leg, Clayton secured an 8–4 victory with a 124 checkout on the bullseye.<ref name="DNews"/><ref>{{cite web |last=Anderson |first=Ian |date=16 August 2026 |title=Jonny Clayton wins all-Welsh final at the 2026 NZ Darts Masters |url=https://www.thepost.co.nz/sport/361063170/jonny-clayton-wins-all-welsh-final-2026-nz-darts-masters |website=The Post |access-date=16 August 2026}}</ref> Clayton finished the match with a three-dart average of 94.96, compared to Price's 95.49.<ref name="DNews"/>
+
+Clayton won the New Zealand Darts Masters for the first time for his second World Series title, adding to his victory at the [[2022 New South Wales Darts Masters]].<ref name="BBC_Final"/><ref>{{cite web |date=23 August 2022 |title=Jonny Clayton dominates James Wade to win New South Wales Darts Masters |url=https://www.skysports.com/darts/news/12040/12677516/jonny-clayton-dominates-james-wade-to-win-new-south-wales-darts-masters |website=Sky Sports |access-date=15 August 2026}}</ref> "It just shows that two rugby boys can play darts, and to play against each other in the world of rugby here in New Zealand, I've got a smile on my face," said Clayton about facing Price, noting that they were now even in New Zealand finals, to which he proclaimed, "It's 1–1 now, so next year—winner takes all!"<ref name="Sky_Final">{{cite web |date=15 August 2026 |title=New Zealand Darts Masters: Jonny Clayton thrashes Gerwyn Price in all-Welsh final in Auckland |url=https://www.skysports.com/darts/news/12040/13573245/new-zealand-darts-masters-jonny-clayton-thrashes-gerwyn-price-in-all-welsh-final-in-auckland |website=Sky Sports |access-date=15 August 2026}}</ref> Speaking in defeat, Price lamented his missed doubles during the contest and said that Clayton "played brilliantly", promising to "be even better next week [[2026 Australian Darts Masters|in Australia]]".<ref name="BBC_Final"/>
+
+== Draw ==
+The draw was announced on 13 August.<ref name="Draw">{{cite web |last=Gorton |first=Josh |date=13 August 2026 |title=2026 SkyCity New Zealand Darts Masters draw & schedule confirmed |url=https://www.pdc.tv/news/2026/august/13/2026-skycity-new-zealand-darts-masters-/ |website=Professional Darts Corporation |access-date=13 August 2026}}</ref> Numbers to the left of players' names show the seedings for the top four in the tournament. The figures to the right of a player's name state their [[three-dart average]] in a match. Players in bold denote match winners.<ref>{{cite web |title=Results of New Zealand Darts Masters 2026 |url=https://mastercaller.com/tournaments/new-zealand-darts-masters/2026/results |website=Mastercaller |access-date=14 August 2026}}</ref>
+{{16TeamBracket
+| RD1='''First round'''<br/>''(best of 11 legs)''<br/>14 August
+| RD2='''Quarter-finals'''<br/>''(best of 11 legs)''<br/>15 August
+| RD3='''Semi-finals'''<br/>''(best of 13 legs)''<br/>15 August
+| RD4='''Final'''<br/>''(best of 15 legs)''<br/>15 August
+| team-width = 220
+| boldwinner = high
+| RD1-seed01 = 1
+| RD1-team01 = {{PDCFlag|Gian van Veen|avg=97.21}}
+| RD1-score01= 6
+| RD1-seed02 = &nbsp;
+| RD1-team02 = {{PDCFlag|Jonny Tata|avg=84.85}}
+| RD1-score02= 1
+| RD1-seed03 = &nbsp;
+| RD1-team03 = {{PDCFlag|Jonny Clayton|avg=86.24}}
+| RD1-score03= 6
+| RD1-seed04 = &nbsp;
+| RD1-team04 = {{PDCFlag|Haupai Puha|avg=89.05}}
+| RD1-score04= 5
+| RD1-seed05 = 4
+| RD1-team05 = {{PDCFlag|James Wade|avg=87.55}}
+| RD1-score05= 6
+| RD1-seed06 = &nbsp;
+| RD1-team06 = {{PDCFlag|Kayden Milne|avg=68.03}}
+| RD1-score06= 0
+| RD1-seed07 = &nbsp;
+| RD1-team07 = {{PDCFlag|Josh Rock|avg=92.62}}
+| RD1-score07= 6
+| RD1-seed08 = &nbsp;
+| RD1-team08 = {{PDCFlag|Simon Whitlock|avg=83.64}}
+| RD1-score08= 4
+| RD1-seed09 = 2
+| RD1-team09 = {{PDCFlag|Gerwyn Price|avg=95.27}}
+| RD1-score09= 6
+| RD1-seed10 = &nbsp;
+| RD1-team10 = {{PDCFlag|Mark Cleaver|avg=81.74}}
+| RD1-score10= 1
+| RD1-seed11 = &nbsp;
+| RD1-team11 = {{PDCFlag|Damon Heta|avg=97.13}}
+| RD1-score11= 6
+| RD1-seed12 = &nbsp;
+| RD1-team12 = {{PDCFlag|Ben Robb|avg=87.33}}
+| RD1-score12= 4
+| RD1-seed13 = 3
+| RD1-team13 = {{PDCFlag|Stephen Bunting|avg=99.30}}
+| RD1-score13= 2
+| RD1-seed14 = &nbsp;
+| RD1-team14 = {{PDCFlag|Raymond Smith|avg=99.81}}
+| RD1-score14 = 6
+| RD1-seed15 = &nbsp;
+| RD1-team15 = {{PDCFlag|Ross Smith|avg=88.79}}
+| RD1-score15= 5
+| RD1-seed16 = &nbsp;
+| RD1-team16 = {{PDCFlag|Adam Leek|avg=87.82}}
+| RD1-score16= 6
+| RD2-seed01 = 1
+| RD2-team01 = {{PDCFlag|Gian van Veen|avg=95.11}}
+| RD2-score01= 3
+| RD2-seed02 = &nbsp;
+| RD2-team02 = {{PDCFlag|Jonny Clayton|avg=90.64}}
+| RD2-score02= 6
+| RD2-seed03 = 4
+| RD2-team03 = {{PDCFlag|James Wade|avg=95.03}}
+| RD2-score03= 6
+| RD2-seed04 = &nbsp;
+| RD2-team04 = {{PDCFlag|Josh Rock|avg=86.43}}
+| RD2-score04= 4
+| RD2-seed05 = 2
+| RD2-team05 = {{PDCFlag|Gerwyn Price|avg=97.19}}
+| RD2-score05= 6
+| RD2-seed06 = &nbsp;
+| RD2-team06 = {{PDCFlag|Damon Heta|avg=90.83}}
+| RD2-score06= 2
+| RD2-seed07 = &nbsp;
+| RD2-team07 = {{PDCFlag|Raymond Smith|avg=96.72}}
+| RD2-score07= 6
+| RD2-seed08 = &nbsp;
+| RD2-team08 = {{PDCFlag|Adam Leek|avg=93.35}}
+| RD2-score08= 3
+| RD3-seed01 = &nbsp;
+| RD3-team01 = {{PDCFlag|Jonny Clayton|avg=98.93}}
+| RD3-score01= 7
+| RD3-seed02 = 4
+| RD3-team02 = {{PDCFlag|James Wade|avg=90.26}}
+| RD3-score02= 2
+| RD3-seed03 = 2
+| RD3-team03 = {{PDCFlag|Gerwyn Price|avg=93.31}}
+| RD3-score03= 7
+| RD3-seed04 = &nbsp;
+| RD3-team04 = {{PDCFlag|Raymond Smith|avg=92.35}}
+| RD3-score04= 2
+| RD4-seed01 = &nbsp;
+| RD4-team01 = {{PDCFlag|Jonny Clayton|avg=94.96}}
+| RD4-score01= 8
+| RD4-seed02 = 2
+| RD4-team02 = {{PDCFlag|Gerwyn Price|avg=95.49}}
+| RD4-score02= 4
+}}
+
+== References ==
+{{reflist}}
+
+{{World Series of Darts}}
+{{2026 in PDC darts}}
+
+{{DEFAULTSORT:New Zealand Darts Masters}}
+[[Category:2026 in darts]]
+[[Category:World Series of Darts]]
+[[Category:Darts in New Zealand]]
+[[Category:Sports competitions in Auckland]]
+[[Category:2020s in Auckland]]
+[[Category:August 2026 sports events in New Zealand]]
+[[Category:International sports competitions hosted by New Zealand]]

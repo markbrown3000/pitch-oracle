@@ -1,0 +1,862 @@
+{{Short description|none}}
+The [[Professional Darts Corporation]] (PDC) grants a Tour Card every year to 128 [[darts]] players, which allows them to compete in all [[PDC Pro Tour]] tournaments, those being all Players Championships and [[PDC European Tour|European Tours]] (or qualifiers to the latter events in case the player has not automatically qualified). Additionally, holding a PDC Tour Card offers further benefits such as automatic qualifications for the [[UK Open]] or participation in the qualifying rounds for the [[PDC World Darts Championship|World Darts Championship]], [[Grand Slam of Darts|Grand Slam]] and [[PDC World Masters|World Masters]], among others.
+
+PDC Tour Cards are valid for two years. The top 64 players in the [[PDC Order of Merit]] (OoM) and the players who won a card last year automatically receive Tour Cards for the rest of the year. Tour Cards can be removed if any player resigns it, do not compete in any Pro Tour event during their first year of their card, or have been banned for a period longer than the remaining duration of the card.
+
+The top two players from last year's [[PDC secondary tours|secondary tours]], the [[2025 PDC Challenge Tour series|Challenge Tour]] and the [[2025 PDC Development Tour series|Development Tour]], along with the players who earned a Tour Card at this year's UK & European Q-Schools, are awarded two-year cards. All these players have their Order of Merit rankings reset to zero at the beginning of the season.<ref name="TCRace"/>
+
+==List of players==
+The following is the list of darts players with a 2026 PDC Tour Card:<ref>{{cite web |title=PDC Tour Card Holders |url=https://www.pdc.tv/TourCardHolders |website=Professional Darts Corporation |access-date=26 January 2026 |archive-url=https://web.archive.org/web/20260126175817/https://www.pdc.tv/TourCardHolders |archive-date=26 January 2026}}</ref>
+
+{| class="wikitable sortable"
+|-
+! No.
+! Country
+! Player
+! Prize money<ref name="TCRace">{{cite web |title=Post World Championship Order of Merit 2025 |url=https://www.dartsrankings.com/postwch2025 |website=Darts Rankings |access-date=3 January 2025}}</ref>
+! Qualified through
+|-
+| 1
+| align=left|{{flag|England}}
+|{{sortname|Luke|Littler}}
+| £2,770,500
+| rowspan="64" | Top 64 of Order of Merit
+|-
+| 2
+| align=left|England
+|{{sortname|Luke|Humphries}}
+| £1,172,000
+|-
+| 3
+|align=left|{{flag|Netherlands}}
+|{{sortname|Gian van|Veen}}
+| £912,500
+|-
+| 4
+|align=left|Netherlands
+|{{sortname|Michael van|Gerwen}}
+| £691,250
+|-
+| 5
+|align=left|{{flag|Wales}}
+|{{sortname|Jonny|Clayton}}
+| £625,000
+|-
+| 6
+|align=left|{{flag|Scotland}}
+|{{sortname|Gary|Anderson|dab=darts player}}
+| £609,500
+|-
+| 7
+|align=left|England
+|{{sortname|Stephen|Bunting}}
+| £593,750
+|-
+| 8
+|align=left|England
+|{{sortname|Ryan|Searle|dab=darts player}}
+| £568,000
+|-
+| 9
+|align=left|{{flag|Northern Ireland}}
+|{{sortname|Josh|Rock}}
+| £555,500
+|-
+| 10
+|align=left|Netherlands
+|{{sortname|Danny|Noppert}}
+| £550,750
+|-
+| 11
+|align=left|England
+|{{sortname|James|Wade}}
+| £544,250
+|-
+| 12
+|align=left|Wales
+|{{sortname|Gerwyn|Price}}
+| £521,000
+|-
+| 13
+|align=left|England
+|{{sortname|Chris|Dobey}}
+| £505,250
+|-
+| 14
+|align=left|England
+|{{sortname|Nathan|Aspinall}}
+| £460,000
+|-
+| 15
+|align=left|{{flag|Germany}}
+|{{sortname|Martin|Schindler}}
+| £458,250
+|-
+| 16
+|align=left|England
+|{{sortname|Ross|Smith|dab=darts player}}
+| £447,750
+|-
+| 17
+|align=left|{{flag|Australia}}
+|{{sortname|Damon|Heta}}
+| £439,000
+|-
+| 18
+|align=left|Netherlands
+|{{sortname|Jermaine|Wattimena}}
+| £423,000
+|-
+| 19
+|align=left|{{flag|Belgium}}
+|{{sortname|Mike|De Decker}}
+| £413,500
+|-
+| 20
+|align=left|England
+|{{sortname|Rob|Cross}}
+| £389,000
+|-
+| 21
+|align=left|England
+|{{sortname|Luke|Woodhouse}}
+| £383,000
+|-
+| 22
+|align=left|England
+|{{sortname|Dave|Chisnall}}
+| £362,500
+|-
+| 23
+|align=left|Northern Ireland
+|{{sortname|Daryl|Gurney}}
+| £346,500
+|-
+| 24
+|align=left|England
+|{{sortname|Ryan|Joyce}}
+| £345,000
+|-
+| 25
+|align=left|Belgium
+|{{sortname|Dimitri|Van den Bergh}}
+| £335,250
+|-
+| 26
+|align=left|Scotland
+|{{sortname|Cameron|Menzies}}
+| £325,250
+|-
+| 27
+|align=left|England
+|{{sortname|Ritchie|Edhouse}}
+| £324,000
+|-
+| 28
+|align=left|{{flag|Poland}}
+|{{sortname|Krzysztof|Ratajski}}
+| £322,500
+|-
+| 29
+|align=left|Netherlands
+|{{sortname|Wessel|Nijman}}
+| £320,750
+|-
+| 30
+|align=left|Netherlands
+|{{sortname|Dirk van|Duijvenbode}}
+| £319,750
+|-
+| 31
+|align=left|Scotland
+|{{sortname|Peter|Wright|dab=darts player}}
+| £311,500
+|-
+| 32
+|align=left|England
+|{{sortname|Michael|Smith|dab=darts player}}
+| £303,500
+|-
+| 33
+|align=left|England
+|{{sortname|Andrew|Gilding}}
+| £300,000
+|-
+| 34
+|align=left|Germany
+|{{sortname|Ricardo|Pietreczko}}
+| £293,000
+|-
+| 35
+|align=left|England
+|{{sortname|Joe|Cullen|dab=darts player}}
+| £275,000
+|-
+| 36
+|align=left|Netherlands
+|{{sortname|Raymond van|Barneveld}}
+| £246,000
+|-
+| 37
+|align=left|England
+|{{sortname|Martin|Lukeman}}
+| £226,500
+|-
+| 38
+|align=left|Netherlands
+|{{sortname|Kevin|Doets}}
+| £219,000
+|-
+| 39
+|align=left|England
+|{{sortname|Callan|Rydz}}
+| £189,000
+|-
+| 40
+|align=left|England
+|{{sortname|Ricky|Evans|dab=darts player}}
+| £188,000
+|-
+| 41
+|align=left|{{flag|Ireland}}
+|{{sortname|Brendan|Dolan}}
+| £183,250
+|-
+| 42
+|align=left|Netherlands
+|{{sortname|Niels|Zonneveld}}
+| £182,750
+|-
+| 43
+|align=left|Ireland
+|{{sortname|William|O'Connor|dab=darts player}}
+| £182,250
+|-
+| 44
+|align=left|England
+|{{sortname|Scott|Williams|dab=darts player}}
+| £173,750
+|-
+| 45
+|align=left|{{flag|Latvia}}
+|{{sortname|Madars|Razma}}
+| £162,500
+|-
+| 46
+|align=left|Ireland
+|{{sortname|Mickey|Mansell}}
+| £159,250
+|-
+| 47
+|align=left|Germany
+|{{sortname|Gabriel|Clemens}}
+| £154,250
+|-
+| 48
+|align=left|England
+|{{sortname|James|Hurrell}}
+| £147,000
+|-
+| 49
+|align=left|England
+|{{sortname|Connor|Scutt}}
+| £144,750
+|-
+| 50
+|align=left|England
+|{{sortname|Justin|Hood|dab=darts player}}
+| £139,750
+|-
+| 51
+|align=left|{{flag|Sweden}}
+|{{sortname|Jeffrey de|Graaf}}
+| £139,500
+|-
+| 52
+|align=left|England
+|{{sortname|Ian|White|dab=darts player}}
+| £134,500
+|-
+| 53
+|align=left|Scotland
+|{{sortname|Alan|Soutar}}
+| £131,500
+|-
+| 54
+|align=left|Germany
+|{{sortname|Niko|Springer}}
+| £129,750
+|-
+| 55
+|align=left|{{flag|Austria}}
+|{{sortname|Mensur|Suljović}}
+| £127,750
+|-
+| 56
+|align=left|England
+|{{sortname|Ryan|Meikle}}
+| £125,500
+|-
+| 57
+|align=left|Netherlands
+|{{sortname|Richard|Veenstra}}
+| £117,250
+|-
+| 58
+|align=left|Ireland
+|{{sortname|Keane|Barry}}
+| £116,250
+|-
+| 59
+|align=left|Wales
+|{{sortname|Nick|Kenny|dab=darts player}}
+| £114,500
+|-
+| 60
+|align=left|Belgium
+|{{sortname|Kim|Huybrechts}}
+| £108,000
+|-
+| 61
+|align=left|{{flag|France}}
+|{{sortname|Thibault|Tricole}}
+| £106,250
+|-
+| 62
+|align=left|Germany
+|{{sortname|Lukas|Wenig}}
+| £101,250
+|- 
+| 63
+|align=left|Wales
+|{{sortname|Rob|Owen|Robert Owen (darts player)}}
+| £95,500
+|- 
+| 64
+|align=left|Belgium
+|{{sortname|Mario|Vandenbogaerde}}
+| £94,750
+|- 
+|65
+| {{flag|Czech Republic}}
+| {{sortname|Karel|Sedláček}}
+| £83,000
+| 2025 Q-School
+|-
+| 66
+| England
+| {{sortname|Bradley|Brooks}}
+| £78,750
+| 2025 Q-School
+|-
+| 67
+|England
+|{{sortname|Cam|Crabtree}}
+|£73,000
+|2025 Q-School
+|-
+| 68
+|align=left|Netherlands
+|{{sortname|Wesley|Plaisier}}
+| £68,500
+| 2024 Challenge Tour
+|-
+| 69
+|align=left|Poland
+|{{sortname|Sebastian|Białecki}}
+| £63,750
+| 2024 Development Tour
+|-
+|70
+|Germany
+|{{sortname|Max|Hopp}}
+|£58,250
+|2025 Q-School
+|-
+|71
+|England
+|{{sortname|Adam|Lipscombe}}
+|£56,750
+|2025 Q-School
+|-
+|72
+|Germany
+|{{sortname|Dominik|Grüllich}}
+|£44,250
+|2025 Q-School
+|-
+| 73
+| {{flag|Norway}}
+| {{sortname|Cor|Dekker}}
+| £41,250
+| 2025 Q-School
+|-
+|74
+|Netherlands
+|{{sortname|Maik|Kuivenhoven}}
+|£26,000
+|2025 Q-School
+|-
+|75
+|Scotland
+|{{sortname|Andy|Boulton}}
+|£26,000
+|2025 Q-School
+|-
+| 76
+| England
+| {{sortname|Tavis|Dudeney}}
+| £24,500
+| 2025 Q-School
+|-
+|77
+|Sweden
+|{{sortname|Oskar|Lukasiak}}
+|£24,500
+|2025 Q-School
+|-
+|78
+|England
+|{{sortname|Darryl|Pilgrim}}
+|£24,250
+|2025 Q-School
+|-
+| 79
+| England
+| {{sortname|Tom|Bissell|dab=darts player}}
+| £20,250
+| 2025 Q-School
+|-
+| 80
+|align=left|Netherlands
+|{{sortname|Christian|Kist}}
+| £20,000
+| 2024 Challenge Tour
+|-
+|81
+|Germany
+|{{sortname|Leon|Weber}}
+|£19,750
+|2025 Q-School
+|-
+| 82
+| Netherlands
+| {{sortname|Dennie|Olde Kalter}}
+| £18,500
+| 2025 Q-School
+|-
+|83
+|{{flag|Canada}}
+|{{sortname|Jim|Long|dab=darts player}}
+|£17,250
+|2025 Q-School
+|-
+|84
+|England
+|{{sortname|Thomas|Lovely}}
+|£17,250
+|2025 Q-School
+|-
+|85
+|Netherlands
+|{{sortname|Marvin van|Velzen}}
+|£17,250
+|2025 Q-School
+|-
+| 86
+| Sweden
+| {{sortname|Viktor|Tingström}}
+| £16,000
+| 2025 Q-School
+|-
+|87
+|England
+|{{sortname|Adam|Warner}}
+|£15,500
+|2025 Q-School
+|-
+| 88
+| Scotland
+| {{sortname|Greg|Ritchie|dab=darts player}}
+| £13,500
+| 2025 Q-School
+|-
+|89
+|England
+|{{sortname|Adam|Paxton}}
+|£11,750
+|2025 Q-School
+|-
+|90
+|Germany
+|{{sortname|Maximilian|Czerwinski}}
+|£11,250
+|2025 Q-School
+|-
+|91
+|Poland
+|{{sortname|Tytus|Kanik}}
+|£9,250
+|2025 Q-School
+|-
+|92
+|Belgium
+|{{sortname|Stefaan|Henderyck}}
+|£8,500
+|2025 Q-School
+|-
+|93
+|Austria
+|{{sortname|Rusty-Jake|Rodriguez}}
+|£7,500
+|2025 Q-School
+|-
+|94
+|{{flag|Croatia}}
+|{{sortname|Pero|Ljubić}}
+|£5,250
+|2025 Q-School
+|-
+| 95
+| Germany
+| {{sortname|Kai|Gotthardt}}
+| £5,000
+| 2025 Q-School
+|-
+| 96
+|align=left|England
+|{{sortname|Beau|Greaves}}
+| £0
+| 2025 Development Tour
+|-
+| 97
+|align=left|England
+|{{sortname|Owen|Bates}}
+| £0
+| 2025 Development Tour
+|-
+| 98
+|align=left|{{flag|Switzerland}}
+|{{sortname|Stefan|Bellmont}}
+| £0
+| 2025 Challenge Tour
+|-
+| 99
+|align=left|{{flag|Lithuania}}
+|{{sortname|Darius|Labanauskas}}
+| £0
+| 2025 Challenge Tour
+|-
+| 100
+| Germany
+| {{sortname|Arno|Merk}}
+| £0
+| 2026 Q-School
+|-
+| 101
+| Poland
+| {{sortname|Filip|Bereza}}
+| £0
+| 2026 Q-School
+|-
+| 102
+| Wales
+| {{sortname|Rhys|Griffin}}
+| £0
+| 2026 Q-School
+|-
+| 103
+| Australia
+| {{sortname|Adam|Leek}}
+| £0
+| 2026 Q-School
+|-
+| 104
+| {{flag|Spain}}
+| {{sortname|Cristo|Reyes}}
+| £0
+| 2026 Q-School
+|-
+| 105
+| Netherlands
+| {{sortname|Jeffrey|Sparidaans}}
+| £0
+| 2026 Q-School
+|-
+| 106
+| England
+| {{sortname|Carl|Sneyd}}
+| £0
+| 2026 Q-School
+|-
+| 107
+| Ireland
+| {{sortname|Niall|Culleton}}
+| £0
+| 2026 Q-School
+|-
+| 108
+| Germany
+| {{sortname|Matthias|Ehlers}}
+| £0
+| 2026 Q-School
+|-
+| 109
+| Germany
+| {{sortname|Yorick|Hofkens}}
+| £0
+| 2026 Q-School
+|-
+| 110
+| England
+| {{sortname|Tom|Sykes|dab=darts player}}
+| £0
+| 2026 Q-School
+|-
+| 111
+| Ireland
+| {{sortname|Shane|McGuirk}}
+| £0
+| 2026 Q-School
+|-
+| 112
+| Netherlands
+| {{sortname|Jimmy van|Schie}}
+| £0
+| 2026 Q-School
+|-
+| 113
+| England
+| {{sortname|Stephen|Burton|dab=darts player}}
+| £0
+| 2026 Q-School
+|-
+| 114
+| Netherlands
+| {{sortname|Chris|Landman}}
+| £0
+| 2026 Q-School
+|-
+| 115
+| {{flag|Slovenia}}
+| {{sortname|Benjamin|Pratnemer}}
+| £0
+| 2026 Q-School
+|-
+| 116
+| Germany
+| {{sortname|Marvin|Kraft}}
+| £0
+| 2026 Q-School
+|-
+| 117
+| Czech Republic
+| {{sortname|Adam|Gawlas}}
+| £0
+| 2026 Q-School
+|-
+| 118
+| Ireland
+| {{sortname|Stephen|Rosney}}
+| £0
+| 2026 Q-School
+|-
+| 119
+| England
+| {{sortname|Charlie|Manby}}
+| £0
+| 2026 Q-School
+|-
+| 120
+| England
+| {{sortname|Tyler|Thorpe}}
+| £0
+| 2026 Q-School
+|-
+| 121
+| Netherlands
+| {{sortname|Jeffrey de|Zwaan}}
+| £0
+| 2026 Q-School
+|-
+| 122
+| England
+| {{sortname|Mervyn|King|dab=darts player}}
+| £0
+| 2026 Q-School
+|-
+| 123
+| Scotland
+| {{sortname|David|Sharp|dab=darts player}}
+| £0
+| 2026 Q-School
+|-
+| 124
+| Netherlands
+| {{sortname|Jurjen|van der Velde}}
+| £0
+| 2026 Q-School
+|-
+| 125
+| Netherlands
+| {{sortname|Alexander|Merkx}}
+| £0
+| 2026 Q-School
+|-
+| 126
+| Germany
+| {{sortname|Pascal|Rupprecht}}
+| £0
+| 2026 Q-School
+|-
+| 127
+| England
+| {{sortname|Samuel|Price|dab=darts player}}
+| £0
+| 2026 Q-School
+|-
+| 128
+| Netherlands
+| {{sortname|Sietse|Lap}}
+| £0
+| 2026 Q-School
+|}
+
+==Tour Cards per nation==
+{| class="wikitable sortable"
+|-
+! No.
+! Nation
+! Number of Tour card holders
+! Difference to prior year
+|-
+| 1
+| {{ENG}}
+| 43
+| 0
+|-
+| 2
+| {{NED}}
+| 22
+| +1
+|-
+|3
+| {{GER}}
+| 15
+| +3
+|-
+|4
+| {{SCO}}
+| 7
+| -1
+|-
+| rowspan="3" |5
+|{{BEL}}
+|5
+| -1
+|-
+| {{IRL}}
+| 6
+| +1
+|-
+| {{WAL}}
+| 5
+| -1
+|-
+| rowspan="2" |8
+| {{NIR}}
+| 3
+| -1
+|-
+| {{POL}}
+| 4
+| 0
+|-
+| 10
+| {{SWE}}
+| 3
+| 0
+|-
+| rowspan="3" |11
+| {{AUS}}
+| 2
+| +1
+|-
+| {{AUT}}
+| 2
+| 0
+|-
+| {{CZE}}
+| 2
+| +1
+|-
+| rowspan="9" |14
+| {{CAN}}
+| 1
+| -1
+|-
+| {{CRO}}
+| 1
+| 0
+|-
+| {{FRA}}
+| 1
+| 0
+|-
+| {{LVA}}
+| 1
+| 0
+|-
+| {{LTU}}
+| 1
+| +1
+|-
+| {{NOR}}
+| 1
+| 0
+|-
+| {{SLO}}
+| 1
+| +1
+|-
+| {{ESP}}
+| 1
+| +1
+|-
+| {{SUI}}
+| 1
+| +1
+|-
+|rowspan=5| –
+| {{DEN}}
+| 0
+| -1
+|-
+| {{ITA}}
+| 0
+| -1
+|-
+| {{NZL}}
+| 0
+| -1
+|-
+| {{PRT}}
+| 0
+| -1
+|-
+| {{USA}}
+| 0
+| -2
+|- bgcolor="#E0E0E0"
+|
+| 22 Nations
+| colspan="2" | 128 players
+|}
+
+== References ==
+{{notelist}}
+{{reflist}}
+
+{{2026 in PDC darts}}
+[[Category:2026 PDC Pro Tour]]
+[[Category:Lists of darts players]]

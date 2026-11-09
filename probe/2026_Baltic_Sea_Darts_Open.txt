@@ -1,0 +1,508 @@
+{{Short description|Darts tournament}}
+{{infobox individual darts tournament
+|tournament_name = 2026 Elten Safety Shoes Baltic Sea Darts Open
+|image =
+|dates = 29–31 May 2026
+|venue = [[Merkur Ostseehalle]]
+|location = [[Kiel]], Germany
+|organisation = [[Professional Darts Corporation]] (PDC)
+|format = [[Leg (darts)|Legs]]
+|prize_fund = £230,000
+|winners_share = £35,000
+|nine_dart =
+|high_checkout = {{ubl|'''170'''|[[Lukas Wenig]]|[[Cameron Menzies]]|[[William O'Connor (darts player)|William O'Connor]]}}
+|winner = '''{{flagathlete|[[Luke Woodhouse]]|ENG}}'''
+|prev = [[2026 International Darts Open|Event 7]]
+|next = [[2026 Slovak Darts Open|Event 9]]
+}}
+
+The '''2026 Baltic Sea Darts Open''' (known for sponsorship reasons as the '''2026 Elten Safety Shoes Baltic Sea Darts Open''') was a professional [[darts]] tournament that took place at the [[Merkur Ostseehalle]] in [[Kiel]], Germany, from 29 to 31 May 2026.<ref>{{cite web |title=Elten Safety Shoes Baltic Sea Darts Open 2026 |url=https://www.pdc-europe.tv/tournaments/et-2026-en/baltic-sea-darts-open-2026/ |website=PDC Europe |access-date=6 May 2026}}</ref> It was the eighth of fifteen [[PDC European Tour]] events on the [[2026 PDC Pro Tour]]. It featured a field of 48 players and £230,000 in prize money, with £35,000 going to the winner.
+
+[[Gerwyn Price]] was the reigning champion, having defeated [[Gary Anderson (darts player)|Gary Anderson]] 8–3 in the [[2025 Baltic Sea Darts Open|2025 final]].<ref>{{cite web |date=14 July 2025 |title=Price wins ninth Euro title with Baltic Sea victory |url=https://www.bbc.com/sport/darts/articles/cj9vp01wxlxo |website=BBC Sport |access-date=6 May 2026}}</ref> However, Price withdrew from the tournament, and therefore did not defend his title.
+
+[[Luke Woodhouse]] won his first European Tour title—twelve days after winning his first PDC ranking title at [[2026 PDC Players Championship series#Players Championship 18|Players Championship 18]]—by defeating [[Ryan Joyce]] 8–4 in the final.
+
+== Prize money ==
+As part of a mass boost in prize money for [[Professional Darts Corporation]] (PDC) events in 2026, the prize fund for all [[2026 PDC Pro Tour#European Tour#European Tour|2026 European Tour]] events rose to £230,000, of which the winner will receive £35,000.<ref>{{cite web |last=Phillips |first=Josh |date=31 March 2025 |title=Biggest prize money increase in PDC history confirmed |url=https://www.pdc.tv/news/2025/march/31/biggest-prize-money-increase-pdc-history-confirmed |website=Professional Darts Corporation |access-date=6 May 2026}}</ref><ref>{{cite web |title=Baltic Sea Darts Open 2026 |url=https://mastercaller.com/tournaments/baltic-sea-darts-open/2026 |website=Mastercaller |access-date=6 May 2026}}</ref>
+
+{| class="wikitable"
+! colspan="2" |Stage <small>(num. of players)</small>
+!Prize money
+|-
+|'''Winner'''
+| align="center" |<small>(1)</small>
+| align="center" |£35,000
+|-
+|'''Runner-up'''
+| align="center" |<small>(1)</small>
+| align="center" |£15,000
+|-
+|'''Semi-finalists'''
+| align="center" |<small>(2)</small>
+| align="center" |£10,000
+|-
+|'''Quarter-finalists'''
+| align="center" |<small>(4)</small>
+| align="center" |£8,000
+|-
+|'''Third round losers'''
+| align="center" |<small>(8)</small>
+| align="center" |£5,000
+|-
+|'''Second round losers'''
+| align="center" |<small>(16)</small>
+| align="center" |£3,500*
+|-
+|'''First round losers'''
+| align="center" |<small>(16)</small>
+| align="center" |£2,000*
+|-
+! colspan="3" |
+|-
+|'''Total'''
+| colspan="2" align="center" |£230,000
+|}
+
+* Pre-qualified players from the Orders of Merit who lose in their first match of the event shall not be credited with prize money on any Order of Merit.<ref>{{cite web |title=PDC Rankings Rules |url=https://www.pdc.tv/pdc-order-merit-rules-1 |website=Professional Darts Corporation |access-date=6 May 2026}}</ref>
+
+== Qualification and format ==
+The top 16 players on the two-year [[PDC Order of Merit]] were [[Seeding (sports)|seeded]] entered the tournament in the second round, while the next 16 highest-ranked players from the one-year [[PDC Pro Tour Order of Merit]] automatically qualified for the first round. The seedings were confirmed on 9 April.<ref>{{cite web |last=Gorton |first=Josh |date=9 April 2026 |title=2026 ET7-8 Seeds & Tour Card Holder qualifier entries confirmed |url=https://www.pdc.tv/news/2026/april/09/ET7-8-Seeds-Tour-Card-Holder-qualifier-entries-confirmed/ |website=Professional Darts Corporation |access-date=6 May 2026}}</ref> The remaining 16 places went to players from four qualifying events – 10 from the Tour Card Holder Qualifier (held on 15 April),<ref>{{cite web |date=15 April 2026 |title=PDC ET08 Tour Card Holder Qualifier |url=https://tv.dartconnect.com/event/pdceutcq26et08/matches |website=DartConnect |access-date=6 May 2026}}</ref> four from the Host Nation Qualifier (held on 16 May),<ref>{{cite web |date=16 May 2026 |title=PDC ET08 Host Nation Qualifier |url=https://tv.dartconnect.com/event/pdc26et08hnq/matches |website=DartConnect |access-date=6 May 2026}}</ref> one from the Nordic & Baltic Associate Member Qualifier (held on 24 April),<ref>{{cite web |date=24 April 2026 |title=PDCNB 2026 Tour - Finland - Weekend 03 |url=https://tv.dartconnect.com/event/pdcnbpro26e03/matches |website=DartConnect |access-date=6 May 2026}}</ref> and one from the East European Associate Member Qualifier (held on 12 April).<ref>{{cite web |date=12 April 2026 |title=PDC ET08 E. Europe Qualifier |url=https://tv.dartconnect.com/event/pdceeu26et08q/matches |website=DartConnect |access-date=6 May 2026}}</ref>
+
+[[Luke Humphries]], [[Michael van Gerwen]], [[Jonny Clayton]], [[Gerwyn Price]] and [[Josh Rock]] withdrew and were replaced by [[Rob Cross]], [[Dimitri Van den Bergh]], [[Richard Veenstra]], [[Christian Kist]] and [[Cristo Reyes]]. [[Wessel Nijman]], [[Damon Heta]], [[Luke Woodhouse]], [[Daryl Gurney]], and [[Dave Chisnall]] moved up to become the 12th, 13th, 14th, 15th, and 16th seeds, respectively.<ref name="Draw">{{cite web |last=Gorton |first=Josh |date=28 May 2026 |title=2026 Elten Safety Shoes Baltic Sea Darts Open draw & schedule |url=https://www.pdc.tv/news/2026/may/28/2026-elten-safety-shoes-baltic-sea-darts-open-draw-schedule/ |website=Professional Darts Corporation |access-date=30 May 2026}}</ref>
+
+{{col-begin}}
+{{col-break}}
+:'''Seeded players'''
+# {{flagathlete|[[Gian van Veen]]|NED}} ''(third round)''
+# {{flagathlete|[[James Wade]]|ENG}} ''(third round)''
+# {{flagathlete|[[Stephen Bunting]]|ENG}} ''(second round)''
+# {{flagathlete|[[Danny Noppert]]|NED}} ''(second round)''
+# {{flagathlete|[[Ryan Searle (darts player)|Ryan Searle]]|ENG}} ''(third round)''
+# {{flagathlete|[[Chris Dobey]]|ENG}} ''(second round)''
+# {{flagathlete|[[Nathan Aspinall]]|ENG}} ''(second round)''
+# {{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}} ''(second round)''
+# {{flagathlete|[[Martin Schindler]]|GER}} ''(second round)''
+# {{flagathlete|[[Jermaine Wattimena]]|NED}} ''(second round)''
+# {{flagathlete|[[Mike De Decker]]|BEL}} ''(second round)''
+# {{flagathlete|[[Wessel Nijman]]|NED}} ''(quarter-finals)''
+# {{flagathlete|[[Damon Heta]]|AUS}} ''(semi-finals)''
+# '''{{flagathlete|[[Luke Woodhouse]]|ENG}} (champion)'''
+# {{flagathlete|[[Daryl Gurney]]|NIR}} ''(second round)''
+# {{flagathlete|[[Dave Chisnall]]|ENG}} ''(quarter-finals)''
+{{col-break}}
+:'''PDC Pro Tour Order of Merit qualifiers'''
+:* {{flagathlete|[[Dirk van Duijvenbode]]|NED}} ''(second round)''
+:* {{flagathlete|[[Niko Springer]]|GER}} ''(third round)''
+:* {{flagathlete|[[Niels Zonneveld]]|NED}} ''(second round)''
+:* {{flagathlete|[[Krzysztof Ratajski]]|POL}} ''(second round)''
+:* {{flagathlete|[[William O'Connor (darts player)|William O'Connor]]|IRL}} ''(third round)''
+:* {{flagathlete|[[Joe Cullen (darts player)|Joe Cullen]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Ryan Joyce]]|ENG}} ''(runner-up)''
+:* {{flagathlete|[[Kevin Doets]]|NED}} ''(quarter-finals)''
+:* {{flagathlete|[[Andrew Gilding]]|ENG}} ''(second round)''
+:* {{flagathlete|[[Cameron Menzies]]|SCO}} ''(third round)''
+:* {{flagathlete|[[Karel Sedláček]]|CZE}} ''(second round)''
+{{col-break}}
+:'''Tour Card qualifier'''
+:* {{flagathlete|[[Alan Soutar]]|SCO}} ''(first round)''
+:* {{flagathlete|[[Max Hopp]]|GER}} ''(first round)''
+:* {{flagathlete|[[Ricky Evans (darts player)|Ricky Evans]]|ENG}} ''(semi-finals)''
+:* {{flagathlete|[[Lukas Wenig]]|GER}} ''(first round)''
+:* {{flagathlete|[[James Hurrell]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Jeffrey de Zwaan]]|NED}} ''(first round)''
+:* {{flagathlete|[[Ian White (darts player)|Ian White]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Jimmy van Schie]]|NED}} ''(quarter-finals)''
+:* {{flagathlete|[[Sebastian Białecki]]|POL}} ''(third round)''
+:* {{flagathlete|[[Justin Hood (darts player)|Justin Hood]]|ENG}} ''(third round)''
+:'''Host Nation qualifier'''
+:* {{flagathlete|[[Paul Krohne]]|GER}} ''(first round)''
+:* {{flagathlete|[[Marcel Hausotter]]|GER}} ''(first round)''
+:* {{flagathlete|[[Daniel Klose]]|GER}} ''(first round)''
+:* {{flagathlete|[[Jason Riedtke]]|GER}} ''(first round)''
+:'''Nordic & Baltic qualifier'''
+:* {{flagathlete|[[Teemu Harju]]|FIN}} ''(first round)''
+:'''East European qualifier'''
+:* {{flagathlete|[[Nándor Major]]|HUN}} ''(first round)''
+:'''Reserve list'''
+:* {{flagathlete|[[Rob Cross]]|ENG}} ''(first round)''
+:* {{flagathlete|[[Dimitri Van den Bergh]]|BEL}} ''(second round)''
+:* {{flagathlete|[[Richard Veenstra]]|NED}} ''(first round)''
+:* {{flagathlete|[[Christian Kist]]|NED}} ''(first round)''
+:* {{flagathlete|[[Cristo Reyes]]|ESP}} ''(first round)''
+
+{{col-end}}
+
+== Summary ==
+=== First round ===
+[[File:Dimitri Van den Bergh 2024.png|thumb|[[Dimitri Van den Bergh]] ''(pictured in 2024)'' made his first European Tour appearance in 420 days, defeating [[Alan Soutar]] 6–2 in the first round.]]
+The first round (best of 11 [[Leg (darts)|legs]]) was played on 29 May.<ref name="PDC_R1">{{cite web |last=Gorton |first=Josh |date=29 May 2026 |title=Magical Menzies stars in Kiel as Van den Bergh enjoys winning return |url=https://www.pdc.tv/news/2026/may/29/Magical-Menzies-kiel-Van-den-Bergh-enjoys-winning-return/ |website=Professional Darts Corporation |access-date=30 May 2026}}</ref> [[Cameron Menzies]] recorded the highest [[three-dart average]] of the opening round, averaging 108.41 as he defeated [[Rob Cross]] 6–4. "Rob [Cross] is coming back and he pushed me, but that's the best game I've played in a long time, and I needed that win," commented Menzies after the match.<ref name="PDC_R1"/> Menzies was one of three players to hit a [[Glossary of darts#Maximum check|170 checkout]] during the first day of action; [[William O'Connor (darts player)|William O'Connor]] converted one during his 6–4 victory over [[Cristo Reyes]], while [[Lukas Wenig]] landed finishes of 170 and 160 despite losing 6–3 to [[Kevin Doets]].<ref name="EU_R1">{{cite web |date=29 May 2026 |title=ELTEN Safety Shoes Baltic Sea Darts Open: Springer saves German pride |url=https://www.pdc-europe.tv/news/elten-safety-shoes-baltic-sea-darts-open-elten-safety-shoes-baltic-sea-darts-open-springer-saves-german-pride/ |website=PDC Europe |access-date=30 May 2026}}</ref> [[Niko Springer]] was the first round's only victorious German player of the nation's seven competitors, defeating Hungarian qualifier [[Nándor Major]] 6–2 to join seeded player [[Martin Schindler]] in the second round.<ref>{{cite web |last=Schamburg |first=Julius |date=29 May 2026 |title=Springer rettet deutsche Ehre |url=https://www.sport1.de/news/darts-sport/2026/05/darts-niko-springer-rettet-deutsche-ehre |website=Sport1 |access-date=30 May 2026}}</ref> [[Justin Hood (darts player)|Justin Hood]] averaged 103.38 during his 6–4 win against [[Max Hopp]].<ref>{{cite web |last=Vehren |first=Johannes |date=29 May 2026 |title=WM-Überraschung schlägt Hopp |trans-title=World Championship surprise beats Hopp |url=https://www.sport1.de/news/darts-sport/2026/05/darts-wm-ueberraschung-schlaegt-hopp |website=Sport1 |access-date=30 May 2026 |language=de}}</ref> All four host nation qualifiers were eliminated: debutant Jason Riedtke was beaten in a [[Glossary of darts#Decider|deciding leg]] to [[Karel Sedláček]], [[Daniel Klose]] lost 6–3 to [[Krzysztof Ratajski]], [[Paul Krohne]] was [[Whitewash (sport)|whitewashed]] by [[Dirk van Duijvenbode]], and Marcel Hausotter lost 6–1 to [[Joe Cullen (darts player)|Joe Cullen]].<ref name="EU_R1"/>
+
+The [[2020 World Matchplay]] champion [[Dimitri Van den Bergh]] competed on the European Tour for the first time in 420 days and defeated [[Alan Soutar]] 6–2, winning the last six legs of the match. Speaking afterwards, the Belgian insisted that he was "working so hard behind the scenes" and claimed that he can "do so much more".<ref name="PDC_R1"/> [[Jimmy van Schie]] made a successful European Tour debut, whitewashing [[Ian White (darts player)|Ian White]] while hitting 85 per cent of his attempts at [[Glossary of darts#Double|double]]. [[Ryan Joyce]] converted a 150 finish with three [[Bullseye (target)|bullseyes]] on his way to defeating [[Christian Kist]] 6–3. [[Sebastian Białecki]] won five legs in a row to beat [[James Hurrell]] 6–3. [[Niels Zonneveld]] and [[Andrew Gilding]] prevailed 6–4 in their respective victories over [[Richard Veenstra]] and [[Jeffrey de Zwaan]], while [[Ricky Evans (darts player)|Ricky Evans]] defeated Finnish qualifier [[Teemu Harju]] 6–1.<ref name="PDC_R1"/><ref name="EU_R1"/>
+
+=== Second round ===
+[[File:Jimmy van Schie.png|thumb|[[Jimmy van Schie]] ''(pictured in 2024)'' reached the quarter-finals in his European Tour debut.]]
+The second round (best of 11 legs) was played on 30 May.<ref name="PDC_R2">{{cite web |last=Wagner |first=Connor |date=30 May 2026 |title=Van Veen and Joyce fight through deciding-leg drama in Kiel |url=https://www.pdc.tv/news/2026/may/30/2026-elten-safety-shoes-baltic-sea-darts-open---day-two-latest/ |website=Professional Darts Corporation |access-date=31 May 2026}}</ref> Number one seed [[Gian van Veen]] overturned a 5–2 deficit to produce a comeback victory in a deciding leg against Dimitri Van den Bergh. In his post-match interview, Van Veen said that Van den Bergh's finishing made up for his scoring as he raced into the lead. "It’s been difficult the last couple of months, I need to work hard for it, but, I’m still here and winning games and that’s what it’s all about," he added.<ref name="PDC_R2"/> Niko Springer averaged 102.21 in a 6–2 win over eighth seed [[Ross Smith (darts player)|Ross Smith]], the previous week's champion at the [[2026 International Darts Open|International Darts Open]]. Springer's compatriot Martin Schindler, the ninth seed, was eliminated in a deciding-leg loss to Ryan Joyce.<ref>{{cite web |last=Schamburg |first=Julius |date=30 May 2026 |title=Springer-Gala lässt Kiel toben |trans-title=Springer gala sends Kiel into a frenzy |url=https://www.sport1.de/news/darts-sport/2026/05/darts-gala-von-niko-springer-laesst-kiel-toben-schindler-ausgeschieden |website=Sport1 |access-date=31 May 2026 |language=de}}</ref> Jimmy van Schie continued his debut run by beating eleventh seed [[Mike De Decker]] 6–1, which was De Decker's seventh consecutive defeat on the European Tour. Justin Hood and Sebastian Białecki joined Van Schie in reaching the final day of a European Tour event for the first time; Hood averaged just under 100 in a 6–1 victory over tenth seed [[Jermaine Wattimena]], while Białecki defeated sixth seed [[Chris Dobey]] 6–4 to advance to his first third-round appearance in his thirteenth event.<ref name="EU_R2">{{cite web |date=30 May 2026 |title=ELTEN Safety Shoes Baltic Sea Darts Open: Springer makes Kiel rock |url=https://www.pdc-europe.tv/news/elten-safety-shoes-baltic-sea-darts-open-springer-makes-kiel-rock/ |website=PDC Europe |access-date=31 May 2026}}</ref> The match between [[Luke Woodhouse]] and Andrew Gilding was interrupted by a false fire alarm that halted action for around thirty minutes; Woodhouse won the match 6–3 after play resumed.<ref>{{cite web |last=Conrad |first=Alex |date=30 May 2026 |title=Darts stars forced off stage mid-match as European Tour clash is halted for 30 minutes |url=https://talksport.com/darts/4295287/luke-woodhouse-andrew-gilding-delayed-baltic-sea-darts-open/ |website=Talksport |access-date=31 May 2026}}</ref>
+
+[[Wessel Nijman]] earned a 6–1 win over Krzysztof Ratajski. "I'll take the 98 average, I'm feeling really confident and really relaxed to be honest," commented Nijman, who said "today was one of those days" where everything went his way.<ref name="PDC_R2"/> Nijman ended up being the only previous winner on the 2026 European Tour to progress to the third round after the eliminations of Smith and seventh seed [[Nathan Aspinall]], the latter being beaten 6–3 by Kevin Doets.<ref name="EU_R2"/> [[Dave Chisnall]] and Ricky Evans both reached the final day for the first time in 2026 with their respective victories over Joe Cullen and fifteenth seed [[Daryl Gurney]]. Cameron Menzies converted [[Glossary of darts#Checkout|checkouts]] of 148 and 107 as he defeated third seed [[Stephen Bunting]] 6–2. [[James Wade]] and William O'Connor were 6–2 winners over Niels Zonneveld and fourth seed [[Danny Noppert]], while [[Ryan Searle (darts player)|Ryan Searle]] and [[Damon Heta]] claimed 6–4 victories against Dirk van Duijvenbode and Karel Sedláček.<ref name="PDC_R2"/><ref name="EU_R2"/>
+
+=== Final day ===
+[[File:Luke Woodhouse WDC 2024.png|thumb|[[Luke Woodhouse]] ''(pictured in 2024)'' won his first European Tour title by defeating [[Ryan Joyce]] 8–4 in the final.]]
+The third round, quarter-finals, semi-finals and final were played on 31 May. The third round and quarter-finals were contested over the best of 11 legs, the semi-finals over the best of 13 legs, and the final over the best of 15 legs.<ref name="PDC_Final">{{cite web |last=Wagner |first=Connor |date=31 May 2026 |title=Wonderful Woodhouse wins maiden European Tour title in Kiel |url=https://www.pdc.tv/news/2026/may/31/2026-elten-safety-shoes-baltic-sea-darts-open---finals-day-latest/ |website=Professional Darts Corporation |access-date=31 May 2026}}</ref> The final day saw Ryan Joyce and Luke Woodhouse reach the final. Joyce began the day by defeating Niko Springer 6–4, eliminating the last German player left in the field after Joyce had already beaten Martin Schindler.<ref>{{cite web |last=Lüers |first=Jakob |date=31 May 2026 |title=Schindler-Schreck schaltet Springer aus |trans-title=Schindler's bogeyman takes out Springer |url=https://www.sport1.de/news/darts-sport/2026/05/schindler-schreck-schaltet-auch-springer-aus |website=Sport1 |access-date=31 May 2026 |language=de}}</ref> He followed a 6–1 victory over Dave Chisnall by winning a deciding leg against Damon Heta, who missed a [[Glossary of darts#Match dart|match dart]] at the bullseye in the penultimate leg.<ref name="DNews">{{cite web |last=Wood |first=Kieran |date=31 May 2026 |title=Luke Woodhouse lands dream 160 finish to seal first European Tour title in style in Kiel |url=https://dartsnews.com/pdc/baltic-sea-darts-open-2026-roundup-luke-woodhouse-lands-dream-160-finish-to-seal-first-european-tour-title-in-style-in-kiel |website=dartsnews.com |access-date=31 May 2026}}</ref> Woodhouse eliminated Cameron Menzies in a 6–1 win, then ended the run of Jimmy van Schie by defeating the Dutchman 6–3. In the semi-finals, he earned a 7–2 victory over Ricky Evans, who reached his first European Tour semi-final since 2019.<ref name="PDC_Final"/><ref name="EU_Final">{{cite web |date=31 May 2026 |title=ELTEN Safety Shoes Baltic Sea Darts Open: Luke Woodhouse celebrates maiden title on the European Tour |url=https://www.pdc-europe.tv/news/elten-safety-shoes-baltic-sea-darts-open-luke-woodhouse-celebrates-maiden-title-on-the-european-tour/ |website=PDC Europe |access-date=31 May 2026}}</ref> English compatriots Joyce and Woodhouse both reached their second European Tour final and were looking for their first title, having finished as runner-up at the [[2025 European Darts Trophy]] and the [[2025 Swiss Darts Trophy]], respectively.<ref name="EU_Final"/>
+
+Woodhouse won the opening leg of the final, and followed a [[Glossary of darts#Break|break of throw]] by landing a 140 checkout to lead 3–0. Joyce won back-to-back legs to reduce his deficit to 3–2. They traded the throw as Woodhouse maintained his two-leg advantage at 5–3. Joyce registered another leg to make it 6–4 but Woodhouse won the next to go one away from victory. In the twelfth leg, Joyce missed double 16 for a 108 checkout, and Woodhouse capitalised by hitting a 160 finish to win the match 8–4. Woodhouse finished the final with a three-dart average of 98.61, while Joyce averaged 94.46.<ref name="DNews"/><ref name="EU_Final"/><ref name="Sky_Final">{{cite web |date=31 May 2026 |title=Baltic Sea Darts Open: Luke Woodhouse wins again for first European Tour title in victory over Ryan Joyce |url=https://www.skysports.com/darts/news/12288/13549660/baltic-sea-darts-open-luke-woodhouse-wins-again-for-first-european-tour-title-in-victory-over-ryan-joyce |website=Sky Sports |access-date=1 June 2026}}</ref>
+
+Woodhouse won his first European Tour title and second PDC ranking title, having won his first ranking title twelve days earlier by defeating Andrew Gilding in the final of [[2026 PDC Players Championship series#Players Championship 18|Players Championship 18]].<ref name="Sky_Final"/> He became the third first-time champion on the [[2026 PDC Pro Tour#European Tour|2026 European Tour]], after Wessel Nijman and Ross Smith. He was also the 2026 season's eighth different European Tour champion in eight events, a feat that had only been achieved previously in [[2014 PDC Pro Tour#European Tour|2014]].<ref name="PDC_Final"/><ref name="EU_Final"/> "It's like buses. You wait for one for ages, then two come along at once," joked Woodhouse in his post-match interview. He believed that neither he nor Joyce played their best game but called the win "unbelievable", adding that he hoped to bring his confidence into the upcoming [[2026 World Matchplay|World Matchplay]].<ref name="Sky_Final"/> "I tried my best, but it just didn't happen today," said Joyce in defeat, calling his opponent a "very solid" and "very dependable" player.<ref name="PDC_Final"/>
+
+== Draw ==
+The draw was confirmed on 28 May.<ref name="Draw"/> Numbers to the left of a player's name show the seedings for the top 16 in the tournament. The figures to the right of a player's name state their [[three-dart average]] in a match. The reserve players are indicated by 'Alt'. Players in bold denote match winners.<ref>{{cite web |title=Results of Baltic Sea Darts Open 2026 |url=https://mastercaller.com/tournaments/baltic-sea-darts-open/2026/results |website=Mastercaller |access-date=30 May 2026}}</ref>
+
+{{48TeamBracket
+| RD1-shift = -1
+| RD1='''First round'''<br>''(best of 11 legs)''<br>29 May
+| RD2='''Second round'''<br>''(best of 11 legs)''<br>30 May
+| RD3='''Third round'''<br>''(best of 11 legs)''<br>31 May
+| RD4='''Quarter-finals'''<br>''(best of 11 legs)''<br>31 May
+| RD5='''Semi-finals'''<br>''(best of 13 legs)''<br>31 May
+| RD6='''Final'''<br>''(best of 15 legs)''<br>31 May
+
+| team-width=220
+| boldwinner=high
+
+| RD1-seed01 = &nbsp;
+| RD1-team01 = {{PDCFlag|Alan Soutar|avg=80.89}}
+| RD1-score01= 2
+| RD1-seed02 = Alt
+| RD1-team02 = {{PDCFlag|Dimitri Van den Bergh|avg=85.76}}
+| RD1-score02= 6
+
+| RD1-seed03 = &nbsp;
+| RD1-team03 = {{PDCFlag|Joe Cullen|avg=92.78}}
+| RD1-score03= 6
+| RD1-seed04 = &nbsp;
+| RD1-team04 = {{PDCFlag|Marcel Hausotter|avg=84.77}}
+| RD1-score04= 1
+
+| RD1-seed05 = &nbsp;
+| RD1-team05 = {{PDCFlag|Niko Springer|avg=93.25}}
+| RD1-score05= 6
+| RD1-seed06 = &nbsp;
+| RD1-team06 = {{PDCFlag|Nándor Major|avg=86.60}}
+| RD1-score06= 2
+
+| RD1-seed07 = &nbsp;
+| RD1-team07 = {{PDCFlag|Ryan Joyce|avg=90.16}}
+| RD1-score07= 6
+| RD1-seed08 = Alt
+| RD1-team08 = {{PDCFlag|Christian Kist|avg=81.53}}
+| RD1-score08= 3
+
+| RD1-seed09 = &nbsp;
+| RD1-team09 = {{PDCFlag|William O'Connor|avg=94.20}}
+| RD1-score09= 6
+| RD1-seed10 = Alt
+| RD1-team10 = {{PDCFlag|Cristo Reyes|avg=88.75}}
+| RD1-score10= 4
+
+| RD1-seed11 = &nbsp;
+| RD1-team11 = {{PDCFlag|Karel Sedláček|avg=86.09}}
+| RD1-score11= 6
+| RD1-seed12 = &nbsp;
+| RD1-team12 = {{PDCFlag|txt=Jason Riedtke|flag=GER|avg=77.89}}
+| RD1-score12= 5
+
+| RD1-seed13 = &nbsp;
+| RD1-team13 = {{PDCFlag|Dirk van Duijvenbode|avg=86.71}}
+| RD1-score13= 6
+| RD1-seed14 = &nbsp;
+| RD1-team14 = {{PDCFlag|Paul Krohne|avg=78.74}}
+| RD1-score14= 0
+
+| RD1-seed15 = &nbsp; 
+| RD1-team15 = {{PDCFlag|Krzysztof Ratajski|avg=91.77}}
+| RD1-score15= 6
+| RD1-seed16 = &nbsp;
+| RD1-team16 = {{PDCFlag|Daniel Klose|avg=80.23}}
+| RD1-score16= 3
+
+| RD1-seed17 = &nbsp;
+| RD1-team17 = {{PDCFlag|Niels Zonneveld|avg=89.34}}
+| RD1-score17= 6
+| RD1-seed18 = Alt
+| RD1-team18 = {{PDCFlag|Richard Veenstra|avg=82.56}}
+| RD1-score18= 4
+
+| RD1-seed19 = &nbsp;
+| RD1-team19 = {{PDCFlag|Ricky Evans|avg=91.09}}
+| RD1-score19= 6
+| RD1-seed20 = &nbsp;
+| RD1-team20 = {{PDCFlag|Teemu Harju|avg=84.72}}
+| RD1-score20= 1
+
+| RD1-seed21 = &nbsp;
+| RD1-team21 = {{PDCFlag|Kevin Doets|avg=92.35}}
+| RD1-score21= 6
+| RD1-seed22 = &nbsp;
+| RD1-team22 = {{PDCFlag|Lukas Wenig|avg=89.84}}
+| RD1-score22= 3
+
+| RD1-seed23 = &nbsp;
+| RD1-team23 = {{PDCFlag|Justin Hood|avg=103.38}}
+| RD1-score23= 6
+| RD1-seed24 = &nbsp;
+| RD1-team24 = {{PDCFlag|Max Hopp|avg=93.74}}
+| RD1-score24= 4
+
+| RD1-seed25 = &nbsp;
+| RD1-team25 = {{PDCFlag|Cameron Menzies|avg=108.41}}
+| RD1-score25= 6
+| RD1-seed26 = Alt
+| RD1-team26 = {{PDCFlag|Rob Cross|avg=99.02}}
+| RD1-score26= 4
+
+| RD1-seed27 = &nbsp;
+| RD1-team27 = {{PDCFlag|Andrew Gilding|avg=88.95}}
+| RD1-score27= 6
+| RD1-seed28 = &nbsp;
+| RD1-team28 = {{PDCFlag|Jeffrey De Zwaan|avg=87.99}}
+| RD1-score28= 4
+
+| RD1-seed29 = &nbsp;
+| RD1-team29 = {{PDCFlag|James Hurrell|avg=86.09}}
+| RD1-score29= 3
+| RD1-seed30 = &nbsp;
+| RD1-team30 = {{PDCFlag|Sebastian Białecki|avg=100.35}}
+| RD1-score30= 6
+
+| RD1-seed31 = &nbsp;
+| RD1-team31 = {{PDCFlag|Ian White|avg=78.72}}
+| RD1-score31= 0
+| RD1-seed32 = &nbsp;
+| RD1-team32 = {{PDCFlag|Jimmy van Schie|avg=96.97}}
+| RD1-score32= 6
+
+| RD2-seed01 = 1
+| RD2-team01 = {{PDCFlag|Gian van Veen|avg=96.75}}
+| RD2-score01= 6
+| RD2-seed02 = Alt
+| RD2-team02 = {{PDCFlag|Dimitri Van den Bergh|avg=90.37}}
+| RD2-score02= 5
+
+| RD2-seed03 = 16
+| RD2-team03 = {{PDCFlag|Dave Chisnall|avg=92.44}}
+| RD2-score03= 6
+| RD2-seed04 = &nbsp;
+| RD2-team04 = {{PDCFlag|Joe Cullen|avg=93.04}}
+| RD2-score04= 4
+
+| RD2-seed05 = 8
+| RD2-team05 = {{PDCFlag|Ross Smith|avg=86.68}}
+| RD2-score05= 2
+| RD2-seed06 = &nbsp;
+| RD2-team06 = {{PDCFlag|Niko Springer|avg=102.21}}
+| RD2-score06= 6
+
+| RD2-seed07 = 9
+| RD2-team07 = {{PDCFlag|Martin Schindler|avg=86.43}}
+| RD2-score07= 5
+| RD2-seed08 = &nbsp;
+| RD2-team08 = {{PDCFlag|Ryan Joyce|avg=88.47}}
+| RD2-score08= 6
+
+| RD2-seed09 = 4
+| RD2-team09 = {{PDCFlag|Danny Noppert|avg=85.24}}
+| RD2-score09= 2
+| RD2-seed10 = &nbsp;
+| RD2-team10 = {{PDCFlag|William O'Connor|avg=88.33}}
+| RD2-score10= 6
+
+| RD2-seed11 = 13
+| RD2-team11 = {{PDCFlag|Damon Heta|avg=89.11}}
+| RD2-score11= 6
+| RD2-seed12 = &nbsp;
+| RD2-team12 = {{PDCFlag|Karel Sedláček|avg=89.71}}
+| RD2-score12= 4
+
+| RD2-seed13 = 5
+| RD2-team13 = {{PDCFlag|Ryan Searle|avg=89.77}}
+| RD2-score13= 6
+| RD2-seed14 = &nbsp;
+| RD2-team14 = {{PDCFlag|Dirk van Duijvenbode|avg=90.57}}
+| RD2-score14= 4
+
+| RD2-seed15 = 12
+| RD2-team15 = {{PDCFlag|Wessel Nijman|avg=98.46}}
+| RD2-score15= 6
+| RD2-seed16 = &nbsp;
+| RD2-team16 = {{PDCFlag|Krzysztof Ratajski|avg=91.90}}
+| RD2-score16= 1
+
+| RD2-seed17 = 2
+| RD2-team17 = {{PDCFlag|James Wade|avg=94.75}}
+| RD2-score17= 6
+| RD2-seed18 = &nbsp;
+| RD2-team18 = {{PDCFlag|Niels Zonneveld|avg=93.55}}
+| RD2-score18= 2
+
+| RD2-seed19 = 15
+| RD2-team19 = {{PDCFlag|Daryl Gurney|avg=92.32}}
+| RD2-score19= 3
+| RD2-seed20 = &nbsp;
+| RD2-team20 = {{PDCFlag|Ricky Evans|avg=96.00}}
+| RD2-score20= 6
+
+| RD2-seed21 = 7
+| RD2-team21 = {{PDCFlag|Nathan Aspinall|avg=89.28}}
+| RD2-score21= 3
+| RD2-seed22 = &nbsp;
+| RD2-team22 = {{PDCFlag|Kevin Doets|avg=88.65}}
+| RD2-score22= 6
+
+| RD2-seed23 = 10
+| RD2-team23 = {{PDCFlag|Jermaine Wattimena|avg=87.86}}
+| RD2-score23= 1
+| RD2-seed24 = &nbsp;
+| RD2-team24 = {{PDCFlag|Justin Hood|avg=99.17}}
+| RD2-score24= 6
+
+| RD2-seed25 = 3
+| RD2-team25 = {{PDCFlag|Stephen Bunting|avg=92.72}}
+| RD2-score25= 2
+| RD2-seed26 = &nbsp;
+| RD2-team26 = {{PDCFlag|Cameron Menzies|avg=96.17}}
+| RD2-score26= 6
+
+| RD2-seed27 = 14
+| RD2-team27 = {{PDCFlag|Luke Woodhouse|avg=92.44}}
+| RD2-score27= 6
+| RD2-seed28 = &nbsp;
+| RD2-team28 = {{PDCFlag|Andrew Gilding|avg=88.21}}
+| RD2-score28= 3
+
+| RD2-seed29 = 6
+| RD2-team29 = {{PDCFlag|Chris Dobey|avg=96.39}}
+| RD2-score29= 3
+| RD2-seed30 = &nbsp;
+| RD2-team30 = {{PDCFlag|Sebastian Białecki|avg=98.03}}
+| RD2-score30= 6
+
+| RD2-seed31 = 11
+| RD2-team31 = {{PDCFlag|Mike De Decker|avg=80.79}}
+| RD2-score31= 1
+| RD2-seed32 = &nbsp;
+| RD2-team32 = {{PDCFlag|Jimmy van Schie|avg=87.05}}
+| RD2-score32= 6
+
+| RD3-seed01 = 1
+| RD3-team01 = {{PDCFlag|Gian van Veen|surname=van Veen|avg=91.43}}
+| RD3-score01= 5
+| RD3-seed02 = 16
+| RD3-team02 = {{PDCFlag|Dave Chisnall|surname=1|avg=95.34}}
+| RD3-score02= 6
+
+| RD3-seed03 = &nbsp;
+| RD3-team03 = {{PDCFlag|Niko Springer|surname=1|avg=91.32}}
+| RD3-score03= 4
+| RD3-seed04 = &nbsp;
+| RD3-team04 = {{PDCFlag|Ryan Joyce|surname=1|avg=88.44}}
+| RD3-score04= 6
+
+| RD3-seed05 = &nbsp;
+| RD3-team05 = {{PDCFlag|William O'Connor|surname=1|avg=93.81}}
+| RD3-score05= 5
+| RD3-seed06 = 13
+| RD3-team06 = {{PDCFlag|Damon Heta|surname=1|avg=91.31}}
+| RD3-score06= 6
+
+| RD3-seed07 = 5
+| RD3-team07 = {{PDCFlag|Ryan Searle|surname=1|avg=93.00}}
+| RD3-score07= 3
+| RD3-seed08 = 12
+| RD3-team08 = {{PDCFlag|Wessel Nijman|surname=1|avg=97.59}}
+| RD3-score08= 6
+
+| RD3-seed09 = 2
+| RD3-team09 = {{PDCFlag|James Wade|surname=1|avg=97.16}}
+| RD3-score09= 4
+| RD3-seed10 = &nbsp;
+| RD3-team10 = {{PDCFlag|Ricky Evans|surname=1|avg=95.56}}
+| RD3-score10= 6
+
+| RD3-seed11 = &nbsp;
+| RD3-team11 = {{PDCFlag|Kevin Doets|surname=1|avg=92.41}}
+| RD3-score11= 6
+| RD3-seed12 = &nbsp;
+| RD3-team12 = {{PDCFlag|Justin Hood|surname=1|avg=88.29}}
+| RD3-score12= 3
+
+| RD3-seed13 = &nbsp;
+| RD3-team13 = {{PDCFlag|Cameron Menzies|surname=1|avg=81.54}}
+| RD3-score13= 1
+| RD3-seed14 = 14
+| RD3-team14 = {{PDCFlag|Luke Woodhouse|surname=1|avg=95.54}}
+| RD3-score14= 6
+
+| RD3-seed15 = &nbsp;
+| RD3-team15 = {{PDCFlag|Sebastian Białecki|surname=1|avg=85.34}}
+| RD3-score15= 4
+| RD3-seed16 = &nbsp;
+| RD3-team16 = {{PDCFlag|Jimmy van Schie|surname=van Schie|avg=90.50}}
+| RD3-score16= 6
+
+| RD4-seed01 = 16
+| RD4-team01 = {{PDCFlag|Dave Chisnall|surname=1|avg=78.17}}
+| RD4-score01= 1
+| RD4-seed02 = &nbsp;
+| RD4-team02 = {{PDCFlag|Ryan Joyce|surname=1|avg=90.13}}
+| RD4-score02= 6
+
+| RD4-seed03 = 13
+| RD4-team03 = {{PDCFlag|Damon Heta|surname=1|avg=93.88}}
+| RD4-score03= 6
+| RD4-seed04 = 12
+| RD4-team04 = {{PDCFlag|Wessel Nijman|surname=1|avg=93.65}}
+| RD4-score04= 2
+
+| RD4-seed05 = &nbsp;
+| RD4-team05 = {{PDCFlag|Ricky Evans|surname=1|avg=97.36}}
+| RD4-score05= 6
+| RD4-seed06 = &nbsp;
+| RD4-team06 = {{PDCFlag|Kevin Doets|surname=1|avg=91.48}}
+| RD4-score06= 3
+
+| RD4-seed07 = 14
+| RD4-team07 = {{PDCFlag|Luke Woodhouse|surname=1|avg=93.49}}
+| RD4-score07= 6
+| RD4-seed08 = &nbsp;
+| RD4-team08 = {{PDCFlag|Jimmy van Schie|surname=van Schie|avg=90.15}}
+| RD4-score08= 3
+
+| RD5-seed01 = &nbsp;
+| RD5-team01 = {{PDCFlag|Ryan Joyce|surname=1|avg=94.36}}
+| RD5-score01= 7
+| RD5-seed02 = 13
+| RD5-team02 = {{PDCFlag|Damon Heta|surname=1|avg=88.23}}
+| RD5-score02= 6
+
+| RD5-seed03 = &nbsp;
+| RD5-team03 = {{PDCFlag|Ricky Evans|surname=1|avg=90.78}}
+| RD5-score03= 2
+| RD5-seed04 = 14
+| RD5-team04 = {{PDCFlag|Luke Woodhouse|surname=1|avg=92.89}}
+| RD5-score04= 7
+
+| RD6-seed01 = &nbsp;
+| RD6-team01 = {{PDCFlag|Ryan Joyce|surname=1|avg=94.46}}
+| RD6-score01= 4
+| RD6-seed02 = 14
+| RD6-team02 = {{PDCFlag|Luke Woodhouse|surname=1|avg=98.61}}
+| RD6-score02= 8
+}}
+
+== References ==
+{{reflist}}
+{{2026 in PDC darts}}
+
+[[Category:2026 PDC European Tour]]
+[[Category:Darts in Germany]]
+[[Category:International sports competitions hosted by Germany]]
+[[Category:May 2026 sports events in Germany|Baltic Sea Darts Open]]

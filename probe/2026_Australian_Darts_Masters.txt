@@ -1,0 +1,235 @@
+{{Short description|Darts tournament in Australia}}
+{{Infobox individual darts tournament
+|tournament_name = 2026 KenoGO Australian Darts Masters
+|image = 
+|dates = 21–22 August 2026
+|venue = [[WIN Entertainment Centre]]
+|location = [[Wollongong]], Australia
+|organisation = [[Professional Darts Corporation]] (PDC)
+|format = [[Leg (darts)|Legs]]
+|prize_fund = £100,000
+|winners_share = £30,000
+|nine_dart = 
+|high_checkout = '''170''' Brody Klinge
+|winner = '''{{flagathlete|[[James Wade]]|ENG}}'''
+|prev = [[2025 Australian Darts Masters|2025]]
+|next = [[2027 Australian Darts Masters|2027]]
+}}
+
+The '''2026 Australian Darts Masters''' (known for sponsorship reasons as the '''2026 KenoGO Australian Darts Masters''') is a professional [[darts]] tournament that took place from 21 to 22 August 2026 at the [[WIN Entertainment Centre]] in [[Wollongong]], Australia. It was the third staging of the tournament by the [[Professional Darts Corporation]] (PDC), and was the sixth and final event in the [[2026 World Series of Darts]] before the [[2026 World Series of Darts Finals|World Series Finals]].<ref>{{cite web |last=Phillips |first=Josh |date=5 October 2025 |title=2026 World Series of Darts schedule confirmed |url=https://www.pdc.tv/news/2025/october/05/2026-world-series-darts-schedule-confirmed |website=Professional Darts Corporation |access-date=1 July 2026}}</ref> The total prize fund was £100,000, with the winner receiving £30,000.
+
+The tournament featured 16 players, consisting of eight PDC representatives and eight [[Oceanian]] representatives. [[Luke Littler]] was the reigning champion, having defeated [[Mike De Decker]] 8–4 in the [[2025 Australian Darts Masters|2025 final]]. However, Littler did not enter the tournament and therefore did defend his title.
+
+[[James Wade]] won his first [[World Series of Darts|World Series]] title by defeating Brody Klinge 8–5 in the final. Klinge became the first Oceanian qualifier to reach a World Series final since [[Damon Heta]] at the [[2019 Brisbane Darts Masters]].
+
+== Overview ==
+[[File:WIN Entertainment Centre 20180421.jpg|thumb|The event was held at the [[WIN Entertainment Centre]] ''(pictured in 2018)'' in [[Wollongong]], Australia.]]
+=== Format ===
+Eight elite PDC representatives were drawn to play eight [[Oceanian]] representatives in the first round on Friday 21 August; the quarter-finals, semi-finals and final took place on Saturday 22 August.<ref name="Draw"/>
+
+*'''First round and quarter-finals:''' Best of eleven legs
+*'''Semi-finals:''' Best of thirteen legs
+*'''Final:''' Best of fifteen legs
+
+=== Prize money ===
+The total prize fund for the event remained at £100,000. The breakdown of prize money is shown below:<ref>{{cite web |title=Australian Darts Masters 2026 |url=https://mastercaller.com/tournaments/australian-darts-masters/2026 |website=Mastercaller |access-date=1 July 2026}}</ref>
+
+{| class="wikitable"
+! colspan=2 | Position <small>(no. of players)</small>
+! Prize money<br /><small>(Total: £100,000)</small>
+|-
+|'''Winner'''
+| align=center | <small>(1)</small>
+| align=center | £30,000
+|-
+|'''Runner-up'''
+| align=center | <small>(1)</small>
+| align=center | £16,000
+|-
+|'''Semi-finalists'''
+| align=center | <small>(2)</small>
+| align=center | £10,000
+|-
+|'''Quarter-finalists'''
+| align=center | <small>(4)</small>
+| align=center | £5,000
+|-
+|'''First round'''
+| align=center | <small>(8)</small>
+| align=center | £1,750
+|}
+
+== Participants ==
+The PDC announced the eight PDC representatives on 17 June 2026. Reigning champion [[Luke Littler]], who defeated [[Mike De Decker]] 8–4 in the [[2025 Australian Darts Masters|2025 final]],<ref>{{cite web |last=Fletcher |first=Alex |date=9 August 2025 |title=Littler beats De Decker to take title in Australia |url=https://www.bbc.com/sport/darts/articles/c80dpd3j5pko |website=BBC Sport |access-date=1 July 2026}}</ref> did not enter the tournament.<ref name="Field">{{cite web |last=Gorton |first=Josh |date=17 June 2026 |title=Van Veen & Smith set for World Series debuts Down Under |url=https://www.pdc.tv/news/2026/june/16/van-veen-smith-set-for-world-series-debuts-down-under/ |website=Professional Darts Corporation |access-date=1 July 2026}}</ref> [[Gerwyn Price]], the winner of the [[2024 Australian Darts Masters|inaugural edition]] in 2024, entered the tournament as the top seed.<ref name="Draw"/>
+
+# {{flagathlete|[[Gerwyn Price]]|WAL}} ''(semi-finals)''
+# {{flagathlete|[[Gian van Veen]]|NED}} ''(quarter-finals)''
+# {{flagathlete|[[Jonny Clayton]]|WAL}} ''(semi-finals)''
+# '''{{flagathlete|[[James Wade]]|ENG}}''' '''(champion)'''
+# {{flagathlete|[[Stephen Bunting]]|ENG}} ''(quarter-finals)''
+# {{flagathlete|[[Josh Rock]]|NIR}} ''(quarter-finals)''
+# {{flagathlete|[[Damon Heta]]|AUS}} ''(quarter-finals)''
+# {{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}} ''(first round)''
+
+The first two Oceanian representatives were also confirmed on 17 June: [[List of players with a 2026 PDC Tour Card|2026 PDC Tour Card]] holder [[Adam Leek]] and reigning [[2025 in PDC#ANZ Premier League|ANZ Premier League]] champion [[Simon Whitlock]].<ref name="Field"/> They were joined by five [[2026 in PDC#Australian Darts Association (ADA) Tour|Australian Darts Association]] (ADA) qualifiers and one [[2026 in PDC#Dartplayers New Zealand (DPNZ) Pro Tour|Dartplayers New Zealand]] (DPNZ) qualifier.<ref>{{cite web |last=Simpson |first=Will |date=30 June 2026 |title=Smith & Klinge among five Oceanic names confirmed at Australian Darts Masters |url=https://www.pdc.tv/news/2026/june/30/Smith-Klinge-among-five-Oceanic-names-confirmed-at-Australian-Darts-Masters/ |website=Professional Darts Corporation |access-date=1 July 2026}}</ref><ref>{{cite web |last=Simpson |first=Will |date=6 July 2026 |title=Robb and Tata headline Oceanic field at New Zealand Darts Masters |url=https://www.pdc.tv/news/2026/july/06/robb-and-tata-headline-oceanic-field-at-new-zealand-darts-masters/ |website=Professional Darts Corporation |access-date=6 July 2026}}</ref> [[Darren Penhall]] withdrew due to a shoulder injury and was replaced by [[Mal Cuming]], the next highest-ranked player on the ADA rankings.<ref>{{cite web |last=Gorton |first=Josh |date=20 July 2026 |title=Cuming replaces Penhall in Australian Darts Masters |url=https://www.pdc.tv/news/2026/july/20/cuming-replaces-penhall-in-australian-darts-masters/ |website=Professional Darts Corporation |access-date=20 July 2026}}</ref>
+
+{| class="wikitable"
+|- style="font-size:10pt;font-weight:bold"
+! Qualification
+! Player
+|-
+| '''PDC Tour Card holders'''
+| {{flagathlete|Adam Leek|AUS}} ''(first round)''
+|-
+| '''ANZ Premier League Champion'''
+| {{flagathlete|[[Simon Whitlock]]|AUS}} ''(first round)''
+|-
+| rowspan="5" | '''ADA qualifiers'''
+| {{flagathlete|[[Raymond Smith (darts player)|Raymond Smith]]|AUS}} ''(first round)''
+|-
+| {{flagathlete|Brody Klinge|AUS}} ''(runner-up)''
+|-
+| {{flagathlete|[[Tim Pusey]]|AUS}} ''(first round)''
+|-
+| {{flagathlete|Joe Comito|AUS}} ''(first round)''
+|-
+| {{flagathlete|[[Mal Cuming]]|AUS}} ''(first round)''
+|-
+| '''DPNZ qualifier'''
+| {{flagathlete|[[Ben Robb]]|NZL}} ''(first round)''
+|}
+
+== Summary ==
+=== First round ===
+[[File:Team Wales Darts WC 2025.png|thumb|upright=1.1|Welsh compatriots [[Jonny Clayton]] and [[Gerwyn Price]] ''(Clayton left, Price right, pictured in 2025)'' both reached the semi-finals.]]
+The first round (best of 11 [[Leg (darts)|legs]]) was played on 21 August.<ref name="PDC_D1">{{cite web |last=Gorton |first=Josh |date=21 August 2026 |title=Klinge stuns Smith to set up Van Veen clash in Wollongong |url=https://www.pdc.tv/news/2026/august/21/Klinge-stuns-Smith-set-up-Van-Veen-clash-Wollongong/ |website=Professional Darts Corporation |access-date=21 August 2026}}</ref> Seven of the eight PDC representatives were victorious in the opening round. Fourth seed [[James Wade]] registered a [[three-dart average]] of 112.73, the second-highest average achieved at an Australian World Series event, on his way to a [[Whitewash (sport)|whitewash]] win over [[Tim Pusey]], finishing the match with a 164 [[Glossary of darts#Checkout|checkout]]. "That felt amazing. Everything just fell into my hands there," said Wade afterwards, who added that "everyone is stuffed" if he could replicate his performance the following day.<ref name="Sky_D1">{{cite web |date=21 August 2026 |title=Australian Darts Masters: James Wade dominates tournament opener as Ross Smith stunned by Brody Klinge in Wollongong |url=https://www.skysports.com/darts/news/12288/13575441/australian-darts-masters-james-wade-dominates-tournament-opener-as-ross-smith-stunned-by-brody-klinge-in-wollongong |website=Sky Sports |access-date=21 August 2026}}</ref> Oceanian representative Brody Klinge defied a 102.88 average from [[Ross Smith (darts player)|Ross Smith]] to defeat the PDC representative in a [[Glossary of darts#Decider|deciding leg]], with the Australian completing the win with an 11-dart [[Glossary of darts#Break|break of throw]] after Smith missed two [[Glossary of darts#Match dart|match darts]]. Klinge commented that it was "the adrenaline rush of my life" and that he was "on a free rein now" without the pressure of getting past the first round.<ref name="PDC_D1"/>
+
+[[Adam Leek]] took a 3–2 lead against [[Josh Rock]], but Rock won the next four legs to win 6–3.<ref name="NL">{{cite web |last=McNabb |first=Johnny |date=21 August 2026 |title=Australian Darts Masters: Josh Rock hits two ton-plus checkouts to reach quarter-final stage |url=https://www.newsletter.co.uk/sport/other-sport/australian-darts-masters-josh-rock-hits-two-ton-plus-checkouts-to-reach-quarter-final-stage-8935109 |website=News Letter |access-date=21 August 2026}}</ref> Top seed [[Gerwyn Price]], the [[2024 Australian Darts Masters|2024]] champion, converted back-to-back checkouts of 124 and 108 to beat [[Simon Whitlock]] 6–2. Australian number one [[Damon Heta]] averaged 102.39 as he beat Joe Comito 6–2. Third seed [[Jonny Clayton]], who won the [[2026 New Zealand Darts Masters|New Zealand Darts Masters]] the previous week, defeated [[Ben Robb]] 6–3 to begin his pursuit for back-to-back titles. Second seed [[Gian van Veen]] and [[Stephen Bunting]] were also 6–3 victors, earning respective wins over [[Raymond Smith (darts player)|Raymond Smith]] and [[Mal Cuming]].<ref name="Sky_D1"/><ref name="NL"/>
+
+=== Quarter-finals, semi-finals and final ===
+[[File:2022-06-13 Play-offs (2022 Premier League Darts) by Sandro Halank–068.jpg|thumb|[[James Wade]] ''(pictured in 2022)'' won his first World Series title by defeating Oceanian representative Brody Klinge 8–5 in the final.]]
+The quarter-finals (best of 11 legs), semi-finals (best of 13 legs) and final (best of 15 legs) were played on 22 August.<ref name="PDC_Final">{{cite web |last=Gorton |first=Josh |date=22 August 2026 |title=Wonderful Wade wins maiden World Series title in Wollongong |url=https://www.pdc.tv/news/2026/august/22/wonderful-Wade-wins-maiden-world-series-title-wollongong/ |website=Professional Darts Corporation |access-date=22 August 2026}}</ref> Gerwyn Price won five consecutive legs to defeat Josh Rock 6–2 with a three-dart average of 101.34 in the opening quarter-final. James Wade hit a 164 checkout as he overturned a 5–2 deficit to beat Stephen Bunting in a deciding leg. Brody Klinge produced another upset win to progress to the semi-finals, eliminating world number two Gian van Veen in a 6–4 victory. In the last quarter-final match, Jonny Clayton defeated Damon Heta 6–3. In the semi-finals, Wade averaged 101.27 to beat top seed Price 7–4, while Klinge converted a [[Glossary of darts#Maximum check|170 checkout]] to complete a 7–5 win over Clayton, ending the Welshman's hopes of winning back-to-back titles.<ref name="PDC_Final"/><ref name="DNews_Final">{{cite web |last=Wood |first=Kieran |date=22 August 2026 |title=James Wade denies 104+ average from Aussie qualifier Brody Klinge to win long-awaited first-ever World Series title |url=https://dartsnews.com/pdc/australian-darts-masters-2026-roundup-james-wade-denies-104-average-from-aussie-qualifier-brody-klinge-to-win-long-awaited-first-ever-world-series-title |website=dartsnews.com |access-date=22 August 2026}}</ref> In just his second World Series appearance, Klinge became the first Oceanian qualifier to reach a World Series final since Heta at the [[2019 Brisbane Darts Masters]].<ref name="Klinge">{{cite web |last=Gorton |first=Josh |date=22 August 2026 |title=Klinge vows to 'take opportunity' following Australian Darts Masters breakthrough |url=https://www.pdc.tv/news/2026/august/22/klinge-vows-to--take-opportunity-following-australian-darts-masters-breakthrough/ |website=Professional Darts Corporation |access-date=23 August 2026}}</ref> Wade and Klinge both aimed to win their first World Series title.<ref name="PDC_Final"/>
+
+Wade found an 11-dart break of throw to establish an early 2–0 lead in the final.<ref name="PDC_Final"/> The pair, both averaging 107, entered the interval with Wade 4–2 in front.<ref name="DNews_Final"/><ref name="Sky_Final">{{cite web |last=Hodge |first=Stuart |date=22 August 2026 |title=Australian Darts Masters: James Wade claims first-ever World Series of Darts title with victory over home favourite Brody Klinge |url=https://www.skysports.com/darts/news/12288/13575787/australian-darts-masters-james-wade-claims-first-ever-world-series-of-darts-title-with-victory-over-home-favourite-brody-klinge |website=Sky Sports |access-date=22 August 2026}}</ref> He extended this lead to 6–2 to complete a run of four consecutive legs won. Klinge halted his opponent's momentum and staged a potential comeback, winning the next three legs to reduce the gap to 6–5, including a 140 checkout for 6–4. However, Wade won the next two to secure an 8–5 victory. Wade finished the match with a three-dart average of 101.62, while Klinge averaged 104.56 in defeat.<ref name="Sky_Final"/><ref name="BBC_Final">{{cite web |last=Nelson |first=Craig |date=22 August 2026 |title=Wade wins first World Series title in Australia |url=https://www.bbc.com/sport/darts/articles/c4gwg9nnx36o |website=BBC Sport |access-date=22 August 2026}}</ref>
+
+Wade won his first World Series title and his first televised title since the [[2021 UK Open]], 13 years after participating in the first World Series event at the [[2013 Dubai Duty Free Darts Masters|2013 Dubai Darts Masters]].<ref name="Sky_Final"/><ref name="BBC_Final"/> He also won the [[2018 World Series of Darts Finals|2018 World Series Finals]].<ref>{{cite web |date=7 November 2018 |title=James Wade continues return to form with World Series of Darts Finals title |url=https://www.skysports.com/darts/news/12288/11545434/james-wade-continues-return-to-form-with-world-series-of-darts-finals-title |website=Sky Sports |access-date=22 August 2026}}</ref> In his post-match interview, Wade admitted that he thought he would get a "nice easy win" against the regional qualifier, but Klinge's performance meant he had to work hard for the victory. "I will be really, really disappointed if this man [Klinge] doesn't pursue what he is doing," added Wade, before joking about the reaction he got from the partisan crowd in [[Wollongong]].<ref name="BBC_Final"/> "The crowd have been behind me the whole time and I've really enjoyed the whole experience. I cannot believe I got here," said Klinge, who vowed to keep playing and "see what happens".<ref name="Klinge"/>
+
+== Draw ==
+The draw was announced on 20 August.<ref name="Draw">{{cite web |date=20 August 2026 |title=Australian Darts Masters: Gerwyn Price begins bid for second title against legendary Simon Whitlock |url=https://www.skysports.com/darts/news/12288/13574971/australian-darts-masters-gerwyn-price-begins-bid-for-second-title-against-legendary-simon-whitlock |website=Sky Sports |access-date=20 August 2026}}</ref> Numbers to the left of players' names show the seedings for the top four in the tournament. The figures to the right of a player's name state their [[three-dart average]] in a match. Players in bold denote match winners.<ref>{{cite web |title=Results of Australian Darts Masters 2026 |url=https://mastercaller.com/tournaments/australian-darts-masters/2026/results |website=Mastercaller |access-date=21 August 2026}}</ref>
+
+{{16TeamBracket
+| RD1='''First round'''<br>''(best of 11 legs)''<br>21 August
+| RD2='''Quarter-finals'''<br>''(best of 11 legs)''<br>22 August
+| RD3='''Semi-finals'''<br>''(best of 13 legs)''<br>22 August
+| RD4='''Final'''<br>''(best of 15 legs)''<br>22 August
+| team-width = 250
+| boldwinner = high
+| RD1-seed01 = 1
+| RD1-team01 = {{PDCFlag|Gerwyn Price|avg=87.58}}
+| RD1-score01= 6
+| RD1-seed02 =
+| RD1-team02 = {{PDCFlag|Simon Whitlock|avg=89.78}}
+| RD1-score02= 2
+| RD1-seed03 = &nbsp;
+| RD1-team03 = {{PDCFlag|Josh Rock|avg=86.75}}
+| RD1-score03= 6
+| RD1-seed04 =
+| RD1-team04 = {{PDCFlag|Adam Leek|avg=77.78}}
+| RD1-score04= 3
+| RD1-seed05 = 4
+| RD1-team05 = {{PDCFlag|James Wade|avg=112.73}}
+| RD1-score05= 6
+| RD1-seed06 =
+| RD1-team06 = {{PDCFlag|Tim Pusey|avg=94.44}}
+| RD1-score06= 0
+| RD1-seed07 = &nbsp;
+| RD1-team07 = {{PDCFlag|Stephen Bunting|avg=89.01}}
+| RD1-score07= 6
+| RD1-seed08 = 
+| RD1-team08 = {{PDCFlag|Mal Cuming|avg=87.35}}
+| RD1-score08= 3
+| RD1-seed09 = 2
+| RD1-team09 = {{PDCFlag|Gian van Veen|avg=95.98}}
+| RD1-score09= 6
+| RD1-seed10 =
+| RD1-team10 = {{PDCFlag|Raymond Smith|avg=92.60}}
+| RD1-score10= 3
+| RD1-seed11 = &nbsp;
+| RD1-team11 = {{PDCFlag|Ross Smith|avg=102.88}}
+| RD1-score11= 5
+| RD1-seed12 =
+| RD1-team12 = {{PDCFlag|Brody Klinge|avg=96.00}}
+| RD1-score12= 6
+| RD1-seed13 = 3
+| RD1-team13 = {{PDCFlag|Jonny Clayton|avg=87.79}}
+| RD1-score13= 6 
+| RD1-seed14 =
+| RD1-team14 = {{PDCFlag|Ben Robb|avg=85.23}}
+| RD1-score14= 3
+| RD1-seed15 = &nbsp;
+| RD1-team15 = {{PDCFlag|Damon Heta|avg=102.39}}
+| RD1-score15= 6
+| RD1-seed16 =
+| RD1-team16 = {{PDCFlag|Joe Comito|avg=84.80}}
+| RD1-score16= 2
+
+| RD2-seed01 = 1
+| RD2-team01 = {{PDCFlag|Gerwyn Price|avg=101.34}}
+| RD2-score01= 6
+| RD2-seed02 = 
+| RD2-team02 = {{PDCFlag|Josh Rock|avg=90.24}}
+| RD2-score02= 2
+| RD2-seed03 = 4
+| RD2-team03 = {{PDCFlag|James Wade|avg=98.57}}
+| RD2-score03= 6
+| RD2-seed04 = 
+| RD2-team04 = {{PDCFlag|Stephen Bunting|avg=95.60}}
+| RD2-score04= 5
+| RD2-seed05 = 2
+| RD2-team05 = {{PDCFlag|Gian van Veen|avg=93.80}}
+| RD2-score05= 4
+| RD2-seed06 = 
+| RD2-team06 = {{PDCFlag|Brody Klinge|avg=97.90}}
+| RD2-score06= 6
+| RD2-seed07 = 3
+| RD2-team07 = {{PDCFlag|Jonny Clayton|avg=97.96}}
+| RD2-score07= 6
+| RD2-seed08 = &nbsp;
+| RD2-team08 = {{PDCFlag|Damon Heta|avg=95.20}}
+| RD2-score08= 3
+
+| RD3-seed01 = 1
+| RD3-team01 = {{PDCFlag|Gerwyn Price|avg=94.17}}
+| RD3-score01= 4
+| RD3-seed02 = 4
+| RD3-team02 = {{PDCFlag|James Wade|avg=101.27}}
+| RD3-score02= 7
+| RD3-seed03 = &nbsp;
+| RD3-team03 = {{PDCFlag|Brody Klinge|avg=101.59}}
+| RD3-score03= 7
+| RD3-seed04 = 3
+| RD3-team04 = {{PDCFlag|Jonny Clayton|avg=98.89}}
+| RD3-score04= 5
+
+| RD4-seed01 = 4
+| RD4-team01 = {{PDCFlag|James Wade|avg=101.62}}
+| RD4-score01= 8
+| RD4-seed02 = &nbsp;
+| RD4-team02 = {{PDCFlag|Brody Klinge|avg=104.56}}
+| RD4-score02= 5
+}}
+
+== References ==
+{{reflist}}
+
+{{World Series of Darts}}
+{{2026 in PDC darts}}
+
+{{DEFAULTSORT:Australian Darts Masters}}
+[[Category:2026 in darts]]
+[[Category:World Series of Darts]]
+[[Category:Darts in Australia]]
+[[Category:Sport in Wollongong]]
+[[Category:2025 in New South Wales]]
+[[Category:August 2026 sports events in Australia]]
+[[Category:International sports competitions hosted by Australia]]

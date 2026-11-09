@@ -1,0 +1,673 @@
+{{Use dmy dates|date=November 2025}}
+{{Use British English|date=November 2025}}
+{{Infobox individual darts tournament
+|tournament_name = 2025 Ladbrokes Players Championship Finals 
+|image = 
+|dates = 21–23 November 2025
+|venue = [[Butlin's Minehead]]
+|location = [[Minehead]], England
+|organisation = [[Professional Darts Corporation]] (PDC)
+|format = [[Leg (darts)|Legs]]
+|prize_fund = £600,000
+|winners_share = £120,000
+|nine_dart = 
+|high_checkout = {{ubl|'''170'''|[[Kevin Doets]]|[[Nathan Aspinall]]}}
+|winner = '''{{flagathlete|[[Luke Littler]]|ENG}}'''
+|prev = [[2024 Players Championship Finals|2024]]
+|next = [[2026 Players Championship Finals|2026]]
+}}
+
+The '''2025 Players Championship Finals''' (known for sponsorship reasons as the '''2025 Ladbrokes Players Championship Finals''') was a professional [[darts]] tournament that was held at the [[Butlin's Minehead|Butlin's Resort]] in [[Minehead]], England, from 21 to 23 November 2025. It was the 18th staging of the [[Players Championship Finals]] by the [[Professional Darts Corporation]] (PDC). The total prize fund was £600,000, with the winner receiving £120,000. The [[2025 PDC World Youth Championship]] final between [[Gian van Veen]] and [[Beau Greaves]] also took place, being held between the semi-finals and the final of the main tournament, where Van Veen retained his title with a 6–3 win.<ref>{{cite web |last=Gorton |first=Josh |date=23 November 2025 |title=Van Veen defeats Greaves to retain Winmau World Youth Championship title |url=https://www.pdc.tv/news/2025/november/23/van-veen-defeats-greaves-retain-winmau-world-youth-championship-title |website=Professional Darts Corporation |access-date=23 November 2025}}</ref>
+
+The tournament was the last PDC event before the [[2026 PDC World Darts Championship]]. It featured the top 64 players based on ranking money earned in the 34 [[2025 PDC Players Championship series|Players Championship events]] that were held as part of the [[2025 PDC Pro Tour]]. Seven-time champion [[Michael van Gerwen]] missed the event for the first time in his career. 61st seed [[Niko Springer]] withdrew from the event due to illness and was replaced by [[Ryan Meikle]].
+
+[[Luke Humphries]] was the two-time defending champion, having defeated [[Luke Littler]] 11–7 in the [[2024 Players Championship Finals|2024 final]]. In a rematch of the [[2025 European Championship (darts)|2025 European Championship]] final, Humphries lost 6–5 to Van Veen in the first round. Littler won the tournament, his first Players Championship Finals title, by defeating [[Nathan Aspinall]] 11–8 in the final.
+
+==Overview==
+===Background===
+[[File:Butlins Minehead.jpg|thumb|The tournament was held at the [[Butlin's Minehead|Butlin's Resort]] ''(pictured in 2010)'' in [[Minehead]], England.]]
+The 2025 [[Players Championship Finals]] was the 18th edition of the tournament to be staged by the [[Professional Darts Corporation]] (PDC) since the [[2009 Players Championship Finals|2009 event]].<ref>{{cite web |title=Players Championship Finals |url=https://mastercaller.com/tournaments/players-championship-finals |website=mastercaller.com |access-date=11 September 2025}}</ref> The tournament was first announced at the [[PDC Awards Dinner]] in January 2008 by PDC chairman [[Barry Hearn]].<ref>{{cite web |date=10 January 2008 |title=PDC to introduce new events |url=https://www.pdc.tv/news/pdc-to-introduce-new-events |website=Professional Darts Corporation |access-date=11 September 2025}}</ref> The inaugural edition was held at the [[Circus Tavern]] in [[Purfleet]], England – the former host venue of the [[PDC World Darts Championship]]. It was won by [[Phil Taylor (darts player)|Phil Taylor]], who defeated [[Robert Thornton (darts player)|Robert Thornton]] 16–9 in the final.<ref>{{cite web |date=2 February 2009 |title=Taylor clinches inaugural event |url=http://news.bbc.co.uk/sport2/hi/other_sports/darts/7864301.stm |website=BBC Sport |access-date=11 September 2025}}</ref> The tournament was initially held at the start of the year but was moved to the end of the year in 2011 to serve as the culmination to the [[PDC Pro Tour]] season.<ref>{{cite web |date=15 June 2011 |title=Players Championship Finals date set |url=https://www.pdc.tv/news/2011/06/15/players-championship-finals-date-set |website=Professional Darts Corporation |access-date=11 September 2025}}{{dead link|date=February 2026|bot=medic}}{{cbignore|bot=medic}}</ref> Qualifiers for the event are decided based on prize money earned during the year's [[PDC Pro Tour#Players Championships|Players Championship]] events; the field of participants expanded from 32 to 64 players in 2016.<ref>{{cite web |date=29 December 2015 |title=Prize fund boosts announced |url=https://www.pdc.tv/news/prize-fund-boosts-announced |website=Professional Darts Corporation |access-date=11 September 2025}}</ref>
+
+The 2025 edition took place from 21 to 23 November 2025 at the [[Butlin's Minehead|Butlin's Resort]] in [[Minehead]], England.<ref>{{cite web |date=18 July 2025 |title=PDC Darts 2025 season: Tournament calendar, fixtures and results |url=https://www.sportinglife.com/darts/news/pdc-darts-2025-season-tournament-calendar-fixtures-and-results/222906 |website=Sporting Life |access-date=5 September 2025}}</ref> British gambling company [[Ladbrokes]] continued its sponsorship of the event after becoming title sponsor the previous year.<ref>{{cite web |last=Donaldson |first=Alex |date=13 February 2024 |title=PDC announces pair of event sponsorships with Ladbrokes |url=https://www.sportcal.com/sponsorship/pdc-announces-pair-of-event-sponsorships-with-ladbrokes/ |website=Sportcal |access-date=11 September 2025}}</ref> [[Luke Humphries]] was the defending champion, having defeated [[Luke Littler]] 11–7 in the [[2024 Players Championship Finals|2024 final]] to retain his [[2023 Players Championship Finals|2023 title]].<ref name="2024F">{{cite web |date=25 November 2024 |title=Players Championship Finals: Luke Humphries beats Luke Littler in thrilling final to retain title |url=https://www.skysports.com/darts/news/12288/13260297/players-championship-finals-luke-humphries-beats-luke-littler-in-thrilling-final-to-retain-title |website=Sky Sports |access-date=11 September 2025}}</ref>
+
+===Format===
+The 64-player field were [[Seeding (sport)|seeded]] based on the [[2025 PDC Players Championship series#Players Championship Order of Merit|Players Championship Order of Merit]], a ranking comprising prize money won in Players Championship events during the year. All matches were in [[Leg (darts)|leg]] play format, with the number of legs required to win increasing as the tournament progressed.<ref name="Preview">{{cite web |last=Gorton |first=Josh |date=20 November 2025 |title=2025 Ladbrokes Players Championship Finals preview |url=https://www.pdc.tv/news/2025/november/20/2025-ladbrokes-players-championship-finals-preview |website=Professional Darts Corporation |access-date=21 November 2025}}</ref>
+
+*'''First round and second round:''' Best of 11 legs
+*'''Third round and quarter-finals:''' Best of 19 legs
+*'''Semi-finals and final:''' Best of 21 legs
+
+===Prize money===
+The prize fund remained at £600,000, with £120,000 going to the winner. The prize fund breakdown was:<ref name="MC">{{Cite web |title=Players Championship Finals 2025 - Mastercaller |url=https://mastercaller.com/tournaments/players-championship-finals/2025 |access-date=6 September 2024 |website=mastercaller.com}}</ref>
+
+{| class="wikitable"
+|-
+! colspan=2 | Position <small>(no. of players)</small>
+! Prize money<br /><small>(Total: £600,000)</small>
+|-
+|'''Winner'''
+| align=center | (1)
+| align=center | £120,000
+|-
+|'''Runner-up'''
+| align=center | (1)
+| align=center | £60,000
+|-
+|'''Semi-finalists'''
+| align=center | (2)
+| align=center | £30,000
+|-
+|'''Quarter-finalists'''
+| align=center | (4)
+| align=center | £20,000
+|-
+|'''Last 16 (third round)'''
+| align=center | (8)
+| align=center | £10,000
+|-
+|'''Last 32 (second round)'''
+| align=center | (16)
+| align=center | £6,500
+|-
+|'''Last 64 (first round)'''
+| align=center | (32)
+| align=center | £3,000
+|}
+
+===Broadcasts===
+The tournament was broadcast by [[ITV4]] in the United Kingdom. It was the last PDC event to be produced by [[ITV Sport]], with production of future televised tournaments on ITV4 to be managed by the PDC as part of a new multi-year deal.<ref>{{cite web |last=Gabbitass |first=Anna-Rose |date=29 October 2025 |title=PDC extends free-to-air ITV deal until 2028 |url=https://www.sportindustry.biz/news-categories/news/the-professional-darts-corporation-agree-broadcast-extension-itv/ |website=Sports Industry Group |access-date=23 November 2025}}</ref> Other broadcasters included [[Viaplay]] in the Netherlands and the [[Nordic countries]]; [[DAZN]] in Germany, Austria and Switzerland; [[Fox Sports (Australia)|Fox Sports]] in Australia; [[Sky Sport (New Zealand)|Sky Sport]] in New Zealand; [[VTM (TV channel)|VTM]] in Belgium; [[Nova Sport (Czech Republic and Slovakia)|Nova]] in Czechia and Slovakia; Network 4 in Hungary; [[FanDuel TV|FanDuel TV Extra]] in the United States; and [[beIN Sports (Middle East TV channel)|BeIN Sports]] in the [[Middle East and North Africa]]. It was also available for subscribers outside of the United Kingdom, Germany, Austria and Switzerland on the PDC's streaming service, PDCTV, which also streamed matches on stage two worldwide.<ref>{{cite web |last=Simpson |first=Will |date=20 November 2025 |title=Where to watch the 2025 Ladbrokes Players Championship Finals |url=https://www.pdc.tv/news/2025/november/20/where-watch-2025-ladbrokes-players-championship-finals |website=Professional Darts Corporation |access-date=23 November 2025}}</ref>
+
+==Qualification==
+[[File:2025-04-03 Premier League Darts Berlin 2025 by Sandro Halank–161.jpg|thumb|[[Gerwyn Price]] entered the tournament as the number one seed.]]
+The [[2025 PDC Players Championship series|2025 Players Championship series]] was held as part of the [[2025 PDC Pro Tour]] and consisted of 34 events. Following the final event of the season, the top 64 players on the [[2025 PDC Players Championship series#Players Championship Order of Merit|Players Championship Order of Merit]] qualified for the tournament.<ref name="Draw">{{cite web |last=Gorton |first=Josh |date=30 October 2025 |title=2025 Ladbrokes Players Championship Finals draw & field confirmed |url=https://www.pdc.tv/news/2025/october/30/2025-ladbrokes-players-championship-finals-draw-field-confirmed |website=Professional Darts Corporation |access-date=31 October 2025}}</ref>
+
+Three-time world champion and seven-time Players Championship Finals winner [[Michael van Gerwen]] missed the tournament for the first time in his career, having made his debut at the [[2009 Players Championship Finals|inaugural event]] in 2009 and competed in every subsequent edition.<ref>{{cite web |last=Sanghera |first=Mandeep |date=15 October 2025 |title='Family my priority' - Van Gerwen out of Finals |url=https://www.bbc.com/sport/darts/articles/cpq1zydx8r9o |website=BBC Sport |access-date=24 October 2025}}</ref> He withdrew from the final three Players Championship events of the season to focus on spending more time with his family.<ref>{{cite web |date=15 October 2025 |url=https://www.skysports.com/darts/news/12288/13450467/michael-van-gerwen-will-miss-the-players-championship-finals-after-withdrawing-from-remaining-protour-events|title=Michael van Gerwen will miss the Players Championship Finals after withdrawing from remaining ProTour events|publisher=Sky Sports |access-date=15 October 2025}}</ref> Reigning world champion [[Luke Littler]] was outside of the qualifying spots heading into the last three events of the season, but confirmed his place at the tournament by winning [[2025 PDC Players Championship series#Players Championship 32|Players Championship 32]].<ref>{{cite web |date=15 October 2025 |title=Luke Littler secures Players Championship spot with 32 event win |url=https://www.espn.com/darts/story/_/id/46606614/luke-littler-secures-players-championship-spot-32-event-win |website=ESPN |access-date=31 October 2025}}</ref> Defending champion [[Luke Humphries]] confirmed his qualification as the 58th seed on the final day of play, setting up a first-round match against 7th seed [[Gian van Veen]] in a repeat of the [[2025 European Championship (darts)|2025 European Championship]] final.<ref>{{cite web |last=Emons |first=Michael |date=30 October 2025 |title=Humphries qualifies as Littler criticises officials |url=https://www.bbc.com/sport/darts/articles/cx2pj3n9039o |website=BBC Sport |access-date=31 October 2025}}</ref><ref name="PC34">{{cite web |date=30 October 2025 |title=Luke Humphries secures Players Championship Finals spot as Wessel Nijman claims PC34 victory |url=https://www.skysports.com/darts/news/12288/13460729/luke-humphries-secures-players-championship-finals-spot-as-wessel-nijman-claims-pc34-victory |website=Sky Sports |access-date=31 October 2025}}</ref>
+
+[[Gerwyn Price]] entered the tournament as the number one seed after winning four Players Championship titles during the year. [[Wessel Nijman]], [[Damon Heta]], [[Ross Smith (darts player)|Ross Smith]] and [[Chris Dobey]] completed the top five in the Players Championship Order of Merit.<ref name="PC34"/>
+
+===Top 64 in the Players Championship Order of Merit===
+The following players qualified for the tournament:<ref name="Draw"/>
+
+{{columns-list|colwidth=22em|
+{{seeds|1|1}} {{flagathlete|[[Gerwyn Price]]|WAL}} ''(semi-finals)''
+{{seeds|2|3}} {{flagathlete|[[Wessel Nijman]]|NED}} ''(first round)''
+{{seeds|3|4}} {{flagathlete|[[Damon Heta]]|AUS}} ''(first round)''
+{{seeds|4|2}} {{flagathlete|[[Ross Smith (darts player)|Ross Smith]]|ENG}} ''(second round)''
+{{seeds|5|2}} {{flagathlete|[[Chris Dobey]]|ENG}} ''(quarter-finals)''
+{{seeds|6|4}} {{flagathlete|[[Jermaine Wattimena]]|NED}} ''(semi-finals)''
+{{seeds|7|3}} {{flagathlete|[[Gian van Veen]]|NED}} ''(second round)''
+{{seeds|8|1}} {{flagathlete|[[Stephen Bunting]]|ENG}} ''(second round)''
+{{seeds|9|1}} {{flagathlete|[[Cameron Menzies]]|SCO}} ''(first round)''
+{{seeds|10|3}} {{flagathlete|[[Josh Rock]]|NIR}} ''(quarter-finals)''
+{{seeds|11|4}} {{flagathlete|[[Ryan Searle (darts player)|Ryan Searle]]|ENG}} ''(third round)''
+{{seeds|12|2}} {{flagathlete|[[Jonny Clayton]]|WAL}} (''first round'')
+{{seeds|13|2}} {{flagathlete|[[William O'Connor (darts player)|William O'Connor]]|IRL}} ''(first round)''
+{{seeds|14|4}} {{flagathlete|[[Joe Cullen (darts player)|Joe Cullen]]|ENG}} ''(first round)''
+{{seeds|15|3}} {{flagathlete|[[Danny Noppert]]|NED}} ''(third round)''
+{{seeds|16|1}} {{flagathlete|[[Martin Schindler]]|GER}} ''(third round)''
+{{seeds|17|1}} {{flagathlete|[[Niels Zonneveld]]|NED}} ''(first round)''
+{{seeds|18|3}} {{flagathlete|[[Dirk van Duijvenbode]]|NED}} ''(first round)''
+{{seeds|19|4}} {{flagathlete|[[James Wade]]|ENG}} ''(quarter-finals)''
+{{seeds|20|2}} {{flagathlete|[[Gary Anderson (darts player)|Gary Anderson]]|SCO}} ''(second round)''
+{{seeds|21|2}} {{flagathlete|[[Luke Woodhouse]]|ENG}} ''(second round)''
+{{seeds|22|4}} {{flagathlete|[[Kevin Doets]]|NED}} ''(first round)''
+{{seeds|23|3}} {{flagathlete|[[Scott Williams (darts player)|Scott Williams]]|ENG}} ''(second round)''
+{{seeds|24|1}} {{flagathlete|[[Bradley Brooks]]|ENG}} ''(second round)''
+{{seeds|25|1}} {{flagathlete|[[Brendan Dolan]]|NIR}} ''(first round)''
+{{seeds|26|3}} {{flagathlete|[[Krzysztof Ratajski]]|POL}} ''(third round)''
+{{seeds|27|4}} {{flagathlete|[[Dave Chisnall]]|ENG}} ''(first round)''
+{{seeds|28|2}} {{flagathlete|[[Mike De Decker]]|BEL}} ''(first round)''
+{{seeds|29|2}} {{flagathlete|[[Jeffrey de Graaf]]|SWE}} ''(first round)''
+{{seeds|30|4}} {{flagathlete|[[Andrew Gilding]]|ENG}} ''(third round)''
+{{seeds|31|3}} {{flagathlete|[[Karel Sedláček]]|CZE}} ''(first round)''
+{{seeds|32|1}} {{flagathlete|[[Rob Cross]]|ENG}} ''(first round)''
+{{seeds|33|1}} {{flagathlete|[[Sebastian Białecki]]|POL}} ''(second round)''
+{{seeds|34|3}} {{flagathlete|[[Nathan Aspinall]]|ENG}}  ''(runner-up)''
+{{seeds|35|4}} {{flagathlete|[[Dom Taylor]]|ENG}} ''(first round)''
+{{seeds|36|2}} '''{{flagathlete|[[Luke Littler]]'''|ENG}} '''(champion)'''
+{{seeds|37|2}} {{flag athlete|[[Cam Crabtree]]|ENG}} ''(second round)''
+{{seeds|38|4}} {{flagathlete|[[Ryan Joyce]]|ENG}} ''(second round)''
+{{seeds|39|3}} {{flagathlete|[[Raymond van Barneveld]]|NED}} ''(first round)''
+{{seeds|40|1}} {{flagathlete|[[Daryl Gurney]]|NIR}} ''(quarter-finals)''
+{{seeds|41|1}} {{flagathlete|[[Martin Lukeman]]|ENG}} ''(first round)''
+{{seeds|42|3}} {{flagathlete|[[Ian White (darts player)|Ian White]]|ENG}} ''(first round)''
+{{seeds|43|4}} {{flagathlete|[[Callan Rydz]]|ENG}} ''(second round)''
+{{seeds|44|2}} {{flagathlete|[[Alan Soutar]]|SCO}} ''(first round)''
+{{seeds|45|2}} {{flagathlete|[[Mario Vandenbogaerde]]|BEL}} ''(first round)''
+{{seeds|46|4}} {{flagathlete|[[Mickey Mansell]]|NIR}} ''(first round)''
+{{seeds|47|3}} {{flagathlete|[[Madars Razma]]|LAT}} ''(second round)''
+{{seeds|48|1}} {{flagathlete|[[Nick Kenny (darts player)|Nick Kenny]]|WAL}} ''(second round)''
+{{seeds|49|1}} {{flagathlete|[[Michael Smith (darts player)|Michael Smith]]|ENG}} ''(first round)''
+{{seeds|50|3}} {{flagathlete|[[Ricky Evans (darts player)|Ricky Evans]]|ENG}} ''(first round)''
+{{seeds|51|4}} {{flagathlete|[[Peter Wright (darts player)|Peter Wright]]|SCO}} ''(second round)''
+{{seeds|52|2}} {{flagathlete|[[Ricardo Pietreczko]]|GER}} ''(third round)''
+{{seeds|53|2}} {{flagathlete|[[James Hurrell]]|ENG}} ''(third round)''
+{{seeds|54|4}} {{flagathlete|[[Darren Beveridge]]|SCO}} ''(first round)''
+{{seeds|55|3}} {{flagathlete|[[Gabriel Clemens]]|GER}} ''(first round)''
+{{seeds|56|1}} {{flagathlete|[[Adam Lipscombe]]|ENG}} ''(third round)''
+{{seeds|57|1}} {{flagathlete|[[Ritchie Edhouse]]|ENG}} ''(first round)''
+{{seeds|58|3}} {{flagathlete|[[Luke Humphries]]|ENG}} ''(first round)''
+{{seeds|59|4}} {{flagathlete|[[Wesley Plaisier]]|NED}} ''(first round)''
+{{seeds|60|2}} {{flagathlete|[[Keane Barry]]|IRL}} ''(first round)''
+{{seeds|61|2}} <s>{{flagathlete|[[Niko Springer]]|GER}}</s> ''(withdrew)''{{Efn|name=Meikle|Niko Springer withdrew from the tournament due to illness. He was replaced by the highest-ranked non-qualifier from the Players Championship Order of Merit, Ryan Meikle.<ref>{{cite web |last=Gorton |first=Josh |date=20 November 2025 |title=Springer withdraws from Ladbrokes Players Championship Finals |url=https://www.pdc.tv/news/2025/november/20/springer-withdraws-ladbrokes-players-championship-finals |website=Professional Darts Corporation |access-date=20 November 2025}}</ref>}}
+{{seeds|62|4}} {{flagathlete|[[Justin Hood (darts player)|Justin Hood]]|ENG}} ''(second round)''
+{{seeds|63|3}} {{flagathlete|[[Richard Veenstra]]|NED}} ''(second round)''
+{{seeds|64|1}} {{flagathlete|[[Max Hopp]]|GER}} ''(first round)''
+{{seeds|65|2}} {{flagathlete|[[Ryan Meikle]]|ENG}}{{Efn|name=Meikle}} ''(first round)''
+}}
+
+==Summary==
+===First round===
+{{multiple image
+ | align = right
+ | total_width = 400
+ | image1 = 2025-04-03 Premier League Darts Berlin 2025 by Sandro Halank–104.jpg
+ | image2 = Gian van Veen 2025.png
+ | footer = [[Luke Humphries]] ''(left)'' was the defending champion, but he was eliminated by [[Gian van Veen]] ''(right)'' in the first round.
+}}
+
+The first round was played on 21 November, with matches split across the main stage and stage two.<ref name="PDCR1">{{cite web |last=Gorton |first=Josh |date=21 November 2025 |title=Van Veen edges out reigning champion Humphries on Day One in Minehead |url=https://www.pdc.tv/news/2025/november/21/van-veen-edges-out-reigning-champion-humphries-day-one-minehead |website=Professional Darts Corporation |access-date=22 November 2025}}</ref> Defending champion [[Luke Humphries]] took a 3–0 lead against [[European Championship (darts)|European]] champion [[Gian van Veen]]. Van Veen won his first leg by hitting a 161 [[Glossary of darts#Checkout|checkout]] before he overturned the deficit and led 5–4. He missed two [[Glossary of darts#Match dart|match darts]] as Humphries forced a [[Glossary of darts#Decider|deciding leg]], where Van Veen would miss three further match darts before securing a 6–5 win. It was Van Veen's second victory against Humphries in the space of a month, after defeating him in the [[2025 European Championship (darts)|European Championship]] final, as well as his fourth consecutive victory against him overall.<ref name="SkyR1">{{cite web |date=21 November 2025 |title=Luke Humphries suffers first-round exit as Luke Littler storms through opening test at Players Championship Finals |url=https://www.skysports.com/darts/news/12040/13473709/luke-humphries-suffers-first-round-exit-as-luke-littler-storms-through-opening-test-at-players-championship-finals |website=Sky Sports |access-date=22 November 2025}}</ref> Reigning world champion [[Luke Littler]] played in his first match as world number one, having risen to the top of the [[PDC Order of Merit]] during his winning campaign at the [[2025 Grand Slam of Darts|Grand Slam]].<ref name="IndR1">{{cite web |last=Veal |first=Jonathan |date=21 November 2025 |title=Luke Littler 'hungry' for another title to go with world number one ranking |url=https://www.independent.co.uk/sport/luke-littler-luke-humphries-grand-slam-of-darts-michael-van-gerwen-gerwyn-price-b2870252.html |website=The Independent |access-date=22 November 2025}}</ref> He defeated [[Jeffrey de Graaf]] 6–1 with a [[three-dart average]] of 104.46.<ref name="BBCR1">{{cite web |last=Brotherton |first=Alex |date=21 November 2025 |title=Littler wins as Van Veen comeback stuns Humphries |url=https://www.bbc.com/sport/darts/articles/cly3wn1n3dqo |website=BBC Sport |access-date=22 November 2025}}</ref> Speaking about the Players Championship Finals, Littler commented: "It's a title that I have not won yet. I came up short last year to Luke Humphries, so I'm hungry to tick this one off."<ref name="IndR1" />
+
+Number one seed [[Gerwyn Price]] won his opening match by beating [[Max Hopp]] 6–2. [[Ryan Meikle]], who received a place in the tournament following [[Niko Springer]]'s withdrawal, suffered a 6–1 defeat to [[Ross Smith (darts player)|Ross Smith]], while five-time world champion [[Raymond van Barneveld]] lost 6–3 to [[Krzysztof Ratajski]].<ref name="BBCR1" /> Number two seed [[Wessel Nijman]] hit five [[Glossary of darts#Maximum|maximums]] and averaged 102.41 but was eliminated by Dutch compatriot [[Richard Veenstra]], who prevailed in a deciding leg. Third seed [[Damon Heta]] was also beaten, losing 6–4 to debutant Justin Hood.<ref name="PDCR1" /> World number six [[James Wade]], an ever-present at the tournament, progressed to the second round by defeating [[Mickey Mansell]] 6–3. After the two shook hands without Mansell making eye contact, Wade recounted: "I shook his hand, said 'best of luck' and all that stuff but he wouldn't give it back to me and I was a little bit disheartened to be fair but it is what it is."<ref>{{cite web |date=21 November 2025 |title=Players Championship Finals: James Wade 'disheartened' Mickey Mansell would not respond to frosty handshake after Minehead win |url=https://www.skysports.com/darts/news/12288/13473583/players-championship-finals-james-wade-disheartened-mickey-mansell-would-not-respond-to-frosty-handshake-after-minehead-win |website=Sky Sports |access-date=22 November 2025}}</ref> [[2018 Players Championship Finals|2018]] champion [[Daryl Gurney]] eliminated fellow Northern Irish player [[Brendan Dolan]] 6–3, while their compatriot [[Josh Rock]] defeated [[Gabriel Clemens]] by the same scoreline.<ref>{{cite web |last=McKendry |first=Adam |date=21 November 2025 |title=Daryl Gurney edges all-NI affair against Brendan Dolan to progress at Players Championship Finals |url=https://www.belfasttelegraph.co.uk/sport/daryl-gurney-edges-all-ni-affair-against-brendan-dolan-to-progress-at-players-championship-finals/a358020934.html |website=Belfast Telegraph |access-date=22 November 2025}}</ref>
+
+Former finalists [[Jonny Clayton]], [[Rob Cross]] and [[Dave Chisnall]] all went out in the first round; [[James Hurrell]] averaged 99.2 on his way to beating Clayton 6–3, [[Sebastian Białecki]] landed a 154 checkout in his 6–2 win over Cross, and [[Ryan Joyce]] defeated Chisnall 6–4. [[Cam Crabtree]] capitalised on six missed match darts from [[Mike De Decker]] to clinch a 6–5 win, former world champion [[Michael Smith (darts player)|Michael Smith]] was beaten 6–4 by [[Martin Schindler]], and [[Cameron Menzies]] lost 6–1 to debutant [[Adam Lipscombe]]. [[Danny Noppert]], who reached the semi-finals of the Grand Slam, hit a 164 checkout as he defeated [[Ricky Evans (darts player)|Ricky Evans]] 6–2.<ref name="SkyR1" /> Scottish world champions [[Gary Anderson (darts player)|Gary Anderson]] and [[Peter Wright (darts player)|Peter Wright]] advanced with wins over [[Mario Vandenbogaerde]] and [[Joe Cullen (darts player)|Joe Cullen]] respectively. [[Nathan Aspinall]] and [[Kevin Doets]] hit the only [[Glossary of darts#Maximum check|170 checkouts]] of the tournament, with Aspinall triumphing 6–3 against [[Karel Sedláček]] and Doets succumbing to a 6–4 loss to [[Callan Rydz]]. World number four [[Stephen Bunting]] beat [[Ritchie Edhouse]] 6–2. Former [[UK Open]] champion [[Andrew Gilding]] survived nine match darts as he came back from 5–3 down to defeat [[Dom Taylor]] 6–5. [[William O'Connor (darts player)|William O'Connor]] lost his fourth consecutive first-round match at the tournament, being beaten 6–3 by [[Ricardo Pietreczko]].<ref name="PDCR1" />
+
+===Second and third rounds===
+[[File:Daryl Gurney 6-4 John Henderson - Daryl Gurney - 2019250153507 2019-09-07 PDC European Darts Matchplay - 0560 - B70I6930.jpg|thumb|[[Daryl Gurney]] ''(pictured in 2019)'', who won the tournament in [[2018 Players Championship Finals|2018]], survived ten missed [[Glossary of darts#Match dart|match darts]] from opponent [[Adam Lipscombe]] to progress to the quarter-finals.]]
+The second round (best of 11 legs) and third round (best of 19 legs) were played on 22 November, with matches split across the main stage and stage two.<ref name="PDC22">{{cite web |last=Gorton |first=Josh |date=22 November 2025 |title=Littler maintains his title charge on Day Two in Minehead |url=https://www.pdc.tv/news/2025/november/22/littler-maintains-his-title-charge-day-two-minehead |website=Professional Darts Corporation |access-date=23 November 2025}}</ref> Luke Littler averaged 107 in his 6–3 victory over Ross Smith to advance to a third-round tie against Ricardo Pietreczko, who had survived five match darts from Gary Anderson to win a deciding leg in the second round.<ref name="Sky22">{{cite web |date=22 November 2025 |title=Luke Littler: World No 1 wins scrappy encounter at Players Championship Finals to make quarter-finals |url=https://www.skysports.com/darts/news/12040/13474008/luke-littler-world-no-1-wins-scrappy-encounter-at-players-championship-finals-to-make-quarter-finals |website=Sky Sports |access-date=23 November 2025}}</ref> Littler initially went 5–3 down but recovered to triumph 10–6. "I am never happy when I am losing. At 3–2 down, I then got it back to 5–5 and I just had to kick on there," Littler commented after the match.<ref name="BBC22">{{cite web |last=Millington |first=Adam |date=22 November 2025 |title=Littler comes from behind to reach quarter-finals |url=https://www.bbc.com/sport/darts/articles/cq5qedl2e67o |website=BBC Sport |access-date=23 November 2025}}</ref> Top seed Gerwyn Price continued his run, beating Sebastian Białecki 6–1 before landing checkouts of 161 and 127 on his way to defeating Martin Schindler 10–6, winning six of the last seven legs to progress to the quarter-finals. "I haven't been doing it on the TV, but I think I'm due," stated Price, who also said he was "feeling good mentally" and was "confident in [his] ability".<ref name="PDC22" /> Daryl Gurney eliminated Stephen Bunting and faced Adam Lipscombe in the third round. Lipscombe missed a total of ten match darts as Gurney brought the match to a deciding leg, where Gurney took victory in 11 darts to set up a quarter-final against Price.<ref name="Sky22" />
+
+Josh Rock followed a 6–0 [[Whitewash (sport)|whitewash]] of [[Scott Williams (darts player)|Scott Williams]] by defeating Krzysztof Ratajski 10–8 after going 8–2 in front; Ratajski had already eliminated Gian van Veen in the second round, coming back from 5–3 down and surviving two match darts to prevail 6–5. Nathan Aspinall confirmed his place in the last eight by whitewashing Richard Veenstra and beating Danny Noppert 10–8 in a match where both players hit six maximums.<ref name="Sky22" /> [[Jermaine Wattimena]] defeated Ryan Joyce 6–2 with an average of 108.94 before clinching a 10–8 victory against [[Ryan Searle (darts player)|Ryan Searle]] to reach the quarter-finals of the tournament for the first time.<ref name="PDC22" /><ref name="RTE22">{{cite web |date=22 November 2025 |title=Luke Littler secures spot in Players Championship last eight |url=https://www.rte.ie/sport/darts/2025/1122/1545365-littler-secures-spot-in-players-championship-last-eight/ |website=RTÉ Sport |access-date=23 November 2025 |agency=Press Association}}</ref> James Wade earned wins over Peter Wright and Andrew Gilding to move on to the final day, while fifth seed [[Chris Dobey]] came through a deciding leg against Cam Crabtree before winning 10–5 against James Hurrell to also advance.<ref name="PDC22" />
+
+===Quarter-finals===
+[[File:2025-04-03 Premier League Darts Berlin 2025 by Sandro Halank–032.jpg|thumb|[[Nathan Aspinall]] ''(pictured)'' defeated [[Josh Rock]] 10–8 and [[Jermaine Wattimena]] 11–2 to secure a place in the final.]]
+The quarter-finals were played in the afternoon session on 23 November.<ref name="PDC23">{{cite web |last=Gorton |first=Josh |date=23 November 2025 |title=Impregnable Littler wins Ladbrokes Players Championship Finals |url=https://www.pdc.tv/news/2025/november/23/impregnable-littler-wins-ladbrokes-players-championship-finals |website=Professional Darts Corporation |access-date=23 November 2025}}</ref> Gerwyn Price faced Daryl Gurney in the session's opening match. Gurney was able to go 6–5 ahead but Price then found two [[Glossary of darts#Break|breaks of throw]] to take control, converting a 117 checkout to complete a run of five consecutive legs and win 10–6.<ref name="Ind23">{{cite web |last=Van Wijk |first=Jim |date=23 November 2025 |title=Luke Littler beats Chris Dobey to keep Players Championship title dream alive |url=https://www.independent.co.uk/sport/luke-littler-chris-dobey-luke-humphries-gerwyn-price-world-b2870804.html |website=The Independent |access-date=23 November 2025}}</ref> Chris Dobey almost produced a nine-dart finish in the fifth leg of his quarter-final against Luke Littler, missing the final dart at [[Glossary of darts#Double|double]] 18 by a considerable distance. Littler went on to win 10–5 with an average of almost 108, hitting nine maximums in the process. Littler said to "expect fireworks" in his semi-final tie against Price.<ref name="SkyBlog">{{cite web |date=23 November 2025 |title=Players Championship Finals LIVE! Latest scores, updates, and results as Luke Littler and Gerwyn Price headline at Butlin's Minehead Resort |url=https://www.skysports.com/darts/live-blog/12040/13472572/players-championship-finals-live-latest-scores-updates-and-results-as-luke-littler-and-luke-humphries-headline-at-butlin-s-minehead-resort |website=Sky Sports |access-date=23 November 2025}}</ref>
+
+Nathan Aspinall took a 5–1 lead against Josh Rock in the third quarter-final. Rock found himself back in the match as he levelled the score at 8–8, but Aspinall claimed the next two legs for a 10–8 victory. First-time Players Championship Finals quarter-finalist Jermaine Wattimena went one step further as he defeated James Wade by the same scoreline, finishing the match with a 156 checkout.<ref name="PDC23" /><ref name="Ind23" />
+
+===Semi-finals===
+The semi-finals were played in the evening session on 23 November.<ref name="PDC23" /> Gerwyn Price faced Luke Littler and Nathan Aspinall faced Jermaine Wattimena. Price was competing in his first semi-final at the event in six years, while Littler reached his second successive semi-final, which marked his seventh major semi-final of 2025. Aspinall and Wattimena both reached the final four of the tournament for the first time, with Wattimena achieving his second PDC major semi-final.<ref name="SkyBlog" />
+
+Littler established a 5–2 lead against Price in the opening match. The number one seed reduced the deficit to 7–6, hitting a 114 checkout along the way, but the world number one restored a two-leg lead with a break of throw. Littler pinned double 16 to win 11–8 and secure a place in the final, ending the match with an average of 108.48. "We always bring the best out of each other, as shown by another cracking contest between us," Littler remarked afterwards.<ref name="SkyBlog" /><ref name="RTE23">{{cite web |date=23 November 2025 |title=Luke Littler wins first Players Championship title |url=https://www.rte.ie/sport/darts/2025/1123/1545435-littler-stays-on-course-for-first-players-championship/ |website=RTÉ Sport |access-date=24 November 2025 |agency=Press Association}}</ref>
+
+Aspinall gained control of his semi-final with Wattimena early, completing a ten-dart leg to go 5–1 ahead.<ref name="RTE23" /> He won a further four legs on his way to 9–1 until Wattimena broke throw with a 70 checkout to claim his second leg of the match. Aspinall proceeded to take the next two legs for an 11–2 victory.<ref name="SkyBlog" />
+
+===Final===
+[[File:2025-04-03 Premier League Darts Berlin 2025 by Sandro Halank–123.jpg|thumb|[[Luke Littler]] won the Players Championship Finals for the first time.]]
+The final between 34th seed Nathan Aspinall and 36th seed Luke Littler was played in the evening session on 23 November after the [[2025 PDC World Youth Championship|World Youth Championship]] final.<ref name="PDC23" /> Aspinall, competing in the tournament's final for the first time and his seventh major final overall,<ref name="BBC23">{{cite web |last=Rajan |first=Adwaidh |date=23 November 2025 |title=Littler 'ticks off' first Players Championship win |url=https://www.bbc.com/sport/darts/articles/cx2d0dv418lo |website=BBC Sport |access-date=24 November 2025}}</ref> was seeking his third major title, having previously won the [[2019 UK Open]] and the [[2023 World Matchplay]].<ref name="FS23">{{cite web |last=Carson |first=Ste |date=23 November 2025 |title=Luke Littler beats Nathan Aspinall to clinch Players Championship Finals crown |url=https://www.flashscore.com/news/darts-players-championship-finals-luke-littler-beats-nathan-aspinall-to-clinch-players-championship-finals-crown/xA7PHBUP/ |website=flashscore.com |access-date=24 November 2025}}</ref> Littler, who finished as runner-up to Luke Humphries [[2024 Players Championship Finals|the previous year]],<ref name="2024F" /> reached his second straight final. He entered the tournament having won five major titles in 2025: the [[2025 PDC World Darts Championship|World Championship]], [[2025 UK Open|UK Open]], [[2025 World Matchplay|World Matchplay]], [[2025 World Grand Prix (darts)|World Grand Prix]] and Grand Slam.<ref>{{cite web |last=Chambers |first=Tom |date=19 November 2025 |title=Luke Littler darts titles, prize money, career history, more |url=https://www.espn.com/darts/story/_/id/46685589/luke-littler-darts-titles-prize-money-career-history-pdc-world-darts-championship |website=ESPN |access-date=24 November 2025}}</ref> [[ITV Sport]] pundit [[Mark Webster (darts player)|Mark Webster]] previewed the match, stating that Aspinall "has to be at his best" and Littler "has to drop his level" if a possible Aspinall victory were to occur. "[Aspinall]'s got to take his opportunities and be ruthless, just like he was against Jermaine Wattimena," he added.<ref name="SkyBlog" />
+
+Littler maintained a healthy lead for the majority of the final, extending his 5–2 lead to 8–4.<ref name="PDC23" /><ref name="RTE23" /> However, Aspinall fought back and won four of the next five legs, including checkouts of 127, 87 and 86, as he reduced the gap to 9–8.<ref name="PDC23" /><ref name="BBC23" /> From there, Littler raced towards an 11–8 victory, winning the final leg by executing a 171 set-up shot and checking out 88 on double 6.<ref name="PDC23" /> Littler ended the match with an average of 103.33 as opposed to Aspinall's 93.64, although the runner-up hit more maximums in the final.<ref name="BBC23" />
+
+Littler won the Players Championship Finals for the first time; it was the eighth different PDC major title Littler had captured, leaving him with just the [[PDC World Masters|World Masters]] and the [[European Championship (darts)|European Championship]] to complete the set.<ref name="BBC23" /> It was Littler's sixth major ranking title of the year, a tally only achieved previously by [[Phil Taylor (darts player)|Phil Taylor]] and [[Michael van Gerwen]].<ref name="PDC23" /> It was his ninth PDC major title overall, placing him fourth in [[Professional Darts Corporation#Roll of Honour|the all-time list of major winners]] behind Taylor, Van Gerwen and James Wade.<ref name="SL23">{{cite web |last=Hammer |first=Chris |date=23 November 2025 |title=Darts results: Luke Littler wins his sixth major title of the season and ninth overall at the Players Championship Finals |url=https://www.sportinglife.com/darts/news/darts-results-luke-littler-wins-his-sixth-major-title-of-the-season-and-ninth-overall-at-the-players-championship-finals/228868 |website=Sporting Life |access-date=24 November 2025}}</ref> Aspinall, ranked world number 21 on the PDC Order of Merit before the tournament, re-entered the world's top 16 as he rose to world number 15.<ref name="FS23" /> Littler declared that he was "very proud" to win his maiden Players Championship Finals title and that there were "only two more [major titles] to go". He closed by saying, "I'm very proud to lift this trophy, and now it's all eyes on the big one at the [[2026 PDC World Darts Championship|World Championship]]." Speaking about being back in the world's top 16, Aspinall said: "I'm back in the top 16 where I belong, and that was a big target coming into the weekend." He called Littler a "good mate of [his]" and affirmed that he was happy to share the stage with him.<ref>{{cite web |date=23 November 2025 |title=Luke Littler clinches Players Championship Finals title with victory over Nathan Aspinall in Minehead final |url=https://www.skysports.com/darts/news/12040/13474662/luke-littler-clinches-players-championship-finals-title-with-victory-over-nathan-aspinall-in-minehead-final |website=Sky Sports |access-date=24 November 2025}}</ref>
+
+==Draw==
+There was no draw held as all players were put in a fixed bracket by their seeding positions. The tournament bracket was confirmed following [[2025 PDC Players Championship series#Players Championship 34|Players Championship 34]] on 30 October.<ref name="Draw"/> Numbers to the left of a player's name show the seedings for the 64 players in the tournament. Figures to the right of a player's name state their [[three-dart average]] in a match. The sole replacement player is indicated by 'Alt'. Players in bold denote match winners.<ref>{{cite web |title=Results of Players Championship Finals 2025 |url=https://mastercaller.com/tournaments/players-championship-finals/2025/results |website=Mastercaller |access-date=21 November 2025}}</ref>
+
+===Finals===
+{{8TeamBracket
+| RD1 ='''Quarter-finals''' ''(best of 19 legs)''<br>23 November
+| RD2 ='''Semi-finals''' ''(best of 21 legs)''<br>23 November
+| RD3 ='''Final''' ''(best of 21 legs)''<br>23 November
+| team-width = 250
+| boldwinner = high
+| RD1-seed1  = 1
+| RD1-team1  = {{PDCFlag|Gerwyn Price|avg=97.30}}
+| RD1-score1 = 10
+| RD1-seed2  = 40
+| RD1-team2  = {{PDCFlag|Daryl Gurney|avg=92.07}}
+| RD1-score2 = 6
+| RD1-seed3  = 36
+| RD1-team3  = {{PDCFlag|Luke Littler|avg=107.88}}
+| RD1-score3 = 10
+| RD1-seed4  = 5
+| RD1-team4  = {{PDCFlag|Chris Dobey|avg=104.57}}
+| RD1-score4 = 5
+| RD1-seed5  = 34
+| RD1-team5  = {{PDCFlag|Nathan Aspinall|avg=101.40}}
+| RD1-score5 = 10
+| RD1-seed6  = 10
+| RD1-team6  = {{PDCFlag|Josh Rock|avg=95.45}}
+| RD1-score6 = 8
+| RD1-seed7  = 19
+| RD1-team7  = {{PDCFlag|James Wade|avg=97.37}}
+| RD1-score7 = 8
+| RD1-seed8  = 6
+| RD1-team8  = {{PDCFlag|Jermaine Wattimena|avg=100.30}}
+| RD1-score8 = 10
+| RD2-seed1  = 1
+| RD2-team1  = {{PDCFlag|Gerwyn Price|avg=101.99}}
+| RD2-score1 = 8
+| RD2-seed2  = 36
+| RD2-team2  = {{PDCFlag|Luke Littler|avg=108.48}}
+| RD2-score2 = 11
+| RD2-seed3  = 34
+| RD2-team3  = {{PDCFlag|Nathan Aspinall|avg=100.09}}
+| RD2-score3 = 11
+| RD2-seed4  = 6
+| RD2-team4  = {{PDCFlag|Jermaine Wattimena|avg=95.30}}
+| RD2-score4 = 2
+| RD3-seed1  = 36
+| RD3-team1  = {{PDCFlag|Luke Littler|avg=103.33}}
+| RD3-score1 = 11
+| RD3-seed2  = 34
+| RD3-team2  = {{PDCFlag|Nathan Aspinall|avg=93.64}}
+| RD3-score2 = 8
+}}
+
+===Top half===
+====Section 1====
+{{16TeamBracket
+| RD1 ='''First round''' ''(best of 11 legs)''<br>21 November
+| RD2 ='''Second round''' ''(best of 11 legs)''<br>22 November
+| RD3 ='''Third round''' ''(best of 19 legs)''<br>22 November
+| RD4 ='''Quarter-finals''' ''(best of 19 legs)''<br>23 November
+| team-width = 250
+| boldwinner = high
+| RD1-seed01  = 1
+| RD1-team01  = {{PDCFlag|Gerwyn Price|avg=90.09}}
+| RD1-score01 = 6
+| RD1-seed02  = 64
+| RD1-team02  = {{PDCFlag|Max Hopp|avg=88.74}}
+| RD1-score02 = 2
+| RD1-seed03  = 32
+| RD1-team03  = {{PDCFlag|Rob Cross|avg=85.88}}
+| RD1-score03 = 2
+| RD1-seed04  = 33
+| RD1-team04  = {{PDCFlag|Sebastian Bialecki|avg=88.23}}
+| RD1-score04 = 6
+| RD1-seed05  = 16
+| RD1-team05  = {{PDCFlag|Martin Schindler|avg=92.19}}
+| RD1-score05 = 6
+| RD1-seed06  = 49
+| RD1-team06  = {{PDCFlag|Michael Smith|avg=86.07}}
+| RD1-score06 = 4
+| RD1-seed07  = 17
+| RD1-team07  = {{PDCFlag|Niels Zonneveld|avg=92.41}}
+| RD1-score07 = 4
+| RD1-seed08  = 48
+| RD1-team08  = {{PDCFlag|Nick Kenny|avg=88.20}}
+| RD1-score08 = 6
+| RD1-seed09  = 8
+| RD1-team09  = {{PDCFlag|Stephen Bunting|avg=93.59}}
+| RD1-score09 = 6
+| RD1-seed10  = 57
+| RD1-team10  = {{PDCFlag|Ritchie Edhouse|avg=96.56}}
+| RD1-score10 = 2
+| RD1-seed11  = 25
+| RD1-team11  = {{PDCFlag|Brendan Dolan|avg=88.82}}
+| RD1-score11 = 3
+| RD1-seed12  = 40
+| RD1-team12  = {{PDCFlag|Daryl Gurney|avg=86.74}}
+| RD1-score12 = 6
+| RD1-seed13  = 9
+| RD1-team13  = {{PDCFlag|Cameron Menzies|avg=89.94}}
+| RD1-score13 = 1
+| RD1-seed14  = 56
+| RD1-team14  = {{PDCFlag|Adam Lipscombe|avg=92.32}}
+| RD1-score14 = 6
+| RD1-seed15  = 24
+| RD1-team15  = {{PDCFlag|Bradley Brooks|avg=97.21}}
+| RD1-score15 = 6
+| RD1-seed16  = 41
+| RD1-team16  = {{PDCFlag|Martin Lukeman|avg=82.80}}
+| RD1-score16 = 1
+| RD2-seed01  = 1
+| RD2-team01  = {{PDCFlag|Gerwyn Price|avg=105.06}}
+| RD2-score01 = 6
+| RD2-seed02  = 33
+| RD2-team02  = {{PDCFlag|Sebastian Bialecki|avg=99.03}}
+| RD2-score02 = 1
+| RD2-seed03  = 16
+| RD2-team03  = {{PDCFlag|Martin Schindler|avg=86.89}}
+| RD2-score03 = 6
+| RD2-seed04  = 48
+| RD2-team04  = {{PDCFlag|Nick Kenny|avg=86.14}}
+| RD2-score04 = 4
+| RD2-seed05  = 8
+| RD2-team05  = {{PDCFlag|Stephen Bunting|avg=89.15}}
+| RD2-score05 = 4
+| RD2-seed06  = 40
+| RD2-team06  = {{PDCFlag|Daryl Gurney|avg=95.47}}
+| RD2-score06 = 6
+| RD2-seed07  = 56
+| RD2-team07  = {{PDCFlag|Adam Lipscombe|avg=91.92}}
+| RD2-score07 = 6
+| RD2-seed08  = 24
+| RD2-team08  = {{PDCFlag|Bradley Brooks|avg=91.35}}
+| RD2-score08 = 2
+| RD3-seed01  = 1
+| RD3-team01  = {{PDCFlag|Gerwyn Price|avg=98.88}}
+| RD3-score01 = 10
+| RD3-seed02  = 16
+| RD3-team02  = {{PDCFlag|Martin Schindler|avg=83.20}}
+| RD3-score02 = 6
+| RD3-seed03  = 40
+| RD3-team03  = {{PDCFlag|Daryl Gurney|avg=88.31}}
+| RD3-score03 = 10
+| RD3-seed04  = 56
+| RD3-team04  = {{PDCFlag|Adam Lipscombe|avg=89.21}}
+| RD3-score04 = 9
+| RD4-seed01  = 1
+| RD4-team01  = {{PDCFlag|Gerwyn Price|avg=97.30}}
+| RD4-score01 = 10
+| RD4-seed02  = 40
+| RD4-team02  = {{PDCFlag|Daryl Gurney|avg=92.07}}
+| RD4-score02 = 6
+}}
+
+====Section 2====
+{{16TeamBracket
+| RD1 ='''First round''' ''(best of 11 legs)''<br>21 November
+| RD2 ='''Second round''' ''(best of 11 legs)''<br>22 November
+| RD3 ='''Third round''' ''(best of 19 legs)''<br>22 November
+| RD4 ='''Quarter-finals''' ''(best of 19 legs)''<br>23 November
+| team-width = 250
+| boldwinner = high
+| RD1-seed01  = 4
+| RD1-team01  = {{PDCFlag|Ross Smith|avg=84.41}}
+| RD1-score01 = 6
+| RD1-seed02  = Alt/65
+| RD1-team02  = {{PDCFlag|Ryan Meikle|avg=74.25}}
+| RD1-score02 = 1
+| RD1-seed03  = 29
+| RD1-team03  = {{PDCFlag|Jeffrey de Graaf|avg=90.36}}
+| RD1-score03 = 1
+| RD1-seed04  = 36
+| RD1-team04  = {{PDCFlag|Luke Littler|avg=104.46}}
+| RD1-score04 = 6
+| RD1-seed05  = 13
+| RD1-team05  = {{PDCFlag|William O’Connor|avg=83.93}}
+| RD1-score05 = 3
+| RD1-seed06  = 52
+| RD1-team06  = {{PDCFlag|Ricardo Pietreczko|avg=91.69}}
+| RD1-score06 = 6
+| RD1-seed07  = 20
+| RD1-team07  = {{PDCFlag|Gary Anderson|avg=97.03}}
+| RD1-score07 = 6
+| RD1-seed08  = 45
+| RD1-team08  = {{PDCFlag|Mario Vandenbogaerde|avg=90.00}}
+| RD1-score08 = 2
+| RD1-seed09  = 5
+| RD1-team09  = {{PDCFlag|Chris Dobey|avg=86.04}}
+| RD1-score09 = 6
+| RD1-seed10  = 60
+| RD1-team10  = {{PDCFlag|Keane Barry|avg=87.90}}
+| RD1-score10 = 1
+| RD1-seed11  = 28
+| RD1-team11  = {{PDCFlag|Mike De Decker|avg=85.40}}
+| RD1-score11 = 5
+| RD1-seed12  = 37
+| RD1-team12  = {{PDCFlag|Cam Crabtree|avg=88.64}}
+| RD1-score12 = 6
+| RD1-seed13  = 12
+| RD1-team13  = {{PDCFlag|Jonny Clayton|avg=96.87}}
+| RD1-score13 = 3
+| RD1-seed14  = 53
+| RD1-team14  = {{PDCFlag|James Hurrell|avg=99.18}}
+| RD1-score14 = 6
+| RD1-seed15  = 21
+| RD1-team15  = {{PDCFlag|Luke Woodhouse|avg=90.79}}
+| RD1-score15 = 6
+| RD1-seed16  = 44
+| RD1-team16  = {{PDCFlag|Alan Soutar|avg=88.76}}
+| RD1-score16 = 2
+| RD2-seed01  = 4
+| RD2-team01  = {{PDCFlag|Ross Smith|avg=102.47}}
+| RD2-score01 = 3
+| RD2-seed02  = 36
+| RD2-team02  = {{PDCFlag|Luke Littler|avg=107.15}}
+| RD2-score02 = 6
+| RD2-seed03  = 52
+| RD2-team03  = {{PDCFlag|Ricardo Pietreczko|avg=90.17}}
+| RD2-score03 = 6
+| RD2-seed04  = 20
+| RD2-team04  = {{PDCFlag|Gary Anderson|avg=95.61}}
+| RD2-score04 = 5
+| RD2-seed05  = 5
+| RD2-team05  = {{PDCFlag|Chris Dobey|avg=95.67}}
+| RD2-score05 = 6
+| RD2-seed06  = 37
+| RD2-team06  = {{PDCFlag|Cam Crabtree|avg=101.05}}
+| RD2-score06 = 5
+| RD2-seed07  = 53
+| RD2-team07  = {{PDCFlag|James Hurrell|avg=90.83}}
+| RD2-score07 = 6
+| RD2-seed08  = 21
+| RD2-team08  = {{PDCFlag|Luke Woodhouse|avg=88.68}}
+| RD2-score08 = 1
+| RD3-seed01  = 36
+| RD3-team01  = {{PDCFlag|Luke Littler|avg=102.67}}
+| RD3-score01 = 10
+| RD3-seed02  = 52
+| RD3-team02  = {{PDCFlag|Ricardo Pietreczko|avg=90.41}}
+| RD3-score02 = 6
+| RD3-seed03  = 5
+| RD3-team03  = {{PDCFlag|Chris Dobey|avg=97.35}}
+| RD3-score03 = 10
+| RD3-seed04  = 53
+| RD3-team04  = {{PDCFlag|James Hurrell|avg=90.66}}
+| RD3-score04 = 5
+| RD4-seed01  = 36
+| RD4-team01  = {{PDCFlag|Luke Littler|avg=107.88}}
+| RD4-score01 = 10
+| RD4-seed02  = 5
+| RD4-team02  = {{PDCFlag|Chris Dobey|avg=104.57}}
+| RD4-score02 = 5
+}}
+
+===Bottom half===
+====Section 3====
+{{16TeamBracket
+| RD1 ='''First round''' ''(best of 11 legs)''<br>21 November
+| RD2 ='''Second round''' ''(best of 11 legs)''<br>22 November
+| RD3 ='''Third round''' ''(best of 19 legs)''<br>22 November
+| RD4 ='''Quarter-finals''' ''(best of 19 legs)''<br>23 November
+| team-width = 250
+| boldwinner = high
+| RD1-seed01  = 2
+| RD1-team01  = {{PDCFlag|Wessel Nijman|avg=102.41}}
+| RD1-score01 = 5
+| RD1-seed02  = 63
+| RD1-team02  = {{PDCFlag|Richard Veenstra|avg=96.39}}
+| RD1-score02 = 6
+| RD1-seed03  = 31
+| RD1-team03  = {{PDCFlag|Karel Sedlacek|avg=93.51}}
+| RD1-score03 = 3
+| RD1-seed04  = 34
+| RD1-team04  = {{PDCFlag|Nathan Aspinall|avg=95.98}}
+| RD1-score04 = 6
+| RD1-seed05  = 15
+| RD1-team05  = {{PDCFlag|Danny Noppert|avg=103.84}}
+| RD1-score05 = 6
+| RD1-seed06  = 50
+| RD1-team06  = {{PDCFlag|Ricky Evans|avg=91.33}}
+| RD1-score06 = 2
+| RD1-seed07  = 18
+| RD1-team07  = {{PDCFlag|Dirk van Duijvenbode|avg=89.51}}
+| RD1-score07 = 3
+| RD1-seed08  = 47
+| RD1-team08  = {{PDCFlag|Madars Razma|avg=89.42}}
+| RD1-score08 = 6
+| RD1-seed09  = 7
+| RD1-team09  = {{PDCFlag|Gian van Veen|avg=96.07}}
+| RD1-score09 = 6
+| RD1-seed10  = 58
+| RD1-team10  = {{PDCFlag|Luke Humphries|avg=95.01}}
+| RD1-score10 = 5
+| RD1-seed11  = 26
+| RD1-team11  = {{PDCFlag|Krzysztof Ratajski|avg=83.94}}
+| RD1-score11 = 6
+| RD1-seed12  = 39
+| RD1-team12  = {{PDCFlag|Raymond van Barneveld|avg=76.90}}
+| RD1-score12 = 3
+| RD1-seed13  = 10
+| RD1-team13  = {{PDCFlag|Josh Rock|avg=88.08}}
+| RD1-score13 = 6
+| RD1-seed14  = 55
+| RD1-team14  = {{PDCFlag|Gabriel Clemens|avg=79.99}}
+| RD1-score14 = 3
+| RD1-seed15  = 23
+| RD1-team15  = {{PDCFlag|Scott Williams|avg=92.78}}
+| RD1-score15 = 6
+| RD1-seed16  = 42
+| RD1-team16  = {{PDCFlag|Ian White|avg=79.32}}
+| RD1-score16 = 2
+| RD2-seed01  = 63
+| RD2-team01  = {{PDCFlag|Richard Veenstra|avg=87.40}}
+| RD2-score01 = 0
+| RD2-seed02  = 34
+| RD2-team02  = {{PDCFlag|Nathan Aspinall|avg=94.93}}
+| RD2-score02 = 6
+| RD2-seed03  = 15
+| RD2-team03  = {{PDCFlag|Danny Noppert|avg=102.91}}
+| RD2-score03 = 6
+| RD2-seed04  = 47
+| RD2-team04  = {{PDCFlag|Madars Razma|avg=84.00}}
+| RD2-score04 = 1
+| RD2-seed05  = 7
+| RD2-team05  = {{PDCFlag|Gian van Veen|avg=100.81}}
+| RD2-score05 = 5
+| RD2-seed06  = 26
+| RD2-team06  = {{PDCFlag|Krzysztof Ratajski|avg=99.02}}
+| RD2-score06 = 6
+| RD2-seed07  = 10
+| RD2-team07  = {{PDCFlag|Josh Rock|avg=107.36}}
+| RD2-score07 = 6
+| RD2-seed08  = 23
+| RD2-team08  = {{PDCFlag|Scott Williams|avg=96.00}}
+| RD2-score08 = 0
+| RD3-seed01  = 34
+| RD3-team01  = {{PDCFlag|Nathan Aspinall|avg=96.78}}
+| RD3-score01 = 10
+| RD3-seed02  = 15
+| RD3-team02  = {{PDCFlag|Danny Noppert|avg=100.25}}
+| RD3-score02 = 8
+| RD3-seed03  = 26
+| RD3-team03  = {{PDCFlag|Krzysztof Ratajski|avg=97.08}}
+| RD3-score03 = 8
+| RD3-seed04  = 10
+| RD3-team04  = {{PDCFlag|Josh Rock|avg=99.67}}
+| RD3-score04 = 10
+| RD4-seed01  = 34
+| RD4-team01  = {{PDCFlag|Nathan Aspinall|avg=101.40}}
+| RD4-score01 = 10
+| RD4-seed02  = 10
+| RD4-team02  = {{PDCFlag|Josh Rock|avg=95.45}}
+| RD4-score02 = 8
+}}
+
+====Section 4====
+{{16TeamBracket
+| RD1 ='''First round''' ''(best of 11 legs)''<br>21 November
+| RD2 ='''Second round''' ''(best of 11 legs)''<br>22 November
+| RD3 ='''Third round''' ''(best of 19 legs)''<br>22 November
+| RD4 ='''Quarter-finals''' ''(best of 19 legs)''<br>23 November
+| team-width = 250
+| boldwinner = high
+| RD1-seed01  = 3
+| RD1-team01  = {{PDCFlag|Damon Heta|avg=88.86}}
+| RD1-score01 = 4
+| RD1-seed02  = 62
+| RD1-team02  = {{PDCFlag|Justin Hood|avg=92.50}}
+| RD1-score02 = 6
+| RD1-seed03  = 30
+| RD1-team03  = {{PDCFlag|Andrew Gilding|avg=92.53}}
+| RD1-score03 = 6
+| RD1-seed04  = 35
+| RD1-team04  = {{PDCFlag|Dom Taylor|avg=99.43}}
+| RD1-score04 = 5
+| RD1-seed05  = 14
+| RD1-team05  = {{PDCFlag|Joe Cullen|avg=91.98}}
+| RD1-score05 = 3
+| RD1-seed06  = 51
+| RD1-team06  = {{PDCFlag|Peter Wright|avg=93.11}}
+| RD1-score06 = 6
+| RD1-seed07  = 19
+| RD1-team07  = {{PDCFlag|James Wade|avg=94.70}}
+| RD1-score07 = 6
+| RD1-seed08  = 46
+| RD1-team08  = {{PDCFlag|Mickey Mansell|avg=95.04}}
+| RD1-score08 = 3
+| RD1-seed09  = 6
+| RD1-team09  = {{PDCFlag|Jermaine Wattimena|avg=101.58}}
+| RD1-score09 = 6
+| RD1-seed10  = 59
+| RD1-team10  = {{PDCFlag|Wesley Plaisier|avg=95.98}}
+| RD1-score10 = 3
+| RD1-seed11  = 27
+| RD1-team11  = {{PDCFlag|Dave Chisnall|avg=86.55}}
+| RD1-score11 = 4
+| RD1-seed12  = 38
+| RD1-team12  = {{PDCFlag|Ryan Joyce|avg=93.04}}
+| RD1-score12 = 6
+| RD1-seed13  = 11
+| RD1-team13  = {{PDCFlag|Ryan Searle|avg=98.58}}
+| RD1-score13 = 6
+| RD1-seed14  = 54
+| RD1-team14  = {{PDCFlag|Darren Beveridge|avg=98.76}}
+| RD1-score14 = 1
+| RD1-seed15  = 22
+| RD1-team15  = {{PDCFlag|Kevin Doets|avg=91.89}}
+| RD1-score15 = 4
+| RD1-seed16  = 43
+| RD1-team16  = {{PDCFlag|Callan Rydz|avg=94.96}}
+| RD1-score16 = 6
+| RD2-seed01  = 62
+| RD2-team01  = {{PDCFlag|Justin Hood|avg=94.30}}
+| RD2-score01 = 5
+| RD2-seed02  = 30
+| RD2-team02  = {{PDCFlag|Andrew Gilding|avg=94.73}}
+| RD2-score02 = 6
+| RD2-seed03  = 51
+| RD2-team03  = {{PDCFlag|Peter Wright|avg=88.68}}
+| RD2-score03 = 4
+| RD2-seed04  = 19
+| RD2-team04  = {{PDCFlag|James Wade|avg=93.51}}
+| RD2-score04 = 6
+| RD2-seed05  = 6
+| RD2-team05  = {{PDCFlag|Jermaine Wattimena|avg=108.94}}
+| RD2-score05 = 6
+| RD2-seed06  = 38
+| RD2-team06  = {{PDCFlag|Ryan Joyce|avg=94.77}}
+| RD2-score06 = 2
+| RD2-seed07  = 11
+| RD2-team07  = {{PDCFlag|Ryan Searle|avg=94.25}}
+| RD2-score07 = 6
+| RD2-seed08  = 43
+| RD2-team08  = {{PDCFlag|Callan Rydz|avg=99.92}}
+| RD2-score08 = 5
+| RD3-seed01  = 30
+| RD3-team01  = {{PDCFlag|Andrew Gilding|avg=88.65}}
+| RD3-score01 = 6
+| RD3-seed02  = 19
+| RD3-team02  = {{PDCFlag|James Wade|avg=86.06}}
+| RD3-score02 = 10
+| RD3-seed03  = 6
+| RD3-team03  = {{PDCFlag|Jermaine Wattimena|avg=94.09}}
+| RD3-score03 = 10
+| RD3-seed04  = 11
+| RD3-team04  = {{PDCFlag|Ryan Searle|avg=90.68}}
+| RD3-score04 = 8
+| RD4-seed01  = 19
+| RD4-team01  = {{PDCFlag|James Wade|avg=97.37}}
+| RD4-score01 = 8
+| RD4-seed02  = 6
+| RD4-team02  = {{PDCFlag|Jermaine Wattimena|avg=100.30}}
+| RD4-score02 = 10
+}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Players Championship Finals}}
+{{2025 in PDC darts}}
+
+[[Category:Players Championship Finals]]
+[[Category:2025 in English sport]]
+[[Category:2025 in darts]]
+[[Category:November 2025 sports events in the United Kingdom|Players Championship Finals]]
+[[Category:Sports competitions in Somerset]]
+[[Category:2020s in Somerset]]
+[[Category:Minehead]]

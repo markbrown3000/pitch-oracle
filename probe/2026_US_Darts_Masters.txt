@@ -1,0 +1,236 @@
+{{short description|Darts tournament}}
+{{Use British English|date=May 2026}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox individual darts tournament
+|tournament_name = 2026 bet365 US Darts Masters
+|image =
+|dates = 25–26 June 2026
+|venue = [[Infosys Theater at Madison Square Garden]]
+|location = [[New York City]], United States
+|organisation = [[Professional Darts Corporation]] (PDC)
+|format = [[Leg (darts)|Legs]]
+|prize_fund = £100,000
+|winners_share = £30,000
+|high_checkout = '''164''' [[Stephen Bunting]]
+|winner = '''{{flagathlete|[[Luke Humphries]]|ENG}}'''
+|prev = [[2025 US Darts Masters|2025]]
+|next = [[2027 US Darts Masters|2027]]
+}}
+The '''2026 US Darts Masters''' (known for sponsorship reasons as the '''2026 bet365 US Darts Masters''') was a professional [[darts]] tournament that took place from 25 to 26 June 2026 at the [[Infosys Theater at Madison Square Garden]] in [[New York City]], United States. It was the eighth staging of the tournament by the [[Professional Darts Corporation]] (PDC), and was the fourth event in the [[2026 World Series of Darts]].<ref>{{cite web |last=Phillips |first=Josh |date=5 October 2025 |title=2026 World Series of Darts schedule confirmed |url=https://www.pdc.tv/news/2025/october/05/2026-world-series-darts-schedule-confirmed |website=Professional Darts Corporation |access-date=6 May 2026}}</ref> The total prize fund was £100,000, with the winner receiving £30,000. The [[2026 in PDC#North American Championship|North American Championship]] also took place on the afternoon of 26 June exclusively for the North American representatives, which was won by [[Adam Sevada]].<ref>{{cite web |last=Gorton |first=Josh |date=26 June 2026 |title=Superb Sevada storms to bet365 North American Championship title |url=https://www.pdc.tv/news/2026/june/26/superb-sevada-storms-north-american-championship-title/ |website=Professional Darts Corporation |access-date=27 June 2026}}</ref>
+
+Sponsored by [[bet365]], the tournament featured 16 players, consisting of eight PDC representatives and eight North American representatives. [[Luke Humphries]] was the defending champion, having defeated [[Nathan Aspinall]] 8–6 in the [[2025 US Darts Masters|2025 final]].<ref>{{cite web |last=Hudson |first=Elizabeth |date=29 June 2025 |title=Humphries beats Aspinall in US Darts Masters final |url=https://www.bbc.com/sport/darts/articles/cp825zlw2y1o |website=BBC Sport |access-date=6 May 2026}}</ref><ref>{{cite web |date=29 June 2025 |title=Luke Humphries: World No 1 defeats Luke Littler's conqueror Nathan Aspinall to win US Darts Masters in New York |url=https://www.skysports.com/darts/news/12288/13389975/luke-humphries-world-no-1-defeats-luke-littlers-conqueror-nathan-aspinall-to-win-us-darts-masters-in-new-york |website=Sky Sports |access-date=6 May 2026}}</ref> Humphries reached his second straight final, where he defeated [[Luke Littler]] 8–7 to win his third [[World Series of Darts|World Series]] title and become the first player to retain the US Darts Masters, having survived two [[Glossary of darts#Match dart|match darts]] from [[Gian van Veen]] in the semi-finals.
+
+== Overview ==
+=== Format ===
+Eight elite PDC representatives were drawn to play eight North American representatives in the first round on Thursday 25 June; the quarter-finals, semi-finals and final took place on Friday 26 June.<ref name="Draw"/>
+
+*'''First round and quarter-finals:''' Best of eleven legs
+*'''Semi-finals:''' Best of thirteen legs
+*'''Final:''' Best of fifteen legs
+
+=== Prize money ===
+The total prize fund for the event remained at £100,000. The breakdown of prize money is shown below:<ref>{{cite web |title=US Darts Masters 2026 |url=https://mastercaller.com/tournaments/u-s-darts-masters/2026 |website=Mastercaller |access-date=6 May 2026}}</ref>
+
+{| class="wikitable"
+! colspan=2 | Position <small>(no. of players)</small>
+! Prize money<br /><small>(Total: £100,000)</small>
+|-
+|'''Winner'''
+| align=center | <small>(1)</small>
+| align=center | £30,000
+|-
+|'''Runner-up'''
+| align=center | <small>(1)</small>
+| align=center | £16,000
+|-
+|'''Semi-finalists'''
+| align=center | <small>(2)</small>
+| align=center | £10,000
+|-
+|'''Quarter-finalists'''
+| align=center | <small>(4)</small>
+| align=center | £5,000
+|-
+|'''First round'''
+| align=center | <small>(8)</small>
+| align=center | £1,750
+|}
+
+=== Broadcasts ===
+In the United States, the tournament was broadcast on [[ESPN+]] and [[ESPN2]], as part of a deal between the PDC and [[ESPN]] that was announced on 25 June 2026.<ref>{{cite news |title=ESPN to broadcast PDC events in USA |url=https://www.pdc.tv/news/2026/june/25/espn-to-broadcast-/ |access-date=25 June 2026 |work=PDC.tv |publisher=[[Professional Darts Corporation]] |date=25 June 2026}}</ref> It aired on [[ITV3]] in the United Kingdom with delayed coverage. Other broadcasters included [[FanDuel TV]] in the United States; [[Viaplay]] in the Netherlands, Iceland, and [[Scandinavia]]; [[DAZN]] in Germany, Austria, and Switzerland; [[Canal+ (Polish TV provider)|Canal+]] in Poland; [[Fox Sports (Australia)|Fox Sports]] in Australia; [[Sky Sport (New Zealand)|Sky Sport]] in New Zealand; [[VTM (TV channel)|VTM]] in Belgium; [[AMC Networks International Central and Northern Europe|AMC Network]] in Hungary; Zonasport in Croatia; [[TV3 Group (Baltics)|TV3]] in the [[Baltic states]]; [[Arena Sport]] in Serbia, Bosnia and Herzegovina, Montenegro, North Macedonia, and Kosovo; [[Setanta Sports Eurasia|Setanta]] in Ukraine; and [[Nova Sport (Czech Republic and Slovakia)|Nova]] in the Czech Republic and Slovakia. It was also available on the PDC's streaming service, PDCTV, for all subscribers.<ref>{{cite web |last=Gorton |first=Josh |date=25 June 2026 |title=Where to watch the 2026 bet365 US Darts Masters |url=https://www.pdc.tv/news/2026/june/25/where-to-watch-the-2026-bet365-us-darts-masters/ |website=Professional Darts Corporation |access-date=26 June 2026}}</ref>
+
+== Participants ==
+The PDC announced the eight PDC representatives on 24 April.<ref name="Field">{{cite web |last=Gorton |first=Josh |date=24 April 2026 |title=Humphries & Littler headline 2026 bet365 US Darts Masters field |url=https://www.pdc.tv/news/2026/april/24/humphries-littler-headline-2026-bet365-us-darts-masters-field/ |website=Professional Darts Corporation |access-date=6 May 2026}}</ref> [[Gian van Veen]] and [[Josh Rock]] made their debuts at the event.<ref>{{cite web |date=25 June 2026 |title=Luke Littler: World No 1 bids for maiden US Darts Masters crown with Luke Humphries set to defend his title at Madison Square Garden in New York |url=https://www.skysports.com/darts/news/12288/13557552/luke-littler-world-no-1-bids-for-maiden-us-darts-masters-crown-with-luke-humphries-set-to-defend-his-title-at-madison-square-garden-in-new-york |website=Sky Sports |access-date=25 June 2026}}</ref>
+
+The [[Seeding (sports)|seedings]] were based on the [[2026 World Series of Darts|2026 World Series]] rankings after three events:
+# {{flagathlete|[[Luke Littler]]|ENG}} ''(runner-up)''
+# '''{{flagathlete|[[Luke Humphries]]|ENG}}''' '''(champion)'''
+# {{flagathlete|[[Gian van Veen]]|NED}} ''(semi-finals)''
+# {{flagathlete|[[Gerwyn Price]]|WAL}} ''(quarter-finals)''
+# {{flagathlete|[[Stephen Bunting]]|ENG}} ''(quarter-finals)''
+# {{flagathlete|[[Jonny Clayton]]|WAL}} ''(quarter-finals)''
+# {{flagathlete|[[James Wade]]|ENG}} ''(semi-finals)''
+# {{flagathlete|[[Josh Rock]]|NIR}} ''(first round)''
+
+The first three North American representatives, one [[List of players with a 2026 PDC Tour Card|PDC Tour Card holder]] and two Championship Darts Circuit (CDC) title winners, were also confirmed on 24 April.<ref name="Field"/> They were joined by three qualifiers, as well as the top American player and top Canadian player after the first four events of the [[2026 in PDC#Championship Darts Circuit (CDC)|2026 CDC Tour]].<ref>{{cite web |last=Gorton |first=Josh |date=9 June 2026 |title=2026 bet365 US Darts Masters & North American Darts Championship fields confirmed |url=https://www.pdc.tv/news/2026/june/09/bet365-us-darts-masters-nadc-field-confirmed/ |website=Professional Darts Corporation |access-date=9 June 2026}}</ref><ref>{{cite web |date=10 June 2026 |title=US Darts Masters: Luke Littler and Luke Humphries headline Madison Square Garden bill |url=https://www.skysports.com/darts/news/12288/13552562/us-darts-masters-luke-littler-and-luke-humphries-headline-madison-square-garden-bill |website=Sky Sports |access-date=10 June 2026}}</ref>
+
+{| class="wikitable"
+|- style="font-size:10pt;font-weight:bold"
+! Qualification
+! Player
+|-
+| '''PDC Tour Card holders'''
+| {{flagathlete|[[Jim Long (darts player)|Jim Long]]|CAN}} ''(quarter-finals)''
+|-
+| '''CDC Continental Cup'''
+| {{flagathlete|[[Alex Spellman]]|USA}} ''(first round)''
+|-
+| '''CDC Cross-Border Darts Challenge'''
+| {{flagathlete|[[David Cameron (darts player)|David Cameron]]|CAN}} ''(first round)''
+|-
+| rowspan="3" | '''CDC qualifiers'''
+| {{flagathlete|[[Leonard Gates]]|USA}} ''(first round)''
+|-
+| {{flagathlete|[[Gary Mawson]]|USA}} ''(first round)''
+|-
+| {{flagathlete|Fred Krueger|USA}} ''(first round)''
+|-
+| '''Top American player'''
+| {{flagathlete|[[Adam Sevada]]|USA}} ''(first round)''
+|-
+| '''Top Canadian player'''
+| {{flagathlete|Brayden Hall|CAN}} ''(first round)''
+|}
+
+== Summary ==
+=== First round ===
+[[File:2026-03-26 Premier League Darts – Night 8 – Berlin 2026 by Sandro Halank–025.jpg|thumb|[[Josh Rock]] ''(pictured in 2026)'' was the sole PDC representative to be eliminated in the first round, losing 6–4 to Canada's [[Jim Long (darts player)|Jim Long]].]]
+The first round (best of 11 [[Leg (darts)|legs]]) was played on 25 June.<ref name="PDC_D1">{{cite web |last=Gorton |first=Josh |date=25 June 2026 |title=Long stuns Rock on Day One at US Darts Masters |url=https://www.pdc.tv/news/2026/june/25/2026-bet365-us-darts-masters---day-one-latest/ |website=Professional Darts Corporation |access-date=26 June 2026}}</ref> Seven of the eight PDC representatives were victorious in the first round. [[Jim Long (darts player)|Jim Long]] emerged as the only North American player to progress to the quarter-finals, defeating US Darts Masters debutant [[Josh Rock]] 6–4. "I've played Josh [Rock] three times on the tour so we're familiar with each other, and I was fortunate he missed a couple of doubles at the end there," said the Canadian after the match.<ref>{{cite web |last=McNabb |first=Johnny |date=26 June 2026 |title=US Darts Masters: Josh Rock stunned by Jim Long on opening day in New York |url=https://www.newsletter.co.uk/sport/other-sport/us-darts-masters-josh-rock-stunned-by-jim-long-on-opening-day-in-new-york-8763731 |website=News Letter |access-date=26 June 2026}}</ref> Reigning world champion and top seed [[Luke Littler]] overcame a 4–3 deficit to claim a 6–4 victory over [[David Cameron (darts player)|David Cameron]]. Defending champion [[Luke Humphries]] began his campaign by defeating [[Leonard Gates]] 6–1. Speaking afterwards, Humphries hailed the US Darts Masters as a "really prestigious event" in "one of the best venues in the world".<ref>{{cite web |date=26 June 2026 |title=US Darts Masters: Luke Littler, Luke Humphries safely through to quarters as Josh Rock crashes out in New York |url=https://www.skysports.com/darts/news/12288/13557900/us-darts-masters-luke-littler-luke-humphries-safely-through-to-quarters-as-josh-rock-crashes-out-in-new-york |website=Sky Sports |access-date=26 June 2026}}</ref>
+
+Big-stage newcomers Fred Krueger and Brayden Hall were beaten in their opening matches, losing 6–1 to [[Gian van Veen]] and 6–4 to [[Gerwyn Price]], respectively. [[James Wade]] made a successful return to the World Series, hitting a 144 [[Glossary of darts#Checkout|checkout]] before defeating [[Adam Sevada]] 6–3. [[Stephen Bunting]] and [[Jonny Clayton]] were 6–2 winners over [[Alex Spellman]] and [[Gary Mawson]]; Bunting earned his first win at the event, while Clayton posted a [[three-dart average]] of 98.54 in victory.<ref name="PDC_D1"/><ref>{{cite web |last=Gill |first=Samuel |date=26 June 2026 |title=Luke Littler, Gerwyn Price tested in New York as Jim Long stuns Josh Rock |url=https://dartsnews.com/pdc/us-darts-masters-day-one-round-up-luke-littler-gerwyn-price-tested-in-new-york-as-jim-long-stuns-josh-rock |website=dartsnews.com |access-date=26 June 2026}}</ref>
+
+=== Quarter-finals, semi-finals and final ===
+[[File:2026-03-26 Premier League Darts – Night 8 – Berlin 2026 by Sandro Halank–043.jpg|thumb|[[Luke Humphries]] ''(pictured in 2026)'' won his third World Series title and became the first player to retain the US Darts Masters.]]
+The quarter-finals (best of 11 legs), semi-finals (best of 13 legs) and final (best of 15 legs) were played on 26 June.<ref name="PDC_Final">{{cite web |last=Gorton |first=Josh |date=27 June 2026 |title=Humphries defies Littler to win back-to-back US Darts Masters titles |url=https://www.pdc.tv/news/2026/june/27/Humphries-defies-Littler-back-to-back-US-Masters-titles/ |website=Professional Darts Corporation |access-date=27 June 2026}}</ref> Luke Littler opened the quarter-finals with a 6–1 win over Jim Long, ending the North American representation in the tournament. Gerwyn Price averaged 103.93 but was beaten 6–3 by James Wade. Stephen Bunting landed a 164 checkout, the highest of the tournament, before losing 6–3 to Luke Humphries. Gian van Veen averaged 106.45 on his way to beating Jonny Clayton by the same scoreline. Wade successfully pinned all of his attempts at [[Glossary of darts#Double|double]] but only registered four legs as Littler defeated him 7–4 in the first semi-final. In the other semi-final, Van Veen missed two [[Glossary of darts#Match dart|match darts]] as Humphries came back from 6–3 down to win 7–6 and advance.<ref name="Sky_Final">{{cite web |date=27 June 2026 |title=US Darts Masters: Luke Humphries defends New York title after beating Luke Littler 8-7 in thrilling final at Madison Square Gardens |url=https://www.skysports.com/darts/news/12288/13558202/us-darts-masters-luke-humphries-defends-new-york-title-after-beating-luke-littler-8-7-in-thrilling-final-at-madison-square-gardens |website=Sky Sports |access-date=27 June 2026}}</ref><ref>{{cite web |date=27 June 2026 |title=U.S. Darts Masters: Humphries verteidigt seinen Titel |trans-title=U.S. Darts Masters: Humphries defends his title |url=https://www.dartn.de/news/u-s-darts-masters-humphries-verteidigt-seinen-titel/ |website=dartn.de |access-date=27 June 2026 |language=de}}</ref> This set up a final between the world's top two, Littler and Humphries, who teamed up to win the [[2026 PDC World Cup of Darts|World Cup of Darts]] for [[England at the PDC World Cup|England]] earlier in the month. Littler contested his first US Darts Masters final, while Humphries looked to win the tournament for the second year in a row.<ref name="PDC_Final"/>
+
+Humphries began the final by taking a commanding 4–1 lead, but he missed darts to extend his advantage to four legs, allowing Littler to reduce the deficit to 4–2. The reigning world champion completed a run of four consecutive legs to go 5–4 in front, before Humphries converted a 72 checkout to level the match. From there, the pair went to a deciding leg which Humphries won in 11 darts to seal an 8–7 victory. Humphries finished the match with an average of 104.05, while Littler landed nine [[Glossary of darts#Maximum|maximums]] as he averaged just under 100.<ref name="PDC_Final"/><ref name="BBC_Final">{{cite web |last=Sanghera |first=Mandeep |date=27 June 2026 |title=Humphries beats Littler to win US title in New York |url=https://www.bbc.com/sport/darts/articles/cx245892gpmo |website=BBC Sport |access-date=27 June 2026}}</ref>
+
+Humphries won his third World Series title and became the first player to retain the US Darts Masters.<ref name="Sky_Final"/> "It's great to go back-to-back. I'm always out to set records and do things that not many players have done," said Humphries afterwards, adding that the match was "just another brilliant game in the saga of Luke v Luke".<ref name="BBC_Final"/> Littler described the event as an "unbelievable experience" and acknowledged the English fans in the crowd, who were in attendance before going to the [[England national football team|England national team]]'s match against [[Panama national football team|Panama]] at the [[2026 FIFA World Cup|FIFA World Cup]] the following day.<ref name="Sky_Final"/><ref>{{cite web |last=MacInnes |first=Paul |date=27 June 2026 |title=England enjoy New York minute but fans check out to watch darts instead |url=https://www.theguardian.com/football/2026/jun/26/england-fans-choose-darts-over-joining-world-cup-big-fan-energy |website=The Guardian |access-date=1 July 2026}}</ref>
+
+==Draw==
+The draw was announced on 24 June.<ref name="Draw">{{cite web |last=Gorton |first=Josh |date=25 June 2026 |title=2026 bet365 US Darts Masters & North American Championship draws & schedule |url=https://www.pdc.tv/news/2026/june/25/2026-bet365-us-darts-masters---north-american-championship-draw-/ |website=Professional Darts Corporation |access-date=25 June 2026}}</ref> Numbers to the left of players' names show the seedings for the top four in the tournament. The figures to the right of a player's name state their [[three-dart average]] in a match. Players in bold denote match winners.<ref>{{cite web |title=Results of US Darts Masters 2026 |url=https://mastercaller.com/tournaments/u-s-darts-masters/2026/results |website=Mastercaller |access-date=26 June 2026}}</ref>
+{{16TeamBracket
+| RD1='''First round'''<br>''(best of 11 legs)''<br> 25 June
+| RD2='''Quarter-finals'''<br>''(best of 11 legs)''<br> 26 June
+| RD3='''Semi-finals'''<br>''(best of 13 legs)''<br>26 June
+| RD4='''Final'''<br>''(best of 15 legs)''<br>26 June
+| team-width = 220
+| boldwinner = high
+| RD1-seed01 = 1
+| RD1-team01 = {{PDCFlag|Luke Littler|avg=87.84}}
+| RD1-score01= 6 
+| RD1-seed02 = &nbsp;
+| RD1-team02 = {{PDCFlag|David Cameron|avg=80.28}}
+| RD1-score02= 4 
+| RD1-seed03 = &nbsp;
+| RD1-team03 = {{PDCFlag|Josh Rock|avg=88.25}}
+| RD1-score03= 4 
+| RD1-seed04 = &nbsp;
+| RD1-team04 = {{PDCFlag|Jim Long|avg=87.85}}
+| RD1-score04= 6 
+| RD1-seed05 = 4
+| RD1-team05 = {{PDCFlag|Gerwyn Price|avg=91.83}}
+| RD1-score05= 6
+| RD1-seed06 = &nbsp;
+| RD1-team06 = {{PDCFlag|Brayden Hall|avg=78.70}}
+| RD1-score06= 4
+| RD1-seed07 = &nbsp;
+| RD1-team07 = {{PDCFlag|James Wade|avg=82.51}}
+| RD1-score07= 6 
+| RD1-seed08 = &nbsp;
+| RD1-team08 = {{PDCFlag|Adam Sevada|avg=77.29}}
+| RD1-score08= 3 
+| RD1-seed09 = 2
+| RD1-team09 = {{PDCFlag|Luke Humphries|avg=91.92}}
+| RD1-score09= 6 
+| RD1-seed10 = &nbsp;
+| RD1-team10 = {{PDCFlag|Leonard Gates|avg=77.18}}
+| RD1-score10= 1 
+| RD1-seed11 = &nbsp;
+| RD1-team11 = {{PDCFlag|Stephen Bunting|avg=90.97}}
+| RD1-score11= 6 
+| RD1-seed12 = &nbsp;
+| RD1-team12 = {{PDCFlag|Alex Spellman|avg=72.84}}
+| RD1-score12= 2 
+| RD1-seed13 = 3
+| RD1-team13 = {{PDCFlag|Gian van Veen|avg=91.76}}
+| RD1-score13= 6
+| RD1-seed14 = &nbsp;
+| RD1-team14 = {{PDCFlag|Fred Krueger|avg=80.97}}
+| RD1-score14= 1
+| RD1-seed15 = &nbsp;
+| RD1-team15 = {{PDCFlag|Jonny Clayton|avg=98.54}}
+| RD1-score15= 6 
+| RD1-seed16 = &nbsp;
+| RD1-team16 = {{PDCFlag|Gary Mawson|avg=78.33}}
+| RD1-score16= 2 
+| RD2-seed01 = 1 
+| RD2-team01 = {{PDCFlag|Luke Littler|avg=102.15}}
+| RD2-score01= 6
+| RD2-seed02 = &nbsp;
+| RD2-team02 = {{PDCFlag|Jim Long|avg=89.38}}
+| RD2-score02= 1
+| RD2-seed03 = 4
+| RD2-team03 = {{PDCFlag|Gerwyn Price|avg=103.93}}
+| RD2-score03= 3
+| RD2-seed04 = &nbsp;
+| RD2-team04 = {{PDCFlag|James Wade|avg=102.07}}
+| RD2-score04= 6
+| RD2-seed05 = 2 
+| RD2-team05 = {{PDCFlag|Luke Humphries|avg=105.70}}
+| RD2-score05= 6
+| RD2-seed06 = &nbsp;
+| RD2-team06 = {{PDCFlag|Stephen Bunting|avg=102.72}}
+| RD2-score06= 3
+| RD2-seed07 = 3
+| RD2-team07 = {{PDCFlag|Gian van Veen|avg=106.45}}
+| RD2-score07= 6
+| RD2-seed08 = &nbsp;
+| RD2-team08 = {{PDCFlag|Jonny Clayton|avg=91.25}}
+| RD2-score08= 3
+| RD3-seed01 = 1
+| RD3-team01 = {{PDCFlag|Luke Littler|avg=97.46}}
+| RD3-score01= 7
+| RD3-seed02 = &nbsp;
+| RD3-team02 = {{PDCFlag|James Wade|avg=100.26}}
+| RD3-score02= 4
+| RD3-seed03 = 2
+| RD3-team03 = {{PDCFlag|Luke Humphries|avg=101.57}}
+| RD3-score03= 7
+| RD3-seed04 = 3
+| RD3-team04 = {{PDCFlag|Gian van Veen|avg=97.24}}
+| RD3-score04= 6
+| RD4-seed01 = 1
+| RD4-team01 = {{PDCFlag|Luke Littler|avg=99.50}}
+| RD4-score01= 7
+| RD4-seed02 = 2
+| RD4-team02 = {{PDCFlag|Luke Humphries|avg=104.05}}
+| RD4-score02= 8
+}}
+
+== References ==
+{{reflist}}
+
+{{World Series of Darts}}
+{{2026 in PDC darts}}
+
+{{DEFAULTSORT:US Darts Masters 2026}}
+[[Category:2026 in darts]]
+[[Category:World Series of Darts]]
+[[Category:June 2026 sports events in the United States]]
+[[Category:Darts in the United States]]
+[[Category:Events at Madison Square Garden]]
+[[Category:Sports competitions in Manhattan]]
+[[Category:2020s in Manhattan|US Darts Masters]]
+[[Category:2026 in sports in New York City]]
+[[Category:International sports competitions in New York (state)]]
