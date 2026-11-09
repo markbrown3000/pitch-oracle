@@ -300,6 +300,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     </div>
   </header>
   <div class="sport" id="sport" role="group" aria-label="Sport">
+    <button type="button" data-s="today" aria-pressed="false">Today</button>
     <button type="button" data-s="football" aria-pressed="true">Football</button>
     <button type="button" data-s="tennis" aria-pressed="false">Tennis</button>
     <button type="button" data-s="darts" aria-pressed="false">Darts</button>
@@ -370,6 +371,14 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <p>The Premier League, La Liga, Serie A, Bundesliga and Ligue 1 come from a live sports data feed. The Championship, League One, League Two, National League, Segunda División, Serie B, 2. Bundesliga and Ligue 2, plus the four Scottish divisions, the Eredivisie, Belgian Pro League, Primeira Liga, Süper Lig and Greek Super League, come from published league tables, results and fixture lists. Each match card shows the date its table is from, and a league whose table is more than a week old is marked "old table".</p>
     <p>Each match card shows the stats model and the second opinion side by side, so you can see where they disagree. Football is noisy: a 60% favourite still fails to win four times in ten. For fun, not for staking money.</p>
   </section>
+  </div>
+  <div id="tdView" hidden>
+    <div class="seg" role="group" aria-label="Which day" id="tdDay" style="margin:4px 0 12px"><button type="button" data-v="0" aria-pressed="true">Today</button><button type="button" data-v="1" aria-pressed="false">Tomorrow</button></div>
+    <div class="label">Strongest picks, every sport</div>
+    <div class="at-list" id="tdList" style="margin:6px 0 22px"></div>
+    <div class="label" id="tdRecapH">Last weekend</div>
+    <div class="rec-top" id="tdRecap"></div>
+    <p class="bt-hint" id="tdRecapNote" style="margin-top:8px"></p>
   </div>
   <div id="dtView" hidden>
     <div class="tn-status"><div class="asof" id="dtAsof">Loading darts…</div><div class="asof">Updates itself every two hours from Wikipedia's PDC event pages.</div></div>
@@ -936,7 +945,7 @@ function pickLabel(m){
   const {p}=m; const name=p.pick==="H"?m.h.team:p.pick==="A"?m.a.team:"Draw";
   return {code:p.pick==="X"?"X":p.pick==="H"?"1":"2",name,strong:p.conf>=.6&&p.pick!=="X",word:p.conf>=.6?"Strong":p.conf>=.45?"Lean":"Toss-up"};
 }
-function render(){renderRota();renderMain();renderRecord();if(!document.getElementById("atView").hidden&&typeof atRender==="function")atRender()}
+function render(){renderRota();renderMain();renderRecord();if(!document.getElementById("tdView").hidden&&typeof tdRender==="function")tdRender();if(!document.getElementById("atView").hidden&&typeof atRender==="function")atRender()}
 function renderMain(){
   renderTabs();renderFilters();
   const ms=allMatches();
@@ -1733,7 +1742,7 @@ tn.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:""};tn.q="";
 try{const f=JSON.parse(localStorage.getItem("tnF")||"null");if(f)Object.assign(tn.f,f)}catch(e){}
 
 try{const t=localStorage.getItem("tnTour");if(t&&TN_TOURS.some(x=>x[0]===t))tn.tour=t}catch(e){}
-let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis"||s==="bets"||s==="auto"||s==="darts"||s==="snooker")sport=s}catch(e){}
+let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis"||s==="bets"||s==="auto"||s==="darts"||s==="snooker"||s==="today")sport=s}catch(e){}
 function setSport(s){sport=s;try{localStorage.setItem("poSport",s)}catch(e){}renderSport()}
 function renderSport(){
   document.querySelectorAll("#sport button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.s===sport)));
@@ -1743,14 +1752,17 @@ function renderSport(){
   document.getElementById("btView").hidden=sport!=="bets";
   document.getElementById("atView").hidden=sport!=="auto";
   document.getElementById("dtView").hidden=sport!=="darts";
+  document.getElementById("tdView").hidden=sport!=="today";
   document.getElementById("snView").hidden=sport!=="snooker";
   document.getElementById("rota").hidden=sport==="bets"||sport==="auto";
-  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":sport==="bets"?"Your bet log":sport==="auto"?"Auto bet · every strong pick at Bet365 odds":sport==="darts"?"Match Predictor · PDC darts":sport==="snooker"?"Match Predictor · snooker":"Match Predictor · 37 leagues";
+  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":sport==="bets"?"Your bet log":sport==="auto"?"Auto bet · every strong pick at Bet365 odds":sport==="today"?"Match Predictor · today's best picks":sport==="darts"?"Match Predictor · PDC darts":sport==="snooker"?"Match Predictor · snooker":"Match Predictor · 37 leagues";
   if(sport==="bets")btRender();
   if(sport==="auto")atRender();
+  if(sport==="today")tdRender();
   if(sport==="darts")dtRender();
   if(sport==="snooker")snRender();
   if(sport==="tennis")renderTennis();
+  if(sport==="today")tdRender();
 }
 document.querySelectorAll("#sport button").forEach(b=>b.onclick=()=>setSport(b.dataset.s));
 [["tnDFrom","dFrom"],["tnDTo","dTo"],["tnTFrom","tFrom"],["tnTTo","tTo"]].forEach(([id,k])=>document.getElementById(id).addEventListener("change",e=>{tn.f[k]=e.target.value;if(k==="dFrom"&&tn.f.dTo&&tn.f.dTo<tn.f.dFrom)tn.f.dTo=tn.f.dFrom;tnSaveF();renderTennis()}));
@@ -1886,6 +1898,7 @@ async function loadTennis(){
     else tn.msg=r.status===404?"Waiting for the first tennis refresh.":"Couldn't load tennis. Pull down to try again.";
   }catch(e){try{const c=JSON.parse(localStorage.getItem("tnCache")||"null");if(c){tn.doc=c;tn.msg=""}else tn.msg="Couldn't load tennis (offline?)."}catch(e2){}}
   if(sport==="tennis")renderTennis();
+  if(sport==="today")tdRender();
 }
 
 
@@ -1949,6 +1962,7 @@ async function loadDarts(){
     else dt.msg=r.status===404?"Waiting for the first darts update.":"Couldn't load darts.";
   }catch(e){try{const c=JSON.parse(localStorage.getItem("dtCache")||"null");if(c)dt.doc=c;else dt.msg="Couldn't load darts (offline?)."}catch(e2){}}
   if(sport==="darts")dtRender();
+  if(sport==="today")tdRender();
 }
 document.querySelectorAll("#dtStrength button").forEach(b=>b.onclick=()=>{dt.strength=b.dataset.v;try{localStorage.setItem("dtStrength",dt.strength)}catch(e){}dtRender()});
 
@@ -2012,8 +2026,58 @@ async function loadSnooker(){
     else sn.msg=r.status===404?"Waiting for the first snooker update.":"Couldn't load snooker.";
   }catch(e){try{const c=JSON.parse(localStorage.getItem("snCache")||"null");if(c)sn.doc=c;else sn.msg="Couldn't load snooker (offline?)."}catch(e2){}}
   if(sport==="snooker")snRender();
+  if(sport==="today")tdRender();
 }
 document.querySelectorAll("#snStrength button").forEach(b=>b.onclick=()=>{sn.strength=b.dataset.v;try{localStorage.setItem("snStrength",sn.strength)}catch(e){}snRender()});
+
+/* ---------- Today: the strongest picks across every sport, and last weekend in numbers ---------- */
+const td={day:0};
+function tdRender(){
+  document.querySelectorAll("#tdDay button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.v===td.day)));
+  const day=addDays(keyFmt.format(new Date()),td.day),now=Date.now(),rows=[];
+  // football: strong match picks, plus goals picks of 65%+
+  for(const code of LEAGUE_ORDER){const L=state.leagues[code];if(!L)continue;let Rt;try{Rt=ratings(L)}catch(e){continue}
+    for(const f of L.fixtures||[]){if(keyFmt.format(new Date(f.start))!==day||Date.parse(f.start)<now-6e5)continue;const h=Rt[f.home],a=Rt[f.away];if(!h||!a)continue;
+      const p=predict(h,a,f.feed,f.odds,f.ou),m={f,lg:L,h,a,p};
+      if(p.pick!=="X"&&p.conf>=.6){const o=b365For(m);rows.push({sport:"Football",t:f.start,conf:p.conf,what:(p.pick==="H"?h.team:a.team)+" to win",sub:`${h.team} v ${a.team} · ${L.short||L.name}`+(o?` · Bet365 ${dec2(o)}`:""),go:"football"})}
+      const gp=goalsPick(p);if(gp&&gp.c>=.65){const o=f.b365ou&&f.b365ou[gp.k];rows.push({sport:"Goals",t:f.start,conf:gp.c,what:gp.name,sub:`${h.team} v ${a.team} · ${L.short||L.name}`+(o?` · Bet365 ${dec2(o)}`:""),go:"football"})}}}
+  // tennis: strong picks
+  if(tn.doc)for(const [id,x] of Object.entries(tn.doc.picks||{})){if(x.res!=null||x.pa==null||!x.start||keyFmt.format(new Date(x.start))!==day||Date.parse(x.start)<now)continue;
+    const fv=tnFav(x);if(fv.conf>=70)rows.push({sport:"Tennis",t:x.start,conf:fv.conf/100,what:fv.name+" to win",sub:`v ${fv.side==="A"?x.b:x.a}`+(x.n?` · ${x.n}`:""),go:"tennis"})}
+  // darts and snooker: strong picks (no start times unless the order of play is out)
+  [["Darts",dt,"darts"],["Snooker",sn,"snooker"]].forEach(([nm,o,go])=>{for(const m of (o.doc&&o.doc.upcoming)||[]){if(m.date!==day)continue;const c=Math.max(m.p,1-m.p);if(c<.7)continue;
+    rows.push({sport:nm,t:m.time?`${m.date}T${m.time}:00`:null,tl:m.time||null,conf:c,what:(m.p>=.5?m.a:m.b)+" to win",sub:`v ${m.p>=.5?m.b:m.a} · ${m.event.replace(/^20\d\d /,"").replace(/ \((snooker|ranking)\)$/,"")}${m.round?", "+m.round:""}`,go})}});
+  rows.sort((x,y)=>(x.t?0:1)-(y.t?0:1)||String(x.t).localeCompare(String(y.t))||y.conf-x.conf);
+  const list=document.getElementById("tdList");list.replaceChildren();
+  if(!rows.length)list.append(el("div","empty",`No strong picks ${td.day?"tomorrow":"left today"} yet. Football and tennis fill in as fixtures and prices arrive; darts and snooker once their draws are out.`));
+  rows.slice(0,40).forEach(x=>{const r=el("button","at-row wait");r.type="button";r.style.textAlign="left";r.style.font="inherit";r.style.color="inherit";r.style.cursor="pointer";
+    r.append(el("div","who",x.what));const pc=el("div","pl",Math.round(100*x.conf)+"%");const tm=el("div","run");tm.append(el("small",null,x.sport),document.createTextNode(x.tl||(x.t?hmFmt(new Date(x.t)):"–")));
+    r.append(pc,tm,el("div","meta",x.sub));r.onclick=()=>setSport(x.go);list.append(r)});
+  tdRecap();
+}
+function tdRecap(){
+  // the most recent Friday–Sunday that has finished (on Fri–Sun, the one before)
+  const today=keyFmt.format(new Date()),dow=new Date(today+"T12:00:00Z").getUTCDay();
+  const sun=addDays(today,-(dow===0?7:dow)),fri=addDays(sun,-2),inW=d=>d&&d>=fri&&d<=sun;
+  document.getElementById("tdRecapH").textContent=`Last weekend · ${shortDay.format(new Date(fri+"T12:00:00Z"))} to ${shortDay.format(new Date(sun+"T12:00:00Z"))}`;
+  const box=document.getElementById("tdRecap");box.replaceChildren();
+  const tile=(k,v,sub,c)=>{const t=el("div","stat"),vv=el("div","v",v);if(c)vv.classList.add(c);t.append(el("div","label",k),vv);if(sub)t.append(el("div","sub",sub));box.append(t)};
+  const cls=x=>x>0?"bt-pos":x<0?"bt-neg":"";
+  // football strong picks (live) at the Auto bet stake and odds choice
+  const scope=at.scope;at.scope="live";let done=[],accas=[];try{const r=atBets();done=r.done;accas=acBuild(r.done,r.wait).accas}catch(e){}at.scope=scope;
+  const fw=done.filter(b=>inW(b.date)),fpl=fw.reduce((a,b)=>a+b.pl,0);
+  tile("Football strong picks",fw.length?`${fw.filter(b=>b.win).length} of ${fw.length}`:"–",fw.length?`${btSG(fpl)} at ${btG(at.stake)} a bet (${at.price==="best"?"best price":"Bet365"})`:"no settled picks yet",cls(fpl));
+  const aw=accas.filter(a=>inW(a.date)),apl=aw.reduce((a,b)=>a+b.pl,0);
+  tile("6-fold accas",aw.length?`${aw.filter(a=>a.win).length} of ${aw.length} won`:"–",aw.length?btSG(apl):"none settled",cls(apl));
+  const mine=(bt.bets||[]).filter(b=>!b.example&&!b.paper&&inW(b.date)&&b.result!=="pending"),mpl=mine.reduce((a,b)=>a+btProfit(b),0);
+  tile("Your bets",mine.length?btSG(mpl):"–",mine.length?`${mine.length} settled real bet${mine.length===1?"":"s"}`:"none logged",cls(mpl));
+  const oth=[];
+  if(tn.doc)Object.values(tn.doc.picks||{}).forEach(x=>{if(x.res!=null&&x.start&&inW(keyFmt.format(new Date(x.start))))oth.push(!!x.ok)});
+  [dt,sn].forEach(o=>((o.doc&&o.doc.recent)||[]).forEach(x=>{if(inW(x.date))oth.push(!!x.win)}));
+  tile("Tennis, darts, snooker",oth.length?`${oth.filter(Boolean).length} of ${oth.length}`:"–",oth.length?"picks right":"none settled");
+  document.getElementById("tdRecapNote").textContent="Weekend results arrive by Monday morning. Football counts live strong picks only; your bets count real (not paper) bets.";
+}
+document.querySelectorAll("#tdDay button").forEach(b=>b.onclick=()=>{td.day=+b.dataset.v;tdRender()});
 
 /* ---------- Auto bet: every strong pick at Bet365's odds ---------- */
 const at={stake:10,scope:"live",all:false,price:"b365"};
