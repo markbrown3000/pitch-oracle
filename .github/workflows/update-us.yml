@@ -1,0 +1,29 @@
+# Updates the US sports tab's data (data/us.json: NHL, NBA, NFL) every two hours.
+# Games, scores and DraftKings odds from ESPN's public scoreboards; prices also from Kalshi. Model: tools/us_sports.py.
+name: Update US sports data
+on:
+  schedule:
+    - cron: "7 */2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/us_sports.py", ".github/workflows/update-us.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: us
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install numpy
+      - name: Fetch games and prices, run the model
+        run: python3 tools/us_sports.py
+      - name: Save if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add data/us.json data/us_state.json data/us_cache_*.json
+          git diff --cached --quiet || (git commit -m "Update US sports data" && (git push || (git pull --rebase && git push)))
