@@ -305,6 +305,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <button type="button" data-s="tennis" aria-pressed="false">Tennis</button>
     <button type="button" data-s="darts" aria-pressed="false">Darts</button>
     <button type="button" data-s="snooker" aria-pressed="false">Snooker</button>
+    <button type="button" data-s="us" aria-pressed="false">US sports</button>
     <button type="button" data-s="auto" aria-pressed="false">Auto bet</button>
     <button type="button" data-s="bets" aria-pressed="false">Bets</button>
   </div>
@@ -379,6 +380,24 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <div class="label" id="tdRecapH">Last weekend</div>
     <div class="rec-top" id="tdRecap"></div>
     <p class="bt-hint" id="tdRecapNote" style="margin-top:8px"></p>
+  </div>
+  <div id="usView" hidden>
+    <div class="tn-status"><div class="asof" id="usAsof">Loading US sports…</div><div class="asof">Updates itself every two hours from ESPN's scoreboards (with DraftKings odds) and Kalshi's prices.</div></div>
+    <div class="seg" role="group" aria-label="League" id="usLg" style="margin:6px 0 8px"><button type="button" data-v="nhl" aria-pressed="true">NHL</button><button type="button" data-v="nba" aria-pressed="false">NBA</button><button type="button" data-v="nfl" aria-pressed="false">NFL</button></div>
+    <div class="seg" role="group" aria-label="Pick strength" id="usStrength" style="margin:0 0 6px"><button type="button" data-v="strong" aria-pressed="true">Strong (70%+)</button><button type="button" data-v="lean" aria-pressed="false">Lean and up (60%+)</button><button type="button" data-v="all" aria-pressed="false">All</button></div>
+    <div id="usMain"></div>
+    <div class="label" style="margin-top:22px">Auto bet: every strong pick at DraftKings odds</div>
+    <div class="at-total" id="usTotal"></div>
+    <div class="rec-top" id="usRec"></div>
+    <div id="usRecent"></div>
+    <div class="label" style="margin-top:22px">Team ratings this season</div>
+    <div class="tbl" id="usRank" style="margin:6px 0 18px"></div>
+    <section class="method">
+      <h3>How the US picks work</h3>
+      <p>Each game's chance comes mostly (90%) from the market, the average of DraftKings' moneyline and Kalshi's price, nudged by a team rating built from this season's results with recent games counting more. That's the same balance as the football picks. Times are UK time; most games start in the evening or overnight.</p>
+      <p>ESPN removes odds once games finish, so there's no priced replay of earlier games: the record and the Auto bet total start from the first picks saved here on 9 November 2026. Each pick is saved with its DraftKings price just before the start. DraftKings is a US bookmaker; UK bookmakers' prices for these games are usually close.</p>
+      <p>Bet only what you can afford to lose. Free help: <a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a>.</p>
+    </section>
   </div>
   <div id="dtView" hidden>
     <div class="tn-status"><div class="asof" id="dtAsof">Loading darts…</div><div class="asof">Updates itself every two hours from Wikipedia's PDC event pages.</div></div>
@@ -496,7 +515,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
         <form class="bt-form" id="btForm" novalidate>
           <div class="bt-f bt-c2"><label for="btDate">Date</label><input id="btDate" type="date"></div>
           <div class="bt-f bt-c2"><label for="btMarket">Bet type</label>
-            <select id="btMarket"><option>Match result</option><option>Next goal</option><option>Both teams to score</option><option>Over/under goals</option><option>Correct score</option><option>Accumulator</option><option>Tennis</option><option>Darts</option><option>Snooker</option><option>Other</option></select></div>
+            <select id="btMarket"><option>Match result</option><option>Next goal</option><option>Both teams to score</option><option>Over/under goals</option><option>Correct score</option><option>Accumulator</option><option>Tennis</option><option>Darts</option><option>Snooker</option><option>NHL</option><option>NBA</option><option>NFL</option><option>Other</option></select></div>
           <div class="bt-f bt-c2"><label for="btBook">Bookmaker</label><input id="btBook" type="text" value="Bet365" autocomplete="off"></div>
           <div class="bt-f bt-c6"><label for="btEvent">Match or event</label><input id="btEvent" type="text" placeholder="e.g. Arsenal v Chelsea" autocomplete="off"></div>
           <div class="bt-f bt-c6"><label for="btSel">Your pick</label><input id="btSel" type="text" placeholder="e.g. Arsenal to win" autocomplete="off"></div>
@@ -1837,7 +1856,7 @@ tn.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:""};tn.q="";
 try{const f=JSON.parse(localStorage.getItem("tnF")||"null");if(f)Object.assign(tn.f,f)}catch(e){}
 
 try{const t=localStorage.getItem("tnTour");if(t&&TN_TOURS.some(x=>x[0]===t))tn.tour=t}catch(e){}
-let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis"||s==="bets"||s==="auto"||s==="darts"||s==="snooker"||s==="today")sport=s}catch(e){}
+let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis"||s==="bets"||s==="auto"||s==="darts"||s==="snooker"||s==="today"||s==="us")sport=s}catch(e){}
 function setSport(s){sport=s;try{localStorage.setItem("poSport",s)}catch(e){}renderSport()}
 function renderSport(){
   document.querySelectorAll("#sport button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.s===sport)));
@@ -1848,12 +1867,14 @@ function renderSport(){
   document.getElementById("atView").hidden=sport!=="auto";
   document.getElementById("dtView").hidden=sport!=="darts";
   document.getElementById("tdView").hidden=sport!=="today";
+  document.getElementById("usView").hidden=sport!=="us";
   document.getElementById("snView").hidden=sport!=="snooker";
   document.getElementById("rota").hidden=sport==="bets"||sport==="auto";
-  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":sport==="bets"?"Your bet log":sport==="auto"?"Auto bet · every strong pick at Bet365 odds":sport==="today"?"Match Predictor · today's best picks":sport==="darts"?"Match Predictor · PDC darts":sport==="snooker"?"Match Predictor · snooker":"Match Predictor · 37 leagues";
+  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":sport==="bets"?"Your bet log":sport==="auto"?"Auto bet · every strong pick at Bet365 odds":sport==="today"?"Match Predictor · today's best picks":sport==="us"?"Match Predictor · NHL, NBA and NFL":sport==="darts"?"Match Predictor · PDC darts":sport==="snooker"?"Match Predictor · snooker":"Match Predictor · 37 leagues";
   if(sport==="bets")btRender();
   if(sport==="auto")atRender();
   if(sport==="today")tdRender();
+  if(sport==="us")usRender();
   if(sport==="darts")dtRender();
   if(sport==="snooker")snRender();
   if(sport==="tennis")renderTennis();
@@ -2125,6 +2146,54 @@ async function loadSnooker(){
 }
 document.querySelectorAll("#snStrength button").forEach(b=>b.onclick=()=>{sn.strength=b.dataset.v;try{localStorage.setItem("snStrength",sn.strength)}catch(e){}snRender()});
 
+/* ---------- US sports: data/us.json, built every two hours by tools/us_sports.py ---------- */
+const US_URL=(typeof ON_GH!=="undefined"&&ON_GH)?"data/us.json":"https://markbrown3000.github.io/pitch-oracle/data/us.json";
+const us={doc:null,msg:"Loading US sports…",lg:"nhl",strength:"strong"};
+try{const v=JSON.parse(localStorage.getItem("usView")||"null");if(v){us.lg=v.lg||us.lg;us.strength=v.strength||us.strength}}catch(e){}
+const usSave=()=>{try{localStorage.setItem("usView",JSON.stringify({lg:us.lg,strength:us.strength}))}catch(e){}};
+const usKeep=c=>us.strength==="all"||(us.strength==="lean"?c>=.6:c>=.7);
+function usRender(){
+  document.querySelectorAll("#usLg button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===us.lg)));
+  document.querySelectorAll("#usStrength button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===us.strength)));
+  const main=document.getElementById("usMain");main.replaceChildren();const D=us.doc,L=D&&D.leagues&&D.leagues[us.lg];
+  document.getElementById("usAsof").textContent=D?`Updated ${dayFmt.format(new Date(D.updated))}, ${timeFmt.format(new Date(D.updated))}`+(L?` · ratings from ${L.games} ${L.name} games this season`:""):us.msg;
+  if(!L){main.append(el("div","empty","US picks appear here after the first update."));return}
+  const up=(L.upcoming||[]).filter(g=>Date.parse(g.start)>Date.now()-3*3600e3&&usKeep(Math.max(g.p,1-g.p)));
+  if(!up.length)main.append(el("div","empty",(L.upcoming||[]).length?`No ${us.strength==="strong"?"strong":"lean"} picks in the next few days. Choose "All" above to see every game.`:`No ${L.name} games in the next few days.`));
+  const byDay=new Map();up.forEach(g=>{const k=keyFmt.format(new Date(g.start));if(!byDay.has(k))byDay.set(k,[]);byDay.get(k).push(g)});
+  byDay.forEach((gs,k)=>{const sec=el("section","dt-ev"),h=el("h2",null,dayFmt.format(new Date(k+"T12:00:00Z")));h.append(el("small",null,`${gs.length} game${gs.length===1?"":"s"}`));sec.append(h);const list=el("div","dt-list");
+    gs.forEach(g=>{const c=el("div","dt-m"),hm=g.p>=.5,conf=Math.max(g.p,1-g.p),t=conf>=.7?"strong":conf>=.6?"lean":"toss";
+      const f=el("div","fmt");f.append(el("span",null,`${hmFmt(new Date(g.start))} UK`+(g.kalshi!=null?` · Kalshi ${Math.round(100*g.kalshi)}% home`:"")),el("span","dt-tag "+(t==="strong"?"strong":""),t==="strong"?"Strong pick":t==="lean"?"Lean":"Toss-up"));c.append(f);
+      [["a",g.away,1-g.p,g.dk&&g.dk.a,"away"],["h",g.home,g.p,g.dk&&g.dk.h,"home"]].forEach(([sd,nm,p,o,lab])=>{const r=el("div","dt-p"+((sd==="h")===hm?" dt-fav":""));r.append(el("span","dt-nm",nm),el("span","dt-pc",Math.round(100*p)+"%"));
+        const bar=el("div","dt-bar"),i=el("i");i.style.width=(100*p).toFixed(1)+"%";bar.append(i);r.append(bar);const st=el("div","dt-st");st.append(el("span",null,lab+(o?` · DraftKings ${dec2(o)}`:"")));r.append(st);c.append(r)});
+      const acts=el("div","acts"),b=el("button","btn ghost","Log this bet");b.type="button";const o=g.dk&&g.dk[hm?"h":"a"];
+      b.onclick=()=>btPrefill({d:keyFmt.format(new Date(g.start)),e:`${g.away} at ${g.home}`,s:`${hm?g.home:g.away} to win`,o:o?dec2(o):"",m:L.name,b:"Bet365",msg:`Filled in from Pitch Oracle's ${L.name} pick. Type in the odds your bookmaker shows (DraftKings had ${o?dec2(o):"no price"}), your stake (or tick Paper bet), then press Add bet.`,n:`Pitch Oracle ${L.name} pick, ${Math.round(100*conf)}%`});
+      acts.append(b);c.append(acts);list.append(c)});sec.append(list);main.append(sec)});
+  // live record and Auto bet total: picks saved before the start, settled from the scores
+  const rec=document.getElementById("usRec");rec.replaceChildren();const lv=(L.record&&L.record.live)||{};
+  const tile=(k,v,sub,c)=>{const t=el("div","stat"),vv=el("div","v",v);if(c)vv.classList.add(c);t.append(el("div","label",k),vv);if(sub)t.append(el("div","sub",sub));rec.append(t)};
+  const pc=x=>x&&x.n?Math.round(100*x.won/x.n)+"%":"–",sub=x=>x&&x.n?`${x.won} of ${x.n} right`:"none settled yet";
+  tile("Strong picks",pc(lv.strong),sub(lv.strong));tile("Lean picks",pc(lv.lean),sub(lv.lean));
+  const bets=(L.recent||[]).filter(x=>x.c>=.7&&x.o>1).sort((a,b)=>a.start.localeCompare(b.start));let run=0;bets.forEach(x=>{run+=x.win?at.stake*(x.o-1):-at.stake});
+  const T=document.getElementById("usTotal");T.replaceChildren();
+  if(!bets.length)T.append(el("div","empty","The running total starts once the first strong picks saved here have been played."));
+  else T.append(el("div","big "+(run>0?"bt-pos":run<0?"bt-neg":""),btSG(run)),el("div","of",`from ${bets.length} strong pick${bets.length===1?"":"s"} at ${btG(at.stake)} each (stake from the Auto bet tab)`));
+  const rb=document.getElementById("usRecent");rb.replaceChildren();const recent=(L.recent||[]).slice(0,12);
+  if(recent.length){const lab=el("div","label","Latest settled picks");lab.style.marginTop="14px";rb.append(lab);
+    recent.forEach(x=>{const r=el("div","rrow");r.append(el("div","ko",shortDay.format(new Date(x.start)).replace(/^\w+ /,"")));const t=el("div",null);t.append(el("span","sc",`${x.away} at ${x.home} ${x.score||""}`),el("span","pk",`Picked ${x.pick} at ${Math.round(100*x.c)}%`+(x.o?` · DraftKings ${dec2(x.o)}`:"")));r.append(t,el("span","res "+(x.win?"ok":"no"),x.win?"Right":"Wrong"));rb.append(r)})}
+  const box=document.getElementById("usRank");box.replaceChildren();const tb=el("table"),hr=el("tr");["#","Team","Win % v average team"].forEach(h=>hr.append(el("th",null,h)));const th=el("thead");th.append(hr);tb.append(th);const body=el("tbody");
+  (L.ratings||[]).slice(0,12).forEach((x,i)=>{const tr=el("tr");tr.append(el("td",null,String(i+1)),el("td",null,x.team),el("td",null,Math.round(100/(1+Math.exp(-x.r)))+"%"));body.append(tr)});tb.append(body);box.append(tb);
+}
+async function loadUS(){
+  try{const r=await fetch(US_URL+"?t="+Date.now(),{cache:"no-store"});
+    if(r.ok){us.doc=await r.json();try{localStorage.setItem("usCache",JSON.stringify(us.doc))}catch(e){}}else us.msg=r.status===404?"Waiting for the first US sports update.":"Couldn't load US sports.";
+  }catch(e){try{const c=JSON.parse(localStorage.getItem("usCache")||"null");if(c)us.doc=c;else us.msg="Couldn't load US sports (offline?)."}catch(e2){}}
+  if(sport==="us")usRender();
+  if(sport==="today")tdRender();
+}
+document.querySelectorAll("#usLg button").forEach(b=>b.onclick=()=>{us.lg=b.dataset.v;usSave();usRender()});
+document.querySelectorAll("#usStrength button").forEach(b=>b.onclick=()=>{us.strength=b.dataset.v;usSave();usRender()});
+
 /* ---------- Today: the strongest picks across every sport, and last weekend in numbers ---------- */
 const td={day:0};
 function tdRender(){
@@ -2142,6 +2211,8 @@ function tdRender(){
   // darts and snooker: strong picks (no start times unless the order of play is out)
   [["Darts",dt,"darts"],["Snooker",sn,"snooker"]].forEach(([nm,o,go])=>{for(const m of (o.doc&&o.doc.upcoming)||[]){if(m.date!==day)continue;const c=Math.max(m.p,1-m.p);if(c<.7)continue;
     rows.push({sport:nm,t:m.time?`${m.date}T${m.time}:00`:null,tl:m.time||null,conf:c,what:(m.p>=.5?m.a:m.b)+" to win",sub:`v ${m.p>=.5?m.b:m.a} · ${m.event.replace(/^20\d\d /,"").replace(/ \((snooker|ranking)\)$/,"")}${m.round?", "+m.round:""}`,go})}});
+  if(us.doc)for(const [lg,L] of Object.entries(us.doc.leagues||{}))for(const g of L.upcoming||[]){if(keyFmt.format(new Date(g.start))!==day||Date.parse(g.start)<now)continue;const c=Math.max(g.p,1-g.p);if(c<.7)continue;const hm=g.p>=.5;const o=g.dk&&g.dk[hm?"h":"a"];
+    rows.push({sport:L.name,t:g.start,conf:c,what:(hm?g.home:g.away)+" to win",sub:`${hm?"v "+g.away:"at "+g.home}`+(o?` · DraftKings ${dec2(o)}`:""),go:"us"})}
   rows.sort((x,y)=>(x.t?0:1)-(y.t?0:1)||String(x.t).localeCompare(String(y.t))||y.conf-x.conf);
   const list=document.getElementById("tdList");list.replaceChildren();
   if(!rows.length)list.append(el("div","empty",`No strong picks ${td.day?"tomorrow":"left today"} yet. Football and tennis fill in as fixtures and prices arrive; darts and snooker once their draws are out.`));
@@ -2593,8 +2664,8 @@ state.f.strength="strong";   // each visit starts on Strong only
 ["dFrom","dTo","tFrom","tTo"].forEach(k=>document.getElementById(k).addEventListener("change",e=>{state.f[k]=e.target.value;if(k==="dFrom"&&state.f.dTo&&state.f.dTo<state.f.dFrom)state.f.dTo=state.f.dFrom;saveF();render()}));
 document.getElementById("clearF").onclick=()=>{state.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:"strong"};state.q="";state.askStrength=null;saveF();render()};
 document.getElementById("teamQ").addEventListener("input",e=>{state.q=e.target.value;state.open=null;render()});
-render();renderNext();setupRefresh();renderSport();loadTennis();loadDarts();loadSnooker();
+render();renderNext();setupRefresh();renderSport();loadTennis();loadDarts();loadSnooker();loadUS();
 loadData(false);
-document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota();loadTennis();loadDarts();loadSnooker()}});
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota();loadTennis();loadDarts();loadSnooker();loadUS()}});
 </script>
 </body></html>
