@@ -516,13 +516,15 @@ window.PREDICTOR_BUILTIN={"format":1,"generatedAt":"2026-11-06T15:41:02.998Z","l
 <script>
 const GROUPS=[
   ["all","All leagues",null],
+  ["europe","Europe",["epl","championship","league_one","league_two","national_league","la_liga","segunda","serie_a","serie_b","bundesliga","bundesliga_2","ligue_1","ligue_2","scot_prem","scot_champ","scot_l1","scot_l2","eredivisie","belgium","primeira","super_lig","greece"]],
+  ["world","Rest of the world",["austria","denmark","switzerland","poland","romania","norway","sweden","finland","ireland","brazil","argentina","mexico","mls","japan","china"]],
   ["top","Top flights",["epl","la_liga","serie_a","bundesliga","ligue_1"]],
   ["second","Second tiers",["championship","segunda","serie_b","bundesliga_2","ligue_2"]],
   ["eng","English lower",["championship","league_one","league_two","national_league"]],
   ["scot","Scotland",["scot_prem","scot_champ","scot_l1","scot_l2"]],
   ["more","More of Europe",["eredivisie","belgium","primeira","super_lig","greece"]],
   ["rest","Rest of Europe",["austria","denmark","switzerland","poland","romania","norway","sweden","finland","ireland"]],
-  ["world","Americas & Asia",["brazil","argentina","mexico","mls","japan","china"]]];
+  ["americas","Americas & Asia",["brazil","argentina","mexico","mls","japan","china"]]];
 const LEAGUE_ORDER=["epl","championship","league_one","league_two","national_league","la_liga","segunda","serie_a","serie_b","bundesliga","bundesliga_2","ligue_1","ligue_2","scot_prem","scot_champ","scot_l1","scot_l2","eredivisie","belgium","primeira","super_lig","greece","austria","denmark","switzerland","poland","romania","norway","sweden","finland","ireland","brazil","argentina","mexico","mls","japan","china"];
 const FAV_KEY="predictorFavs";
 let FAVS={teams:[],leagues:[]};try{const f=JSON.parse(localStorage.getItem(FAV_KEY)||"null");if(f&&Array.isArray(f.teams))FAVS={teams:f.teams,leagues:f.leagues||[]}}catch(e){}
