@@ -233,6 +233,27 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
 .bt-pos{color:var(--good)}.bt-neg{color:var(--bad)}
 .bt-store{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:16px;font-size:13px;color:var(--muted)}
 
+/* ---------- Darts tab ---------- */
+.dt-ev{margin:18px 0 6px}
+.dt-ev h2{font:700 22px/1.1 var(--display);text-transform:uppercase;letter-spacing:.03em;margin:0 0 2px}
+.dt-ev h2 small{font:500 13px var(--body);text-transform:none;letter-spacing:0;color:var(--muted);margin-left:8px}
+.dt-list{display:grid;gap:8px}
+.dt-m{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px;box-shadow:var(--shadow)}
+.dt-m .fmt{font-size:12px;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 10px;justify-content:space-between;margin-bottom:6px}
+.dt-p{display:grid;grid-template-columns:minmax(0,1fr) 46px;gap:2px 10px;align-items:center;padding:3px 0}
+.dt-p .dt-nm{font-weight:600;overflow-wrap:anywhere}
+.dt-p.dt-fav .dt-nm::after{content:" ✓";color:var(--accent-ink)}
+.dt-p .dt-pc{font:600 16px var(--mono);text-align:right;font-variant-numeric:tabular-nums}
+.dt-p .dt-bar{grid-column:1/-1;height:6px;background:var(--chip);border-radius:4px;overflow:hidden}
+.dt-p .dt-bar i{display:block;height:100%;background:var(--muted)}
+.dt-p.dt-fav .dt-bar i{background:var(--accent)}
+.dt-p .dt-st{font-size:12px;color:var(--muted);grid-column:1/-1;display:flex;gap:10px;flex-wrap:wrap}
+.dt-form{font:600 11px var(--mono);letter-spacing:.08em}
+.dt-form .w{color:var(--good)}.dt-form .l{color:var(--bad)}
+.dt-m .acts{margin-top:8px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.dt-m .acts .btn{padding:7px 10px;font-size:12px}
+.dt-tag{font:600 10.5px var(--body);letter-spacing:.07em;text-transform:uppercase;padding:2px 7px;border-radius:5px;background:var(--chip);color:var(--muted)}
+.dt-tag.strong{background:var(--accent);color:var(--accent-ink)}
 /* ---------- Auto bet tab ---------- */
 .at-mode{margin:0 0 14px}
 .ac-card{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--line);border-radius:12px;padding:12px 14px;box-shadow:var(--shadow)}
@@ -281,6 +302,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
   <div class="sport" id="sport" role="group" aria-label="Sport">
     <button type="button" data-s="football" aria-pressed="true">Football</button>
     <button type="button" data-s="tennis" aria-pressed="false">Tennis</button>
+    <button type="button" data-s="darts" aria-pressed="false">Darts</button>
     <button type="button" data-s="auto" aria-pressed="false">Auto bet</button>
     <button type="button" data-s="bets" aria-pressed="false">Bets</button>
   </div>
@@ -348,6 +370,23 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <p>Each match card shows the stats model and the second opinion side by side, so you can see where they disagree. Football is noisy: a 60% favourite still fails to win four times in ten. For fun, not for staking money.</p>
   </section>
   </div>
+  <div id="dtView" hidden>
+    <div class="tn-status"><div class="asof" id="dtAsof">Loading darts…</div><div class="asof">Updates itself every two hours from Wikipedia's PDC event pages.</div></div>
+    <div class="fgroup" style="margin:6px 0 4px"><div class="label">Pick strength</div>
+      <div class="seg" role="group" aria-label="Pick strength" id="dtStrength"><button type="button" data-v="strong" aria-pressed="true">Strong (70%+)</button><button type="button" data-v="lean" aria-pressed="false">Lean and up (60%+)</button><button type="button" data-v="all" aria-pressed="false">All</button></div></div>
+    <div id="dtMain"></div>
+    <div class="label" style="margin-top:22px">How the picks have done</div>
+    <div class="rec-top" id="dtRec"></div>
+    <div id="dtRecent"></div>
+    <div class="label" style="margin-top:22px">Player ratings</div>
+    <div class="tbl" id="dtRank" style="margin:6px 0 18px"></div>
+    <section class="method">
+      <h3>How the darts picks work</h3>
+      <p>Every PDC match this year and last that Wikipedia lists (TV events, the European Tour, the World Series, the Premier League and the last 16 of each Players Championship) feeds a rating for each player, based on the legs they win and lose against whoever they play, with recent matches counting more. That's blended with each player's recent three-dart average. A player's chance of winning a match then follows from the format: first to six legs swings more than first to sixteen.</p>
+      <p>"Leg win %" in the ratings table is a player's chance of winning a leg against an average tour player. There are no free bookmaker prices for darts, so these picks come from the ratings alone, and darts isn't in Auto bet. Kick-off times aren't listed; matches show the day of their round.</p>
+      <p>Bet only what you can afford to lose. Free help: <a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a>.</p>
+    </section>
+  </div>
   <div id="atView" hidden>
     <div class="bt-head">
       <p>Every strong pick (60% or more, never a draw) as if we'd put the same stake on it at Bet365's odds before kick-off. Nothing is really staked; it shows what following the strong picks would have done.</p>
@@ -413,7 +452,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
         <form class="bt-form" id="btForm" novalidate>
           <div class="bt-f bt-c2"><label for="btDate">Date</label><input id="btDate" type="date"></div>
           <div class="bt-f bt-c2"><label for="btMarket">Bet type</label>
-            <select id="btMarket"><option>Match result</option><option>Next goal</option><option>Both teams to score</option><option>Over/under goals</option><option>Correct score</option><option>Accumulator</option><option>Tennis</option><option>Other</option></select></div>
+            <select id="btMarket"><option>Match result</option><option>Next goal</option><option>Both teams to score</option><option>Over/under goals</option><option>Correct score</option><option>Accumulator</option><option>Tennis</option><option>Darts</option><option>Other</option></select></div>
           <div class="bt-f bt-c2"><label for="btBook">Bookmaker</label><input id="btBook" type="text" value="Bet365" autocomplete="off"></div>
           <div class="bt-f bt-c6"><label for="btEvent">Match or event</label><input id="btEvent" type="text" placeholder="e.g. Arsenal v Chelsea" autocomplete="off"></div>
           <div class="bt-f bt-c6"><label for="btSel">Your pick</label><input id="btSel" type="text" placeholder="e.g. Arsenal to win" autocomplete="off"></div>
@@ -1621,7 +1660,7 @@ tn.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:""};tn.q="";
 try{const f=JSON.parse(localStorage.getItem("tnF")||"null");if(f)Object.assign(tn.f,f)}catch(e){}
 
 try{const t=localStorage.getItem("tnTour");if(t&&TN_TOURS.some(x=>x[0]===t))tn.tour=t}catch(e){}
-let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis"||s==="bets"||s==="auto")sport=s}catch(e){}
+let sport="football";try{const s=localStorage.getItem("poSport");if(s==="tennis"||s==="bets"||s==="auto"||s==="darts")sport=s}catch(e){}
 function setSport(s){sport=s;try{localStorage.setItem("poSport",s)}catch(e){}renderSport()}
 function renderSport(){
   document.querySelectorAll("#sport button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.s===sport)));
@@ -1630,10 +1669,12 @@ function renderSport(){
   document.getElementById("tnView").hidden=sport!=="tennis";
   document.getElementById("btView").hidden=sport!=="bets";
   document.getElementById("atView").hidden=sport!=="auto";
+  document.getElementById("dtView").hidden=sport!=="darts";
   document.getElementById("rota").hidden=sport==="bets"||sport==="auto";
-  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":sport==="bets"?"Your bet log":sport==="auto"?"Auto bet · every strong pick at Bet365 odds":"Match Predictor · 37 leagues";
+  document.getElementById("tagline").textContent=sport==="tennis"?"Match Predictor · ATP & WTA tennis":sport==="bets"?"Your bet log":sport==="auto"?"Auto bet · every strong pick at Bet365 odds":sport==="darts"?"Match Predictor · PDC darts":"Match Predictor · 37 leagues";
   if(sport==="bets")btRender();
   if(sport==="auto")atRender();
+  if(sport==="darts")dtRender();
   if(sport==="tennis")renderTennis();
 }
 document.querySelectorAll("#sport button").forEach(b=>b.onclick=()=>setSport(b.dataset.s));
@@ -1772,6 +1813,63 @@ async function loadTennis(){
   if(sport==="tennis")renderTennis();
 }
 
+
+/* ---------- Darts tab: data/darts.json, built every two hours by tools/darts.py ---------- */
+const DT_URL=(typeof ON_GH!=="undefined"&&ON_GH)?"data/darts.json":"https://markbrown3000.github.io/pitch-oracle/data/darts.json";
+const dt={doc:null,msg:"Loading darts…",strength:"strong"};
+try{const v=localStorage.getItem("dtStrength");if(v)dt.strength=v}catch(e){}
+const dtTier=c=>c>=.7?"strong":c>=.6?"lean":"toss";
+const dtKeep=c=>dt.strength==="all"||(dt.strength==="lean"?c>=.6:c>=.7);
+const dtFmt=m=>m.bo?`Best of ${m.bo} ${m.unit||"legs"}`:"";
+function dtFormEl(f){const s=el("span","dt-form");[...(f||"")].forEach(c=>s.append(el("span",c==="W"?"w":"l",c)));return s}
+function dtCard(m){
+  const c=el("div","dt-m"),pa=m.p,fav=pa>=.5?"a":"b",conf=Math.max(pa,1-pa),t=dtTier(conf);
+  const f=el("div","fmt");const l=el("span",null,[m.round,dtFmt(m)].filter(Boolean).join(" · "));const tg=el("span","dt-tag "+(t==="strong"?"strong":""),t==="strong"?"Strong pick":t==="lean"?"Lean":"Toss-up");f.append(l,tg);c.append(f);
+  [["a",m.a,pa,m.avgA,m.formA],["b",m.b,1-pa,m.avgB,m.formB]].forEach(([sd,nm,p,avg,form])=>{
+    const r=el("div","dt-p"+(sd===fav?" dt-fav":""));r.append(el("span","dt-nm",nm),el("span","dt-pc",Math.round(100*p)+"%"));
+    const bar=el("div","dt-bar"),i=el("i");i.style.width=(100*p).toFixed(1)+"%";bar.append(i);r.append(bar);
+    const st=el("div","dt-st");if(avg)st.append(el("span",null,`Average ${avg.toFixed(1)}`));if(form){const fe=el("span",null,"Form ");fe.append(dtFormEl(form));st.append(fe)}r.append(st);c.append(r)});
+  const acts=el("div","acts"),b=el("button","btn ghost","Log this bet");b.type="button";
+  b.onclick=()=>btPrefill({d:m.date,e:`${m.a} v ${m.b}`,s:`${fav==="a"?m.a:m.b} to win`,o:"",m:"Darts",b:"Bet365",msg:"Filled in from Pitch Oracle's darts pick. Type in the odds Bet365 shows, your stake (or tick Paper bet), then press Add bet.",n:`Pitch Oracle darts pick, ${Math.round(100*conf)}% (${m.event}${m.round?", "+m.round:""})`});
+  acts.append(b);c.append(acts);return c;
+}
+function dtRender(){
+  document.querySelectorAll("#dtStrength button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===dt.strength)));
+  const D=dt.doc,main=document.getElementById("dtMain");main.replaceChildren();
+  const asof=document.getElementById("dtAsof");
+  if(!D){asof.textContent=dt.msg;main.append(el("div","empty","Darts picks appear here after the first update, which runs every two hours."));return}
+  asof.textContent=`Updated ${dayFmt.format(new Date(D.updated))}, ${timeFmt.format(new Date(D.updated))} · ratings from ${D.matches.toLocaleString("en-GB")} matches since ${btDate(D.since)}`;
+  const up=(D.upcoming||[]).filter(m=>dtKeep(Math.max(m.p,1-m.p)));
+  if(!up.length)main.append(el("div","empty",(D.upcoming||[]).length?`No ${dt.strength==="strong"?"strong":"lean"} picks among the ${(D.upcoming||[]).length} matches drawn so far. Choose "All" above to see every match.`:"No PDC matches have been drawn yet. Each event's matches appear here once the draw is out, usually a few days before."));
+  const groups=[];up.forEach(m=>{const k=m.event+"|"+m.date;let g=groups.find(x=>x.k===k);if(!g)groups.push(g={k,event:m.event,date:m.date,ms:[]});g.ms.push(m)});
+  groups.forEach(g=>{const sec=el("section","dt-ev"),h=el("h2",null,g.event.replace(/^20\d\d /,""));h.append(el("small",null,dayFmt.format(new Date(g.date+"T12:00:00Z"))));sec.append(h);
+    const list=el("div","dt-list");g.ms.sort((x,y)=>Math.max(y.p,1-y.p)-Math.max(x.p,1-x.p)).forEach(m=>list.append(dtCard(m)));sec.append(list);main.append(sec)});
+  // record
+  const rec=document.getElementById("dtRec");rec.replaceChildren();const Rc=D.record||{};
+  const tile=(k,x,sub)=>{const t=el("div","stat");t.append(el("div","label",k),el("div","v",x&&x.n?Math.round(100*x.won/x.n)+"%":"–"),el("div","sub",x&&x.n?`${x.won} of ${x.n} right${sub?" · "+sub:""}`:sub||"none settled yet"));rec.append(t)};
+  const lv=Rc.live||{},rp=Rc.replay||{},sum=o=>({n:["strong","lean","toss"].reduce((a,k)=>a+(o[k]?.n||0),0),won:["strong","lean","toss"].reduce((a,k)=>a+(o[k]?.won||0),0)});
+  tile("Live strong picks",lv.strong,"since the tab started");tile("Live, all picks",sum(lv),"");
+  tile("Replay strong picks",rp.strong,Rc.replaySince?"since "+btDate(Rc.replaySince):"");tile("Replay, all picks",sum(rp),"each predicted before it was played");
+  const rb=document.getElementById("dtRecent");rb.replaceChildren();
+  const recent=(D.recent&&D.recent.length?D.recent:D.replayRecent||[]).slice(0,15);
+  if(recent.length){const lab=el("div","label",D.recent&&D.recent.length?"Latest live picks":"Latest results (replay)");lab.style.marginTop="14px";rb.append(lab);
+    recent.forEach(x=>{const r=el("div","rrow"),conf=Math.max(x.p,1-x.p),pick=x.pick||(x.p>=.5?x.a:x.b);r.append(el("div","ko",btDate(x.date).replace(/ \d\d$/,"")));
+      const t=el("div",null);t.append(el("span","sc",`${x.a} ${x.score||"v"} ${x.b}`),el("span","pk",`Picked ${pick} at ${Math.round(100*conf)}% · ${x.event.replace(/^20\d\d /,"")}`));
+      r.append(t,el("span","res "+(x.win?"ok":"no"),x.win?"Right":"Wrong"));rb.append(r)})}
+  // ratings
+  const box=document.getElementById("dtRank");box.replaceChildren();
+  const tb=el("table"),hr=el("tr");["#","Player","Leg win %","Average","Form"].forEach(h=>hr.append(el("th",null,h)));const th=el("thead");th.append(hr);tb.append(th);const body=el("tbody");
+  (D.players||[]).slice(0,32).forEach((x,i)=>{const tr=el("tr");tr.append(el("td",null,String(i+1)),el("td",null,x.name),el("td",null,Math.round(100/(1+Math.exp(-x.r)))+"%"),el("td",null,x.avg?x.avg.toFixed(1):"–"));const fd=el("td");fd.append(dtFormEl(x.form));tr.append(fd);body.append(tr)});
+  tb.append(body);box.append(tb);
+}
+async function loadDarts(){
+  try{const r=await fetch(DT_URL+"?t="+Date.now(),{cache:"no-store"});
+    if(r.ok){dt.doc=await r.json();try{localStorage.setItem("dtCache",JSON.stringify(dt.doc))}catch(e){}}
+    else dt.msg=r.status===404?"Waiting for the first darts update.":"Couldn't load darts.";
+  }catch(e){try{const c=JSON.parse(localStorage.getItem("dtCache")||"null");if(c)dt.doc=c;else dt.msg="Couldn't load darts (offline?)."}catch(e2){}}
+  if(sport==="darts")dtRender();
+}
+document.querySelectorAll("#dtStrength button").forEach(b=>b.onclick=()=>{dt.strength=b.dataset.v;try{localStorage.setItem("dtStrength",dt.strength)}catch(e){}dtRender()});
 
 /* ---------- Auto bet: every strong pick at Bet365's odds ---------- */
 const at={stake:10,scope:"live",all:false};
@@ -2067,7 +2165,7 @@ function btPrefill(d){
   setSport("bets");btReset();
   $b("btDate").value=d.d||btToday();$b("btEvent").value=d.e||"";$b("btSel").value=d.s||"";$b("btOdds").value=d.o||"";$b("btBook").value=d.b||"Bet365";$b("btNote").value=d.n||"";
   if(d.m&&[...$b("btMarket").options].some(o=>o.value===d.m))$b("btMarket").value=d.m;
-  const f=$b("btFrom");f.hidden=false;f.textContent=d.o?`Filled in from Pitch Oracle with Bet365's odds of ${d.o}. Check they match what Bet365 shows now, enter your stake (or tick Paper bet), then press Add bet.`:"Filled in from Pitch Oracle. Bet365 hasn't priced this match in the data yet, so type in the odds Bet365 shows, your stake (or tick Paper bet), then press Add bet.";
+  const f=$b("btFrom");f.hidden=false;f.textContent=d.msg?d.msg:d.o?`Filled in from Pitch Oracle with Bet365's odds of ${d.o}. Check they match what Bet365 shows now, enter your stake (or tick Paper bet), then press Add bet.`:"Filled in from Pitch Oracle. Bet365 hasn't priced this match in the data yet, so type in the odds Bet365 shows, your stake (or tick Paper bet), then press Add bet.";
   setTimeout(()=>{$b("btForm").scrollIntoView({block:"start",behavior:"smooth"});$b("btStake").focus({preventScroll:true})},50);
 }
 $b("btResult").onchange=()=>{$b("btCashWrap").hidden=$b("btResult").value!=="cashed"};
@@ -2109,8 +2207,8 @@ state.f.strength="strong";   // each visit starts on Strong only
 ["dFrom","dTo","tFrom","tTo"].forEach(k=>document.getElementById(k).addEventListener("change",e=>{state.f[k]=e.target.value;if(k==="dFrom"&&state.f.dTo&&state.f.dTo<state.f.dFrom)state.f.dTo=state.f.dFrom;saveF();render()}));
 document.getElementById("clearF").onclick=()=>{state.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:"strong"};state.q="";state.askStrength=null;saveF();render()};
 document.getElementById("teamQ").addEventListener("input",e=>{state.q=e.target.value;state.open=null;render()});
-render();renderNext();setupRefresh();renderSport();loadTennis();
+render();renderNext();setupRefresh();renderSport();loadTennis();loadDarts();
 loadData(false);
-document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota();loadTennis()}});
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota();loadTennis();loadDarts()}});
 </script>
 </body></html>
