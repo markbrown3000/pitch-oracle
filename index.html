@@ -1347,7 +1347,7 @@ function fdRebuildTable(L,before,added){
   const all=tally(L.matches),fresh=tally(added.filter(x=>x.date>(L.asof||"")));
   let changed=false;
   L.standings=L.standings.map(s=>{
-    const a=all[s.abbr]||{n:0},b=before[s.abbr]||{n:0},played=s.w+s.d+s.l;
+    const a=all[s.abbr]||{n:0},b=before[s.abbr]||{n:0,w:0,d:0},played=s.w+s.d+s.l;
     let row=null;
     if(b.n===played){ // stored matches agreed with the table: rebuild from matches, keeping any points deduction
       if(a.n>played)row={w:a.w,d:a.d,l:a.l,gf:a.gf,ga:a.ga,pts:3*a.w+a.d+(s.pts-(3*b.w+b.d))};
@@ -1375,8 +1375,36 @@ function fdNewRow(r){
   if(r.FTHG==null&&r.HG!=null){r.FTHG=r.HG;r.FTAG=r.AG}
   if((!r.Div||!FD_DIV[r.Div])&&r.Country&&FD_DIV[r.Country])r.Div=r.Country;
   return r}
+/* New season in a league from the new-leagues file (e.g. Norway's 2027 starts): once its first results are in the file,
+   start a fresh season. Last season's end ratings become each returning team's starting strength (as in the built-in
+   priors), new teams start a little weaker, and matches, fixtures and the table start again. */
+function fdRollover(data,rows){
+  const found={},stats=[];
+  (rows||[]).forEach(r=>{fdNewRow(r);const c=FD_DIV[r.Div],L=c&&data.leagues[c];if(!L||!L.fdSeason||r.Season==null)return;
+    const s=String(r.Season);if(s>L.fdSeason&&fdNum(r.FTHG)!=null&&fdNum(r.FTAG)!=null)((found[c]=found[c]||{})[s]=found[c][s]||[]).push(r)});
+  for(const [c,bySeason] of Object.entries(found)){
+    const L=data.leagues[c],season=Object.keys(bySeason).sort().pop(),rs=bySeason[season];
+    const names=[...new Set(rs.flatMap(r=>[r.HomeTeam,r.AwayTeam]))].filter(Boolean);
+    if(names.length<6)continue;
+    let rt={};try{rt=ratings(L)}catch(e){}
+    const st=L.standings||[],P=st.reduce((a,x)=>a+x.pts,0),G=st.reduce((a,x)=>a+x.w+x.d+x.l,0),avg=G?P/G:1.35;
+    const old=fdTeamMapper(L),used=new Set(),fdName={...(L.fdName||{})},standings=[];
+    const code3=n=>{const b=n.normalize("NFKD").replace(/[^\x00-\x7f]/g,"").toUpperCase().replace(/[^A-Z0-9]/g,"").replace(/^(FC|CF|SC|CA|CD|CLUB|FK|IF|AC)(?=...)/,"");
+      let a=b.slice(0,3),i=3;while(used.has(a)||!a){a=i<b.length?b.slice(0,2)+b[i]:b.slice(0,2)+i;i++}return a};
+    names.sort().forEach(n=>{
+      let ab=old(n),t=ab&&rt[ab];
+      if(!ab||used.has(ab))ab=code3(n);
+      used.add(ab);fdName[n]=ab;
+      const prior=t&&t.n>=10?{att:+(1+1.8*(t.att-1)).toFixed(3),def:+(1+1.8*(t.def-1)).toFixed(3),pr:+(t.ppg-avg).toFixed(3),src:"same"}:{att:0.88,def:1.12,pr:-0.2,src:"up"};
+      standings.push({abbr:ab,team:t?t.team:n,w:0,d:0,l:0,pts:0,gf:0,ga:0,prior});
+    });
+    L.fdSeason=season;L.fdName=fdName;L.standings=standings;L.matches=[];L.fixtures=[];L.results=[];L.asof="";delete L.homeStats;
+    stats.push(`${L.name} ${season}`);
+  }
+  return stats;
+}
 function fdMerge(data,resultRows,fixtureRows){
-  const now=Date.now(),stats={results:0,filled:0,fixtures:0,fixturesNew:0,ou:0,scored:0,saved:0,unmatched:new Set(),leagues:new Set()};
+  const now=Date.now(),stats={results:0,filled:0,fixtures:0,fixturesNew:0,ou:0,scored:0,saved:0,unmatched:new Set(),leagues:new Set(),newSeason:fdRollover(data,resultRows)};
   const byLeague={};
   const add=(rows,kind)=>(rows||[]).forEach(r=>{fdNewRow(r);const c=FD_DIV[r.Div];if(c&&data.leagues[c]&&!(r.Season&&data.leagues[c].fdSeason&&String(r.Season)!==data.leagues[c].fdSeason))((byLeague[c]=byLeague[c]||{res:[],fx:[]})[kind]).push(r)});
   add(resultRows,"res");add(fixtureRows,"fx");
@@ -1593,6 +1621,7 @@ async function loadData(byUser){
     if(st.scored)bits.push(`${st.scored} pick${st.scored>1?"s":""} scored`);
     if(st.fixtures)bits.push(`${st.fixtures} fixtures with odds`);
     if(st.saved)bits.push(`${st.saved} new pick${st.saved>1?"s":""} saved`);
+    if(st.newSeason&&st.newSeason.length)bits.push("new season started: "+st.newSeason.join(", "));
     if(!st.gotFixtures)bits.push("fixtures file not available");
     if(st.unmatched.size)bits.push(`${st.unmatched.size} team name${st.unmatched.size>1?"s":""} not recognised`);
     applyData(data,"Updated from football-data.co.uk at "+timeFmt.format(new Date())+": "+bits.join(", ")+".");
