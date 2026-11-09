@@ -420,7 +420,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
       </div>
     </div>
     <div class="seg at-mode" role="group" aria-label="Singles or accumulators" id="atMode">
-      <button type="button" data-v="single" aria-pressed="true">Single bets</button><button type="button" data-v="acca" aria-pressed="false">6-fold accas</button>
+      <button type="button" data-v="single" aria-pressed="true">Single bets</button><button type="button" data-v="acca" aria-pressed="false">6-fold accas</button><button type="button" data-v="goals" aria-pressed="false">Goals (over/under)</button>
     </div>
     <div id="acView" hidden>
       <div class="seg" role="group" aria-label="Which picks can be acca legs" id="acMin" style="margin:0 0 12px"><button type="button" data-v="0.6" aria-pressed="true">Legs from 60%+</button><button type="button" data-v="0.65" aria-pressed="false">Legs from 65%+</button></div>
@@ -430,6 +430,16 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
       <section class="bt-panel bt-chart" style="margin:0 0 18px" aria-labelledby="acChartH"><h3 id="acChartH">Acca running total</h3><div id="acChart"></div></section>
       <div class="label">Past accas</div>
       <div class="ac-list" id="acList"></div>
+    </div>
+    <div id="goView" hidden>
+      <div class="seg" role="group" aria-label="How sure a goals pick must be" id="goMin" style="margin:0 0 12px"><button type="button" data-v="0.6" aria-pressed="true">Picks 60%+</button><button type="button" data-v="0.65" aria-pressed="false">Picks 65%+</button></div>
+      <div class="at-total" id="goTotal"></div>
+      <div class="rec-top" id="goTiles"></div>
+      <section class="bt-panel bt-chart" style="margin:14px 0" aria-labelledby="goChartH"><h3 id="goChartH">Running total</h3><div id="goChart"></div></section>
+      <div id="goWaitWrap"><div class="label">Bets waiting for a result</div><div class="at-list" id="goWait" style="margin-bottom:18px"></div></div>
+      <div class="label">Bet by bet</div>
+      <div class="at-list" id="goList"></div>
+      <p class="bt-hint" style="margin-top:10px">Every over or under 2.5 goals pick at Bet365's over/under odds. Past matches are replayed: each is predicted from the table and results before that day plus the bookmakers' over/under line, so nothing after kick-off is used. "Live picks" and "With season replay" don't apply here; it's always the whole season. Both-teams-to-score has no free Bet365 odds, so it isn't bet here.</p>
     </div>
     <div id="atSingles">
     <div class="at-total" id="atTotal"></div>
@@ -893,6 +903,9 @@ function staleDays(lg){if(!lg||!lg.asof)return 0;return Math.floor((Date.now()-n
 const BET_LEDGER="https://claude.ai/artifact/JCCjAHSDJmBVtiE61KEGzV";
 const OK={H:"h",X:"d",A:"a"};
 const dec2=o=>(+o).toFixed(2);
+/* goals pick: over or under 2.5 goals when the model (anchored to bookmakers' over/under line) is 60%+ either way.
+   Replayed on 4,000 matches this season, the chances matched what happened: 60–65% picks came in about 61%, 65%+ about 70%. */
+function goalsPick(p){if(!p||p.o25==null)return null;if(p.o25>=.6)return {k:"o",name:"Over 2.5 goals",c:p.o25};if(p.o25<=.4)return {k:"u",name:"Under 2.5 goals",c:1-p.o25};return null}
 function b365For(m){const o=m.f.b365;return o&&o[OK[m.p.pick]]>1?o[OK[m.p.pick]]:null}
 function ledgerLink(m){
   const L=pickLabel(m),odds=b365For(m);
@@ -1015,7 +1028,7 @@ function matchEl(m){
   const ko=el("div","ko"); ko.append(el("b",null,lg.short),document.createTextNode(timeFmt.format(m.start)));
   const teams=el("div","teams");
   [[h,"H"],[a,"A"]].forEach(([t,s])=>{const d=el("div",p.pick===s?"fav":null);if(isFavTeam(lg.code,t.abbr))d.append(el("span","star","★"));if(teamHit(t)){d.append(el("mark",null,t.team))}else d.append(document.createTextNode(t.team));d.append(el("span","pos",ordinal(t.pos)));teams.append(d)});
-  teams.append(el("div","meta",`${p.top[0].s} · 3+ goals ${pct(p.o25)} · BTTS ${pct(p.btts)}`+(b365For(m)?` · Bet365 ${dec2(b365For(m))}`:"")));
+  {const gp=goalsPick(p);teams.append(el("div","meta",`${p.top[0].s} · 3+ goals ${pct(p.o25)} · BTTS ${pct(p.btts)}`+(b365For(m)?` · Bet365 ${dec2(b365For(m))}`:"")+(gp?` · Goals pick: ${gp.k==="o"?"Over":"Under"} 2.5 ${pct(gp.c)}`:"")))}
   const probs=el("div","probs"); const bar=el("div","bar");
   [["h",p.H],["d",p.D],["a",p.A]].forEach(([c,v])=>{const s=el("span",c,v>=.12?pct(v):"");s.style.width=(v*100)+"%";bar.append(s)});
   const lgd=el("div","bar-legend"); lgd.append(el("span",null,"Home"),el("span",null,"Draw"),el("span",null,"Away"));
@@ -1037,7 +1050,7 @@ function formLine(t){
 function detailEl(m){
   const {f,h,a,p}=m; const d=el("div","detail");
   const stats=el("div","stats");
-  [["Expected goals",p.lh.toFixed(2)+" – "+p.la.toFixed(2)],["Most likely score",p.top[0].s+"  "+pct(p.top[0].p)],["Both teams score",pct(p.btts)],["Over 2.5 goals",pct(p.o25)]].forEach(([k,v])=>{
+  [["Expected goals",p.lh.toFixed(2)+" – "+p.la.toFixed(2)],["Most likely score",p.top[0].s+"  "+pct(p.top[0].p)],["Both teams score",pct(p.btts)],["Over 2.5 goals",pct(p.o25)],["Goals pick",(()=>{const gp=goalsPick(p);if(!gp)return "None (too close)";const o=m.f.b365ou&&m.f.b365ou[gp.k];return `${gp.k==="o"?"Over":"Under"} 2.5 · ${pct(gp.c)}`+(o?` · Bet365 ${dec2(o)}`:"")})()]].forEach(([k,v])=>{
     const s=el("div","stat"); s.append(el("div","label",k),el("div","v",v)); stats.append(s);
   });
   d.append(stats);
@@ -1331,6 +1344,7 @@ const fdB365=(r,c)=>{const h=fdNum(r["B365"+c+"H"]),d=fdNum(r["B365"+c+"D"]),a=f
 const fdNum=x=>{const v=parseFloat(x);return isFinite(v)?v:null};
 function fdProb(h,d,a){h=fdNum(h);d=fdNum(d);a=fdNum(a);if(!(h>1&&d>1&&a>1))return null;
   const ih=1/h,id=1/d,ia=1/a,t=ih+id+ia;return {h:+(100*ih/t).toFixed(1),d:+(100*id/t).toFixed(1),a:+(100*ia/t).toFixed(1)}}
+const fdB365OU=(r,c)=>{const o=fdNum(r["B365"+c+">2.5"]),u=fdNum(r["B365"+c+"<2.5"]);return o>1&&u>1?{o,u}:null};
 function fdOU(r){const o=fdNum(r["Avg>2.5"])||fdNum(r["B365>2.5"]),u=fdNum(r["Avg<2.5"])||fdNum(r["B365<2.5"]);
   return o>1&&u>1?+(100*(1/o)/((1/o)+(1/u))).toFixed(1):null}
 function fdDate(s){ // dd/mm/yy or dd/mm/yyyy or yyyy-mm-dd -> [y,m,d]
@@ -1443,6 +1457,7 @@ function fdMerge(data,resultRows,fixtureRows){
       const o=fdProb(r.AvgH||r.B365H,r.AvgD||r.B365D,r.AvgA||r.B365A);if(o)extra.odds=o;
       const c=fdProb(r.AvgCH||r.B365CH,r.AvgCD||r.B365CD,r.AvgCA||r.B365CA);if(c)extra.oddsClose=c;
       const ou=fdOU(r);if(ou!=null)extra.o25=ou;
+      {const b=fdB365OU(r,"");if(b)extra.b365ou=b;const bc=fdB365OU(r,"C");if(bc)extra.b365ouc=bc}
       {const b=fdB365(r,"");if(b)extra.b365=b;const bc=fdB365(r,"C");if(bc)extra.b365c=bc}
       if(fdNum(r.HST)!=null&&fdNum(r.AST)!=null){extra.hst=fdNum(r.HST);extra.ast=fdNum(r.AST)}
       if(fdNum(r.HxG)!=null&&fdNum(r.AxG)!=null){extra.hxg=+fdNum(r.HxG).toFixed(2);extra.axg=+fdNum(r.AxG).toFixed(2)}
@@ -1474,6 +1489,7 @@ function fdMerge(data,resultRows,fixtureRows){
       }
       if(ou!=null){f.ou=ou;stats.ou++}
       {const b=fdB365(r,"")||fdB365(r,"C");if(b)f.b365=b}
+      {const b=fdB365OU(r,"")||fdB365OU(r,"C");if(b)f.b365ou=b}
       stats.fixtures++;
     });
     // drop fixtures that have now been played
@@ -2021,6 +2037,66 @@ function atBets(){
   return {done,wait,noPrice};
 }
 const ac={mode:"single",min:0.6};
+const go={min:0.6,cache:null,key:null,busy:false};
+try{if(localStorage.getItem("poAutoMode")==="goals")ac.mode="goals";const v=+localStorage.getItem("poGoalsMin");if(v===0.65)go.min=v}catch(e){}
+/* replay every finished league match that has Bet365 over/under odds: rebuild the table as it stood before that day, predict, and settle */
+function goReplay(){
+  const key=(current&&current.generatedAt||"")+"|"+(current&&current.fdUpdatedAt||"")+"|"+Object.keys(state.leagues).length;
+  if(go.key===key&&go.cache)return go.cache;
+  const rows=[];
+  for(const L of Object.values(state.leagues)){
+    const ms=(L.matches||[]).filter(x=>x.b365ou);if(!ms.length)continue;
+    const games=(L.standings||[]).reduce((a,t)=>a+t.w+t.d+t.l,0)/2;if(Math.abs((L.matches||[]).length-games)>3)continue;   // needs the full season to rebuild tables
+    const dates=[...new Set(ms.map(x=>x.date))].sort();
+    for(const d of dates){
+      const before=L.matches.filter(x=>x.date<d);if(before.length<L.standings.length*2)continue;
+      const T={};L.standings.forEach(t=>T[t.abbr]={abbr:t.abbr,team:t.team,w:0,d:0,l:0,pts:0,gf:0,ga:0,prior:t.prior});
+      for(const x of before){const h=T[x.home],a=T[x.away];if(!h||!a)continue;h.gf+=x.hs;h.ga+=x.as;a.gf+=x.as;a.ga+=x.hs;if(x.hs>x.as){h.w++;a.l++;h.pts+=3}else if(x.hs<x.as){a.w++;h.l++;a.pts+=3}else{h.d++;a.d++;h.pts++;a.pts++}}
+      let Rt;try{Rt=ratings({...L,standings:Object.values(T).sort((p,q)=>q.pts-p.pts),matches:before,results:[],homeStats:null,asof:d})}catch(e){continue}
+      for(const x of ms.filter(y=>y.date===d)){const h=Rt[x.home],a=Rt[x.away];if(!h||!a)continue;
+        const p=predict(h,a,null,x.odds,x.o25);const gp=goalsPick(p);if(!gp)continue;
+        rows.push({date:d,lg:L.name,h:h.team,a:a.team,score:`${x.hs}–${x.as}`,k:gp.k,c:gp.c,odds:x.b365ou[gp.k],win:gp.k==="o"?x.hs+x.as>2:x.hs+x.as<3})}
+    }
+  }
+  rows.sort((p,q)=>p.date.localeCompare(q.date)||p.lg.localeCompare(q.lg));
+  go.cache=rows;go.key=key;return rows;
+}
+function goRender(){
+  document.querySelectorAll("#goMin button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.v===go.min)));
+  const T=document.getElementById("goTotal");
+  if(!go.cache&&!go.busy){go.busy=true;T.replaceChildren(el("div","empty","Replaying the season's goals picks…"));setTimeout(()=>{try{goReplay()}catch(e){console.log(e)}go.busy=false;if(ac.mode==="goals")goRender()},30);return}
+  if(go.busy)return;
+  const all=goReplay().filter(b=>b.c>=go.min&&b.odds>1);let run=0;
+  const done=all.map(b=>{const pl=b.win?at.stake*(b.odds-1):-at.stake;run+=pl;return {...b,pl,run}});
+  const n=done.length,won=done.filter(b=>b.win).length,pl=n?done[n-1].run:0,cls=pl>0?"bt-pos":pl<0?"bt-neg":"";
+  T.replaceChildren();
+  if(!n)T.append(el("div","empty","No settled goals picks with Bet365 over/under odds yet. They need this season's results file, which loads when the page updates from football-data.co.uk."));
+  else T.append(el("div","big "+cls,btSG(pl)),el("div","of",`running total from ${n} goals bets of ${btG(at.stake)}, since ${btDate(done[0].date)}`));
+  const tl=document.getElementById("goTiles");tl.replaceChildren();
+  const tile=(k,v,sub,c)=>{const t=el("div","stat"),vv=el("div","v",v);if(c)vv.classList.add(c);t.append(el("div","label",k),vv);if(sub)t.append(el("div","sub",sub));tl.append(t)};
+  if(n){const ov=done.filter(b=>b.k==="o"),un=done.filter(b=>b.k==="u"),r=x=>x.length?`${x.filter(b=>b.win).length} of ${x.length} won · ${btSG(x.reduce((a,b)=>a+b.pl,0))}`:"none";
+    tile("Won",`${won} of ${n}`,`${Math.round(100*won/n)}% of bets`);tile("Return on stake",btPct(pl/(n*at.stake)),`${btG(n*at.stake)} staked`,cls);
+    tile("Over 2.5 picks",String(ov.length),r(ov));tile("Under 2.5 picks",String(un.length),r(un))}
+  const box=document.getElementById("goChart");
+  if(n<2)box.innerHTML='<p class="bt-hint">The chart appears once two bets are settled.</p>';
+  else{const ys=[0,...done.map(b=>b.run)],W=520,H=200,L=56,Rr=10,Tt=12,B=26;let lo=Math.min(0,...ys),hi=Math.max(0,...ys);if(hi-lo<1){hi+=1;lo-=1}
+    const r=(hi-lo)/4,pw=10**Math.floor(Math.log10(r)),mm=r/pw,step=(mm<=1?1:mm<=2?2:mm<=5?5:10)*pw;lo=Math.floor(lo/step)*step;hi=Math.ceil(hi/step)*step;
+    const x=i=>L+(W-L-Rr)*i/(ys.length-1),y=v=>Tt+(H-Tt-B)*(hi-v)/(hi-lo);
+    let g="";for(let v=lo;v<=hi+1e-9;v+=step)g+=`<line class="grid" x1="${L}" x2="${W-Rr}" y1="${y(v)}" y2="${y(v)}"/><text class="axis" x="${L-6}" y="${y(v)+4}" text-anchor="end">${v<0?"−":""}£${Math.abs(+v.toFixed(2))}</text>`;
+    const line=ys.map((v,i)=>`${i?"L":"M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(""),end=ys[ys.length-1],col=end>=0?"var(--good)":"var(--bad)";
+    box.innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Goals bets running total, ending at ${btSG(end)}">${g}<line x1="${L}" x2="${W-Rr}" y1="${y(0)}" y2="${y(0)}" stroke="var(--muted)" stroke-dasharray="3 3"/><path d="${line}" fill="none" stroke="${col}" stroke-width="2" stroke-linejoin="round"/><circle cx="${x(ys.length-1)}" cy="${y(end)}" r="4" fill="${col}"/><text class="axis" x="${L}" y="${H-6}">${btDate(done[0].date)}</text><text class="axis" x="${W-Rr}" y="${H-6}" text-anchor="end">${btDate(done[n-1].date)}</text></svg>`}
+  // waiting: upcoming fixtures with a goals pick
+  const ww=document.getElementById("goWait");ww.replaceChildren();const now=Date.now(),wait=[];
+  for(const L of Object.values(state.leagues)){let Rt;try{Rt=ratings(L)}catch(e){continue}
+    for(const f of L.fixtures||[]){if(Date.parse(f.start)<now)continue;const h=Rt[f.home],a=Rt[f.away];if(!h||!a)continue;const p=predict(h,a,f.feed,f.odds,f.ou),gp=goalsPick(p);if(gp&&gp.c>=go.min)wait.push({f,L,h,a,gp,odds:f.b365ou&&f.b365ou[gp.k]})}}
+  wait.sort((x,y)=>x.f.start.localeCompare(y.f.start));document.getElementById("goWaitWrap").hidden=!wait.length;
+  wait.slice(0,40).forEach(w=>{const r=el("div","at-row wait");r.append(el("div","who",w.gp.name));const pl=el("div","pl",w.odds?dec2(w.odds):"–");const rn=el("div","run");rn.append(el("small",null,w.odds?"would win":"odds"),document.createTextNode(w.odds?btG(at.stake*(w.odds-1)):"not in yet"));
+    r.append(pl,rn,el("div","meta",`${w.h.team} v ${w.a.team} · ${w.L.name} · ${shortDay.format(new Date(w.f.start))} ${hmFmt(new Date(w.f.start))} · ${pct(w.gp.c)}`));ww.append(r)});
+  const list=document.getElementById("goList");list.replaceChildren();
+  [...done].reverse().slice(0,40).forEach(b=>{const r=el("div","at-row "+(b.win?"won":"lost"));r.append(el("div","who",b.k==="o"?"Over 2.5 goals":"Under 2.5 goals"));
+    const pl=el("div","pl "+(b.win?"bt-pos":"bt-neg"),btSG(b.pl)),rn=el("div","run");rn.append(el("small",null,"total"),document.createTextNode(btSG(b.run)));
+    r.append(pl,rn,el("div","meta",`${btDate(b.date)} · ${b.h} ${b.score} ${b.a} · ${b.lg} · ${pct(b.c)} · odds ${dec2(b.odds)}`));list.append(r)});
+}
 try{const v=+localStorage.getItem("poAccaMin");if(v===0.65)ac.min=v}catch(e){}
 try{if(localStorage.getItem("poAutoMode")==="acca")ac.mode="acca"}catch(e){}
 function acBuild(done,wait){
@@ -2085,11 +2161,13 @@ function acRender(done,wait){
 }
 function atRender(){
   document.querySelectorAll("#atMode button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===ac.mode)));
-  document.getElementById("acView").hidden=ac.mode!=="acca";document.getElementById("atSingles").hidden=ac.mode==="acca";
+  document.getElementById("acView").hidden=ac.mode!=="acca";document.getElementById("atSingles").hidden=ac.mode!=="single";document.getElementById("goView").hidden=ac.mode!=="goals";
+  document.getElementById("atScope").hidden=ac.mode==="goals";
   document.querySelectorAll("#atStake button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.v===at.stake)));
   document.querySelectorAll("#atScope button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===at.scope)));
   document.querySelectorAll("#acMin button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.v===ac.min)));
   if(ac.mode==="acca"){const {done,wait}=atBets();acRender(done,wait);return}
+  if(ac.mode==="goals"){goRender();return}
   const {done,wait,noPrice}=atBets(),n=done.length,won=done.filter(b=>b.win).length,pl=n?done[n-1].run:0,staked=n*at.stake;
   const cls=pl>0?"bt-pos":pl<0?"bt-neg":"";
   const T=document.getElementById("atTotal");T.replaceChildren();
@@ -2140,6 +2218,7 @@ function atRender(){
 }
 document.querySelectorAll("#atStake button").forEach(b=>b.onclick=()=>{at.stake=+b.dataset.v;atSave();atRender()});
 document.querySelectorAll("#atScope button").forEach(b=>b.onclick=()=>{at.scope=b.dataset.v;atSave();atRender()});
+document.querySelectorAll("#goMin button").forEach(b=>b.onclick=()=>{go.min=+b.dataset.v;try{localStorage.setItem("poGoalsMin",String(go.min))}catch(e){}atRender()});
 document.querySelectorAll("#acMin button").forEach(b=>b.onclick=()=>{ac.min=+b.dataset.v;try{localStorage.setItem("poAccaMin",String(ac.min))}catch(e){}atRender()});
 document.querySelectorAll("#atMode button").forEach(b=>b.onclick=()=>{ac.mode=b.dataset.v;try{localStorage.setItem("poAutoMode",ac.mode)}catch(e){}atRender()});
 document.getElementById("atMore").onclick=()=>{at.all=!at.all;atRender()};
