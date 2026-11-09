@@ -403,6 +403,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
       <button type="button" data-v="single" aria-pressed="true">Single bets</button><button type="button" data-v="acca" aria-pressed="false">6-fold accas</button>
     </div>
     <div id="acView" hidden>
+      <div class="seg" role="group" aria-label="Which picks can be acca legs" id="acMin" style="margin:0 0 12px"><button type="button" data-v="0.6" aria-pressed="true">Legs from 60%+</button><button type="button" data-v="0.65" aria-pressed="false">Legs from 65%+</button></div>
       <div class="at-total" id="acTotal"></div>
       <div class="rec-top" id="acTiles"></div>
       <div id="acNext" class="ac-list" style="margin:16px 0 18px"></div>
@@ -427,7 +428,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <section class="method">
       <h3>How the auto bets work</h3>
       <p>Each strong pick gets the same stake at Bet365's pre-match odds, taken from football-data.co.uk. A win pays the stake times the odds minus the stake; a loss loses the stake. Picks with no Bet365 price in the data, such as most cup ties, are left out. Live picks are the ones Pitch Oracle saved before kick-off; the season replay adds this season's earlier matches, picked by the model using only what was known before each match.</p>
-      <p>A 6-fold acca takes the six strongest picks of one day that have Bet365 odds, multiplies their odds together, and only pays if all six win. Days with fewer than six priced strong picks get no acca. Accas pay more when they land but lose far more often, because one wrong leg sinks the lot.</p>
+      <p>A 6-fold acca takes the six strongest picks of one day (60% or more, or 65% or more if you choose) that have Bet365 odds, multiplies their odds together, and only pays if all six win. Days with fewer than six priced strong picks get no acca. Accas pay more when they land but lose far more often, because one wrong leg sinks the lot.</p>
       <p>Past results don't guarantee future ones, and bookmakers' margins make long-run profit hard. Free help: <a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a>.</p>
     </section>
   </div>
@@ -1899,18 +1900,19 @@ function atBets(){
   wait.sort((a,b)=>String(a.start).localeCompare(String(b.start)));
   return {done,wait,noPrice};
 }
-const ac={mode:"single"};
+const ac={mode:"single",min:0.6};
+try{const v=+localStorage.getItem("poAccaMin");if(v===0.65)ac.min=v}catch(e){}
 try{if(localStorage.getItem("poAutoMode")==="acca")ac.mode="acca"}catch(e){}
 function acBuild(done,wait){
   const byDay=new Map();done.forEach(b=>{if(!byDay.has(b.date))byDay.set(b.date,[]);byDay.get(b.date).push(b)});
   const accas=[];let run=0;
   [...byDay.keys()].sort().forEach(d=>{
-    const legs=byDay.get(d).filter(b=>b.odds>1).sort((a,b)=>b.conf-a.conf).slice(0,6);if(legs.length<6)return;
+    const legs=byDay.get(d).filter(b=>b.odds>1&&b.conf>=ac.min).sort((a,b)=>b.conf-a.conf).slice(0,6);if(legs.length<6)return;
     const odds=legs.reduce((a,b)=>a*b.odds,1),win=legs.every(b=>b.win),pl=win?at.stake*(odds-1):-at.stake;run+=pl;
     accas.push({date:d,legs,odds,win,pl,run,hits:legs.filter(b=>b.win).length});
   });
   // next acca: the first upcoming day with six priced strong picks, otherwise the first day with any
-  const wd=new Map();wait.forEach(w=>{if(!wd.has(w.date))wd.set(w.date,[]);wd.get(w.date).push(w)});
+  const wd=new Map();wait.filter(w=>w.conf>=ac.min).forEach(w=>{if(!wd.has(w.date))wd.set(w.date,[]);wd.get(w.date).push(w)});
   const now=Date.now(),days=[];
   for(const d of [...wd.keys()].sort()){const all=wd.get(d).sort((a,b)=>b.conf-a.conf),priced=all.filter(w=>w.odds>1),full=priced.length>=6,legs=(full?priced:all).slice(0,6);
     if(!legs.length)continue;days.push({date:d,legs,full,priced:priced.length,count:all.length,started:legs.some(w=>w.start&&Date.parse(w.start)<=now)})}
@@ -1966,6 +1968,7 @@ function atRender(){
   document.getElementById("acView").hidden=ac.mode!=="acca";document.getElementById("atSingles").hidden=ac.mode==="acca";
   document.querySelectorAll("#atStake button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.v===at.stake)));
   document.querySelectorAll("#atScope button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.v===at.scope)));
+  document.querySelectorAll("#acMin button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.v===ac.min)));
   if(ac.mode==="acca"){const {done,wait}=atBets();acRender(done,wait);return}
   const {done,wait,noPrice}=atBets(),n=done.length,won=done.filter(b=>b.win).length,pl=n?done[n-1].run:0,staked=n*at.stake;
   const cls=pl>0?"bt-pos":pl<0?"bt-neg":"";
@@ -2017,6 +2020,7 @@ function atRender(){
 }
 document.querySelectorAll("#atStake button").forEach(b=>b.onclick=()=>{at.stake=+b.dataset.v;atSave();atRender()});
 document.querySelectorAll("#atScope button").forEach(b=>b.onclick=()=>{at.scope=b.dataset.v;atSave();atRender()});
+document.querySelectorAll("#acMin button").forEach(b=>b.onclick=()=>{ac.min=+b.dataset.v;try{localStorage.setItem("poAccaMin",String(ac.min))}catch(e){}atRender()});
 document.querySelectorAll("#atMode button").forEach(b=>b.onclick=()=>{ac.mode=b.dataset.v;try{localStorage.setItem("poAutoMode",ac.mode)}catch(e){}atRender()});
 document.getElementById("atMore").onclick=()=>{at.all=!at.all;atRender()};
 
