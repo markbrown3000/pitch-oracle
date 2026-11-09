@@ -1,0 +1,1424 @@
+{{Short description|Darts tournament series}}
+The '''2025 PDC Challenge Tour''' (known for sponsorship reasons as the '''[[Winmau]] Challenge Tour''') was a series of non-televised [[darts]] tournaments organised by the [[Professional Darts Corporation]] (PDC). A [[PDC secondary tours|secondary tour]] to the [[2025 PDC Pro Tour|PDC Pro Tour]], it consisted of 24 tournaments, held over four weekends of five events and one weekend of four events.
+
+The [[PDC Challenge Tour|Challenge Tour]] is the PDC's second-tier system for players who competed at the 2025 Qualifying Schools but did not win a [[PDC Tour Card]].<ref>{{Cite web |title=Winmau Challenge Tour |url=https://www.pdc.tv/tournament/winmau-challenge-tour |website=PDC |access-date=9 December 2024}}</ref> Under ''PDC Order of Merit Rule 4.2'',<ref name="PDC OoM Rules">{{cite web |title=PDC Order of Merit Rules {{!}} 2025 PDC Order of Merit Rules, as at January 13, 2025 |url=https://www.pdc.tv/pdc-order-merit-rules-1 |publisher=PDC}}</ref> the Challenge Tour Order of Merit rankings were used to top up Players Championship (PC) events up to 128 entries, when any of the [[List of players with a 2025 PDC Tour Card|2025 Tour Card holders]] not enter the PC tournaments.
+
+Under PDC Order of Merit Rule 6.9, the 2025 Challenge Tour prizes were as follows:
+
+* The top two players on the Challenge Tour Order of Merit, who had not obtained a PDC Tour Card via another method, won a two-year Tour Card for the 2026 and 2027 seasons.
+* The top three players on the Challenge Tour Order of Merit, who had not qualified via another method, qualified for places at the [[2026 PDC World Darts Championship|2026 PDC World Championship]].
+* The highest ranked player on the Challenge Tour Order of Merit, [[Stefan Bellmont]], received a spot at the [[2025 Grand Slam of Darts]].
+* The players in the top 16 of the Challenge Tour Order of Merit, who had not obtained a PDC Tour Card before '''2026 Qualifying School''' (Q–School), were granted free entry to the final stage of Q–School.
+* The eight highest ranked players from the Challenge Tour Order of Merit, who did not earn a Tour Card for the 2026 season, qualified for the first round of the [[2026 UK Open]].
+
+==Prize money==
+The prize money for the Challenge Tour events remained the same as in 2023 and 2024. £360,000 was the total prize fund, with £15,000 being the prize fund for each of the 24 events. The winner of each event received £2,500. The prize fund breakdown was:<ref name=CTPrizeMoney>{{cite web |last=Gill |first=Samuel |date=19 January 2025 |title=Here's how much players can earn in Prize Money in 2025 PDC Challenge Tour |url=https://dartsnews.com/pdc/heres-how-much-players-can-earn-in-prize-money-in-2025-pdc-challenge-tour |website=Darts News |access-date=6 February 2025}}</ref>
+
+{| class="wikitable"
+! colspan=2 | Stage <small>(no. of players)</small>
+! Prize money<br /><small>(Total: £15,000)</small>
+|-
+| '''Winner'''
+| align=center | <small>(1)</small>
+| align=center | £2,500
+|-
+| '''Runner-up'''
+| align=center | <small>(1)</small>
+| align=center | £1,000
+|-
+| '''Semi-finalists'''
+| align=center | <small>(2)</small>
+| align=center | £750
+|-
+| '''Quarter-finalists'''
+| align=center | <small>(4)</small>
+| align=center | £500
+|-
+| '''Last 16'''
+| align=center | <small>(8)</small>
+| align=center | £300
+|-
+| '''Last 32'''
+| align=center | <small>(16)</small>
+| align=center | £200
+|-
+| '''Last 64'''
+| align=center | <small>(32)</small>
+| align=center | £75
+|}
+
+The top players on the Challenge Tour Order of Merit act as reserves for [[2025 PDC Players Championship series]] events. If one of the [[List of players with a 2025 PDC Tour Card|Tour Card holders]] does not enter or withdraws from a Players Championship event, the highest ranked available player on the Challenge Tour Order of Merit may fill in.<ref name=CTPrizeMoney/><ref name=PC1&2Entries>{{cite web |last=Gorton |first=Josh |date=6 February 2025 |title=2025 Players Championship 1-2 Player entries confirmed |url=https://www.pdc.tv/news/2025/02/06/2025-players-championship-1-2-player-entries-confirmed |archive-url=https://web.archive.org/web/20250212222453/https://www.pdc.tv/news/2025/02/06/2025-players-championship-1-2-player-entries-confirmed |url-status=dead |archive-date=February 12, 2025 |publisher=[[Professional Darts Corporation]] |access-date=6 February 2025}}</ref>
+
+{{notelist}}
+
+==January==
+
+===Challenge Tour 1===
+Challenge Tour 1 was contested on Friday 17 January 2025 at the [[Marshall Arena]] in [[Milton Keynes]]. The tournament was won by [[Beau Greaves]], who defeated [[Stefan Bellmont]] 5–4 in the final.<ref name=SkyCT1>{{cite web |date=17 January 2025 |title=Beau Greaves wins first Challenge Tour event in opening competition of 2025 to become second woman to claim series title |url=https://www.skysports.com/darts/news/12288/13290858/beau-greaves-wins-first-challenge-tour-event-in-opening-competition-of-2025-to-become-second-woman-to-claim-series-title |website=[[Sky Sports]] |access-date=17 January 2025}}</ref><ref name=DNCT1>{{cite web |last=Wood |first=Kieran |date=17 January 2025 |title=Brilliant Beau Greaves beats Bellmont to win first Challenge Tour event of 2025! |url=https://dartsnews.com/pdc/brilliant-beau-greaves-beats-bellmont-to-win-first-challenge-tour-event-of-2025 |website=DartsNews |access-date=17 January 2025}}</ref><ref name="CT1&2">{{Cite web |last=Gorton |first=Josh |date=17 January 2025 |title=Greaves & Sneyd share titles on opening day of 2025 Challenge Tour |url=https://www.pdc.tv/news/2025/january/17/greaves-sneyd-share-titles-opening-day-2025-challenge-tour |publisher=[[Professional Darts Corporation]]}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Jarno Bottenberg|avg=84.99}}
+| RD1-score1  = 2
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Stefan Bellmont|avg=85.39}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Simon Whitlock|avg=93.79}}
+| RD1-score3  = 3
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Tommy Lishman|avg=94.15}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Henry Coates|avg=81.93}}
+| RD1-score5  = 1
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Beau Greaves|avg=95.30}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Michael Unterbuchner|avg=78.63}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Mervyn King|avg=92.13}}
+| RD1-score8  = 4
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Stefan Bellmont|avg=106.25}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Tommy Lishman|avg=95.78}}
+| RD2-score2  = 3
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Beau Greaves|avg=90.05}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Michael Unterbuchner|avg=91.93}}
+| RD2-score4  = 3
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Stefan Bellmont|avg=88.85}}
+| RD3-score1  = 4
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Beau Greaves|avg=94.49}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 2===
+Challenge Tour 2 was contested on Friday 17 January 2025 at the [[Marshall Arena]] in [[Milton Keynes]]. The tournament was won by {{PDCLink|Carl Sneyd}}, who defeated {{PDCLink|Tommy Lishman}} 5–1 in the final.<ref name="CT1&2"/>
+
+{{#invoke:bracket|8TeamBracket
+| RD1= {{nowrap|1='''Quarter-finals'''<br>''(best of 9 legs)''}}
+| RD2= {{nowrap|1='''Semi-finals'''<br>''(best of 9 legs)''}}
+| RD3= {{nowrap|1='''Final'''<br>''(best of 9 legs)''}}
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Tommy Lishman|avg=89.28}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Graham Usher|avg=81.08}}
+| RD1-score2  = 2
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Kevin Burness|avg=83.59}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Nathan Girvan|avg=79.13}}
+| RD1-score4  = 2
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Jeffrey Sparidaans|avg=87.95}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Christopher Wickenden|avg=84.04}}
+| RD1-score6  = 4
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Carl Sneyd|avg=90.54}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Gilbert van der Meijden|avg=89.56}}
+| RD1-score8  = 0
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Tommy Lishman|avg=86.41}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Kevin Burness|avg=81.65}}
+| RD2-score2  = 1
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Jeffrey Sparidaans|avg=82.91}}
+| RD2-score3  = 3
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Carl Sneyd|avg=87.44}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Tommy Lishman|avg=87.56}}
+| RD3-score1  = 1
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Carl Sneyd|avg=91.86}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 3===
+Challenge Tour 3 was contested on Saturday 18 January 2025 at the [[Marshall Arena]] in [[Milton Keynes]]. The tournament was won by [[Beau Greaves]], who defeated [[John Henderson (darts player)|John Henderson]] 5–0 in the final.<ref name=SkyCT3>{{cite web |date=18 January 2025 |title=Beau Greaves adds second Challenge Tour title after whitewashing John Henderson 5-0 |url=https://www.skysports.com/darts/news/12288/13290858/beau-greaves-wins-first-challenge-tour-event-in-opening-competition-of-2025-to-become-second-woman-to-claim-series-title |website=[[Sky Sports]] |access-date=19 January 2025}}</ref><ref name="CT3&4">{{Cite web |last=Gorton |first=Josh |date=18 January 2025 |title=Further glory for Greaves on Day Two of 2025 Winmau Challenge Tour |url=https://www.pdc.tv/news/2025/january/18/further-glory-greaves-day-two-2025-winmau-challenge-tour |publisher=[[Professional Darts Corporation]]}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Paul Rowley|avg=83.41}}
+| RD1-score1  = 4
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Kevin Burness|avg=89.37}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Tom Sykes|avg=89.16}}
+| RD1-score3  = 4
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|John Henderson|avg=90.90}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|John O'Shea|avg=87.42}}
+| RD1-score5  = 2
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Beau Greaves|avg=97.57}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Thomas Banks|avg=92.22}}
+| RD1-score7  = 4
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Jimmy van Schie|avg=93.16}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Kevin Burness|avg=81.81}}
+| RD2-score1  = 3
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|John Henderson|avg=78.00}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Beau Greaves|avg=99.74}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Jimmy van Schie|avg=92.28}}
+| RD2-score4  = 1
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|John Henderson|avg=90.46}}
+| RD3-score1  = 0
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Beau Greaves|avg=101.55}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 4===
+Challenge Tour 4 was contested on Saturday 18 January 2025 at the [[Marshall Arena]] in [[Milton Keynes]]. [[Ted Evetts]] hit a [[nine-dart finish]] in his match against [[Shane McGuirk]]. The tournament was won by [[Darius Labanauskas]], who defeated [[Mervyn King (darts player)|Mervyn King]] 5–3 in the final.<ref name="CT3&4"/>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Martin Grearson|avg=86.36}}
+| RD1-score1  = 1
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Mervyn King|avg=97.43}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Joe Hunt|avg=89.23}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Simon Whitlock|avg=87.95}}
+| RD1-score4  = 4
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Adam Mould|avg=91.11}}
+| RD1-score5  = 4
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Darius Labanauskas|avg=95.57}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Ted Evetts|avg=85.40}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Jarno Bottenberg|avg=75.70}}
+| RD1-score8  = 0
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Mervyn King|avg=87.00}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Joe Hunt|avg=85.60}}
+| RD2-score2  = 4
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Darius Labanauskas|avg=85.35}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Ted Evetts|avg=80.88}}
+| RD2-score4  = 2
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Mervyn King|avg=91.23}}
+| RD3-score1  = 3
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Darius Labanauskas|avg=87.17}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 5===
+Challenge Tour 5 was contested on Sunday 19 January 2025 at the [[Marshall Arena]] in [[Milton Keynes]]. The tournament was won by [[Stefan Bellmont]], who defeated [[Danny Jansen]] 5–1 in the final.<ref>{{Cite web |last=Gorton |first=Josh |date=19 January 2025 |title=Bellmont bags Winmau Challenge Tour Five title |url=https://www.pdc.tv/news/2025/january/19/bellmont-bags-winmau-challenge-tour-five-title |publisher=[[Professional Darts Corporation]]}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Aden Kirk|avg=92.33}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Chas Barstow|avg=86.03}}
+| RD1-score2  = 2
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Stefan Bellmont|avg=95.09}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Graham Hall|avg=94.40}}
+| RD1-score4  = 3
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Danny van Trijp|avg=82.89}}
+| RD1-score5  = 1
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Danny Jansen|avg=90.88}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Andreas Harrysson|avg=82.82}}
+| RD1-score7  = 0
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Michael Flynn|avg=102.95}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Aden Kirk|avg=85.98}}
+| RD2-score1  = 4
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Stefan Bellmont|avg=88.42}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Danny Jansen|avg=93.50}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Michael Flynn|avg=98.01}}
+| RD2-score4  = 2
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Stefan Bellmont|avg=95.80}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Danny Jansen|avg=84.17}}
+| RD3-score2  = 1
+}}
+
+==March==
+
+===Challenge Tour 6===
+Challenge Tour 6 was contested on Friday 14 March at the Halle 39 in [[Hildesheim]]. The tournament was won by [[Dragutin Horvat]], who defeated [[Ted Evetts]] 5–4 in the final.<ref name="PDC6&7">{{cite web |last=Gorton |first=Josh |date=14 March 2025 |title=Horvat & Labanauskas share Winmau Challenge Tour titles |url=https://www.pdc.tv/news/2025/march/14/horvat-labanauskas-share-winmau-challenge-tour-titles |website=Professional Darts Corporation |access-date=15 March 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Tom Sykes|avg=88.38}}
+| RD1-score1  = 3
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Graham Usher|avg=86.37}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Dragutin Horvat|avg=94.80}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Michael Unterbuchner|avg=83.56}}
+| RD1-score4  = 1
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Ted Evetts|avg=89.77}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Ron Meulenkamp|avg=83.90}}
+| RD1-score6  = 2
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Nicolas Thuillier|avg=80.45}}
+| RD1-score7  = 3
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Trevor Burkhill|avg=81.92}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Graham Usher|avg=92.30}}
+| RD2-score1  = 3
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Dragutin Horvat|avg=97.19}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Ted Evetts|avg=95.13}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Trevor Burkhill|avg=83.68}}
+| RD2-score4  = 0
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Dragutin Horvat|avg=97.30}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Ted Evetts|avg=91.05}}
+| RD3-score2  = 4
+}}
+
+===Challenge Tour 7===
+Challenge Tour 7 was contested on Friday 14 March at the Halle 39 in [[Hildesheim]]. The tournament was won by [[Darius Labanauskas]], who defeated [[Keegan Brown]] 5–2 in the final.<ref name="PDC6&7"/>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|David Sharp|avg=80.58}}
+| RD1-score1  = 3
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Adam Mould|avg=87.44}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Keegan Brown|avg=85.19}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Kevin Burness|avg=89.06}}
+| RD1-score4  = 3
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Rowby-John Rodriguez|avg=78.20}}
+| RD1-score5  = 2
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Darius Labanauskas|avg=82.85}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|David Pallett|avg=79.95}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Arno Merk|avg=72.30}}
+| RD1-score8  = 0
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Adam Mould|avg=80.21}}
+| RD2-score1  = 4
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Keegan Brown|avg=83.69}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Darius Labanauskas|avg=88.41}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|David Pallett|avg=71.86}}
+| RD2-score4  = 0
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Keegan Brown|avg=70.61}}
+| RD3-score1  = 2
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Darius Labanauskas|avg=81.80}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 8===
+Challenge Tour 8 was contested on Saturday 15 March at the Halle 39 in [[Hildesheim]]. The tournament was won by [[Darius Labanauskas]], who defeated [[Scott Waites]] 5–4 in the final.<ref name="PDC8&9">{{cite web |last=Wagner |first=Connor |date=15 March 2025 |title=Labanauskas and Evetts surge to Winmau Challenge Tour titles in Hildesheim |url=https://www.pdc.tv/news/2025/march/15/labanauskas-and-evetts-surge-winmau-challenge-tour-titles-hildesheim |website=Professional Darts Corporation |access-date=15 March 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Darius Labanauskas|avg=96.32}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Stefan Bellmont|avg=81.77}}
+| RD1-score2  = 1
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Ryan O'Connor|avg=87.73}}
+| RD1-score3  = 1
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Owen Maiden|avg=100.79}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Tom Sykes|avg=90.85}}
+| RD1-score5  = 2
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Scott Waites|avg=86.28}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Sam Spivey|avg=76.37}}
+| RD1-score7  = 1
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Alexander Merkx|avg=95.36}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Darius Labanauskas|avg=80.81}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Owen Maiden|avg=73.47}}
+| RD2-score2  = 0
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Scott Waites|avg=103.03}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Alexander Merkx|avg=90.07}}
+| RD2-score4  = 1
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Darius Labanauskas|avg=92.58}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Scott Waites|avg=90.64}}
+| RD3-score2  = 4
+}}
+
+===Challenge Tour 9===
+Challenge Tour 9 was contested on Saturday 15 March at the Halle 39 in [[Hildesheim]]. The tournament was won by [[Ted Evetts]], who defeated [[Michael Unterbuchner]] 5–1 in the final.<ref name="PDC8&9"/>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Mervyn King|avg=81.31}}
+| RD1-score1  = 4
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Callum Goffin|avg=79.28}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Darius Labanauskas|avg=84.82}}
+| RD1-score3  = 4
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Michael Unterbuchner|avg=77.82}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Ted Evetts|avg=86.57}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Kevin Lankhuizen|avg=76.17}}
+| RD1-score6  = 1
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Andreas Harrysson|avg=85.10}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Colin Osborne|avg=89.78}}
+| RD1-score8  = 3
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Callum Goffin|avg=85.17}}
+| RD2-score1  = 3
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Michael Unterbuchner|avg=86.41}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Ted Evetts|avg=100.79}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Andreas Harrysson|avg=84.24}}
+| RD2-score4  = 1
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Michael Unterbuchner|avg=88.71}}
+| RD3-score1  = 1
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Ted Evetts|avg=94.91}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 10===
+Challenge Tour 10 was contested on Sunday 16 March at the Halle 39 in [[Hildesheim]]. The tournament was won by Scott Campbell, who defeated [[Dan Hands]] 5–3 in the final.<ref>{{Cite web |last=Simpson |first=Will |date=16 March 2025 |title=Campbell claims Winmau Challenge Tour Ten Title |url=https://www.pdc.tv/news/2025/march/16/campbell-claims-winmau-challenge-tour-ten-title |publisher=[[Professional Darts Corporation]]}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Levy Frauenfelder|avg=87.76}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Christopher Wickenden|avg=85.94}}
+| RD1-score2  = 3
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Dan Hands|avg=89.57}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Sam Spivey|avg=92.22}}
+| RD1-score4  = 4
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Stu Wilson|avg=77.79}}
+| RD1-score5  = 0
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Jacques Labre|avg=87.38}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|James Beeton|avg=82.49}}
+| RD1-score7  = 2
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Scott Campbell|avg=90.71}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Levy Frauenfelder|avg=92.27}}
+| RD2-score1  = 2
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Dan Hands|avg=90.08}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Jacques Labre|avg=76.01}}
+| RD2-score3  = 3
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Scott Campbell|avg=85.38}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Dan Hands|avg=84.97}}
+| RD3-score1  = 3
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Scott Campbell|avg=91.59}}
+| RD3-score2  = 5
+}}
+
+==May==
+
+===Challenge Tour 11===
+Challenge Tour 11 was contested on Friday 2 May at the [[Marshall Arena]] in [[Milton Keynes]]. The tournament was won by [[Mervyn King (darts player)|Mervyn King]], who defeated [[Henry Coates]] 5–0 in the final.<ref name="PDC11&12">{{cite web |last=Gorton |first=Josh |date=2 May 2025 |title=King & nine-dart star Van den Herik claim Challenge Tour titles |url=https://www.pdc.tv/news/2025/may/02/king-nine-dart-star-van-den-herik-claim-challenge-tour-titles |publisher=[[Professional Darts Corporation]] |access-date=3 May 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Nathan Girvan|avg=88.29}}
+| RD1-score1  = 3
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Henry Coates|avg=90.25}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Patrick Quinn|avg=84.83}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Martin Thomas|avg=83.52}}
+| RD1-score4  = 4
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Jenson Walker|avg=95.23}}
+| RD1-score5  = 3
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Ted Evetts|avg=99.50}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Sam Spivey|avg=79.79}}
+| RD1-score7  = 2
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Mervyn King|avg=88.46}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Henry Coates|avg=94.80}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Patrick Quinn|avg=89.46}}
+| RD2-score2  = 2
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Ted Evetts|avg=88.20}}
+| RD2-score3  = 4
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Mervyn King|avg=87.69}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Henry Coates|avg=89.48}}
+| RD3-score1  = 0
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Mervyn King|avg=101.55}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 12===
+Challenge Tour 12 was contested on Friday 2 May at the [[Marshall Arena]] in [[Milton Keynes]]. Jamai van den Herik hit a [[nine-dart finish]] in his match against Carl Sneyd. The tournament was won by Jamai van den Herik, who defeated Graham Hall 5–2 in the final.<ref name="PDC11&12"/>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Keegan Brown|avg=88.70}}
+| RD1-score1  = 4
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Sietse Lap|avg=95.20}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Mervyn King|avg=89.64}}
+| RD1-score3  = 4
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Graham Hall|avg=86.56}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Jamai van den Herik|avg=95.05}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Carl Sneyd|avg=82.67}}
+| RD1-score6  = 2
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Beau Greaves|avg=81.99}}
+| RD1-score7  = 3
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Ciaran Teehan|avg=74.38}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Sietse Lap|avg=94.24}}
+| RD2-score1  = 4
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Graham Hall|avg=94.76}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Jamai van den Herik|avg=85.40}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Ciaran Teehan|avg=81.12}}
+| RD2-score4  = 1
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Graham Hall|avg=90.83}}
+| RD3-score1  = 2
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Jamai van den Herik|avg=92.89}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 13===
+Challenge Tour 13 was contested on Saturday 3 May at the [[Marshall Arena]] in [[Milton Keynes]]. The tournament was won by [[Danny van Trijp]], who defeated Graham Hall 5–2 in the final.<ref name="PDC13&14">{{cite web |last=Simpson |first=Will |date=3 May 2025 |title=Winmau Challenge Tour wins for Van Trijp & Bellmont |url=https://www.pdc.tv/news/2025/may/03/winmau-challenge-tour-wins-van-trijp-bellmont |website=PDC |access-date=4 May 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Luke Smith|avg=87.81}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Jamie Hughes|avg=79.34}}
+| RD1-score2  = 1
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Graham Hall|avg=98.18}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Jurjen van der Velde|avg=83.12}}
+| RD1-score4  = 2
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Danny van Trijp|avg=89.84}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Shaun Carroll|avg=81.26}}
+| RD1-score6  = 3
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Stefan Bellmont|avg=95.52}}
+| RD1-score7  = 4
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Ted Evetts|avg=97.08}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Luke Smith|avg=86.62}}
+| RD2-score1  = 1
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Graham Hall|avg=91.28}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Danny van Trijp|avg=84.74}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Ted Evetts|avg=90.97}}
+| RD2-score4  = 4
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Graham Hall|avg=88.96}}
+| RD3-score1  = 2
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Danny van Trijp|avg=90.21}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 14===
+Challenge Tour 14 was contested on Saturday 3 May at the [[Marshall Arena]] in [[Milton Keynes]]. The tournament was won by [[Stefan Bellmont]], who defeated [[Keegan Brown]] 5–3 in the final.<ref name="PDC13&14"/>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Shane McGuirk|avg=102.02}}
+| RD1-score1  = 4
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Jack Tweddell|avg=103.25}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Charlie Martin|avg=79.14}}
+| RD1-score3  = 1
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Stefan Bellmont|avg=82.11}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Ron Meulenkamp|avg=80.19}}
+| RD1-score5  = 2
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Keegan Brown|avg=86.15}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Darius Labanauskas|avg=79.42}}
+| RD1-score7  = 3
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Shaun Carroll|avg=84.24}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Jack Tweddell|avg=88.99}}
+| RD2-score1  = 4
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Stefan Bellmont|avg=90.93}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Keegan Brown|avg=83.48}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Shaun Carroll|avg=75.95}}
+| RD2-score4  = 2
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Stefan Bellmont|avg=85.07}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Keegan Brown|avg=79.52}}
+| RD3-score2  = 3
+}}
+
+===Challenge Tour 15===
+Challenge Tour 15 was contested on Sunday 4 May at the [[Marshall Arena]] in [[Milton Keynes]]. The tournament was won by Jack Tweddell, who defeated [[Mervyn King (darts player)|Mervyn King]] 5–1 in the final.<ref>{{cite web |last=Gorton |first=Josh |date=4 May 2025 |title=Tweddell dethrones King to clinch maiden Challenge Tour crown |url=https://www.pdc.tv/news/2025/may/04/tweddell-dethrones-king-clinch-maiden-challenge-tour-crown |website=PDC |access-date=4 May 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Colin Osborne|avg=87.46}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Steve West|avg=75.69}}
+| RD1-score2  = 2
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Dmitriy Zhukov|avg=88.24}}
+| RD1-score3  = 2
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Jack Tweddell|avg=89.30}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Shane McGuirk|avg=87.58}}
+| RD1-score5  = 2
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Mervyn King|avg=92.09}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Nathan Girvan|avg=87.60}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Michael Flynn|avg=85.62}}
+| RD1-score8  = 4
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Colin Osborne|avg=83.38}}
+| RD2-score1  = 1
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Jack Tweddell|avg=93.66}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Mervyn King|avg=90.54}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Nathan Girvan|avg=83.54}}
+| RD2-score4  = 0
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Jack Tweddell|avg=92.94}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Mervyn King|avg=91.21}}
+| RD3-score2  = 1
+}}
+
+==August==
+
+===Challenge Tour 16===
+Challenge Tour 16 was contested on Friday 15 August at the [[Leicester Arena]]. Joe Hunt won his first Challenge Tour title by defeating Derek Maclean 5–4 in the final.<ref name="DWHuntCocks">{{cite web |date=16 August 2025 |title=Hunt and Cocks Bag PDC Tier Tour Titles |url=https://dartsworld.com/2025/08/hunt-and-cocks-bag-pdc-tier-tour-titles/ |website=Darts World Magazine |access-date=17 August 2025}}</ref><ref>{{Cite web |last=Gill |first=Samuel |date=15 August 2025 |title=Joe Hunt wins his first-ever Challenge Tour title in surprise win |url=https://dartsnews.com/pdc/joe-hunt-wins-his-first-ever-challenge-tour-title-in-surprise-win |website=Darts News |access-date=17 August 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   = 
+| RD1-team1   = {{PDCFlag|Scott Campbell|avg=81.27}}
+| RD1-score1  = 3
+| RD1-seed2   = 
+| RD1-team2   = {{PDCFlag|Joe Hunt|avg=93.54}}
+| RD1-score2  = 5
+| RD1-seed3   = 
+| RD1-team3   = {{PDCFlag|Ashley Coleman|avg=95.87}}
+| RD1-score3  = 5
+| RD1-seed4   = 
+| RD1-team4   = {{PDCFlag|Andreas Harrysson|avg=87.03}}
+| RD1-score4  = 3
+| RD1-seed5   = 
+| RD1-team5   = {{PDCFlag|Charlie Manby|avg=86.93}}
+| RD1-score5  = 3
+| RD1-seed6   = 
+| RD1-team6   = {{PDCFlag|Derek Maclean|avg=86.83}}
+| RD1-score6  = 5
+| RD1-seed7   = 
+| RD1-team7   = {{PDCFlag|Tommy Lishman|avg=78.10}}
+| RD1-score7  = 5
+| RD1-seed8   = 
+| RD1-team8   = {{PDCFlag|Jack Tweddell|avg=83.14}}
+| RD1-score8  = 4
+
+| RD2-seed1   = 
+| RD2-team1   = {{PDCFlag|Joe Hunt|avg=89.96}}
+| RD2-score1  = 5
+| RD2-seed2   = 
+| RD2-team2   = {{PDCFlag|Ashley Coleman|avg=85.03}}
+| RD2-score2  = 4
+| RD2-seed3   = 
+| RD2-team3   = {{PDCFlag|Tommy Lishman|avg=72.08}}
+| RD2-score3  = 1
+| RD2-seed4   = 
+| RD2-team4   = {{PDCFlag|Derek Maclean|avg=79.38}}
+| RD2-score4  = 5
+
+| RD3-seed1   = 
+| RD3-team1   = {{PDCFlag|Joe Hunt|avg=85.52}}
+| RD3-score1  = 5
+| RD3-seed2   = 
+| RD3-team2   = {{PDCFlag|Derek Maclean|avg=88.77}}
+| RD3-score2  = 4
+}}
+
+===Challenge Tour 17===
+Challenge Tour 17 was contested on Friday 15 August at the [[Leicester Arena]]. Lee Cocks defeated Jack Tweddell 5–3 in the final to claim his second career Challenge Tour title.<ref name="DWHuntCocks"/><ref>{{Cite web |last=Wood |first=Kieran |date=16 August 2025 |title=Lee Cocks takes second Challenge Tour title of his career |url=https://dartsnews.com/pdc/lee-cocks-takes-second-challenge-tour-title-of-his-career |website=Darts News |access-date=17 August 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   = 
+| RD1-team1   = {{PDCFlag|Jack Tweddell|avg=87.99}}
+| RD1-score1  = 5
+| RD1-seed2   = 
+| RD1-team2   = {{PDCFlag|Aden Kirk|avg=81.76}}
+| RD1-score2  = 2
+| RD1-seed3   = 
+| RD1-team3   = {{PDCFlag|Andreas Harrysson|avg=83.62}}
+| RD1-score3  = 3
+| RD1-seed4   = 
+| RD1-team4   = {{PDCFlag|Scott Waites|avg=95.22}}
+| RD1-score4  = 5
+| RD1-seed5   = 
+| RD1-team5   = {{PDCFlag|David Pallett|avg=87.68}}
+| RD1-score5  = 5
+| RD1-seed6   = 
+| RD1-team6   = {{PDCFlag|Michael Unterbuchner|avg=78.33}}
+| RD1-score6  = 1
+| RD1-seed7   = 
+| RD1-team7   = {{PDCFlag|Reece Colley|avg=82.96}}
+| RD1-score7  = 0
+| RD1-seed8   = 
+| RD1-team8   = {{PDCFlag|Lee Cocks|avg=87.38}}
+| RD1-score8  = 5
+
+| RD2-seed1   = 
+| RD2-team1   = {{PDCFlag|Jack Tweddell|avg=93.15}}
+| RD2-score1  = 5
+| RD2-seed2   = 
+| RD2-team2   = {{PDCFlag|Scott Waites|avg=89.92}}
+| RD2-score2  = 3
+| RD2-seed3   = 
+| RD2-team3   = {{PDCFlag|David Pallett|avg=80.36}}
+| RD2-score3  = 4
+| RD2-seed4   = 
+| RD2-team4   = {{PDCFlag|Lee Cocks|avg=89.31}}
+| RD2-score4  = 5
+
+| RD3-seed1   = 
+| RD3-team1   = {{PDCFlag|Jack Tweddell|avg=87.00}}
+| RD3-score1  = 3
+| RD3-seed2   = 
+| RD3-team2   = {{PDCFlag|Lee Cocks|avg=82.65}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 18===
+Challenge Tour 18 was contested on Saturday 16 August at the [[Leicester Arena]]. [[David Davies (darts player)|David Davies]] won his first Challenge Tour title by defeating Alexander Merkx 5–3 in the final.<ref name="PDC18&19">{{cite web |last=Bellenie |first=Ryan |date=16 August 2025 |title=Wins for Davies and Van den Herik on the Winmau Challenge Tour |url=https://www.pdc.tv/news/2025/august/16/wins-davies-and-van-den-herik-winmau-challenge-tour |website=Professional Darts Corporation |access-date=7 November 2025}}</ref><ref name="DW18&19">{{cite web |date=17 August 2025 |title=Davies and VDH Claim Challenge Tour Crowns |url=https://dartsworld.com/2025/08/davies-and-vdh-claim-challenge-tour-crowns/ |website=Darts World Magazine |access-date=7 November 2025}}</ref><ref>{{cite web |last=Gill |first=Samuel |date=16 August 2025 |title=David Davies beats Alexander Merkx in Challenge Tour 18 final and takes first PDC title |url=https://dartsnews.com/pdc/david-davies-beats-alexander-merkx-in-challenge-tour-18-final-and-takes-first-pdc-title |website=Darts News |access-date=17 August 2025}}</ref><ref>{{Cite web |title=PDC Challenge Tour 18 {{!}} Matches |url=https://tv.dartconnect.com/event/pdcct25e18/matches |access-date=17 August 2025 |website=DartConnect TV}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   = 
+| RD1-team1   = {{PDCFlag|Jamai van den Herik|avg=100.20}}
+| RD1-score1  = 5
+| RD1-seed2   = 
+| RD1-team2   = {{PDCFlag|Tom Lonsdale|avg=88.96}}
+| RD1-score2  = 0
+| RD1-seed3   = 
+| RD1-team3   = {{PDCFlag|David Davies|avg=88.29}}
+| RD1-score3  = 5
+| RD1-seed4   = 
+| RD1-team4   = {{PDCFlag|Kurt Parry|avg=84.12}}
+| RD1-score4  = 3
+| RD1-seed5   = 
+| RD1-team5   = {{PDCFlag|Charlie Manby|avg=98.88}}
+| RD1-score5  = 5
+| RD1-seed6   = 
+| RD1-team6   = {{PDCFlag|Lee Cocks|avg=88.43}}
+| RD1-score6  = 0
+| RD1-seed7   = 
+| RD1-team7   = {{PDCFlag|Alexander Merkx|avg=96.60}}
+| RD1-score7  = 5
+| RD1-seed8   = 
+| RD1-team8   = {{PDCFlag|Martin Thomas|avg=79.03}}
+| RD1-score8  = 0
+
+| RD2-seed1   = 
+| RD2-team1   = {{PDCFlag|Jamai van den Herik|avg=92.49}}
+| RD2-score1  = 2
+| RD2-seed2   = 
+| RD2-team2   = {{PDCFlag|David Davies|avg=93.12}}
+| RD2-score2  = 5
+| RD2-seed3   = 
+| RD2-team3   = {{PDCFlag|Charlie Manby|avg=85.84}}
+| RD2-score3  = 3
+| RD2-seed4   = 
+| RD2-team4   = {{PDCFlag|Alexander Merkx|avg=86.73}}
+| RD2-score4  = 5
+
+| RD3-seed1   = 
+| RD3-team1   = {{PDCFlag|David Davies|avg=91.50}}
+| RD3-score1  = 5
+| RD3-seed2   = 
+| RD3-team2   = {{PDCFlag|Alexander Merkx|avg=86.17}}
+| RD3-score2  = 3
+}}
+
+===Challenge Tour 19===
+Challenge Tour 19 was contested on Saturday 16 August at the [[Leicester Arena]]. [[Jamai van den Herik]] won his second title of the season, beating [[Jenson Walker]] 5–4 in the final despite being 4–0 down.<ref name="PDC18&19"/><ref name="DW18&19"/><ref>{{cite web |last=Gill |first=Samuel |date=16 August 2025 |title=Jamai van den Herik wins Challenge Tour title again after bizarre comeback, may dream of Ally Pally spot |url=https://dartsnews.com/pdc/jamai-van-den-herik-wins-challenge-tour-title-again-after-bizarre-comeback-may-dream-of-ally-pally-spot |website=Darts News |access-date=17 August 2025}}</ref><ref>{{cite web |date=16 August 2025 |title=PDC Challenge Tour 19 {{!}} Matches |url=https://tv.dartconnect.com/event/pdcct25e19/matches |website=DartConnect TV |access-date=17 August 2025}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   = 
+| RD1-team1   = {{PDCFlag|Bruno Stoeckli|avg=86.85}}
+| RD1-score1  = 5
+| RD1-seed2   = 
+| RD1-team2   = {{PDCFlag|Tommy Morris|avg=78.88}}
+| RD1-score2  = 2
+| RD1-seed3   = 
+| RD1-team3   = {{PDCFlag|David Pallett|avg=90.00}}
+| RD1-score3  = 1
+| RD1-seed4   = 
+| RD1-team4   = {{PDCFlag|Jamai van den Herik|avg=99.13}}
+| RD1-score4  = 5
+| RD1-seed5   = 
+| RD1-team5   = {{PDCFlag|Lewis Pride|avg=87.00}}
+| RD1-score5  = 1
+| RD1-seed6   = 
+| RD1-team6   = {{PDCFlag|Jenson Walker|avg=93.69}}
+| RD1-score6  = 5
+| RD1-seed7   = 
+| RD1-team7   = {{PDCFlag|Pete Burgoyne|avg=90.54}}
+| RD1-score7  = 5
+| RD1-seed8   = 
+| RD1-team8   = {{PDCFlag|Kurt Parry|avg=80.53}}
+| RD1-score8  = 4
+
+| RD2-seed1   = 
+| RD2-team1   = {{PDCFlag|Bruno Stoeckli|avg=77.43}}
+| RD2-score1  = 2
+| RD2-seed2   = 
+| RD2-team2   = {{PDCFlag|Jamai van den Herik|avg=82.39}}
+| RD2-score2  = 5
+| RD2-seed3   = 
+| RD2-team3   = {{PDCFlag|Jenson Walker|avg=84.44}}
+| RD2-score3  = 5
+| RD2-seed4   = 
+| RD2-team4   = {{PDCFlag|Pete Burgoyne|avg=75.62}}
+| RD2-score4  = 0
+
+| RD3-seed1   = 
+| RD3-team1   = {{PDCFlag|Jamai van den Herik|avg=96.11}}
+| RD3-score1  = 5
+| RD3-seed2   = 
+| RD3-team2   = {{PDCFlag|Jenson Walker|avg=89.34}}
+| RD3-score2  = 4
+}}
+
+===Challenge Tour 20===
+Challenge Tour 20 was contested on Sunday 17 August at the [[Leicester Arena]]. The tournament was won by [[Scott Waites]], who defeated [[Michael Unterbuchner]] 5–2 in the final.<ref>{{cite web |last=Wagner |first=Connor |date=17 August 2025 |title=Waites closes out penultimate Challenge Tour weekend with victory|url=https://www.pdc.tv/news/2025/august/17/waites-closes-out-penultimate-challenge-tour-weekend-victory |website=Professional Darts Corporation |access-date=17 August 2025}}</ref><ref>{{cite web |last=Gill |first=Samuel |date=17 August 2025 |title='Scotty 2 Hotty' Scott Waites wins another PDC title after 15 years |url=https://dartsnews.com/pdc/scotty-2-hotty-scott-waites-wins-another-pdc-title-after-15-years |website=Darts News |access-date=17 August 2025}}</ref><ref>{{Cite web |title=PDC Challenge Tour 20 {{!}} Matches |url=https://tv.dartconnect.com/event/pdcct25e20/matches |date=17 August 2025 |website=DartConnect TV}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|David Pallett|avg=92.95}}
+| RD1-score1  = 4
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Alexander Merkx|avg=96.77}}
+| RD1-score2  = 5
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Michael Unterbuchner|avg=92.95}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Danny van Trijp|avg=100.46}}
+| RD1-score4  = 4
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Patrick Dekker|avg=86.12}}
+| RD1-score5  = 1
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Scott Waites|avg=91.34}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Ted Evetts|avg=97.82}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Andy Cass|avg=86.35}}
+| RD1-score8  = 4
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Alexander Merkx|avg=91.60}}
+| RD2-score1  = 4
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Michael Unterbuchner|avg=92.73}}
+| RD2-score2  = 5
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Scott Waites|avg=84.53}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Ted Evetts|avg=84.39}}
+| RD2-score4  = 3
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Michael Unterbuchner|avg=98.51}}
+| RD3-score1  = 2
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Scott Waites|avg=100.38}}
+| RD3-score2  = 5
+}}
+
+==October==
+===Challenge Tour 21===
+Challenge Tour 21 was contested on Saturday 25 October at the Robin Park Tennis Centre in [[Wigan]]. [[Michael Unterbuchner]] won his first Challenge Tour title by defeating [[Peter Burgoyne (cricketer)|Peter Burgoyne]] 5–3 in the final.<ref name="25PDCCT21&22">{{cite web |last=Gorton |first=Josh |date=25 October 2025 |title=Unterbuchner and Van der Velde claim Challenge Tour success |url=https://www.pdc.tv/news/2025/october/25/unterbuchner-and-van-der-velde-claim-challenge-tour-success |website=Professional Darts Corporation |access-date=26 October 2025}}</ref><ref name="DNCT21">{{cite web |last=Gill |first=Samuel |date=25 October 2025 |title=Michael Unterbuchner takes first PDC title after victory over Peter Burgoyne at PDC Challenge Tour 21 |url=https://dartsnews.com/pdc/michael-unterbuchner-takes-first-pdc-title-after-victory-over-peter-burgoyne-at-pdc-challenge-tour-21 |website=Darts News |access-date=26 October 2025}}</ref><ref>{{Cite web |title=PDC Challenge Tour 21 {{!}} Matches |url=https://tv.dartconnect.com/event/pdcct25e21/matches |date=25 October 2025 |website=DartConnect TV}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Pete Burgoyne|avg=86.97}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Scott Campbell|avg=83.52}}
+| RD1-score2  = 1
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Oliver Mitchell|avg=98.01}}
+| RD1-score3  = 2
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Jamie Hughes|avg=108.10}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Michael Unterbuchner|avg=88.58}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Sam Spivey|avg=85.66}}
+| RD1-score6  = 2
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|David Davies|avg=93.93}}
+| RD1-score7  = 3
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Charlie Manby|avg=106.19}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Pete Burgoyne|avg=94.36}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Jamie Hughes|avg=89.04}}
+| RD2-score2  = 2
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Michael Unterbuchner|avg=101.86}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Charlie Manby|avg=88.37}}
+| RD2-score4  = 4
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Pete Burgoyne|avg=81.09}}
+| RD3-score1  = 3
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Michael Unterbuchner|avg=86.10}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 22===
+Challenge Tour 22 was contested on Saturday 25 October at the Robin Park Tennis Centre in [[Wigan]].<ref name="25PDCCT21&22"/><ref name="DNCT22">{{cite web |last=Gill |first=Samuel |date=25 October 2025 |title=Nine-dart king Jurjen van der Velde wins PDC Challenge Tour 22 with final win over Jamie Hughes |url=https://dartsnews.com/pdc/nine-dart-king-jurjen-van-der-velde-wins-pdc-challenge-tour-22-with-final-win-over-jamie-hughes |website=Darts News |access-date=26 October 2025}}</ref><ref>{{Cite web |title=PDC Challenge Tour 22 {{!}} Matches |url=https://tv.dartconnect.com/event/pdcct25e22/matches |date=25 October 2025 |website=DartConnect TV}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Jurjen van der Velde|avg=95.74}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Jack Tweddell|avg=93.43}}
+| RD1-score2  = 2
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Daniel Klose|avg=90.54}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Ted Evetts|avg=83.27}}
+| RD1-score4  = 0
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Daniel Astbury|avg=99.39}}
+| RD1-score5  = 2
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|David Pallett|avg=93.54}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Jamie Hughes|avg=98.57}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Nathan Potter|avg=85.00}}
+| RD1-score8  = 1
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Jurjen van der Velde|avg=92.42}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Daniel Klose|avg=89.59}}
+| RD2-score2  = 2
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|David Pallett|avg=95.95}}
+| RD2-score3  = 3
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Jamie Hughes|avg=87.88}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Jurjen van der Velde|avg=99.97}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Jamie Hughes|avg=87.22}}
+| RD3-score2  = 2
+}}
+
+===Challenge Tour 23===
+Challenge Tour 23 was contested on Sunday 26 October at the Robin Park Tennis Centre in [[Wigan]].<ref name="25PDCCT23&24">{{cite web |last=Gorton |first=Josh |date=26 October 2025 |title=Unterbuchner and Van der Velde claim Challenge Tour success |url=https://www.pdc.tv/news/2025/october/26/bellmont-secures-top-spot-2025-winmau-challenge-tour-rankings |website=Professional Darts Corporation |access-date=27 October 2025}}</ref><ref name="DNCT23">{{cite web |last=Gill |first=Samuel |date=26 October 2025 |title=Stefan Bellmont seals Tour Card and PDC World Darts Championship return after Challenge Tour 23 win, Ted Evetts also set for Ally Pally |url=https://dartsnews.com/pdc/stefan-bellmont-seals-tour-card-and-pdc-world-darts-championship-return-after-challenge-tour-23-win-ted-evetts-also-set-for-ally-pally |website=Darts News |access-date=27 October 2025}}</ref><ref>{{Cite web |title=PDC Challenge Tour 23 {{!}} Matches |url=https://tv.dartconnect.com/event/pdcct25e23/matches |date=26 October 2025 |website=DartConnect TV}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Daniel Ayres|avg=88.73}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Kurt Parry|avg=85.53}}
+| RD1-score2  = 4
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Keegan Brown|avg=82.28}}
+| RD1-score3  = 5
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Joe Croft|avg=87.78}}
+| RD1-score4  = 4
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Jurjen van der Velde|avg=91.16}}
+| RD1-score5  = 5
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Sam Spivey|avg=87.10}}
+| RD1-score6  = 3
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Stefan Bellmont|avg=87.08}}
+| RD1-score7  = 5
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Adam Smith-Neale|avg=75.95}}
+| RD1-score8  = 1
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Daniel Ayres|avg=89.58}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Keegan Brown|avg=84.32}}
+| RD2-score2  = 1
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Jurjen van der Velde|avg=89.55}}
+| RD2-score3  = 4
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Stefan Bellmont|avg=91.78}}
+| RD2-score4  = 5
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Daniel Ayres|avg=88.86}}
+| RD3-score1  = 3
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Stefan Bellmont|avg=98.47}}
+| RD3-score2  = 5
+}}
+
+===Challenge Tour 24===
+Challenge Tour 24 was contested on Sunday 26 October at the Robin Park Tennis Centre in [[Wigan]].<ref name="25PDCCT23&24"/><ref name="DNCT24">{{cite web |last=Gill |first=Samuel |date=26 October 2025 |title=Mervyn King books PDC World Darts Championship return as Sam Spivey ends Challenge Tour season with maiden title |url=https://dartsnews.com/pdc/mervyn-king-books-pdc-world-darts-championship-return-as-sam-spivey-ends-challenge-tour-season-with-maiden-title |website=Darts News |access-date=27 October 2025}}</ref><ref>{{Cite web |title=PDC Challenge Tour 24 {{!}} Matches |url=https://tv.dartconnect.com/event/pdcct25e24/matches |date=26 October 2025 |website=DartConnect TV}}</ref>
+
+{{#invoke:bracket|8TeamBracket
+| RD1='''Quarter-finals'''<br>''(best of 9 legs)''
+| RD2='''Semi-finals'''<br>''(best of 9 legs)''
+| RD3='''Final'''<br>''(best of 9 legs)''
+| boldwinner = high
+| RD1-seed1   =
+| RD1-team1   = {{PDCFlag|Sam Spivey|avg=79.60}}
+| RD1-score1  = 5
+| RD1-seed2   =
+| RD1-team2   = {{PDCFlag|Matt Gallett|avg=81.17}}
+| RD1-score2  = 2
+| RD1-seed3   =
+| RD1-team3   = {{PDCFlag|Michael Unterbuchner|avg=93.07}}
+| RD1-score3  = 4
+| RD1-seed4   =
+| RD1-team4   = {{PDCFlag|Jurjen van der Velde|avg=93.73}}
+| RD1-score4  = 5
+| RD1-seed5   =
+| RD1-team5   = {{PDCFlag|Daniel Ayres|avg=93.51}}
+| RD1-score5  = 4
+| RD1-seed6   =
+| RD1-team6   = {{PDCFlag|Alexander Merkx|avg=90.92}}
+| RD1-score6  = 5
+| RD1-seed7   =
+| RD1-team7   = {{PDCFlag|Lee Cocks|avg=81.27}}
+| RD1-score7  = 4
+| RD1-seed8   =
+| RD1-team8   = {{PDCFlag|Mervyn King|avg=82.03}}
+| RD1-score8  = 5
+
+| RD2-seed1   =
+| RD2-team1   = {{PDCFlag|Sam Spivey|avg=90.27}}
+| RD2-score1  = 5
+| RD2-seed2   =
+| RD2-team2   = {{PDCFlag|Jurjen van der Velde|avg=89.03}}
+| RD2-score2  = 3
+| RD2-seed3   =
+| RD2-team3   = {{PDCFlag|Alexander Merkx|avg=92.03}}
+| RD2-score3  = 5
+| RD2-seed4   =
+| RD2-team4   = {{PDCFlag|Mervyn King|avg=94.65}}
+| RD2-score4  = 4
+
+| RD3-seed1   =
+| RD3-team1   = {{PDCFlag|Sam Spivey|avg=81.44}}
+| RD3-score1  = 5
+| RD3-seed2   =
+| RD3-team2   = {{PDCFlag|Alexander Merkx|avg=84.35}}
+| RD3-score2  = 3
+}}
+
+==Order of Merit==
+{| class="wikitable" style=text-align:right; margin-left:1em"
+|+2025 Challenge Tour ranking top 16<ref>{{cite web |title=Challenge Tour Order of Merit 2025 |url=https://www.dartsrankings.com/challengetour2025 |website=DartsRankings}}</ref>
+|-
+! Rank
+! Player
+! Prize money
+|- style="background-color:#BBF3BB;"
+|align=center|1 ||style="text-align:left"| {{PDCFlag|Stefan Bellmont}}{{efn|name=TCUK|Bellmont, Labanauskas and Greaves qualified for the UK Open as 2026 Tour Card holders}} || £11,500
+|- style="background-color:#BBF3FF;"
+|align=center|2 ||style="text-align:left"| {{PDCFlag|Darius Labanauskas}}{{Efn|name=TCUK}}{{efn|name=WC|Labanauskas qualified for the World Championship via his Pro Tour ranking, meaning his qualification was awarded to the fourth-placed player}} || £10,200
+|-style="background-color:#FFEECC;"
+|align=center|3 ||style="text-align:left"| {{PDCFlag|Ted Evetts}} || £8,725
+|-style="background-color:#FFEECC;"
+|align=center|4 ||style="text-align:left"| {{PDCFlag|Mervyn King}} || £7,975
+|-
+|-style="background-color:#FFFFBB;"
+|align=center|5 ||style="text-align:left"| {{PDCFlag|Michael Unterbuchner}} || £7,825
+|-
+|align=center|6 ||style="text-align:left"| {{PDCFlag|Jamai van den Herik}}{{efn|name=UKO|Van den Herik and Van der Velde qualified for the UK Open via their 2025 Development Tour ranking}} || £7,400
+|-style="background-color:#FFFFBB;"
+|align=center|7 ||style="text-align:left"| {{PDCFlag|Jack Tweddell}} || £6,400
+|-
+|-style="background-color:#FFFFBB;"
+|align=center|8 ||style="text-align:left"| {{PDCFlag|Sam Spivey}} || £6,225
+|-style="background-color:#FFFFBB;"
+|align=center|9 ||style="text-align:left"| {{PDCFlag|Alexander Merkx}} || £6,200
+|-
+|align=center|10 ||style="text-align:left"| {{PDCFlag|Jurjen van der Velde}}{{efn|name=UKO}} || £5,900
+|-
+|align=center|11 ||style="text-align:left"| {{PDCFlag|Beau Greaves}}{{efn|name=TCUK}} || £5,875
+|-
+|align=center|12 ||style="text-align:left"| {{PDCFlag|Scott Waites}} || £5,350
+|-
+|align=center|13 ||style="text-align:left"| {{PDCFlag|Scott Campbell}} || £4,975
+|-
+|align=center|14 ||style="text-align:left"| {{PDCFlag|Carl Sneyd}} || £4,800
+|-
+|align=center|15 ||style="text-align:left"| {{PDCFlag|Danny Van Trijp}} || £4,725
+|-
+|align=center|16 ||style="text-align:left"| {{PDCFlag|Graham Hall}} || £4,600
+|-
+|}
+
+{| class="wikitable"
+|+Provisional qualifications earned through Challenge Tour
+|style="background-color:#BBF3BB;"|2025 Grand Slam of Darts, 2026 PDC World Championship and 2026–27 PDC Tour Card
+|-
+|style="background-color:#BBF3FF;"|2026–27 Tour Card
+|-
+| style="background-color:#FFEECC;"|2026 PDC World Championship and 2026 UK Open
+|-
+|style="background-color:#FFFFBB;"|2026 UK Open
+|-
+|}
+
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{PDC Challenge Tour}}
+{{2025 in PDC darts}}
+
+{{DEFAULTSORT:Challenge Tour, 2025 PDC}}
+[[Category:2025 PDC Pro Tour]]
