@@ -5,6 +5,7 @@ import json, os, re, sys, time, datetime, urllib.request, urllib.parse
 sys.path.insert(0, os.path.dirname(__file__))
 from darts_parse import parse_page, key
 import darts_model as DM
+import darts_mc
 
 UA = {"User-Agent": "PitchOracle/1.0 (https://github.com/markbrown3000/pitch-oracle; darts tab)"}
 W = "https://en.wikipedia.org/w/api.php?"
@@ -52,13 +53,19 @@ def main():
     else:
         pages = fetch(titles(today))
     print(len(pages), "pages")
-    allm = []
+    pcs = [] if src else darts_mc.update("data/darts_pc.json", today, max_fetch=80)
+    allm = list(pcs)
     for t, txt in pages.items():
+        if pcs and "Players Championship series" in t: continue   # Mastercaller has every round of these
         try: allm += parse_page(t, txt)
         except Exception as e: print("parse failed", t, e)
     done = [m for m in allm if m["sa"] is not None and m["sb"] is not None and m["sa"] != m["sb"] and m["date"]]
     seen = set(); D = []
-    for m in sorted(done, key=lambda m: m["date"]):
+    RANK = ["last 128", "round 1", "first round", "last 64", "round 2", "second round", "last 32", "round 3", "third round", "last 16", "round 4", "quarter", "semi", "final"]
+    def rr(m):
+        r = (m.get("round") or "").lower()
+        return next((i for i, k in enumerate(RANK) if r.startswith(k)), 5)
+    for m in sorted(done, key=lambda m: (m["date"], rr(m))):
         k = (m["event"], m["date"], *sorted([key(m["a"]), key(m["b"])]), m["sa"] + m["sb"])
         if k not in seen: seen.add(k); D.append(m)
     up = [m for m in allm if m["sa"] is None and m["sb"] is None and m["date"] and m["date"] >= (today - datetime.timedelta(days=1)).isoformat()]
@@ -118,6 +125,7 @@ def main():
            "upcoming": upcoming, "players": rank, "record": {"live": summary(live), "replay": summary(replay), "replaySince": since},
            "recent": recent, "replayRecent": sorted(replay, key=lambda x: x["date"], reverse=True)[:40]}
     os.makedirs("data", exist_ok=True)
+    json.dump(D, open("data/darts_matches.json", "w"), ensure_ascii=False, separators=(",", ":"))
     json.dump(out, open(OUT, "w"), ensure_ascii=False, separators=(",", ":"))
     json.dump(state, open(STATE, "w"), ensure_ascii=False, separators=(",", ":"))
     print("upcoming", len(upcoming), "players", len(rank), "replay", summary(replay), "live", summary(live))
