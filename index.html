@@ -1193,6 +1193,7 @@ function detailEl(m){
     cmp.append(mk("Stats model",pct(p.H),pct(p.D),pct(p.A)));
     const s=el("div");s.append(el("b",null,"Second opinion: "),document.createTextNode("no data feed or odds for this match yet"));cmp.append(s);
   }
+  if(f.dk&&f.dk.h>1){const s=el("div");s.append(el("b",null,"Latest price (DraftKings): "),document.createTextNode(`home ${dec2(f.dk.h)}, draw ${dec2(f.dk.d)}, away ${dec2(f.dk.a)}`+(f.priceAt?`, as of ${shortDay.format(new Date(f.priceAt))} ${hmFmt(new Date(f.priceAt))}`:"")+". The pick uses this rather than the Tuesday/Friday prices."));cmp.append(s)}
   if(f.b365&&f.b365.h>1){const s=el("div");s.append(el("b",null,"Bet365 odds: "),document.createTextNode(`home ${dec2(f.b365.h)}, draw ${dec2(f.b365.d)}, away ${dec2(f.b365.a)}`));cmp.append(s)}
   if(m.cup)return cupDetail(m,d,cmp);
   const SRC={same:"started from last season",down:"relegated last season",up:"promoted last season",new:"new to the league",none:"no starting rating"};
@@ -1789,10 +1790,58 @@ async function loadData(byUser){
     if(st.newSeason&&st.newSeason.length)bits.push("new season started: "+st.newSeason.join(", "));
     if(!st.gotFixtures)bits.push("fixtures file not available");
     if(st.unmatched.size)bits.push(`${st.unmatched.size} team name${st.unmatched.size>1?"s":""} not recognised`);
+    setTimeout(loadLive,0);
     applyData(data,"Updated from football-data.co.uk at "+timeFmt.format(new Date())+": "+bits.join(", ")+".");
   }catch(e){
     msg.textContent="Couldn't reach football-data.co.uk, so this is the data from "+whenTxt(current.generatedAt)+". Tap Check for new data to try again.";
   }finally{busy=false}
+}
+
+
+/* ---------- fresh football prices: DraftKings' odds from ESPN, saved every two hours by tools/soccer_odds.py ----------
+   They replace the football-data.co.uk prices (posted only on Tuesdays and Fridays) on upcoming fixtures, so picks follow
+   team news up to kick-off. Fixtures football-data hasn't listed yet are added when both teams are recognised. */
+const LIVE_URL=(typeof ON_GH!=="undefined"&&ON_GH)?"data/live_odds.json":"https://markbrown3000.github.io/pitch-oracle/data/live_odds.json";
+const LIVE_ALIAS={"fc cologne":"1. FC Köln","agf":"Aarhus","f.c. københavn":"FC Copenhagen","hamarkameratene":"HamKam","deportivo riestra":"Dep. Riestra","gimnasia la plata":"Gimnasia L.P.",
+  "la galaxy":"Los Angeles Galaxy","lafc":"Los Angeles FC","red bull new york":"New York Red Bulls","amed sfk":"Amedspor","austria lustenau":"A. Lustenau","real sociedad ii":"Real Sociedad B",
+  "athletic club":"Athletic Bilbao","internazionale":"Inter","tottenham hotspur":"Tottenham"};
+const LIVE_STOP=new Set(["fc","cf","afc","sc","club","de","the","ac","sk","fk","if","bk","cd","ud","sv","vfb","vfl","1","tsg","rcd","ca","cr","ec","se","sport","calcio","as","ss","us"]);
+const liveNorm=x=>String(x||"").replace(/ø/g,"o").replace(/Ø/g,"O").replace(/æ/g,"ae").replace(/å/g,"a").normalize("NFKD").replace(/[̀-ͯ]/g,"").toLowerCase()
+  .replace(/&/g," and ").replace(/['’.]/g,"").replace(/[^a-z0-9 ]/g," ").split(/\s+/).filter(w=>w&&!LIVE_STOP.has(w));
+function liveMapper(L){
+  const cands=[...(L.standings||[]).map(t=>[t.abbr,t.team]),...Object.entries({...((window.PREDICTOR_FDNAMES||{})[L.code]||{}),...(L.fdName||{})}).map(([k,v])=>[v,k])];
+  const ab=new Set((L.standings||[]).map(t=>t.abbr));
+  return (name,short)=>{
+    const al=LIVE_ALIAS[String(name).toLowerCase()];if(al){const t=(L.standings||[]).find(x=>x.team===al);if(t)return t.abbr}
+    const a=liveNorm(name).join(" "),b=liveNorm(short).join(" "),A=new Set([...liveNorm(name),...liveNorm(short)]);
+    for(const [x,t] of cands){const n=liveNorm(t).join(" ");if(n&&(n===a||n===b)&&ab.has(x))return x}
+    const tok=new Set(cands.filter(([x,t])=>{const n=liveNorm(t);return ab.has(x)&&n.length&&(n.every(w=>A.has(w))||liveNorm(name).every(w=>n.includes(w)))}).map(c=>c[0]));
+    if(tok.size===1)return [...tok][0];
+    const pre=new Set(cands.filter(([x,t])=>{const n=liveNorm(t).join(" ");return ab.has(x)&&n.length>=5&&(a.startsWith(n)||n.startsWith(a))}).map(c=>c[0]));
+    return pre.size===1?[...pre][0]:null;
+  };
+}
+function applyLiveOdds(data,lo){
+  const st={priced:0,added:0,unmatched:0};if(!data||!lo||!lo.matches)return st;const now=Date.now(),maps={};
+  for(const r of lo.matches){
+    const L=data.leagues[r.lg];if(!L||!r.dk||Date.parse(r.start)<=now)continue;
+    const M=maps[r.lg]||(maps[r.lg]=liveMapper(L)),H=M(r.home,r.homeShort),A=M(r.away,r.awayShort);
+    if(!H||!A||H===A){st.unmatched++;continue}
+    L.fixtures=L.fixtures||[];const dk=r.start.slice(0,10);
+    let f=fdNear(L.fixtures,H,A,dk,2);
+    if(!f){if(fdNear(L.matches,H,A,dk,3))continue;f={id:`${r.lg}:${dk}:${H}-${A}`,start:r.start,home:H,away:A};L.fixtures.push(f);L.fixtures.sort((p,q)=>p.start.localeCompare(q.start));st.added++}
+    const o=fdProb(r.dk.h,r.dk.d,r.dk.a);if(!o)continue;
+    if(FD_TOP.has(r.lg))f.odds=o;else{f.feed=o;f.odds=o;f.feedSource="odds"}
+    if(r.ou!=null)f.ou=r.ou;
+    f.dk=r.dk;f.priceAt=lo.updated;if(Math.abs(Date.parse(f.start)-Date.parse(r.start))>60e3)f.start=r.start;st.priced++;
+  }
+  return st;
+}
+async function loadLive(){
+  if(!current)return;
+  try{const r=await fetch(LIVE_URL+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)return;const lo=await r.json();
+    const st=applyLiveOdds(current,lo);if(st.priced||st.added){store(current);state.live={...st,at:lo.updated};render()}
+  }catch(e){}
 }
 
 /* ---------- tennis ---------- */
@@ -2664,8 +2713,8 @@ state.f.strength="strong";   // each visit starts on Strong only
 ["dFrom","dTo","tFrom","tTo"].forEach(k=>document.getElementById(k).addEventListener("change",e=>{state.f[k]=e.target.value;if(k==="dFrom"&&state.f.dTo&&state.f.dTo<state.f.dFrom)state.f.dTo=state.f.dFrom;saveF();render()}));
 document.getElementById("clearF").onclick=()=>{state.f={dFrom:"",dTo:"",tFrom:"",tTo:"",strength:"strong"};state.q="";state.askStrength=null;saveF();render()};
 document.getElementById("teamQ").addEventListener("input",e=>{state.q=e.target.value;state.open=null;render()});
-render();renderNext();setupRefresh();renderSport();loadTennis();loadDarts();loadSnooker();loadUS();
+render();renderNext();setupRefresh();renderSport();loadTennis();loadDarts();loadSnooker();loadUS();setTimeout(loadLive,1500);
 loadData(false);
-document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota();loadTennis();loadDarts();loadSnooker();loadUS()}});
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"){loadData(false);loadRota();loadTennis();loadDarts();loadSnooker();loadUS();loadLive()}});
 </script>
 </body></html>
