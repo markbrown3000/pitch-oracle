@@ -488,6 +488,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     </div>
     <div class="bt-from" id="btExample" hidden><strong>These are example bets</strong> so you can see how it works. Add your first bet and they disappear.</div>
     <div class="rec-top" id="btTiles"></div>
+    <section class="bt-panel" id="btVsWrap" hidden style="margin-top:14px"><h3>You v following the strong picks</h3><div class="rec-top" id="btVs"></div><p class="bt-hint" id="btVsNote"></p></section>
     <div class="bt-grid">
       <section class="bt-panel" aria-labelledby="btAddH">
         <h3 id="btAddH">Add a bet</h3>
@@ -2353,7 +2354,22 @@ function btRender(){
   tile("Return on stake",staked?btPct(pl/staked):"–",staked?`${btG(staked)} staked`:"no settled bets yet",cls);
   tile("Won",dec.length?`${wins} of ${dec.length}`:"–",dec.length?`${Math.round(100*wins/dec.length)}% · average odds ${(dec.reduce((a,b)=>a+b.odds,0)/dec.length).toFixed(2)}`:"");
   tile("Beat the closing odds",wc.length?`${beat} of ${wc.length}`:"–",wc.length?`${Math.round(100*beat/wc.length)}% of bets with closing odds`:"add closing odds to see this");
-  btChart(settled);btLimit();btMarkets(settled);btSlips(list);btStoreLine();
+  btChart(settled);btLimit();btMarkets(settled);btSlips(list);btStoreLine();btVs();
+}
+/* your real bets against simply backing every strong football pick (Auto bet) over the same days, at your average stake */
+function btVs(){
+  const wrap=document.getElementById("btVsWrap"),box=document.getElementById("btVs");box.replaceChildren();
+  const mine=(bt.bets||[]).filter(b=>!b.paper&&!b.example&&b.result!=="pending").sort((a,b)=>a.date.localeCompare(b.date));
+  if(!mine.length||typeof atBets!=="function"){wrap.hidden=true;return}
+  const from=mine[0].date,stake=mine.reduce((a,b)=>a+b.stake,0)/mine.length,mpl=mine.reduce((a,b)=>a+btProfit(b),0);
+  const sc=at.scope;at.scope="live";let done=[];try{done=atBets().done}catch(e){}at.scope=sc;
+  const auto=done.filter(b=>b.date>=from),apl=auto.reduce((a,b)=>a+(b.win?stake*(b.odds-1):-stake),0);
+  const cls=x=>x>0?"bt-pos":x<0?"bt-neg":"";
+  const tile=(k,v,sub,c)=>{const t=el("div","stat"),vv=el("div","v",v);if(c)vv.classList.add(c);t.append(el("div","label",k),vv);if(sub)t.append(el("div","sub",sub));box.append(t)};
+  tile("Your real bets",btSG(mpl),`${mine.length} settled · ${btPct(mpl/mine.reduce((a,b)=>a+b.stake,0))} on stake`,cls(mpl));
+  tile("Every strong pick instead",auto.length?btSG(apl):"–",auto.length?`${auto.length} picks at ${btG(stake)} each · ${btPct(apl/(auto.length*stake))} on stake`:"no settled picks in that time",cls(apl));
+  wrap.hidden=false;
+  document.getElementById("btVsNote").textContent=`Since your first real bet on ${btDate(from)}. Strong picks use ${at.price==="best"?"the best price":"Bet365's odds"} and your average stake of ${btG(stake)}; football only.`;
 }
 function btChart(settled){
   const box=document.getElementById("btChart");
