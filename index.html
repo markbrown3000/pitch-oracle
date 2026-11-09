@@ -382,8 +382,8 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <div class="tbl" id="dtRank" style="margin:6px 0 18px"></div>
     <section class="method">
       <h3>How the darts picks work</h3>
-      <p>Every PDC match this year and last that Wikipedia lists (TV events, the European Tour, the World Series, the Premier League and the last 16 of each Players Championship) feeds a rating for each player, based on the legs they win and lose against whoever they play, with recent matches counting more. That's blended with each player's recent three-dart average. A player's chance of winning a match then follows from the format: first to six legs swings more than first to sixteen.</p>
-      <p>"Leg win %" in the ratings table is a player's chance of winning a leg against an average tour player. There are no free bookmaker prices for darts, so these picks come from the ratings alone, and darts isn't in Auto bet. Kick-off times aren't listed; matches show the day of their round.</p>
+      <p>Every PDC match this year and last (TV events, the European Tour, the World Series, the Premier League and every round of every Players Championship) feeds a rating for each player, based on the legs they win and lose against whoever they play, with recent matches counting more. That's blended with each player's recent three-dart average. A player's chance of winning a match then follows from the format: first to six legs swings more than first to sixteen.</p>
+      <p>Players Championship results come from <a href="https://mastercaller.com" target="_blank" rel="noopener">Mastercaller</a>, every round. Some players raise their game on TV stages and others shrink, so each player also has a stage adjustment, learned from the gap between their stage and floor results and kept small unless the evidence is strong. "Leg win %" in the ratings table is a player's chance of winning a leg against an average tour player, on stage and on the floor. There are no free bookmaker prices for darts, so these picks come from the ratings alone, and darts isn't in Auto bet. Kick-off times aren't listed; matches show the day of their round.</p>
       <p>Bet only what you can afford to lose. Free help: <a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a>.</p>
     </section>
   </div>
@@ -1858,8 +1858,8 @@ function dtRender(){
       r.append(t,el("span","res "+(x.win?"ok":"no"),x.win?"Right":"Wrong"));rb.append(r)})}
   // ratings
   const box=document.getElementById("dtRank");box.replaceChildren();
-  const tb=el("table"),hr=el("tr");["#","Player","Leg win %","Average","Form"].forEach(h=>hr.append(el("th",null,h)));const th=el("thead");th.append(hr);tb.append(th);const body=el("tbody");
-  (D.players||[]).slice(0,32).forEach((x,i)=>{const tr=el("tr");tr.append(el("td",null,String(i+1)),el("td",null,x.name),el("td",null,Math.round(100/(1+Math.exp(-x.r)))+"%"),el("td",null,x.avg?x.avg.toFixed(1):"–"));const fd=el("td");fd.append(dtFormEl(x.form));tr.append(fd);body.append(tr)});
+  const tb=el("table"),hr=el("tr");["#","Player","Leg win % (stage)","Leg win % (floor)","Average","Form"].forEach(h=>hr.append(el("th",null,h)));const th=el("thead");th.append(hr);tb.append(th);const body=el("tbody");
+  (D.players||[]).slice(0,32).forEach((x,i)=>{const tr=el("tr");tr.append(el("td",null,String(i+1)),el("td",null,x.name),el("td",null,Math.round(100/(1+Math.exp(-x.r)))+"%"),el("td",null,x.rf!=null?Math.round(100/(1+Math.exp(-x.rf)))+"%":"–"),el("td",null,x.avg?x.avg.toFixed(1):"–"));const fd=el("td");fd.append(dtFormEl(x.form));tr.append(fd);body.append(tr)});
   tb.append(body);box.append(tb);
 }
 async function loadDarts(){

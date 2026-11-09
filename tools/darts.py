@@ -10,7 +10,9 @@ import darts_mc
 UA = {"User-Agent": "PitchOracle/1.0 (https://github.com/markbrown3000/pitch-oracle; darts tab)"}
 W = "https://en.wikipedia.org/w/api.php?"
 SKIP = ("List of", "Challenge Tour", "Development Tour", "Women", "WDF", "World Cup", "Youth", "in PDC", "Pro Tour", "Tour Card")
-KW = dict(avg_w=0.5, half_life=240, prior_sd=0.4, k_avg=0.05)
+# tuned on 2026 results (May–Nov), checked on Jan–Apr: see the stage factor in darts_model.fit
+KW = dict(avg_w=0.5, half_life=240, prior_sd=0.6, k_avg=0.07, stage_sd=0.2)
+def on_stage(ev): return not ("Players Championship" in ev and "Finals" not in ev)
 STATE = "data/darts_state.json"; OUT = "data/darts.json"
 
 def get(url, tries=4):
@@ -83,7 +85,7 @@ def main():
     def mkey(m): return "|".join([m["event"], *sorted([key(m["a"]), key(m["b"])])]) + "|" + (m.get("round") or m["date"] or "")
     upcoming = []
     for m in sorted(up, key=lambda m: (m["date"], m["event"])):
-        p, pl = DM.predict(R, m["a"], m["b"], m["bo"], m["unit"])
+        p, pl = DM.predict(R, m["a"], m["b"], m["bo"], m["unit"], stage=on_stage(m["event"]))
         k = mkey(m)
         if k not in P:
             P[k] = {"event": m["event"], "round": m["round"], "date": m["date"], "a": m["a"], "b": m["b"], "p": round(p, 4), "pick": m["a"] if p >= 0.5 else m["b"], "bo": m["bo"], "unit": m["unit"], "logged": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")}
@@ -110,7 +112,7 @@ def main():
         dd = datetime.date.fromisoformat(d)
         if last is None or (dd - last).days >= 7: RR = DM.fit([m for m in D if m["date"] < d], dd, **KW); last = dd
         for m in (x for x in test if x["date"] == d):
-            p, _ = DM.predict(RR, m["a"], m["b"], m["bo"], m["unit"]); c = max(p, 1 - p)
+            p, _ = DM.predict(RR, m["a"], m["b"], m["bo"], m["unit"], stage=on_stage(m["event"])); c = max(p, 1 - p)
             replay.append({"date": d, "event": m["event"], "a": m["a"], "b": m["b"], "score": f'{m["sa"]}–{m["sb"]}', "p": round(p, 4), "win": (p >= 0.5) == (m["sa"] > m["sb"]), "tier": tier(c)})
     def summary(items):
         out = {}
@@ -118,8 +120,8 @@ def main():
             xs = [x for x in items if x["tier"] == t]; out[t] = {"n": len(xs), "won": sum(1 for x in xs if x["win"])}
         return out
     live = [dict(x, tier=tier(max(x["p"], 1 - x["p"]))) for x in P.values() if "win" in x]
-    players = sorted(R.values(), key=lambda v: -v["r"])
-    rank = [{"name": v["name"], "r": round(v["r"], 3), "avg": round(v["avg"], 1) if v["avg"] else None, "n": v["n"], "form": "".join(form.get(key(v["name"]), [])[-5:])} for v in players if v["n"] >= 6][:64]
+    players = sorted(R.values(), key=lambda v: -v["rs"])
+    rank = [{"name": v["name"], "r": round(v["rs"], 3), "rf": round(v["r"], 3), "avg": round(v["avg"], 1) if v["avg"] else None, "n": v["n"], "form": "".join(form.get(key(v["name"]), [])[-5:])} for v in players if v["n"] >= 6][:64]
     recent = [dict(x) for x in sorted(live, key=lambda x: x["date"], reverse=True)[:40]]
     out = {"updated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "matches": len(D), "since": D[0]["date"] if D else None,
            "upcoming": upcoming, "players": rank, "record": {"live": summary(live), "replay": summary(replay), "replaySince": since},

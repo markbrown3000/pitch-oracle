@@ -19,7 +19,7 @@ def match_prob(p_leg, bo, unit):
 
 def sig(x): return 1 / (1 + np.exp(-x))
 
-def fit(matches, asof, half_life=150, prior_sd=0.35, avg_w=0.5, k_avg=0.075, iters=300):
+def fit(matches, asof, half_life=150, prior_sd=0.35, avg_w=0.5, k_avg=0.075, iters=300, set_scale=1.9, stage_sd=0.0, temp=1.0):
     """matches: finished matches dated before asof. Returns {key: {"r":..., "avg":..., "n":...}}"""
     players = {}
     for m in matches:
@@ -37,17 +37,22 @@ def fit(matches, asof, half_life=150, prior_sd=0.35, avg_w=0.5, k_avg=0.075, ite
         if m.get("avgb"): avg_sum[j] += w * m["avgb"]; avg_wt[j] += w
     A, B, W, L, Wt, SET = map(np.array, (A, B, W, L, Wt, SET))
     # sets: a set is ~ first to 3 legs, so one set carries about the evidence of 3 legs at a steeper slope; approximate by scaling
-    scale = np.where(SET, 1.9, 1.0)
-    r = np.zeros(n)
+    scale = np.where(SET, set_scale, 1.0)
+    STG = np.array([0.0 if "Players Championship" in m["event"] and "Finals" not in m["event"] else 1.0 for m in matches])
+    r = np.zeros(n); st = np.zeros(n)
     lr = 0.5
     for _ in range(iters):
-        p = sig(scale * (r[A] - r[B]))
+        p = sig(scale * (r[A] - r[B] + STG * (st[A] - st[B])))
         g_m = Wt * scale * (W - (W + L) * p)
         g = np.zeros(n); np.add.at(g, A, g_m); np.add.at(g, B, -g_m)
         g -= r / prior_sd ** 2
         h_m = Wt * scale ** 2 * (W + L) * p * (1 - p)
         h = np.full(n, 1 / prior_sd ** 2); np.add.at(h, A, h_m); np.add.at(h, B, h_m)
         r += lr * g / h
+        if stage_sd > 0:
+            gs = np.zeros(n); np.add.at(gs, A, STG * g_m); np.add.at(gs, B, -STG * g_m); gs -= st / stage_sd ** 2
+            hs = np.full(n, 1 / stage_sd ** 2); np.add.at(hs, A, STG * h_m); np.add.at(hs, B, STG * h_m)
+            st += lr * gs / hs
     r -= np.median(r)
     # average-based rating, shrunk to the field average for players with little data
     field = (avg_sum.sum() / avg_wt.sum()) if avg_wt.sum() else 90
@@ -55,12 +60,14 @@ def fit(matches, asof, half_life=150, prior_sd=0.35, avg_w=0.5, k_avg=0.075, ite
     ra = k_avg * (avg - field)
     out = {}
     for k, i in idx.items():
-        out[k] = {"name": players[k], "r": float((1 - avg_w) * r[i] + avg_w * ra[i]), "rl": float(r[i]), "avg": float(avg[i]) if avg_wt[i] else None, "n": int(cnt[i])}
+        base = (1 - avg_w) * r[i] + avg_w * ra[i]
+        out[k] = {"name": players[k], "r": float(temp * base), "rs": float(temp * (base + st[i])), "rl": float(r[i]), "avg": float(avg[i]) if avg_wt[i] else None, "n": int(cnt[i])}
     return out
 
 UNKNOWN = {"r": -0.25, "avg": None, "n": 0}
 
-def predict(R, a, b, bo, unit):
-    ra, rb = R.get(key(a), UNKNOWN)["r"], R.get(key(b), UNKNOWN)["r"]
+def predict(R, a, b, bo, unit, stage=True):
+    f = "rs" if stage else "r"
+    ra, rb = R.get(key(a), UNKNOWN).get(f, UNKNOWN["r"]), R.get(key(b), UNKNOWN).get(f, UNKNOWN["r"])
     p_leg = 1 / (1 + math.exp(-(ra - rb)))
     return match_prob(p_leg, bo, unit), p_leg
