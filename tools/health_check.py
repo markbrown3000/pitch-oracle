@@ -33,5 +33,6 @@ for path, hours, label in [("data/darts.json", 6, "Darts"), ("data/snooker.json"
 try:
     with urllib.request.urlopen(urllib.request.Request("https://markbrown3000.github.io/pitch-oracle/", headers={"User-Agent": "PitchOracle health check"}), timeout=30) as r:
         if r.status != 200: problems.append(f"Website: answered {r.status}")
-except Exception as e: problems.append(f"Website: couldn't be reached ({e})")
+except Exception as e:
+    if "Tunnel connection failed" not in str(e): problems.append(f"Website: couldn't be reached ({e})")   # some checkers can't reach github.io at all; that isn't the site's fault
 print("ALL OK" if not problems else "\n".join(problems))
