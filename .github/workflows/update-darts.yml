@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["tools/darts.py", "tools/darts_parse.py", "tools/darts_model.py", "tools/darts_mc.py", ".github/workflows/update-darts.yml"]
+    paths: ["tools/darts.py", "tools/darts_parse.py", "tools/darts_model.py", "tools/darts_mc.py", "tools/darts_extra.py", ".github/workflows/update-darts.yml"]
 permissions:
   contents: write
 concurrency:

@@ -374,6 +374,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <div class="tn-status"><div class="asof" id="dtAsof">Loading darts…</div><div class="asof">Updates itself every two hours from Wikipedia's PDC event pages.</div></div>
     <div class="fgroup" style="margin:6px 0 4px"><div class="label">Pick strength</div>
       <div class="seg" role="group" aria-label="Pick strength" id="dtStrength"><button type="button" data-v="strong" aria-pressed="true">Strong (70%+)</button><button type="button" data-v="lean" aria-pressed="false">Lean and up (60%+)</button><button type="button" data-v="all" aria-pressed="false">All</button></div></div>
+    <section id="dtWhoWrap" hidden><div class="label" style="margin-top:14px">Who wins</div><div class="who" id="dtWho"></div></section>
     <div id="dtMain"></div>
     <div class="label" style="margin-top:22px">How the picks have done</div>
     <div class="rec-top" id="dtRec"></div>
@@ -383,7 +384,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
     <section class="method">
       <h3>How the darts picks work</h3>
       <p>Every PDC match this year and last (TV events, the European Tour, the World Series, the Premier League and every round of every Players Championship) feeds a rating for each player, based on the legs they win and lose against whoever they play, with recent matches counting more. That's blended with each player's recent three-dart average. A player's chance of winning a match then follows from the format: first to six legs swings more than first to sixteen.</p>
-      <p>Players Championship results come from <a href="https://mastercaller.com" target="_blank" rel="noopener">Mastercaller</a>, every round. Some players raise their game on TV stages and others shrink, so each player also has a stage adjustment, learned from the gap between their stage and floor results and kept small unless the evidence is strong. "Leg win %" in the ratings table is a player's chance of winning a leg against an average tour player, on stage and on the floor. There are no free bookmaker prices for darts, so these picks come from the ratings alone, and darts isn't in Auto bet. Kick-off times aren't listed; matches show the day of their round.</p>
+      <p>Players Championship results come from <a href="https://mastercaller.com" target="_blank" rel="noopener">Mastercaller</a>, every round. Some players raise their game on TV stages and others shrink, so each player also has a stage adjustment, learned from the gap between their stage and floor results and kept small unless the evidence is strong. "Leg win %" in the ratings table is a player's chance of winning a leg against an average tour player, on stage and on the floor. There are no free bookmaker prices for darts, so these picks come from the ratings alone, and darts isn't in Auto bet. Session times (UK) come from Mastercaller's order of play, usually a few days before each event; until then matches show the day of their round. "Who wins" plays out the rest of a knockout draw 20,000 times using these ratings.</p>
       <p>Bet only what you can afford to lose. Free help: <a href="https://www.begambleaware.org" target="_blank" rel="noopener">BeGambleAware.org</a>.</p>
     </section>
   </div>
@@ -1825,7 +1826,7 @@ const dtFmt=m=>m.bo?`Best of ${m.bo} ${m.unit||"legs"}`:"";
 function dtFormEl(f){const s=el("span","dt-form");[...(f||"")].forEach(c=>s.append(el("span",c==="W"?"w":"l",c)));return s}
 function dtCard(m){
   const c=el("div","dt-m"),pa=m.p,fav=pa>=.5?"a":"b",conf=Math.max(pa,1-pa),t=dtTier(conf);
-  const f=el("div","fmt");const l=el("span",null,[m.round,dtFmt(m)].filter(Boolean).join(" · "));const tg=el("span","dt-tag "+(t==="strong"?"strong":""),t==="strong"?"Strong pick":t==="lean"?"Lean":"Toss-up");f.append(l,tg);c.append(f);
+  const f=el("div","fmt");const l=el("span",null,[m.time?m.time+" UK":"",m.round,dtFmt(m)].filter(Boolean).join(" · "));const tg=el("span","dt-tag "+(t==="strong"?"strong":""),t==="strong"?"Strong pick":t==="lean"?"Lean":"Toss-up");f.append(l,tg);c.append(f);
   [["a",m.a,pa,m.avgA,m.formA],["b",m.b,1-pa,m.avgB,m.formB]].forEach(([sd,nm,p,avg,form])=>{
     const r=el("div","dt-p"+(sd===fav?" dt-fav":""));r.append(el("span","dt-nm",nm),el("span","dt-pc",Math.round(100*p)+"%"));
     const bar=el("div","dt-bar"),i=el("i");i.style.width=(100*p).toFixed(1)+"%";bar.append(i);r.append(bar);
@@ -1840,6 +1841,12 @@ function dtRender(){
   const asof=document.getElementById("dtAsof");
   if(!D){asof.textContent=dt.msg;main.append(el("div","empty","Darts picks appear here after the first update, which runs every two hours."));return}
   asof.textContent=`Updated ${dayFmt.format(new Date(D.updated))}, ${timeFmt.format(new Date(D.updated))} · ratings from ${D.matches.toLocaleString("en-GB")} matches since ${btDate(D.since)}`;
+  const wb=document.getElementById("dtWho");wb.replaceChildren();const outs=D.outrights||[];document.getElementById("dtWhoWrap").hidden=!outs.length;
+  outs.forEach(o=>{const card=el("div","who-card"),h=el("div","who-h");h.append(el("b",null,o.event.replace(/^20\d\d /,"")),el("span",null,`${o.field} players`));card.append(h);
+    const top=Math.max(...o.players.map(x=>x.win),1);
+    o.players.slice(0,8).forEach(x=>{const r=el("div","who-row"),bar=el("span","who-bar"),fill=el("i");fill.style.width=Math.max(2,100*x.win/top)+"%";bar.append(fill);
+      r.append(el("span","who-n",x.name),bar,el("span","who-p",(x.win<1?"<1":Math.round(x.win))+"%"));r.title=`Reaches the final ${Math.round(x.final)}%`+(x.sf!=null?` · the semi-finals ${Math.round(x.sf)}%`:"");card.append(r)});
+    card.append(el("div","who-foot","Chance of winning the event, from 20,000 play-throughs of the rest of the draw"));wb.append(card)});
   const up=(D.upcoming||[]).filter(m=>dtKeep(Math.max(m.p,1-m.p)));
   if(!up.length)main.append(el("div","empty",(D.upcoming||[]).length?`No ${dt.strength==="strong"?"strong":"lean"} picks among the ${(D.upcoming||[]).length} matches drawn so far. Choose "All" above to see every match.`:"No PDC matches have been drawn yet. Each event's matches appear here once the draw is out, usually a few days before."));
   const groups=[];up.forEach(m=>{const k=m.event+"|"+m.date;let g=groups.find(x=>x.k===k);if(!g)groups.push(g={k,event:m.event,date:m.date,ms:[]});g.ms.push(m)});

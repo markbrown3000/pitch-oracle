@@ -6,6 +6,8 @@ sys.path.insert(0, os.path.dirname(__file__))
 from darts_parse import parse_page, key
 import darts_model as DM
 import darts_mc
+import darts_extra as DX
+from darts_parse import event_range, best_of
 
 UA = {"User-Agent": "PitchOracle/1.0 (https://github.com/markbrown3000/pitch-oracle; darts tab)"}
 W = "https://en.wikipedia.org/w/api.php?"
@@ -73,6 +75,24 @@ def main():
     up = [m for m in allm if m["sa"] is None and m["sb"] is None and m["date"] and m["date"] >= (today - datetime.timedelta(days=1)).isoformat()]
     print(len(D), "results,", len(up), "upcoming")
     R = DM.fit(D, today, **KW)
+    # TV events on now or within ten days: add the order of play (UK times) and any drawn matches Wikipedia doesn't list yet
+    for t, txt in ([] if src else pages.items()):
+        a0, b0 = event_range(txt, t)
+        if not a0 or b0 < today - datetime.timedelta(days=1) or a0 > today + datetime.timedelta(days=10): continue
+        dbo, dunit = best_of(re.sub(r"\{\{.*?\}\}", "", txt[:20000]))
+        played = {frozenset((key(m["a"]), key(m["b"]))) for m in D if m["event"] == t}
+        for x in DX.mc_upcoming(t, int(t[:4]), a0):
+            pair = frozenset((key(x["a"]), key(x["b"])))
+            if pair in played: continue
+            same = [m for m in up if m["event"] == t and frozenset((key(m["a"]), key(m["b"]))) == pair]
+            for m in same:
+                if x.get("time"): m["time"] = x["time"]; m["date"] = x["date"]
+            if not same and all(R.get(key(x[s]), {}).get("n", 0) >= 3 for s in "ab"):
+                rounds = [m for m in up if m["event"] == t and m["bo"]]
+                up.append({"event": t, "round": x["round"], "section": "", "a": x["a"], "b": x["b"], "sa": None, "sb": None,
+                           "bo": (rounds[0]["bo"] if rounds else dbo) or 9, "unit": (rounds[0]["unit"] if rounds else dunit) or "legs",
+                           "date": x.get("date") or a0.isoformat(), "time": x.get("time"), "avga": None, "avgb": None})
+        time.sleep(2)
     # form: last five results per player
     form = {}
     for m in D:
@@ -82,17 +102,23 @@ def main():
     try: state = json.load(open(STATE))
     except Exception: state = {"picks": {}}
     P = state.setdefault("picks", {})
-    def mkey(m): return "|".join([m["event"], *sorted([key(m["a"]), key(m["b"])])]) + "|" + (m.get("round") or m["date"] or "")
+    def mkey(m): return "|".join([m["event"], *sorted([key(m["a"]), key(m["b"])])]) + ("|" + m["date"] if "Premier League" in m["event"] else "")
     upcoming = []
-    for m in sorted(up, key=lambda m: (m["date"], m["event"])):
+    for m in sorted(up, key=lambda m: (m["date"], m.get("time") or "99", m["event"])):
         p, pl = DM.predict(R, m["a"], m["b"], m["bo"], m["unit"], stage=on_stage(m["event"]))
         k = mkey(m)
         if k not in P:
             P[k] = {"event": m["event"], "round": m["round"], "date": m["date"], "a": m["a"], "b": m["b"], "p": round(p, 4), "pick": m["a"] if p >= 0.5 else m["b"], "bo": m["bo"], "unit": m["unit"], "logged": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ")}
         ra, rb = R.get(key(m["a"]), {}), R.get(key(m["b"]), {})
-        upcoming.append({"event": m["event"], "round": re.sub(r"\s*\d{1,2}(\s*[–-]\s*\d{1,2})?\s+(January|February|March|April|May|June|July|August|September|October|November|December).*$", "", m["round"] or m["section"] or "").strip(), "date": m["date"], "a": m["a"], "b": m["b"], "bo": m["bo"], "unit": m["unit"],
+        upcoming.append({"event": m["event"], "round": re.sub(r"\s*\d{1,2}(\s*[–-]\s*\d{1,2})?\s+(January|February|March|April|May|June|July|August|September|October|November|December).*$", "", m["round"] or m["section"] or "").strip(), "date": m["date"], "time": m.get("time"), "a": m["a"], "b": m["b"], "bo": m["bo"], "unit": m["unit"],
                          "p": round(p, 4), "avgA": round(ra["avg"], 1) if ra.get("avg") else None, "avgB": round(rb["avg"], 1) if rb.get("avg") else None,
                          "formA": "".join(form.get(key(m["a"]), [])[-5:]), "formB": "".join(form.get(key(m["b"]), [])[-5:])})
+    outr = []
+    for t in sorted({m["event"] for m in up}):
+        try:
+            o = DX.outrights([m for m in allm if m["event"] == t], R, stage=on_stage(t))
+            if o: outr.append({"event": t, **o})
+        except Exception as e: print("outrights failed", t, e)
     # settle live picks
     res = {mkey(m): m for m in D}
     for k, x in P.items():
@@ -124,7 +150,7 @@ def main():
     rank = [{"name": v["name"], "r": round(v["rs"], 3), "rf": round(v["r"], 3), "avg": round(v["avg"], 1) if v["avg"] else None, "n": v["n"], "form": "".join(form.get(key(v["name"]), [])[-5:])} for v in players if v["n"] >= 6][:64]
     recent = [dict(x) for x in sorted(live, key=lambda x: x["date"], reverse=True)[:40]]
     out = {"updated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "matches": len(D), "since": D[0]["date"] if D else None,
-           "upcoming": upcoming, "players": rank, "record": {"live": summary(live), "replay": summary(replay), "replaySince": since},
+           "upcoming": upcoming, "outrights": outr, "players": rank, "record": {"live": summary(live), "replay": summary(replay), "replaySince": since},
            "recent": recent, "replayRecent": sorted(replay, key=lambda x: x["date"], reverse=True)[:40]}
     os.makedirs("data", exist_ok=True)
     json.dump(D, open("data/darts_matches.json", "w"), ensure_ascii=False, separators=(",", ":"))

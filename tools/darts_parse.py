@@ -94,7 +94,7 @@ def parse_page(title, text):
         nx = min([p for p, t in heads if p > st] or [len(text)])
         return text[st:nx]
     spans = []
-    for s, e, body in template_blocks(text, r"\{\{(?:#invoke:bracket\|)?\s*\d+TeamBracket"):
+    for bi, (s, e, body) in enumerate(template_blocks(text, r"\{\{(?:#invoke:bracket\|)?\s*\d+TeamBracket")):
         spans.append((s, e))
         P = params(body)
         sec = section_at(s); stxt = section_text(s)
@@ -123,7 +123,7 @@ def parse_page(title, text):
                 sa = score_int(P.get(f"RD{r}-score{k:02d}", P.get(f"RD{r}-score{k}")))
                 sb = score_int(P.get(f"RD{r}-score{k+1:02d}", P.get(f"RD{r}-score{k+1}")))
                 matches.append(dict(event=title, round=re.sub(r"<[^>]*>|'''?|\(.*?\)|\{\{nowrap\|1=|\}\}", "", head).split("best of")[0].strip(" ()") or f"Round {r}",
-                                    section=sec, a=na, b=nb, sa=sa, sb=sb, bo=bo, unit=unit, date=d.isoformat() if d else None, avga=aa, avgb=ab))
+                                    section=sec, a=na, b=nb, sa=sa, sb=sb, bo=bo, unit=unit, date=d.isoformat() if d else None, avga=aa, avgb=ab, br=bi, rd=r, nr=nr, slot=k))
     # results tables outside brackets: flag | score | flag
     rest = list(text);
     for s, e in spans: rest[s:e] = [" "] * (e - s)
