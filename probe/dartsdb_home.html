@@ -1,0 +1,1300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Darts Database. Database of Darts Results, Players, and Statistics">
+    <meta name="keywords" content="Darts Database, Darts Statistics, Darts Results">
+    <meta name="theme-color" content="#ffffff">
+    <title>The Darts Database</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald|Open+Sans&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Favicon and Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="manifest" href="/icons/manifest.json">
+
+    <!-- Custom Styles -->
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Oswald', sans-serif;
+        }
+
+        /* Flexbox layout for columns */
+        .column {
+            float: left;
+            width: 25%;
+        }
+
+        /* Clear floats after columns */
+        .row::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        /* Full-width columns on small screens */
+        @media screen and (max-width: 600px) {
+            .column {
+                width: 100%;
+            }
+        }
+
+        /* Responsive menu styling */
+        .menu-btn {
+            display: inline-block;
+            background-color: #fff;
+            padding: 10px 20px;
+            font-size: 18px;
+            cursor: pointer;
+        }
+
+        .w3-button:hover {
+            background-color: #ccc;
+        }
+
+        /* Custom button for better look */
+        .w3-opacity:hover {
+            opacity: 0.9 !important;
+        }
+        
+        /* Center the player search form */
+        .search-container {
+          display: flex;
+          justify-content: center; /* centers horizontally */
+          margin: 0 auto 20px auto; /* centers and adds spacing below */
+        }
+        
+        .search-form {
+          display: flex;
+          gap: 8px;
+          max-width: 640px;
+          width: 100%;
+          align-items: center;
+        }
+        
+        .search-form input[type="text"] {
+          flex: 1;
+          min-width: 0;
+          padding: 10px;
+          box-sizing: border-box;
+        }
+        
+        .search-form button {
+          white-space: nowrap;
+          padding: 10px 14px;
+        }
+        
+        .input-error {
+          display: block;
+          margin-top: 6px;
+          color: #b21f2d;
+          text-align: center; /* centers error message */
+        }
+        
+          /* Make table cells vertically centered */
+    .match-row td {
+        vertical-align: middle !important;
+    }
+    </style>
+</head>
+<body class="w3-light-grey">
+
+    <!-- Top Navbar -->
+    <!-- Navigation bar with social media icons -->
+<div class="w3-bar w3-light-grey w3-hide-small">
+  <a href="https://www.facebook.com/dartsworldmagazine/" class="w3-bar-item w3-button w3-hover-orange" target="_blank" aria-label="Facebook">
+    <i class="fa fa-facebook-official" style="color: grey;"></i>
+  </a>
+  <a href="https://twitter.com/DartsDatabase" class="w3-bar-item w3-button w3-hover-orange" target="_blank" aria-label="Twitter">
+    <i class="fa fa-twitter" style="color: grey;"></i>
+  </a>
+  <a href="https://www.instagram.com/dartsdatabase/" class="w3-bar-item w3-button w3-hover-orange" target="_blank" aria-label="Instagram">
+    <i class="fa fa-instagram" style="color: grey;"></i>
+  </a>
+  <a href="/cdn-cgi/l/email-protection#167f787079567277646265727762777477657338757938637d" class="w3-bar-item w3-button w3-right w3-hover-orange" aria-label="Email" style="color: orange;">
+    <span class="__cf_email__" data-cfemail="41282f272e01252033353225203520232032246f222e6f342a">[email&#160;protected]</span>
+  </a>
+</div>
+
+    <!-- Page content container -->
+    <div class="w3-content" style="max-width:1600px">
+
+        <!-- Main Navbar -->
+        <!-- Header Section (DDB Global Nav) -->
+<header class="ddb-header" role="banner">
+<!-- Google tag (gtag.js) -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://www.googletagmanager.com/gtag/js?id=G-X1Y0D553KN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X1Y0D553KN');
+</script>
+  <style>
+    :root {
+      --ddb-gold: #dea440;
+      --ddb-orange: #f57c00;
+      --ddb-dark: #0f1115;
+      --ddb-text: #1c1f27;
+      --ddb-white: #ffffff;
+    }
+
+    /* Reset-ish for this header scope */
+    .ddb-header, .ddb-header * { box-sizing: border-box; }
+    .ddb-header a { text-decoration: none; color: inherit; }
+
+    /* Layout */
+    .ddb-header {
+      position: sticky; top: 0; z-index: 9999;
+      background: var(--ddb-white);
+      border-bottom: 1px solid rgba(0,0,0,.06);
+      box-shadow: 0 2px 12px rgba(0,0,0,.04);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      color: var(--ddb-text);
+    }
+    .ddb-nav-wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 10px 16px;
+      display: flex; align-items: center; gap: 16px;
+    }
+
+    /* Logo */
+    .ddb-logo {
+      display: flex; align-items: center; gap: 10px;
+      padding: 6px 0;
+    }
+    .ddb-logo img { display: block; height: 48px; width: auto; }
+
+    /* Desktop nav */
+    .ddb-nav {
+      margin-left: auto;
+      display: none; /* shown >= 992px */
+      align-items: center; gap: 4px;
+    }
+    @media (min-width: 992px) {
+      .ddb-nav { display: flex; }
+      .ddb-burger { display: none; }
+    }
+
+    .ddb-link, .ddb-dropdown > button {
+      padding: 10px 14px;
+      border-radius: 10px;
+      font-weight: 600;
+      line-height: 1;
+      color: var(--ddb-dark);
+      transition: background .2s ease, color .2s ease, transform .08s ease;
+    }
+    .ddb-link:hover, .ddb-dropdown > button:hover {
+      background: var(--ddb-gold);
+      color: var(--ddb-white);
+    }
+    .ddb-link:active, .ddb-dropdown > button:active { transform: translateY(1px); }
+
+    /* Dropdown (mega) */
+    .ddb-dropdown { position: relative; }
+    .ddb-dropdown > button {
+      background: transparent; border: 0; cursor: pointer;
+      display: flex; align-items: center; gap: 8px;
+    }
+    .ddb-caret { font-size: 0.9em; opacity: .7; }
+
+    .ddb-menu {
+      position: absolute; left: 0; top: 100%;
+      margin-top: 10px;                     /* visual breathing room */
+      background: var(--ddb-white);
+      border: 1px solid rgba(0,0,0,.08);
+      box-shadow: 0 12px 30px rgba(0,0,0,.08);
+      border-radius: 16px;
+      padding: 14px;
+      min-width: 520px;
+      display: none;
+      z-index: 1000;                        /* ensure it’s above neighbors */
+    }
+    
+    /* Hover + focus keep it open (keyboard friendly) */
+    .ddb-dropdown:hover .ddb-menu,
+    .ddb-dropdown:focus-within .ddb-menu { display: block; }
+    
+    /* Hover bridge: covers the 10px margin so hover doesn't break */
+    .ddb-dropdown {
+      position: relative;
+    }
+    .ddb-dropdown::after {
+      content: "";
+      position: absolute;
+      left: 0; right: 0;
+      top: 100%;
+      height: 10px;                         /* same as margin-top above */
+    }
+
+    /* Mega grid */
+    .ddb-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 8px 18px;
+    }
+    .ddb-group h4 {
+      margin: 6px 0 8px;
+      font-size: 13px; letter-spacing: .2px;
+      text-transform: uppercase;
+      color: #616a7a;
+    }
+    .ddb-menu a {
+      display: block;
+      padding: 8px 10px;
+      border-radius: 8px;
+      font-weight: 500;
+      color: var(--ddb-dark);
+    }
+    .ddb-menu a:hover { background: #fff5e6; }
+
+    /* 🔹 Compact Lakeside dropdown (desktop only, doesn't touch other menus) */
+    .ddb-dropdown--lakeside .ddb-menu--lakeside {
+      min-width: 220px;        /* narrower than 520px */
+      max-width: 260px;        /* limit width */
+      padding: 10px 12px;
+    }
+    .ddb-dropdown--lakeside .ddb-grid {
+      display: block;          /* single column, no mega grid */
+    }
+    .ddb-dropdown--lakeside .ddb-group h4 {
+      margin-top: 4px;
+    }
+    .ddb-dropdown--lakeside .ddb-menu--lakeside a {
+      padding: 5px 8px;
+      white-space: nowrap;     /* keep each link on one line */
+    }
+
+    /* Mobile burger */
+    .ddb-burger {
+      margin-left: auto;
+      width: 40px; height: 40px;
+      border-radius: 10px;
+      border: 1px solid rgba(0,0,0,.1);
+      background: var(--ddb-white);
+      display: inline-flex; align-items: center; justify-content: center;
+      cursor: pointer;
+    }
+    .ddb-burger:hover { background: #f8f8f8; }
+
+    /* Off-canvas (mobile) */
+    .ddb-overlay {
+      position: fixed; inset: 0; background: rgba(0,0,0,.45);
+      opacity: 0; pointer-events: none; transition: opacity .2s ease;
+      z-index: 9998;
+    }
+    .ddb-sidebar {
+      position: fixed; top: 0; right: 0; height: 100%; width: min(92vw, 380px);
+      background: var(--ddb-gold);
+      color: #fff;
+      transform: translateX(100%);
+      transition: transform .25s ease;
+      z-index: 9999;
+      display: flex; flex-direction: column;
+    }
+    .ddb-sidebar header {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 16px 18px; border-bottom: 1px solid rgba(255,255,255,.25);
+    }
+    .ddb-close {
+      width: 40px; height: 40px; border-radius: 10px; border: 1px solid rgba(255,255,255,.35);
+      background: transparent; color: #fff; display: inline-flex; align-items: center; justify-content: center;
+      cursor: pointer;
+    }
+    .ddb-side-body {
+      padding: 10px 14px 24px; overflow: auto;
+    }
+    .ddb-side-link {
+      display: block; padding: 12px 10px; border-radius: 10px; font-weight: 600;
+    }
+    .ddb-side-link:hover { background: rgba(0,0,0,.15); }
+
+    /* Mobile accordion groups for mega sections */
+    .ddb-acc { margin: 8px 0; background: rgba(255,255,255,.06); border-radius: 12px; overflow: hidden; }
+    .ddb-acc summary {
+      cursor: pointer; list-style: none; padding: 14px 12px; font-weight: 700;
+    }
+    .ddb-acc summary::-webkit-details-marker { display: none; }
+    .ddb-acc .ddb-acc-inner a { display: block; padding: 10px 12px; }
+    .ddb-acc .ddb-acc-inner a:hover { background: rgba(0,0,0,.1); }
+
+    /* Helpers */
+    .sr-only { position: absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
+    .is-open .ddb-overlay { opacity: 1; pointer-events: auto; }
+    .is-open .ddb-sidebar { transform: translateX(0); }
+    
+    /* Mobile accordion chevrons */
+    .ddb-acc summary {
+      position: relative;
+      padding-right: 36px;          /* space for chevron */
+    }
+    .ddb-acc summary::after {
+      content: "▾";
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%) rotate(0deg);
+      transition: transform .2s ease;
+      opacity: .9;
+    }
+    .ddb-acc[open] > summary::after {
+      transform: translateY(-50%) rotate(180deg);
+    }
+  </style>
+  
+
+  <div class="ddb-nav-wrap" role="navigation" aria-label="Main">
+    <!-- Logo -->
+    <a class="ddb-logo" href="index.php" aria-label="The Darts Database Home">
+      <img src="/images/ddbsm1.png" width="200" height="75" alt="The Darts Database">
+    </a>
+
+    <!-- Desktop Nav -->
+    <nav class="ddb-nav" aria-label="Primary">
+      <a class="ddb-link" href="index.php">Home</a>
+      <a class="ddb-link" href="pdc25-live-matches.php">Live Darts Scores</a>
+      <a class="ddb-link" href="player-searcher.php">Player Search</a>
+      <div class="ddb-dropdown">
+      <button type="button" aria-haspopup="true" aria-expanded="false">
+        Stats <span class="ddb-caret">▾</span>
+      </button>
+      <div class="ddb-menu" role="menu" aria-label="Stats">
+        <div class="ddb-grid">
+          <div class="ddb-group">
+            <h4>Stats</h4>
+            <a href="popular_players.php">Popular Players</a>
+            <a href="nine_darters.php">9 Darters</a>
+            <a href="9_darter_rankings.php">9 Darter Rankings</a>
+            <a href="tour_card_holders.php">Tour Card Holders</a>
+          </div>
+        </div>
+      </div>
+    </div>
+      
+      <!-- Lakeside (Compact Dropdown) 
+      <div class="ddb-dropdown ddb-dropdown--lakeside">
+        <button type="button" aria-haspopup="true" aria-expanded="false">
+          Lakeside <span class="ddb-caret">▾</span>
+        </button>
+        <div class="ddb-menu ddb-menu--lakeside" role="menu" aria-label="Lakeside">
+          <div class="ddb-grid">
+            <div class="ddb-group">
+              <h4>WDF World Champs</h4>
+              <a href="https://dartsdatabase.co.uk/display-event.php?eid=25674">WDF Worlds Men</a>
+              <a href="https://dartsdatabase.co.uk/display-event.php?eid=25675">WDF Worlds Women</a>
+              <a href="https://dartsdatabase.co.uk/display-event.php?eid=25677">WDF Worlds Youth</a>
+              <a href="https://dartsdatabase.co.uk/display-event.php?eid=25676">WDF Worlds Girls</a>
+            </div>
+          </div>
+        </div>
+      </div>
+-->
+      <!-- Event List (Mega) -->
+      <div class="ddb-dropdown">
+        <button type="button" aria-haspopup="true" aria-expanded="false">
+          Event List <span class="ddb-caret">▾</span>
+        </button>
+        <div class="ddb-menu" role="menu" aria-label="Event List">
+          <div class="ddb-grid">
+            <div class="ddb-group">
+              <h4>All</h4>
+              <a href="events-all.php">All Events</a>
+              <a href="events-pdc.php">PDC</a>
+              <a href="events-wdf.php">WDF</a>
+              <a href="events-bdo.php">BDO</a>
+              <a href="events-world-seniors.php">World Seniors</a>
+              <a href="events-modus-super-series.php">Modus Super Series</a>
+            </div>
+            <div class="ddb-group">
+              <h4>PDC Pro Tours</h4>
+              <a href="events-pdc-pro-tour.php">PDC Pro Tour</a>
+              <a href="events-pdc-euro-tour.php">PDC Euro Tour</a>
+              <a href="events-pdc-world-series.php">PDC World Series</a>
+              <a href="events-pdc-premier-league.php">PDC Premier League</a>
+            </div>
+            <div class="ddb-group">
+              <h4>PDC</h4>
+              <a href="events-pdc-challenge-tour.php">Challenge Tour</a>
+              <a href="events-pdc-development-tour.php">Development Tour</a>
+              <a href="events-pdc-womens-series.php">Womens Series</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Rankings (Mega) -->
+      <div class="ddb-dropdown">
+        <button type="button" aria-haspopup="true" aria-expanded="false">
+          Rankings <span class="ddb-caret">▾</span>
+        </button>
+        <div class="ddb-menu" role="menu" aria-label="Rankings">
+          <div class="ddb-grid">
+            <div class="ddb-group">
+              <h4>PDC</h4>
+              <a href="rankings-pdc-order-of-merit.php">Order of Merit</a>
+              <a href="rankings-pdc-pro-tour.php">Pro Tour</a>
+              <a href="rankings-pdc-players-champ.php">Players Championship</a>
+              <a href="rankings-european-tour.php">European Tour</a>
+              <a href="rankings-pdc-premier-league.php">Premier League</a>
+              <a href="rankings-challenge-tour.php">Challenge Tour</a>
+              <a href="rankings-development-tour.php">Development Tour</a>
+              <a href="rankings-womens-series.php">Womens Series</a>
+              <a href="rankings-world-series.php">World Series</a>
+            </div>
+            <div class="ddb-group">
+              <h4>PDC Race Tables</h4>
+              <a href="rankings_race_mp.php">World Match Play</a>
+              <a href="rankings_race_wmp.php">Womens World Macth Play</a>
+              <a href="rankings_race_wg.php">World Grand Prix</a>
+              <a href="rankings_race_wc.php">World Championships</a>
+              <a href="rankings_race_tc.php">Tour Cards</a>
+            </div>
+            <div class="ddb-group">
+              <h4>WDF</h4>
+              <a href="rankings-wdf-men.php">Men</a>
+              <a href="rankings-wdf-women.php">Women</a>
+              <a href="rankings-wdf-boys.php">Boys</a>
+              <a href="rankings-wdf-girls.php">Girls</a>
+            </div>
+            <div class="ddb-group">
+              <h4>World Seniors</h4>
+              <a href="rankings-world-seniors-oom.php">World Rankings</a>
+              <a href="rankings-world-seniors-open.php">Open Series</a>
+              <a href="rankings-world-seniors-race.php">Race Table</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <a class="ddb-link" href="friends.php">Friends</a>
+      <a class="ddb-link" href="contactus.php">Contact &amp; Credits</a>
+    </nav>
+
+    <!-- Mobile Burger -->
+    <button class="ddb-burger" id="ddbOpen" aria-label="Open menu" aria-controls="ddbSidebar" aria-expanded="false">
+      <span class="sr-only">Open menu</span>
+      <!-- Using simple SVG so you don’t depend on FA -->
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Off-canvas Mobile Menu -->
+  <div class="ddb-overlay" id="ddbOverlay" aria-hidden="true"></div>
+  <aside class="ddb-sidebar" id="ddbSidebar" role="dialog" aria-modal="true" aria-label="Mobile Menu">
+    <header>
+      <a class="ddb-logo" href="index.php" aria-label="The Darts Database Home">
+        <img src="/ddb-logos/ddbwhitetranssmall.png" width="120" height="48" alt="Darts Database">
+      </a>
+      <button class="ddb-close" id="ddbClose" aria-label="Close menu">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </header>
+
+    <div class="ddb-side-body">
+      <a class="ddb-side-link" href="index.php">Home</a>
+      <a class="ddb-side-link" href="pdc25-live-matches.php">Live Darts Scores</a>
+      <a class="ddb-side-link" href="player-searcher.php">Player Search</a>
+      <details class="ddb-acc">
+          <summary>Stats</summary>
+          <div class="ddb-acc-inner">
+            <a href="popular_players.php">Popular Players</a>
+            <a href="nine_darters.php">9 Darters</a>
+            <a href="9_darter_rankings.php">9 Darter Rankings</a>
+            <a href="tour_card_holders.php">Tour Card Holders</a>
+          </div>
+        </details>
+      <!-- Lakeside (mobile accordion) 
+      <details class="ddb-acc">
+        <summary>Lakeside</summary>
+        <div class="ddb-acc-inner">
+          <strong style="display:block;padding:8px 12px;opacity:.8;">WDF World Champs</strong>
+          <a href="https://dartsdatabase.co.uk/display-event.php?eid=25674">WDF Worlds Men</a>
+          <a href="https://dartsdatabase.co.uk/display-event.php?eid=25675">WDF Worlds Women</a>
+          <a href="https://dartsdatabase.co.uk/display-event.php?eid=25677">WDF Worlds Youth</a>
+          <a href="https://dartsdatabase.co.uk/display-event.php?eid=25676">WDF Worlds Girls</a>
+        </div>
+      </details>
+-->
+      <!-- Event List (accordion) -->
+      <details class="ddb-acc">
+        <summary>Event List</summary>
+        <div class="ddb-acc-inner">
+          <a href="events-all.php">All Events</a>
+          <a href="events-pdc.php">PDC</a>
+          <a href="events-wdf.php">WDF</a>
+          <a href="events-bdo.php">BDO</a>
+          <a href="events-world-seniors.php">World Seniors</a>
+          <a href="events-pdc-pro-tour.php">PDC Pro Tour</a>
+          <a href="events-pdc-euro-tour.php">PDC Euro Tour</a>
+          <a href="events-pdc-world-series.php">PDC World Series</a>
+          <a href="events-pdc-premier-league.php">PDC Premier League</a>
+          <a href="events-pdc-challenge-tour.php">Challenge Tour</a>
+          <a href="events-pdc-development-tour.php">Development Tour</a>
+          <a href="events-pdc-womens-series.php">Womens Series</a>
+          <a href="events-modus-super-series.php">Modus Super Series</a>
+        </div>
+      </details>
+
+      <!-- Rankings (accordion) -->
+      <details class="ddb-acc">
+        <summary>Rankings</summary>
+        <div class="ddb-acc-inner">
+          <strong style="display:block;padding:8px 12px;opacity:.8;">PDC</strong>
+          <a href="rankings-pdc-order-of-merit.php">Order of Merit</a>
+          <a href="rankings-pdc-pro-tour.php">Pro Tour</a>
+          <a href="rankings-pdc-players-champ.php">Players Championship</a>
+          <a href="rankings-european-tour.php">European Tour</a>
+          <a href="rankings-pdc-premier-league.php">Premier League</a>
+          <a href="rankings-challenge-tour.php">Challenge Tour</a>
+          <a href="rankings-development-tour.php">Development Tour</a>
+          <a href="rankings-womens-series.php">Womens Series</a>
+          <a href="rankings-world-series.php">World Series</a>
+          
+          <strong style="display:block;padding:8px 12px;opacity:.8;">PDC Race Tables</strong>
+          <a href="rankings_race_mp.php">World Match Play</a>
+          <a href="rankings_race_wmp.php">Womens World Macth Play</a>
+          <a href="rankings_race_wg.php">World Grand Prix</a>
+          <a href="rankings_race_wc.php">World Championships</a>
+          <a href="rankings_race_tc.php">Tour Cards</a>
+
+
+          <strong style="display:block;padding:12px 12px 4px;opacity:.8;">WDF</strong>
+          <a href="rankings-wdf-men.php">Men</a>
+          <a href="rankings-wdf-women.php">Women</a>
+          <a href="rankings-wdf-boys.php">Boys</a>
+          <a href="rankings-wdf-girls.php">Girls</a>
+
+          <strong style="display:block;padding:12px 12px 4px;opacity:.8;">World Seniors</strong>
+          <a href="rankings-world-seniors-oom.php">World Rankings</a>
+          <a href="rankings-world-seniors-open.php">Open Series</a>
+          <a href="rankings-world-seniors-race.php">Race Table</a>
+        </div>
+      </details>
+
+      <a class="ddb-side-link" href="friends.php">Friends</a>
+      <a class="ddb-side-link" href="contactus.php">Contact &amp; Credits</a>
+    </div>
+  </aside>
+
+  <script>
+    // Mobile open/close handling with light a11y
+    (function () {
+      const root = document.documentElement;
+      const openBtn = document.getElementById('ddbOpen');
+      const closeBtn = document.getElementById('ddbClose');
+      const sidebar = document.getElementById('ddbSidebar');
+      const overlay = document.getElementById('ddbOverlay');
+
+      function openMenu() {
+        root.classList.add('is-open');
+        openBtn.setAttribute('aria-expanded', 'true');
+        overlay.setAttribute('aria-hidden', 'false');
+        // focus first link for keyboard users
+        setTimeout(() => {
+          const first = sidebar.querySelector('a, button, summary');
+          if (first) first.focus();
+        }, 150);
+        // prevent background scroll on mobile
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeMenu() {
+        root.classList.remove('is-open');
+        openBtn.setAttribute('aria-expanded', 'false');
+        overlay.setAttribute('aria-hidden', 'true');
+        openBtn.focus();
+        document.body.style.overflow = '';
+      }
+
+      openBtn.addEventListener('click', openMenu);
+      closeBtn.addEventListener('click', closeMenu);
+      overlay.addEventListener('click', closeMenu);
+
+      // ESC to close
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && root.classList.contains('is-open')) {
+          closeMenu();
+        }
+      });
+
+      // Improve aria on desktop dropdown buttons
+      const dropdowns = document.querySelectorAll('.ddb-dropdown');
+      dropdowns.forEach(dd => {
+        const btn = dd.querySelector('button');
+        const menu = dd.querySelector('.ddb-menu');
+        btn.addEventListener('focus', () => btn.setAttribute('aria-expanded', 'true'));
+        btn.addEventListener('blur', () => btn.setAttribute('aria-expanded', 'false'));
+        dd.addEventListener('mouseenter', () => btn.setAttribute('aria-expanded', 'true'));
+        dd.addEventListener('mouseleave', () => btn.setAttribute('aria-expanded', 'false'));
+        // Close menu on Tab out
+        menu && menu.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape') { btn.focus(); }
+        });
+      });
+    })();
+  </script>
+</header>
+
+        <!-- Header Section with Image -->
+        <header class="w3-display-container w3-wide" id="home">
+           <div class="slideshow-container">
+               
+               <div class="mySlides fade">
+				  <img src="/banners/slider/littler_trophy.jpg" style="width:100%">
+				</div>
+				
+				<div class="mySlides fade">
+				  <img src="/banners/slider/gian_van_veen.jpg" style="width:100%">
+				</div>
+				
+				<div class="mySlides fade">
+				  <img src="/banners/slider/anderson_semi.jpg" style="width:100%">
+				</div>
+               
+               <div class="mySlides fade">
+				  <img src="/banners/slider/manby.JPG" style="width:100%">
+				</div>
+               
+               <div class="mySlides fade">
+				  <img src="/banners/slider/hurrell_bunting.JPG" style="width:100%">
+				</div>
+				
+				<div class="mySlides fade">
+				  <img src="/banners/slider/munyua.jpg" style="width:100%">
+				</div>
+				
+				<div class="mySlides fade">
+				  <img src="/banners/slider/hood_noppert.JPG" style="width:100%">
+				</div>
+				
+				<div class="mySlides fade">
+				  <img src="/banners/slider/harrysson.JPG" style="width:100%">
+				</div>
+				
+				<div class="mySlides fade">
+				  <img src="/banners/slider/humphries_clemens.jpg" style="width:100%">
+				</div>
+
+				
+
+			</div>
+            <div class="w3-display-left w3-padding-large">
+                
+            </div>
+        </header>
+        <hr>
+        
+
+        <!-- Latest Results Section -->
+        <div class="w3-row w3-padding w3-border">
+            <div class="w3-container w3-white w3-padding-large">
+                <div class="w3-center">
+				<img src="/ddb-logos/DARTS%20GLYPH%20red%20.png" width="100" height="75">
+				<br>
+				<h1>Player Search</h1>
+				<div>
+                        <p><strong>Enter part of a player's name to search the database.</strong></p>
+                       <div class="search-container">
+                          <form action="/index.php" method="post" class="search-form" novalidate>
+                              <input type="text" name="playername" class="w3-border" 
+                                     value="" 
+                                     placeholder="Enter player name">
+                              <button type="submit" class="w3-button w3-theme w3-orange">
+                                  <i class="fa fa-search"></i>&nbsp;Search
+                              </button>
+                          </form>
+                        </div>
+                        <span class="input-error"></span>
+                </div>
+                
+				<h1>Latest News</h1>
+                <br>
+                   
+<style>
+/* Force LEFT globally except button override */
+.dd-news-wrap, .dd-news-wrap * { text-align:left !important; }
+
+.dd-news-heading{
+  font-size:2.2rem;
+  font-weight:700;
+  margin-bottom:18px;
+}
+
+.dd-news-list{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:18px;
+}
+
+.dd-news-item{
+  display:grid;
+  grid-template-columns:200px 1fr;
+  gap:18px;
+  border:1px solid rgba(0,0,0,.15);
+  border-radius:12px;
+  overflow:hidden;
+  background:#fff;
+}
+
+.dd-news-img img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
+}
+
+.dd-news-body{
+  padding:18px 18px 18px 0;
+}
+
+.dd-news-body h3{
+  margin:0 0 6px;
+  font-size:1.2rem;
+}
+
+.dd-news-meta{
+  font-size:.85rem;
+  opacity:.7;
+  margin-bottom:8px;
+}
+
+.dd-news-desc{
+  margin:0 0 14px 0;
+  font-size:.95rem;
+  opacity:.9;
+}
+
+/* READ MORE BUTTON */
+.dd-read-more{
+  display:inline-block;
+  background:#f37021;
+  color:#000;
+  padding:8px 16px;
+  font-weight:600;
+  text-decoration:none;
+  border-radius:4px;
+  font-size:.9rem;
+}
+
+.dd-read-more:hover{
+  background:#d85f17;
+}
+
+.dd-news-updated-bottom{
+  margin-top:16px;
+  font-size:.9rem;
+  opacity:.75;
+}
+
+/* MOBILE */
+@media (max-width:650px){
+
+  .dd-news-item{
+    grid-template-columns:1fr;
+  }
+
+  .dd-news-img img{
+    height:230px;
+  }
+
+  .dd-news-desc{
+    display:none;
+  }
+
+  .dd-news-body{
+    padding:16px;
+  }
+
+  /* CENTER BUTTON PROPERLY */
+  .dd-read-more{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+    text-align:center !important;
+    margin-top:12px;
+  }
+}
+</style>
+
+<div class="dd-news-wrap">
+  <div class="dd-news-list">
+
+<article class='dd-news-item'><div class='dd-news-img'>
+                <a href='https://dartsworld.com/2026/11/littler-greaves-to-face-off-in-grand-slam-group-stages/' target='_blank' rel='noopener'>
+                  <img src='https://dartsworld.com/wp-content/uploads/2026/11/GSOD25_Final_Littler32.jpg' alt='Littler &amp; Greaves To Face Off In Grand Slam Group Stages' loading='lazy'>
+                </a>
+              </div><div class='dd-news-body'>
+            <h3><a class='w3-text-orange' href='https://dartsworld.com/2026/11/littler-greaves-to-face-off-in-grand-slam-group-stages/' target='_blank' rel='noopener'>Littler &amp; Greaves To Face Off In Grand Slam Group Stages</a></h3>
+            <div class='dd-news-meta'>09 Nov 2026</div>
+            <p class='dd-news-desc'>The draw for the Mr Vegas Grand Slam of Darts has been made, and back-to-back defending champion Luke Littler will be in…</p>
+            <a class='dd-read-more' href='https://dartsworld.com/2026/11/littler-greaves-to-face-off-in-grand-slam-group-stages/' target='_blank' rel='noopener'>Read More</a>
+          </div></article><article class='dd-news-item'><div class='dd-news-img'>
+                <a href='https://dartsworld.com/2026/11/mawson-makes-pdc-world-championship-return/' target='_blank' rel='noopener'>
+                  <img src='https://dartsworld.com/wp-content/uploads/2026/11/EM1_9822-1.jpg' alt='Mawson Makes PDC World Championship Return' loading='lazy'>
+                </a>
+              </div><div class='dd-news-body'>
+            <h3><a class='w3-text-orange' href='https://dartsworld.com/2026/11/mawson-makes-pdc-world-championship-return/' target='_blank' rel='noopener'>Mawson Makes PDC World Championship Return</a></h3>
+            <div class='dd-news-meta'>09 Nov 2026</div>
+            <p class='dd-news-desc'>After a brilliant weekend in Newfoundland, 63-year-old Gary Mawson has booked a spot in the 2027 PDC World Darts Champio…</p>
+            <a class='dd-read-more' href='https://dartsworld.com/2026/11/mawson-makes-pdc-world-championship-return/' target='_blank' rel='noopener'>Read More</a>
+          </div></article><article class='dd-news-item'><div class='dd-news-img'>
+                <a href='https://dartsworld.com/2026/11/ostlund-marques-seal-ally-pally-qualification/' target='_blank' rel='noopener'>
+                  <img src='https://dartsworld.com/wp-content/uploads/2026/11/Anton-Ostlund-2.png' alt='Ostlund &amp; Marques Seal Ally Pally Qualification' loading='lazy'>
+                </a>
+              </div><div class='dd-news-body'>
+            <h3><a class='w3-text-orange' href='https://dartsworld.com/2026/11/ostlund-marques-seal-ally-pally-qualification/' target='_blank' rel='noopener'>Ostlund &amp; Marques Seal Ally Pally Qualification</a></h3>
+            <div class='dd-news-meta'>09 Nov 2026</div>
+            <p class='dd-news-desc'>The weekend saw two more events hosted in Europe for spots at the World Championship next month, with Anton Östlund and …</p>
+            <a class='dd-read-more' href='https://dartsworld.com/2026/11/ostlund-marques-seal-ally-pally-qualification/' target='_blank' rel='noopener'>Read More</a>
+          </div></article><article class='dd-news-item'><div class='dd-news-img'>
+                <a href='https://dartsworld.com/2026/11/van-den-herik-crowned-adc-global-champion/' target='_blank' rel='noopener'>
+                  <img src='https://dartsworld.com/wp-content/uploads/2026/11/ADCGH266159.jpg' alt='van den Herik Crowned ADC Global Champion' loading='lazy'>
+                </a>
+              </div><div class='dd-news-body'>
+            <h3><a class='w3-text-orange' href='https://dartsworld.com/2026/11/van-den-herik-crowned-adc-global-champion/' target='_blank' rel='noopener'>van den Herik Crowned ADC Global Champion</a></h3>
+            <div class='dd-news-meta'>09 Nov 2026</div>
+            <p class='dd-news-desc'>Jamai Van den Herik was crowned the winner of the 2026 ADC Global Championship on Sunday, after defeating Neil Duff 9-5 …</p>
+            <a class='dd-read-more' href='https://dartsworld.com/2026/11/van-den-herik-crowned-adc-global-champion/' target='_blank' rel='noopener'>Read More</a>
+          </div></article><article class='dd-news-item'><div class='dd-news-img'>
+                <a href='https://dartsworld.com/2026/11/duff-chases-record-third-double-trouble-crown/' target='_blank' rel='noopener'>
+                  <img src='https://dartsworld.com/wp-content/uploads/2026/11/mss13cw555-1.jpg' alt='Duff Chases Record Third Double Trouble Crown' loading='lazy'>
+                </a>
+              </div><div class='dd-news-body'>
+            <h3><a class='w3-text-orange' href='https://dartsworld.com/2026/11/duff-chases-record-third-double-trouble-crown/' target='_blank' rel='noopener'>Duff Chases Record Third Double Trouble Crown</a></h3>
+            <div class='dd-news-meta'>09 Nov 2026</div>
+            <p class='dd-news-desc'>The MODUS Super Series swaps its weekly grind for a special-week spectacle from today, with Double Trouble returning to …</p>
+            <a class='dd-read-more' href='https://dartsworld.com/2026/11/duff-chases-record-third-double-trouble-crown/' target='_blank' rel='noopener'>Read More</a>
+          </div></article><article class='dd-news-item'><div class='dd-news-img'>
+                <a href='https://dartsworld.com/2026/11/self-knocks-out-krcmar-to-make-adc-global-championship-last-16/' target='_blank' rel='noopener'>
+                  <img src='https://dartsworld.com/wp-content/uploads/2026/11/MMS15135965.jpg' alt='Self Knocks Out Krcmar To Make ADC Global Championship Last 16' loading='lazy'>
+                </a>
+              </div><div class='dd-news-body'>
+            <h3><a class='w3-text-orange' href='https://dartsworld.com/2026/11/self-knocks-out-krcmar-to-make-adc-global-championship-last-16/' target='_blank' rel='noopener'>Self Knocks Out Krcmar To Make ADC Global Championship Last 16</a></h3>
+            <div class='dd-news-meta'>09 Nov 2026</div>
+            <p class='dd-news-desc'>Archie Self, Neil Duff and Jack Drayton were amongst the winners to progress through to the Last 16 on Saturday, as Day …</p>
+            <a class='dd-read-more' href='https://dartsworld.com/2026/11/self-knocks-out-krcmar-to-make-adc-global-championship-last-16/' target='_blank' rel='noopener'>Read More</a>
+          </div></article><article class='dd-news-item'><div class='dd-news-img'>
+                <a href='https://dartsworld.com/2026/11/big-names-make-adc-globals-third-round/' target='_blank' rel='noopener'>
+                  <img src='https://dartsworld.com/wp-content/uploads/2026/11/ADCGH266110.jpg' alt='Big Names Make ADC Globals Third Round' loading='lazy'>
+                </a>
+              </div><div class='dd-news-body'>
+            <h3><a class='w3-text-orange' href='https://dartsworld.com/2026/11/big-names-make-adc-globals-third-round/' target='_blank' rel='noopener'>Big Names Make ADC Globals Third Round</a></h3>
+            <div class='dd-news-meta'>09 Nov 2026</div>
+            <p class='dd-news-desc'>Archie Self, Neil Duff and Boris Krcmar were amongst the latest second round winners on Friday, as Day Six of the 2026 A…</p>
+            <a class='dd-read-more' href='https://dartsworld.com/2026/11/big-names-make-adc-globals-third-round/' target='_blank' rel='noopener'>Read More</a>
+          </div></article><article class='dd-news-item'><div class='dd-news-img'>
+                <a href='https://dartsworld.com/2026/11/three-international-ally-pally-spots-available-this-weekend/' target='_blank' rel='noopener'>
+                  <img src='https://dartsworld.com/wp-content/uploads/2026/11/TH1_PDC_-11.jpg' alt='Three International Ally Pally Spots Available This Weekend' loading='lazy'>
+                </a>
+              </div><div class='dd-news-body'>
+            <h3><a class='w3-text-orange' href='https://dartsworld.com/2026/11/three-international-ally-pally-spots-available-this-weekend/' target='_blank' rel='noopener'>Three International Ally Pally Spots Available This Weekend</a></h3>
+            <div class='dd-news-meta'>07 Nov 2026</div>
+            <p class='dd-news-desc'>After an incredibly eventful couple of days on the ProTour in Leicester, the 2027 World Darts Championship is really sta…</p>
+            <a class='dd-read-more' href='https://dartsworld.com/2026/11/three-international-ally-pally-spots-available-this-weekend/' target='_blank' rel='noopener'>Read More</a>
+          </div></article><article class='dd-news-item'><div class='dd-news-img'>
+                <a href='https://dartsworld.com/2026/11/final-ten-grand-slam-qualifiers-confirmed/' target='_blank' rel='noopener'>
+                  <img src='https://dartsworld.com/wp-content/uploads/2026/11/2026WGPR1_Bunting08-1.jpg' alt='Final Ten Grand Slam Qualifiers Confirmed' loading='lazy'>
+                </a>
+              </div><div class='dd-news-body'>
+            <h3><a class='w3-text-orange' href='https://dartsworld.com/2026/11/final-ten-grand-slam-qualifiers-confirmed/' target='_blank' rel='noopener'>Final Ten Grand Slam Qualifiers Confirmed</a></h3>
+            <div class='dd-news-meta'>06 Nov 2026</div>
+            <p class='dd-news-desc'>The Tour Card Holder qualifier for the last ten spots at the Grand Slam was completed in Leicester, and top seed Stephen…</p>
+            <a class='dd-read-more' href='https://dartsworld.com/2026/11/final-ten-grand-slam-qualifiers-confirmed/' target='_blank' rel='noopener'>Read More</a>
+          </div></article><article class='dd-news-item'><div class='dd-news-img'>
+                <a href='https://dartsworld.com/2026/11/first-players-book-last-32-places-at-adc-global-championship/' target='_blank' rel='noopener'>
+                  <img src='https://dartsworld.com/wp-content/uploads/2026/11/TL_2026WCR1_VanDenHerik1.jpg' alt='First Players Book Last 32 Places At ADC Global Championship' loading='lazy'>
+                </a>
+              </div><div class='dd-news-body'>
+            <h3><a class='w3-text-orange' href='https://dartsworld.com/2026/11/first-players-book-last-32-places-at-adc-global-championship/' target='_blank' rel='noopener'>First Players Book Last 32 Places At ADC Global Championship</a></h3>
+            <div class='dd-news-meta'>06 Nov 2026</div>
+            <p class='dd-news-desc'>Jamai Van den Herik, Chas Barstow and Jack Drayton were amongst the early second round winners on Thursday, as Day Five …</p>
+            <a class='dd-read-more' href='https://dartsworld.com/2026/11/first-players-book-last-32-places-at-adc-global-championship/' target='_blank' rel='noopener'>Read More</a>
+          </div></article>
+  </div>
+  <div class="dd-news-updated-bottom">
+    Last updated: 09 Nov 2026 18:00  </div>
+</div>
+
+                <br>
+<div style="width:100%; margin:20px 0;">
+    <a href="https://www.reddragondarts.com/products/peter-wright-50-year-player-edition?q=peter%20wright%20limited" target="_blank"></a><img src="/banners/bottom_large/PETER_LIMITED_COLLECTION_3000_x_1000.jpg" 
+         alt="PETER WRIGHT LIMITED COLLECTION"
+         style="width:100%; height:auto; display:block;"></a>
+</div>
+
+<!-- Page Heading -->
+<img src="/banners/betmgm_premier_league.jpg" 
+         alt="BETMGM Premier League 2026"
+         style="width:100%; height:auto; display:block;">
+<h1>Today's Games - Monday 9th November 2026</h1>
+
+<!-- Navigation (Yesterday / Today / Tomorrow) -->
+<div style="margin-bottom:15px;">
+    <a href="/?day=-1"
+       class="w3-text-orange"
+       style="margin-right:20px; font-size:18px;">
+        ⬅ Yesterday
+    </a>
+
+    <a href="/?day=0"
+       class="w3-text-orange"
+       style="margin-right:20px; font-size:18px;">
+        Today
+    </a>
+
+    <a href="/?day=1"
+       class="w3-text-orange"
+       style="font-size:18px;">
+        Tomorrow ➝
+    </a>
+</div>
+
+<!-- Live Score Link -->
+<p>
+    To view live scores click
+    <a href="https://dartsdatabase.co.uk/pdc25-live-matches.php"
+       class="w3-text-orange"
+       target="_blank">
+        here
+    </a>.
+</p>
+
+
+    <p>No games scheduled for this day.</p>
+
+
+                <br>
+				<h1>Latest Results</h1><br />
+                    <div class="row">
+                        <div class="column">
+                            
+<!-- HTML Output -->
+<div class="w3-center">
+    <a href="player-profile-live.php?pid=1596" class="w3-text-orange">
+        <img src="/player-images/ross_smith.jpg" width="100" height="100" class="w3-circle" alt="Ross Smith">
+    </a>
+    <h4>
+                    <a href="player-profile-live.php?pid=1596" class="w3-text-orange">Ross Smith</a>
+            </h4>
+    <div class="w3-center-align">
+        <p>25/10/2026<br>Wins the European Championship</p>
+        <a href="display-event.php?eid=25855&tna=European+Championship&eda=2026" class="w3-text-orange">View Full Results</a>
+        <p></p>
+    </div>
+</div>
+
+                        </div>
+                        
+                        <div class="column">
+                            
+<!-- HTML Output -->
+<div class="w3-center">
+    <a href="player-profile-live.php?pid=66017" class="w3-text-orange">
+        <img src="/player-images/Zonneveld1.jpg" width="100" height="100" class="w3-circle" alt="Niels Zonneveld">
+    </a>
+    
+    <h4>
+        <a href="player-profile-live.php?pid=66017" class="w3-text-orange">Niels Zonneveld</a>    </h4>
+    
+    <div class="w3-center-align">
+        <p>18/10/2026<br />Wins the PDC Dutch Darts Championship</p>
+        <a href="display-event.php?eid=25854&tna=PDC+Dutch+Darts+Championship&eda=2026" class="w3-text-orange">View Full Results</a>
+        <p></p>
+    </div>
+</div>
+                        </div>
+                   
+                        <div class="column">
+                            
+<!-- HTML Output -->
+<div class="w3-center">
+    <a href="player-profile-live.php?pid=11822" class="w3-text-orange">
+        <img src="/player-images/35783-2024WCFINAL_HumphriesTrophy5.jpg" width="100" height="100" class="w3-circle" alt="Luke Humphries">
+    </a>
+    
+    <h4>
+        <a href="player-profile-live.php?pid=11822" class="w3-text-orange">Luke Humphries</a>    </h4>
+    
+    <div class="w3-center-align">
+        <p>04/10/2026<br />Wins the World Grand Prix</p>
+        <a href="display-event.php?eid=25851&tna=World+Grand+Prix&eda=2026" class="w3-text-orange">View Full Results</a>
+        <p></p>
+    </div>
+</div>
+                        </div>
+                        <div class="column">
+                            
+<!-- HTML Output -->
+<div class="w3-center">
+    <a href="player-profile-live.php?pid=4885" class="w3-text-orange">
+        <img src="/player-images/sedlacek.jpg" width="100" height="100" class="w3-circle" alt="Karel Sedlacek">
+    </a>
+    
+    <h4>
+        <a href="player-profile-live.php?pid=4885" class="w3-text-orange">Karel Sedlacek</a>    </h4>
+    
+    <div class="w3-center-align">
+        <p>23/09/2026<br />Wins the PDPA Players Championship 30</p>
+        <a href="display-event.php?eid=25853&tna=PDPA+Players+Championship+30&eda=2026" class="w3-text-orange">View Full Results</a>
+        <p></p>
+    </div>
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr>
+
+        <!-- Winamu Banner -->
+        <!-- Main Sponsor section with a full-width image banner -->
+<header class="w3-display-container w3-wide" id="home">
+    <div class="slideshow-container">
+
+        <div class="mySlides1 fade">
+            <a href="https://www.reddragondarts.com/collections/luke-humphries" target="_blank" rel="noopener">
+                <img class="w3-image" src="/banners/bottom_large/LUKE_50YR_Web_Store_3000x1000.jpg" width="100%">
+            </a>
+        </div>
+
+        <div class="mySlides1 fade">
+            <a href="https://www.reddragondarts.com/collections/all-peter-wright" target="_blank" rel="noopener">
+                <img class="w3-image" src="/banners/bottom_large/Snakebite-Black Mamba_2025_3000 x 1000.jpg" width="100%">
+            </a>
+        </div>
+
+        <div class="mySlides1 fade">
+            <a href="https://www.reddragondarts.com/collections/gerwyn-price" target="_blank" rel="noopener">
+                <img class="w3-image" src="/banners/bottom_large/Gerwyn_50YRDART_Web_Desktop_3000x1000.jpg" width="100%">
+            </a>
+        </div>
+
+        <div class="mySlides1 fade">
+            <a href="https://www.reddragondarts.com/collections/red-dragon-2025-nitro-flite" target="_blank" rel="noopener">
+                <img class="w3-image" src="/banners/bottom_large/NitroFlites_2026_Desktop_3000x1000.jpg" width="100%">
+            </a>
+        </div>
+
+        <div class="mySlides1 fade">
+            <a href="https://www.reddragondarts.com/collections/gerwyn-price" target="_blank" rel="noopener">
+                <img class="w3-image" src="/banners/bottom_large/GERWYN_LIMTED_BOX_3000_x_1000.jpg" width="100%">
+            </a>
+        </div>
+
+        <div class="mySlides1 fade">
+            <a href="https://www.reddragondarts.com/collections/all-peter-wright" target="_blank" rel="noopener">
+                <img class="w3-image" src="/banners/bottom_large/PETER_LIMITED_COLLECTION_3000_x_1000.jpg" width="100%">
+            </a>
+        </div>
+
+        <div class="mySlides1 fade">
+            <a href="https://www.reddragondarts.com/collections/jonny-clayton" target="_blank" rel="noopener">
+                <img class="w3-image" src="/banners/bottom_large/J_Clayton_LIMTED_DART_Web_Desktop_3000x1000.jpg" width="100%">
+            </a>
+        </div>
+
+        <div class="mySlides1 fade">
+            <a href="https://www.reddragondarts.com/collections/all-peter-wright" target="_blank" rel="noopener">
+                <img class="w3-image" src="/banners/bottom_large/PW_LIMTED_SHIRT_Web_Store_3000x1000.jpg" width="100%">
+            </a>
+        </div>
+
+    </div>
+</header>
+
+<script>
+let slideIndex1 = 0;
+
+function showSlides1() {
+    const slides1 = document.getElementsByClassName("mySlides1");
+
+    // hide all
+    for (let i = 0; i < slides1.length; i++) {
+        slides1[i].style.display = "none";
+    }
+
+    // move index
+    slideIndex1++;
+    if (slideIndex1 > slides1.length) slideIndex1 = 1;
+
+    // show current
+    const currentSlide = slides1[slideIndex1 - 1];
+    currentSlide.style.display = "block";
+
+    // SAFETY: if the image on this slide failed to load, skip to next quickly
+    const img = currentSlide.querySelector("img");
+    if (img && img.complete && img.naturalWidth === 0) {
+        // broken image -> try next slide immediately
+        setTimeout(showSlides1, 50);
+        return;
+    }
+
+    setTimeout(showSlides1, 5000);
+}
+
+document.addEventListener("DOMContentLoaded", showSlides1);
+</script>
+
+    </div> <!-- End of w3-content -->
+
+    <!-- Footer -->
+    <!-- Footer section of the page with four columns for various content -->
+<footer class="w3-row-padding w3-padding-32 w3-orange">
+
+    <!-- About Us Section -->
+    <div class="w3-quarter" style="color:white;">
+        <h3>About Us</h3>
+        <p>Darts Database is the ultimate source for darts results, covering major events from the PDC, WDF, and previously the BDO, along with many other organisations and regional tournaments. We feature over 25,000 players and over 8,000 events worldwide.</p>
+        <p>Brought to you in association with Darts World Group</p>
+        <!-- Partner logos linking to their websites -->
+        <a href="https://dartsworld.com/" target="_blank">
+            <img src="/ddb-logos/dw-white.png" width="100" height="40" alt="Darts World">
+        </a><br>
+        <!-- Copyright with dynamic current year -->
+        <p>&copy; <script>document.write(new Date().getFullYear())</script> <a href="index.php">The Darts Database</a> All Rights Reserved.</p>
+    </div>
+
+    <!-- Latest Results Section -->
+    <div class="w3-quarter" style="color:white;">
+        <h3>Latest Results</h3>
+        <ul class="w3-ul w3-hoverable">
+            <!-- PHP files for dynamically loading recent news content -->
+			
+            
+<!-- HTML Output -->
+<a href="display-event.php?eid=25855&tna=European+Championship&eda=2026"><li class="w3-padding-16"><span class="w3-large">Ross Smith</span><br><span>Wins the European Championship</span></li></a>            
+<!-- HTML Output -->
+<a href="display-event.php?eid=25854&tna=PDC+Dutch+Darts+Championship&eda=2026"><li class="w3-padding-16"><span class="w3-large">Niels Zonneveld</span><br><span>Wins the PDC Dutch Darts Championship</span></li></a>            
+<!-- HTML Output -->
+<a href="display-event.php?eid=25851&tna=World+Grand+Prix&eda=2026"><li class="w3-padding-16"><span class="w3-large">Luke Humphries</span><br><span>Wins the World Grand Prix</span></li></a>            
+<!-- HTML Output -->
+<a href="display-event.php?eid=25853&tna=PDPA+Players+Championship+30&eda=2026">
+            <li class="w3-padding-16">
+                <span class="w3-large">Karel Sedlacek</span><br>
+                <span>Wins the PDPA Players Championship 30</span>
+            </li>
+          </a>        </ul>
+    </div>
+
+    <!-- Our Partners Section -->
+    <div class="w3-quarter" style="color:white;">
+        <h3>Our Partners</h3>
+        <ul class="w3-ul w3-hoverable">
+            <!-- Partner Links -->
+            <a href="https://dartsworld.com/" target="_blank">
+                <li class="w3-padding-2">
+                    <span class="w3-large">DARTS WORLD</span><br>
+                </li>
+            </a>
+            <a href="https://www.winmau.com" target="_blank">
+                <li class="w3-padding-2">
+                    <span class="w3-large">WINMAU</span><br>
+                </li>
+            </a>
+            <a href="https://www.reddragondarts.com/" target="_blank">
+                <li class="w3-padding-2">
+                    <span class="w3-large">REDDRAGON DARTS</span><br>
+                </li>
+            </a>
+			<a href="https://dartshop.tv/" target="_blank">
+                <li class="w3-padding-2">
+                    <span class="w3-large">DARTSHOP.TV</span><br>
+                </li>
+            </a>
+			<a href="https://modusdarts.tv/" target="_blank">
+                <li class="w3-padding-2">
+                    <span class="w3-large">MODUS SPORTS</span><br>
+                </li>
+            </a>
+        </ul>
+    </div>
+
+    <!-- Quick Links Section -->
+    <div class="w3-quarter" style="color:white;">
+        <h3>Quick Links</h3>
+        <ul class="w3-ul w3-hoverable">
+            <!-- External Quick Links -->
+            <a href="https://www.pdc.tv" target="_blank">
+                <li class="w3-padding-2">
+                    <span class="w3-large">PDC</span><br>
+                </li>
+            </a>
+            <a href="https://dartswdf.com/" target="_blank">
+                <li class="w3-padding-2">
+                    <span class="w3-large">WDF</span><br>
+                </li>
+            </a>
+			<a href="https://www.worldseniorsdarts.com/" target="_blank">
+                <li class="w3-padding-2">
+                    <span class="w3-large">WORLD SENIORS</span><br>
+                </li>
+            </a>
+			<a href="https://uk.dartscircuit.com/" target="_blank">
+                <li class="w3-padding-2">
+                    <span class="w3-large">ADC</span><br>
+                </li>
+            </a>
+			<a href="https://modussuperseries.com/" target="_blank">
+                <li class="w3-padding-2">
+                    <span class="w3-large">MODUS SUPER SERIES</span><br>
+                </li>
+            </a>
+        </ul>
+    </div>
+
+    <!-- Bottom Banner Advertisement -->
+    <a href="https://www.reddragondarts.com/collections/red-dragon-darts" target="_blank">
+        <img class="w3-image" src="/banners/footer/banner1.jpg" alt="RedDragon Darts" width="600" height="100">
+    </a>
+
+</footer>
+    <!-- JavaScript for Menu -->
+    <script>
+        // Open the sidebar menu
+        function openNav() {
+            document.getElementById("mySidebar").style.width = "60%";
+            document.getElementById("mySidebar").style.display = "block";
+        }
+
+        // Close the sidebar menu
+        function closeNav() {
+            document.getElementById("mySidebar").style.display = "none";
+        }
+		
+		let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+ 
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  
+  slides[slideIndex-1].style.display = "block";  
+
+  setTimeout(showSlides, 5000); // Change image every 2 seconds
+}
+    </script>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a57ee053ceb1fbda',t:'MTc5NDI0ODg5Ng=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a57ee053ceb1fbda',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
