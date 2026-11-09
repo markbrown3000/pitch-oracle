@@ -1,0 +1,4292 @@
+[
+ {
+  "ticker": "KXLEADERNFLPINT",
+  "title": "Pro Football Pass INT ",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLLADDERRECYDS",
+  "title": "Receiving Yards Ladder",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBALASVEGAS",
+  "title": "Las Vegas NBA team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLASSCOACH",
+  "title": "NFL Assistant Coach of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFL4QBTTS",
+  "title": "Pro Football Both Teams to Score in 4th Quarter",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSHOU",
+  "title": "Pro football exact wins Houston",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLSERIESOT",
+  "title": "NHL Series Overtime",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFFHIGHSCORE",
+  "title": "Fantasy Football Highest Scoring Performance",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLAFCWEST",
+  "title": "American Football Conference West Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSCLE",
+  "title": "Pro football exact wins Cleveland",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLPREPACK2ML",
+  "title": "MVE NFL Pre Pack",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLESCALATORRSHYDS",
+  "title": "Rushing Yards Escalator",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLOPOYSPECIALS",
+  "title": "NFL Offensive Player of the Year Specials",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFG",
+  "title": "Pro Football Field Goals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFT1",
+  "title": "NBA Draft First Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASERIESSPREAD",
+  "title": "NBA Series Game Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSEASONREC",
+  "title": "Receptions",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA1HTOTAL",
+  "title": "WNBA 1st Half Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA2NDTEAMDEF",
+  "title": "NBA All-Defensive 2nd Team",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASTOCK",
+  "title": "NBA Player Steals + Blocks",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRACE",
+  "title": "Pro Football Race to Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLPRES",
+  "title": "NHL President's Trophy Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAHUSTLE",
+  "title": "NBA Hustle Award",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBACOY",
+  "title": "WNBA Coach of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLDIVMOSTWINS",
+  "title": "Pro Football Division with the Least Wins",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASERIESGCOMEBACK",
+  "title": "Pro Basketball Series Game Comeback",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAMVPDPOY",
+  "title": "Pro Basketball Player to Win MVP and DPOY",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAWINSTREAK",
+  "title": "NBA Longest Win Streak",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWEEKSTART",
+  "title": "NFL Week Starter",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAALLDEFENSE",
+  "title": "Women's Pro Basketball All-Defensive Teams",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFT4",
+  "title": "NBA Draft Fourth Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAAST",
+  "title": "NBA Player Assists",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBANHL",
+  "title": "NBA + NHL Champion Combo",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBANEXTTEAM",
+  "title": "Pro Basketball Next Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTEDGE",
+  "title": "Pro Football Edge Drafted",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLPASSYDSPROT",
+  "title": "Passing Yards Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTTE",
+  "title": "Pro Football Tight End Drafted",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSSF",
+  "title": "Pro football exact wins San Francisco",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHL30COMEBACK",
+  "title": "NHL 3-0 Series Comeback",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSMIA",
+  "title": "Pro football exact wins Miami",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASTOCKS",
+  "title": "NBA Player Steals and Blocks",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA1QWINNER",
+  "title": "NBA 1st Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSEED",
+  "title": "NFL Playoff Seed",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAUNBEATEN",
+  "title": "NBA Playoffs Team to go Undefeated",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLHIGHSCOREQ",
+  "title": "Pro Football Highest Scoring Quarter",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAGAMEHIGHSCORE",
+  "title": "NBA Highest Scoring Game of the Season",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAONE3PT",
+  "title": "NBA Players to Make One Three",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSFPRACFIELD",
+  "title": "Practice Field Relocation",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXSWIFTATTEND",
+  "title": "NFL Attendance Swift",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNEXTNBACOACH",
+  "title": "Who is the Next NBA Coach of Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLOPOTY",
+  "title": "AP Pro Football Offensive Player Of The Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBADRAFTTOP10",
+  "title": "NBA Draft Top 10 Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASERIESROADWIN",
+  "title": "NBA Series 1st Road Win",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPASSINT",
+  "title": "Pro Football Passing Interceptions",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBADELAY",
+  "title": "WNBA Season Delay",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBAWEST",
+  "title": "Pro Basketball Western Conference Champion",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLSBOUTCOME",
+  "title": "NFL Championship Outcome",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL2PTOTAL",
+  "title": "2nd Period Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBADRAFT1",
+  "title": "WNBA Draft 1st Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAH2HBENCHPTS",
+  "title": "NBA Head-to-Head Bench Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFTTOP",
+  "title": "Pro Basketball Top Draft",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLNFCCHAMP",
+  "title": "National Football Conference Champion",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLATLANTIC",
+  "title": "NHL Atlantic Division Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAWHATTEND",
+  "title": "Pro Basketball White House Attend",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL1HSPREAD",
+  "title": "Pro Football 1st Half Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPLAYOFF",
+  "title": "Pro Basketball Playoff Qualifier",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA3PTCONTESTOU",
+  "title": "Women's Pro Basketball 3-Point Contest Threes Made",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLOROY",
+  "title": "NFL Offensive Rookie of the Y ear",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA4Q",
+  "title": "NBA 4th Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASUMMERTOTAL",
+  "title": "Pro Basketball Summer League Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAHOMECLINCH",
+  "title": "Pro Basketball Series Winner to Clinch at Home",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAOVERTIME",
+  "title": "NBA Overtime",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADPOTM",
+  "title": "NBA Defensive Player of the Month",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSPIT",
+  "title": "Pro football exact wins Pittsburgh",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAWCFQUAL",
+  "title": "NBA Western Conference Finals Qualifiers",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA1QTOTAL",
+  "title": "NBA 1st Quarter Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPASSTDS",
+  "title": "Pro Football player Passing Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA1STTEAMDEF",
+  "title": "NBA All-Defensive 1st Team",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-DEN",
+  "title": "Pro football wins Denver",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA3PEAT",
+  "title": "Pro Basketball Three-Peat Champion",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLPACIFIC",
+  "title": "NHL Pacific Division Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASUMMERGAME",
+  "title": "Pro Basketball Summer League Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-TEN",
+  "title": "Pro football wins Tennessee",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAFIRST50PTS",
+  "title": "First NBA Player to Score 50 Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA40PTS",
+  "title": "Women's Pro Basketball Player to Score 40 Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXCOACHOUTNFLFIRST",
+  "title": "First NFL Coach Out",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLTOTAL",
+  "title": "Pro Football Total Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNBA3PT",
+  "title": "NBA 3PG Leader",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA4QWINNER",
+  "title": "Women's Pro Basketball 4th Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLSAVE",
+  "title": "Goaltender Saves",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXWNBAPORTNOY",
+  "title": "WNBA Portnoy ban",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-WAS",
+  "title": "Pro football wins Washington",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLLINDSAY",
+  "title": "NHL Ted Lindsay Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLHKANE",
+  "title": "Harry Kane Pro Football signing",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLPLAYOFF",
+  "title": "Playoff Qualifier",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBAFINALLOC",
+  "title": "WNBA Finals Location",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLEADERPINT",
+  "title": "Pro Football P INT Leader",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBADRAFTTOP5",
+  "title": "NBA Draft Top 5 Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBALADDER3PT",
+  "title": "NBA Player Threes Ladder",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXPLAYEROPTIONNBA",
+  "title": "player option nba",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASWEEP",
+  "title": "NBA Teams to Have a Series Sweep",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNBAPTS",
+  "title": "NBA PPG Leader",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNCAAFDRAFTDECLARE",
+  "title": "Players to Declare for the NFL Draft",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFIRSTTD",
+  "title": "Pro Football First Touchdown",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDPOTY",
+  "title": "AP Pro Football Defensive Player Of The Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBADRAFTCONF",
+  "title": "Pro Basketball Players Drafted by Conference",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBADRAFT5",
+  "title": "NBA Draft Fifth Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLSERIESTOTALGOAL",
+  "title": "NHL Series Total Goals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLROUNDQUAL",
+  "title": "Pro Football Round Qualifier",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASERIES",
+  "title": "NBA Series Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA2QWINNER",
+  "title": "Women's Pro Basketball 2nd Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA6POY",
+  "title": "WNBA Sixth Player of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLPREPACK3ML",
+  "title": "MVE NFL Pre Pack",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLRECYDSH2H",
+  "title": "Pro Football Head-to-Head Receiving Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPLAYERSPECIALS",
+  "title": "Pro Basketball Player Specials",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFINALSVIEWER",
+  "title": "NBA finals viewership",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSNE",
+  "title": "Pro football exact wins New England",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA3Q",
+  "title": "NBA 3rd Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA2Q",
+  "title": "NBA 2nd Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCELEBRITYGAME",
+  "title": "Pro Football Celebrity Flag Football Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBACELEBRITYGAME",
+  "title": "Pro Basketball All-Star Celebrity Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAPTS",
+  "title": "WNBA Player Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAMOSTWINS",
+  "title": "Pro Basketball Highest Win Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAWEST",
+  "title": "Women's Pro Basketball Western Conference Champion",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBACLUTCH",
+  "title": "NBA Clutch Player of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLMATCHUP",
+  "title": "Pro Football Matchups",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASUMMER1HWINNER",
+  "title": "Pro Basketball Summer League 1st Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBANEXTCOMMISH",
+  "title": "Women's Pro Basketball Next Commissioner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBATEAMTOTAL",
+  "title": "WNBA Team Totals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSNYG",
+  "title": "Pro football exact wins New York G",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA3QWINNER",
+  "title": "NBA 3rd Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFT3",
+  "title": "NBA Draft Third Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLREDZONEBRANDADS",
+  "title": "Redzone week 1 brand ads",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBAWFINMVP",
+  "title": "NBA Western Conference Finals MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAGAMESPECIALS",
+  "title": "Pro Basketball Game Specials",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTEAMPOS",
+  "title": "Will team draft a position across round",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXWNBAOT",
+  "title": "Women's Pro Basketball Overtime",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFFPTSSEASON",
+  "title": "Pro Football Player Fantasy Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFRANCHISEOWNER",
+  "title": "NBA Franchise Owner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBARETIRE",
+  "title": "NBA Retirement",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNBAREB",
+  "title": "NBA RPG Leader",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBALAWSUIT",
+  "title": "Women's Pro Basketball Lawsuit",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAGAMESPLAYED",
+  "title": "WNBA Games Played in a Season",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSLV",
+  "title": "Pro football exact wins Las Vegas",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBAROY",
+  "title": "WNBA Rookie of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA1HSPREAD",
+  "title": "Women's Pro Basketball 1st Half Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAGAME",
+  "title": "Women's Pro Basketball Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFT10",
+  "title": "NBA Draft Tenth Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA1QWINNER",
+  "title": "Women's Pro Basketball 1st Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLFINALSEXACT",
+  "title": "NHL Championship Series Score",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAH2HPRA",
+  "title": "NBA Head-to-Head Points, Rebounds and Assists",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFFTOP",
+  "title": "Top Fantasy Rank",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNEXTNFLCOACH",
+  "title": "Next Pro Football Coach",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLEASTPENALIZED",
+  "title": "Pro Football Least Penalized Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA2HSPREAD",
+  "title": "NBA 2nd Half Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCONTRACTSIZE",
+  "title": "Pro Football Next Contract Size",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAEAST1SEED",
+  "title": "NBA Eastern Conference 1 Seed",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLNORRIS",
+  "title": "NHL James Norris Memorial Trophy",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAH2H3PT",
+  "title": "NBA Head-to-Head Three Pointers",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCOACH",
+  "title": "NFL Coach of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLLONGESTFG",
+  "title": "Pro Football Longest Field Goal",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLOROTY",
+  "title": "AP Pro Football Offensive Rookie of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLFFPTSLADDER",
+  "title": "Fantasy Ladder",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLVEZINA",
+  "title": "NHL Vezina Trophy",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBADRAFTPICK",
+  "title": "Pro Basketball Draft Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXLEADERNFLAPYDS",
+  "title": "Pro Football All-Purpose Yards Leader",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLBOTH",
+  "title": "Pro Football Both Teams to Score Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINSTREAK",
+  "title": "Pro Football Win Streak",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBADRAFT5",
+  "title": "WNBA Draft 5th Pick",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRECYDSPROT",
+  "title": "Receiving Yards Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASERIESASTLEADER",
+  "title": "Pro Basketball Series Assists Leader",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLSPREAD",
+  "title": "NHL Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA3QTOTAL",
+  "title": "NBA 3rd Quarter Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLRETIRE",
+  "title": "NHL Retire",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLHIRECOACH",
+  "title": "NFL hire coach",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPLAYOFF",
+  "title": "Pro Football Playoff Qualifiers",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA",
+  "title": "WNBA Champion",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAH2HWINS",
+  "title": "NBA Head to Head Win Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAMATCHUP",
+  "title": "WNBA Finals Matchup",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAH2HPTSMARGIN",
+  "title": "NBA H2H Player Points Bracketed",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRETURN",
+  "title": "Pro Football Player to Compete",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL1STTEAM",
+  "title": "All NHL First Team",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSCAR",
+  "title": "Pro football exact wins Carolina",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBAMIMP",
+  "title": "WNBA Most Improved Player of the Year",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPOTM",
+  "title": "NFL Player of the Month",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSTADIUM",
+  "title": "Will NFL Stadium Project be complete by date",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPLAYERHIGHSCORE",
+  "title": "NBA Highest Scoring Performance in Regular Season",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASOUTHWEST",
+  "title": "Pro Basketball Southwest Division Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNEXTTEAMNFL",
+  "title": "Player Next Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBADPOY",
+  "title": "WNBA Defensive Player of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA3QTOTAL",
+  "title": "Women's Pro Basketball 3rd Quarter Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLARGESTLEAD",
+  "title": "Pro Football Largest Lead",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSMIN",
+  "title": "Pro football exact wins Minnesota",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLENDSTREAK",
+  "title": "When will team end streak",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSSEA",
+  "title": "Pro football exact wins Seattle",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASEATTLE",
+  "title": "Seattle NBA team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAATLANTIC",
+  "title": "Pro Basketball Atlantic Division Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXFIRSTPICKNBA",
+  "title": "NBA first pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLMVP",
+  "title": "AP Pro Football Regular Season MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFL1HTD",
+  "title": "1st Half Touchdown",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL4QWINNER",
+  "title": "Pro Football 4th Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNFLSACKS",
+  "title": "NFL Sacks Leader",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLDRAFTTEAM",
+  "title": "Pro Football Team Draft",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2Q",
+  "title": "Pro Football 2nd Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLASTPICKPOS",
+  "title": "NFL Last Pick of the Draft Position",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLCOMPETE",
+  "title": "Will an NFL Player Compete in game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTTOP",
+  "title": "Pro Football Top Draft",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBANEXTGOVERNOR",
+  "title": "Pro Basketball Next Governor",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLESCALATORRECYDS",
+  "title": "Receiving Yards Escalator",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA2NDTEAM",
+  "title": "All-NBA 2nd Team",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLNBA",
+  "title": "NFL and NBA Champion Combo",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFTTOP20",
+  "title": "NBA Draft Top 20 Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXTOP3NBADRAFT",
+  "title": "NBA Draft Top 3",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFF40PTS",
+  "title": "Fantasy Football 40 Point Performances",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAROOKIE1STTEAM",
+  "title": "NBA All-Rookie 1st Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASOUTHEAST",
+  "title": "Pro Basketball Southeast Division Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLTEAMTO",
+  "title": "Pro Football Forced Turnovers",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAALLSTARMVP",
+  "title": "NBA All-Star Game MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXLEADERWNBAREB",
+  "title": "WNBA RPG Leader",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA1HWINNER",
+  "title": "Women's Pro Basketball 1st Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFFSEASONTOTAL",
+  "title": "Pro Football Player's Fantasy Season Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASERIESCOMEBACK",
+  "title": "Pro Basketball Series Comeback",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAALLSTARGAME",
+  "title": "NBA All-Star Game Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLMVP",
+  "title": "NHL Hart Memorial Trophy Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA2HSPREAD",
+  "title": "Women's Pro Basketball 2nd Half Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTEAMDPTS",
+  "title": "Who will allow the least/most points this season",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-TB",
+  "title": "Pro football wins Tampa Bay",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAH2HTEAM3PT",
+  "title": "NBA H2H Team Three Pointers",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAH2HPRA",
+  "title": "Women's Pro Basketball Head to Head Pts + Reb + Ast",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-NYJ",
+  "title": "Pro football wins New York J",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAAPOLOGY",
+  "title": "Pro Basketball Apology",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASTAKESALE",
+  "title": "NBA Team Ownership Stake Sale Agreement",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTEAM1POS",
+  "title": "What position will Team select with first pick",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAWINRECORD",
+  "title": "OKC NBA Win Record",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPLAYERDEAL",
+  "title": "Next Pro Basketball Brand Deal",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFF50PTS",
+  "title": "Fantasy Football 50 Point Performances",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL1SEED",
+  "title": "Will team win conference in regular season",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL3QWINNER",
+  "title": "Pro Football 3rd Quarter Winner",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNHLCALDER",
+  "title": "NHL Calder Memorial Trophy",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLFFPLAYOFFLEADER",
+  "title": "Fantasy Football Playoffs Leader",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPTSPROT",
+  "title": "NBA Player Points Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA1SEED",
+  "title": "Women's Pro Basketball #1 Seed",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLPLAYOFFGOALS",
+  "title": "NHL Playoffs Goal Leader (by Round)",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLEAST",
+  "title": "Eastern Conference Championship",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA2H",
+  "title": "NBA 2nd Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBASERIESGAMES",
+  "title": "WNBA Series Total Games",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAWINS",
+  "title": "Pro Basketball Win Totals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA1QTEAMTOTAL",
+  "title": "NBA 1st Quarter Team Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA4QTOTAL",
+  "title": "NBA 4th Quarter Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL2PBTTS",
+  "title": "NHL Both Teams to Score in 2nd Period",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTEAMYDS",
+  "title": "Pro Football Team Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBACUPMVP",
+  "title": "NBA Cup Tournament MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLGAMELOCATION",
+  "title": "NFL Game Location",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCAREERRSHTDS",
+  "title": "NFL Career Rushing Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLSERIESGAMES",
+  "title": "NHL Series Total Games",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPROBOWL",
+  "title": "Pro Football Pro Bowl",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBALOTTERYODDS",
+  "title": "NBA Lottery Winner Odds",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAPTSRECORD",
+  "title": "Women's Pro Basketball Single-Game Scoring Record",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLONGRSH",
+  "title": "Longest Rush",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLEADCHANGE",
+  "title": "Pro Football Lead Changes",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLSEASONRECTD",
+  "title": "Receiving Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-MIA",
+  "title": "Pro football wins Miami",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-MIN",
+  "title": "Pro football wins Minnesota",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA7FIGS",
+  "title": "7 Figure WNBA salary",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSPHI",
+  "title": "Pro football exact wins Philadephia",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWORSTTOFIRST",
+  "title": "Pro Football Worst in Division to First",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLT100TOP",
+  "title": "Will player be ranked Top X on NFL 100",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-NO",
+  "title": "Pro football wins New Orleans",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLFFPTS",
+  "title": "Pro Football Player Fantasy Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPREPACK1HFT",
+  "title": "MVE NFL Pre Pack",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-GB",
+  "title": "Pro football wins Green Bay",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLPROBOWLWIN",
+  "title": "Pro Football Pro Bowl Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASUMMER1HSPREAD",
+  "title": "Pro Basketball Summer League 1st Half Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPASSATT",
+  "title": "Pro Football Passing Attempts",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA4QTOTAL",
+  "title": "Women's Pro Basketball 4th Quarter Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA1HWINNER",
+  "title": "Pro Baskeball 1st Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNCAAFCONFLEAVE",
+  "title": "College Football Conference Leave",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-HOU",
+  "title": "Pro football wins Houston",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLTEAMFIRSTTD",
+  "title": "Pro Football First Touchdown",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDROTY",
+  "title": "AP Pro Football Defensive Rookie of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-CAR",
+  "title": "Pro football wins Carolina",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLDIVISIONORDER",
+  "title": "Pro Football Division Exact Order",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTD",
+  "title": "Pro Football Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLOPOY",
+  "title": "NFL Offensive Player of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSCIN",
+  "title": "Pro football exact wins Cincinnati",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASERIESTOTALPTS",
+  "title": "Pro Basketball Series Total Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA2QSPREAD",
+  "title": "NBA 2nd Quarter Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFFLEADERTOP",
+  "title": "Top Fantasy",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPREPACK",
+  "title": "MVE NFL Pre Pack",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSIND",
+  "title": "Pro football exact wins Indianapolis",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA1HSPREAD",
+  "title": "NBA 1st Half Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCPOTY",
+  "title": "AP Pro Football Comeback Player of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLCAREERRECYDS",
+  "title": "NFL Career Receiving Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLAWARDFIN",
+  "title": "Pro Football Award Finalists",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL3P",
+  "title": "NHL 3rd Period Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNFLRUSHTDS",
+  "title": "NFL leader rushing TDs",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLANYGOAL",
+  "title": "Pro Hockey Goalscorer",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL60YARDFGS",
+  "title": "Pro Football 60+ Yard Field Goals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAALLSTARS",
+  "title": "NBA All-Stars",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCOMBINE40",
+  "title": "Pro Football Combine Fastest 40 Time",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLASTTOWIN",
+  "title": "Pro Football last team to win a game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBATEAMWINSTREAK",
+  "title": "NBA Team with the Longest Winning Streak",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBASTL",
+  "title": "NBA Player Steals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBACUP1STTEAM",
+  "title": "NBA Cup All-Tournament Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSCHI",
+  "title": "Pro football exact wins Chicago",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAUPSET",
+  "title": "NBA Number of Upsets per Round",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLSEASONGOALS",
+  "title": "Player to score X Goals in Season",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLSEASONPTS",
+  "title": "NHL Season Point Totals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL1P",
+  "title": "NHL 1st Period Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBACOACHOUT",
+  "title": "Pro Basketball Coaches Out",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSEASONPASSYDS",
+  "title": "Passing Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBACOMPETE",
+  "title": "Women's Pro Basketball Player to Compete",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSELLOUT",
+  "title": "Pro Football Sellouts",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFFWEEKTOP",
+  "title": "Weekly Fantasy Football Top Players",
+  "frequency": "weekly"
+ },
+ {
+  "ticker": "KXNFLDRAFTQB",
+  "title": "Pro Football Quarterback Drafted",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBATEAMTOTAL",
+  "title": "NBA Team Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSTAGEOFELIM",
+  "title": "Pro Football Stage of Elimination",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTCAT",
+  "title": "Pro Football Draft Category",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLREC",
+  "title": "Pro Football Player Receptions",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBATEAMMATE",
+  "title": "NBA Teammate of the Year",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLVIEWERSHIP",
+  "title": "Pro Football Game Viewership",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTDT",
+  "title": "Pro Football Defensive Tackle Drafted",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFL1YDPASS",
+  "title": "Seattle 1 Yard Pass",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBAPOLOSE",
+  "title": "Pro Basketball Playoff Losses",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASIXTH",
+  "title": "NBA Sixth Man of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBADRAFTTOP30",
+  "title": "NBA Draft Top 30 Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLDRAFTRB",
+  "title": "Pro Football Running Back Drafted",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAEFINMVP",
+  "title": "NBA Eastern Conference Finals MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSBAL",
+  "title": "Pro football exact wins Baltimore",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA3PT",
+  "title": "NBA Player Threes",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASERIESROADWINS",
+  "title": "Pro Basketball Series Total Road Wins",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAALLROOKIE",
+  "title": "Women's Pro Basketball All-Rookie Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSBUF",
+  "title": "Pro football exact wins Buffalo",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBASEMIFINAL",
+  "title": "WNBA Semifinals Qualifiers",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAPREPACK3ML",
+  "title": "3ML Basketball Combo",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNHLPSEASONGOALS",
+  "title": "Player Goals Scored in Season",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSEASONRECYDS",
+  "title": "Receiving Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSFTY",
+  "title": "Pro Football Safety",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-CLE",
+  "title": "Pro football wins Cleveland",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBADRAFT9",
+  "title": "NBA Draft Ninth Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAPLAYOFFHOMEGAMES",
+  "title": "NBA Team Home Playoff Games",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSTEN",
+  "title": "Pro football exact wins Tennessee",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBAWEST1",
+  "title": "Women's Pro Basketball Western Conference #1 Seed",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLWEST",
+  "title": "Western Conference Champion",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAMVP",
+  "title": "NBA MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-BAL",
+  "title": "Pro football wins Baltimore",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA2QTOTAL",
+  "title": "Women's Pro Basketball 2nd Quarter Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLONGFG",
+  "title": "Pro Football Team Longest Field Goal",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADPOY",
+  "title": "NBA Defensive Player of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLSERIESTOTALGOALS",
+  "title": "NHL Series Total Goals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-LAC",
+  "title": "Pro football wins Los Angeles C",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLMOSTRECYDS",
+  "title": "Pro Football Most Receiving Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDIVUNDEFEATED",
+  "title": "Team to go undefeated in division",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLNEXTTEAM",
+  "title": "Player Next Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXPHILIPRIVERSNFL",
+  "title": "Philips Rivers Play This Year",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBADRAFTTRADE",
+  "title": "Pro Basketball Draft Trade",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA3PTROUND",
+  "title": "Women's Pro Basketball 3-Point Contest Round Qualifiers",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLREBOOT",
+  "title": "Reboot Rules",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLGAMEFG",
+  "title": "Pro Football Field Goals",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLWINS-SF",
+  "title": "Pro football wins San Francisco",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLNEXTGM",
+  "title": "Next NHL GM",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBADRAFTTOP25",
+  "title": "NBA Draft Top 25 Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXRECORDNFLWORST",
+  "title": "worst football record",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERWNBAPTS",
+  "title": "WNBA PPG Leader",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASTARTERS",
+  "title": "Pro Basketball Starting Lineup",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLH2HWINS",
+  "title": "Pro Football Head-to-Head Win Totals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNFLPYDS",
+  "title": "NFL leader passing yards",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA2QSPREAD",
+  "title": "Women's Pro Basketball 2nd Quarter Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLSEASONPPTS",
+  "title": "Season Player Points",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFL1Q",
+  "title": "Pro Football 1st Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASJC",
+  "title": "NBA Social Justice Champion",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-LA",
+  "title": "Pro football wins Los Angeles R",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLHIGHSCORE",
+  "title": "Pro Football Highest Scoring Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA30COMEBACK",
+  "title": "NBA 3-0 Series Comeback",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPARTNERSHIP",
+  "title": "NBA Player Partnership Deal",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLBLOWOUT",
+  "title": "Pro Football Biggest Blowout",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-JAC",
+  "title": "Pro football wins Jacksonville",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-NE",
+  "title": "Pro football wins New England",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBADRAFT6",
+  "title": "NBA Draft Sixth Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBAALLTEAM",
+  "title": "Women's Pro Basketball Teams",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA3RDTEAM",
+  "title": "All-NBA 3rd Team",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLMETROPOLITAN",
+  "title": "NHL Metropolitan Division Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHL",
+  "title": "Stanley Cup",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLDEBUT",
+  "title": "Pro Football Player to Make Debut",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFFH2HSEASON",
+  "title": "Season Fantasy Football Head-to-Head",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLSAFETY",
+  "title": "Pro Football Safeties",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXSTARTINGQBWEEK1",
+  "title": "NFL Starting QB Week 1",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBANORTHWEST",
+  "title": "Pro Basketball Northwest Division Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBATEAMANNOUNCE",
+  "title": "Pro Basketball New Team Announce",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFRANCHISECOST",
+  "title": "NBA Franchise Cost",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFINALSVIEWERGAME7",
+  "title": "NBA finals viewership",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPLAYOFFWINS",
+  "title": "NBA Playoff Wins by Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA1H",
+  "title": "Women's Pro Basketball 1st Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLAFCSOUTH",
+  "title": "American Football Conference South Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA3QTEAMTOTAL",
+  "title": "NBA 3rd Quarter Team Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL3QTOTAL",
+  "title": "Pro Football 3rd Quarter Total",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLSBMVPQB",
+  "title": "Non QB Championship MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASERIESOT",
+  "title": "Pro Basketball Series Overtime",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBADRAFTTOP3",
+  "title": "WNBA Draft Top 3",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINMARGIN",
+  "title": "Pro Football Win Margin",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLGAMETD",
+  "title": "Pro Football Touchdowns",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBA4QTEAMTOTAL",
+  "title": "NBA 4th Quarter Team Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXCOACHOUTNBA",
+  "title": "NBA Coach Out",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLHALLOFFAME",
+  "title": "Pro Football Hall of Fame",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRECYDS",
+  "title": "Pro Football Receiving Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXCOACHOUTNFL",
+  "title": "NFL Coach Out",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBARA",
+  "title": "Pro Basketball Player Rebounds + Assists",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXTRADEOFFNFL",
+  "title": "Pro football trades offseason",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLDRAFT1ST",
+  "title": "Make the 1st pick in NFL Draft",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLANYTD",
+  "title": "Pro Football Anytime Touchdown",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNFLRTDS",
+  "title": "NFL leader receiving TDs",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAFIRSTOPPONENT",
+  "title": "Pro Basketball First Opponent of the Season",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPOTM",
+  "title": "NBA Player of the Month",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAWINS",
+  "title": "WNBA Win Totals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSDRAFTTOP",
+  "title": "Will player be drafted Top X in Supplemental Draft",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLAFCEAST",
+  "title": "American Football Conference East Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBATOTAL",
+  "title": "NBA Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLFIRSTGOAL",
+  "title": "NHL First Goal",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAREBPROT",
+  "title": "NBA Player Rebounds Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPASSCOMP",
+  "title": "Pro Football Passing Completions",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTRADE",
+  "title": "Pro Football Players Traded",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXTEAMSINNBAEF",
+  "title": "Teams in NBA Eastern Conference Finals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBATEAM",
+  "title": "NBA team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTEAMSACK",
+  "title": "Pro Football Team Sacks",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLTOTAL",
+  "title": "NHL Total Goals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFIRSTTDTEAM",
+  "title": "Pro Football First Team to Score a Touchdown",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBASERIES",
+  "title": "WNBA Playoff Series Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTWR",
+  "title": "Pro Football Wide Receiver Drafted ",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA2HWINNER",
+  "title": "Women's Pro Basketball 2nd Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASTATAVG",
+  "title": "NBA Player Stat Average",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL2P",
+  "title": "NHL 2nd Period Winner",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBACELEBRITY3PT",
+  "title": "NBA Celebrity 3PT Contest",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLPASSYDSPRECISE",
+  "title": "Pass Yards Precise",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRSHATT",
+  "title": "Pro Football Rushing Attempts",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSGB",
+  "title": "Pro football exact wins Green Bay",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBADRAFTINT",
+  "title": "Pro Basketball International Players Drafted",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL3PTOTAL",
+  "title": "3rd Period Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBARELOCATION",
+  "title": "Pro Basketball Team Relocation",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-BUF",
+  "title": "Pro football wins Buffalo",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXLEADERNFLRUSHYDS",
+  "title": "NFL leader rushing yards",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXTEAMSINNBAWF",
+  "title": "Teams in NBA Western Conference Finals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA2QTOTAL",
+  "title": "NBA 2nd Quarter Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFT2",
+  "title": "NBA Draft Second Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASPORTSMANSHIP",
+  "title": "NBA Sportsmanship Award",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNCAAMBCONFLEADER",
+  "title": "Men's College Basketball Conference Stat Leader",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCOMEBACK",
+  "title": "Pro Football Comeback",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFINALSOUTCOME",
+  "title": "NBA Finals Outcome",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWEEKMOSTRECYDS",
+  "title": "Weekly Most Receiving Yards",
+  "frequency": "weekly"
+ },
+ {
+  "ticker": "KXNBAPLAYOFF3D",
+  "title": "NBA Playoff Triple-Double",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFT8",
+  "title": "NBA Draft Eighth Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLPREPACKSGPSPREAD",
+  "title": "MVE NFL Pre Pack",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBATOTAL",
+  "title": "Women's Pro Basketball Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBADRAFT2",
+  "title": "WNBA Draft 2nd Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASUMMER1HTOTAL",
+  "title": "Pro Basketball Summer League 1st Half Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXECOTY",
+  "title": "Pro Football Executive of the Year",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASERIESSCORE",
+  "title": "NBA Series Exact Score",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBANEXTTEAMCONF",
+  "title": "Pro Basketball Next Team Conference",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLMVPSPECIALS",
+  "title": "NFL MVP Award Specials",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDIVLEASTWINS",
+  "title": "Pro Football Division with the Most Wins",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL1HWINNER",
+  "title": "NFL 1st Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA2HWINNER",
+  "title": "Pro Basketball 2nd Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2HTOTAL",
+  "title": "Pro Football 2nd Half Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAREB",
+  "title": "NBA Player Rebounds",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-PHI",
+  "title": "Pro football wins Philadelphia",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLNFCWEST",
+  "title": "National Football Conference West Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBADRAFTMATCHUP",
+  "title": "Pro Basketball Draft Matchup",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAWINMARGIN",
+  "title": "NBA Win Margin",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2HWINNER",
+  "title": "NFL 2nd Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA1STTEAM",
+  "title": "All-NBA 1st Team",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-SEA",
+  "title": "Pro football wins Seattle",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFL1HTEAMTOTAL",
+  "title": "Pro Football 1st Half Team Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPTSLEADER",
+  "title": "NBA Game Points Leader",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLALLPRO",
+  "title": "Pro Football All-Pro Teams",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL1PTOTAL",
+  "title": "NHL 1st Period Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBALOTTERY",
+  "title": "NBA Draft Lottery Picks",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFIRSTBASKET",
+  "title": "Pro Basketball First Basket",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAEAST",
+  "title": "Women's Pro Basketball Eastern Conference Champion",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-ANY",
+  "title": "Pro football wins any team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLAST",
+  "title": "Pro Hockey Assists",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAMATCHUP",
+  "title": "NBA Matchup",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPRIMETIME",
+  "title": "Pro Football Primetime Games",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL4QTOTAL",
+  "title": "Pro Football 4th Quarter Total",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXWNBASERIESSCORE",
+  "title": "WNBA Series Exact Score",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBATOP5ROTY",
+  "title": "Top 5 NBA draft ROTY",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL1QTOTAL",
+  "title": "Pro Football 1st Quarter Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSPREAD",
+  "title": "Pro Football Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBADUNK",
+  "title": "Women's Pro Basketball Player to Dunk",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPOSTASREC",
+  "title": "NBA Best Record Post-All-Star Break",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAFIRSTTEAM",
+  "title": "Women's Pro Basketball First Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAJOINCONF",
+  "title": "Pro Basketball Join Conference",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINNINGSTREAK",
+  "title": "NFL Team Winning Streak",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCOACHOUT",
+  "title": "NFL Coaches Fired",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNBASTL",
+  "title": "NBA SPG Leader",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAPACIFIC",
+  "title": "Pro Basketball Pacific Division Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLFFPLAYERHIGH",
+  "title": "Pro Football Player's Highest Scoring Fantasy Performance",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWEEKHIGH",
+  "title": "NFL Week Highest Scoring Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSBMVPDEF",
+  "title": "Defensive Player Championship MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA3QSPREAD",
+  "title": "Women's Pro Basketball 3rd Quarter Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTOTALTD",
+  "title": "Pro Football Total Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBARACE",
+  "title": "NBA Race to Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBANEXTTEAM",
+  "title": "WNBA Next Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL2PSPREAD",
+  "title": "2nd Period Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAALLSTARS",
+  "title": "Women's Pro Basketball All-Star Selections",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSATL",
+  "title": "Pro football exact wins Atlanta",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASUMMERPTS",
+  "title": "Pro Basketball Summer Player Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXCOACHOUTNBADATE",
+  "title": "NBA Coach Out Date",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBACUP",
+  "title": "Pro Basketball Cup Champion",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLCOACHOUTFIRST",
+  "title": "First NFL coach out",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFT7",
+  "title": "NBA Draft Seventh Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHL3PSPREAD",
+  "title": "NHL 3rd Period Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA3D",
+  "title": "NBA Player Triple Double",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCOMBINE",
+  "title": "NFL Combine",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2QSPREAD",
+  "title": "Pro Football 2nd Quarter Spread",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLSEEDOU",
+  "title": "NFL Playoffs Seed Over/Unders",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLT100",
+  "title": "Will player be ranked on Pro Football T100 List",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTEAMFG",
+  "title": "Pro Football Field Goals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRRYDS",
+  "title": "Pro Football Rush and Receiving Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSZNRECORD",
+  "title": "Will single season record be broken?",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDPOY",
+  "title": "NFL Defensive Player of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBANEXTTEAMOUTLET",
+  "title": "Pro Basketball Outlet to Announce Next Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA1QSPREAD",
+  "title": "NBA 1st Quarter Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBACUPQUAL",
+  "title": "Pro Basketball Cup Qualifiers",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAGAME7",
+  "title": "NBA Series that Go to a Game 7",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNHLWSTREAK",
+  "title": "Longest NHL win streak in regular season",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL3Q",
+  "title": "Pro Football 3rd Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTDB",
+  "title": "Pro Football Defensive Back Drafted",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-NYG",
+  "title": "Pro football wins New York G",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAASTPROT",
+  "title": "NBA Player Assists Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSWAS",
+  "title": "Pro football exact wins Washington",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLFFLEADER",
+  "title": "Best in Fantasy By Position",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFINMVP",
+  "title": "NBA Finals MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXCITYNBAEXPAND",
+  "title": "Cities NBA expand",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLROTM",
+  "title": "NFL Rookie of the Month",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFIRSTTDTIME",
+  "title": "Pro Football First Touchdown Time",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLSAVES",
+  "title": "Pro Hockey Saves",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL4DCONV",
+  "title": "Pro Football 4th Down Conversions",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBA3PTALLGAMES",
+  "title": "Pro Basketball 3-Pointers in Every Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAH2HPTS",
+  "title": "Women's Pro Basketball Head to Head Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA1HTOTAL",
+  "title": "NBA 1st Half Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL4Q",
+  "title": "Pro Football 4th Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAASGMVP",
+  "title": "WNBA All-Star Game MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLTOTALPRECISE",
+  "title": "Total Precise",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFTCAT",
+  "title": "Pro Basketball Draft Category",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA3PT",
+  "title": "Women's Pro Basketball Player Threes",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTCOMPARE",
+  "title": "NFL Draft Comparison",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL1HTOTAL",
+  "title": "Pro Football 1st  Half Total Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA3PTCONTEST",
+  "title": "NBA 3-Point Contest Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-IND",
+  "title": "Pro football wins Indianapolis",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHL1PSPREAD",
+  "title": "1st Period Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRSHYDSH2H",
+  "title": "Pro Football Head-to-Head Rushing Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLOT",
+  "title": "NHL Overtime",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA1H",
+  "title": "NBA 1st Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLNOSCOREQ",
+  "title": "Pro Football Scoreless Quarter",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAGAME",
+  "title": "NBA Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERWNBA3PT",
+  "title": "WNBA Total 3-Pointers Made Leader",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLDRAFTPICK",
+  "title": "Pro Hockey Draft Pick",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLCAREERPASSYDS",
+  "title": "NFL Career Passing Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBACOMPETE",
+  "title": "Pro Basketball Player to Compete",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL53MAN",
+  "title": "Pro Football 53 Man Roster",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTOU",
+  "title": "Will Player be drafted before or after pick?",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPASSTDSPROT",
+  "title": "Passing Touchdowns Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA4QSPREAD",
+  "title": "Women's Pro Basketball 4th Quarter Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL4DOWNCONV",
+  "title": "Pro Football 4th Down Conversions",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA1Q",
+  "title": "NBA 1st Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSLA",
+  "title": "Pro football exact wins Los Angeles R",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSLAC",
+  "title": "Pro football exact wins Los Angeles C",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFL1QBTTS",
+  "title": "Pro Football Both Teams to Score in 1st Quarter",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSARI",
+  "title": "Pro football exact wins Arizona",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBAROOKAS",
+  "title": "Women's Pro Basketball Rookie to be an All-Star",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL3QSPREAD",
+  "title": "Pro Football 3rd Quarter Spread",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXWNBA1QTOTAL",
+  "title": "Women's Pro Basketball 1st Quarter Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-ARI",
+  "title": "Pro football wins Arizona",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBASERIESSPREAD",
+  "title": "WNBA Series Game Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL3PBTTS",
+  "title": "NHL Both Teams to Score in 3rd Period",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPLAYOFFHOST",
+  "title": "NBA Team Home Playoff Games",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAGAMES",
+  "title": "NBA games",
+  "frequency": "daily"
+ },
+ {
+  "ticker": "KXNFLPASSYDSH2H",
+  "title": "Pro Football Head-to-Head Passing Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFTCOMP",
+  "title": "Pro Basketball Draft Comparison",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAEAST1",
+  "title": "Women's Pro Basketball Eastern Conference #1 Seed",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLDRAFTPICK",
+  "title": "NFL Draft Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBACUPGROUPWIN",
+  "title": "NBA Cup Group to Win",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPLAYOFFPTS",
+  "title": "NBA Playoffs Player Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLONGREC",
+  "title": "Longest Reception",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSHORTESTTD",
+  "title": "Pro Football Shortest Touchdown",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSEASONRSHTD",
+  "title": "Rushing Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPREPACK2ML",
+  "title": "2 ML Basketball Combo",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBASLAMDUNK",
+  "title": "NBA Slam Dunk Contest Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLCENTRAL",
+  "title": "NHL Central Division Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAESCALATOR3PT",
+  "title": "NBA Player Threes Escalator",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRECPROT",
+  "title": "Receptions Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA3QSPREAD",
+  "title": "NBA 3rd Quarter Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFANTASYMOST",
+  "title": "Pro Football Most Fantasy Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLSERIES",
+  "title": "NHL Series Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASERIES3PMLEADER",
+  "title": "Pro Basketball Series 3-Pointers Made Leader",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTKL",
+  "title": "Pro Football Tackles",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA2HTEAMTOTAL",
+  "title": "NBA 2nd Half Team Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNEXTTEAMNBA",
+  "title": "Next NBA Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLHART",
+  "title": "NHL Hart Memorial Trophy",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXLEADERNFLINT",
+  "title": "NFL leader interceptions",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLCOTY",
+  "title": "AP Pro Football Coach Of The Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXLEADERNFLRYDS",
+  "title": "NFL leader receiving yards",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXTRADEOFFNBA",
+  "title": "Pro basketball trades offseason",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLESCALATORREC",
+  "title": "Receptions Escalator",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCAREERRSHYDS",
+  "title": "NFL Career Rushing Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTLB",
+  "title": "Pro Football Linebacker Drafted",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLRICHARD",
+  "title": "NHL Maurice \"Rocket\" Richard Trophy",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLSACKRECORD",
+  "title": "NFL Regular Season Sack Record",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLGAME",
+  "title": "NFL Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTIES",
+  "title": "Pro Football Ties",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL1HFT",
+  "title": "1st Half Fulltime Result",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA",
+  "title": "Pro Basketball Champion",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA4QSPREAD",
+  "title": "NBA 4th Quarter Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAEXEC",
+  "title": "NBA Executive of the Year",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAMIMP",
+  "title": "NBA Most Improved Player",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLLASTTOLOSE",
+  "title": "Pro Football Last Undefeated Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNEXTCOACHOUTNFL",
+  "title": "Next Coach Out Pro Football",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAROTY",
+  "title": "Pro Women's Basketball Rookie of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLFFH2H",
+  "title": "Weekly Fantasy Football Head-to-Head",
+  "frequency": "weekly"
+ },
+ {
+  "ticker": "KXNFLROLE",
+  "title": "Pro Football Role at Event",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLRECORDWORST",
+  "title": "Worst NHL Record",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPICKTRADE",
+  "title": "Pro Basketball Pick Trade",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLNONQBPASS",
+  "title": "Pro Football Non-QB Passes",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSNYJ",
+  "title": "Pro football exact wins New York J",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-CIN",
+  "title": "Pro football wins Cincinnati",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA2QTEAMTOTAL",
+  "title": "NBA 2nd Quarter Team Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-KC",
+  "title": "Pro football wins Kansas City",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLSBMVP",
+  "title": "Pro Football Championship MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBAFINAL",
+  "title": "WNBA Finals Qualifiers",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASERIESPTS",
+  "title": "Pro Basketball Series Player Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBACOTM",
+  "title": "NBA Coach of the Month",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLEXPANSION",
+  "title": "NHL Expansion",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFINALSEXACT",
+  "title": "Pro Basketball Championship Series Score",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA3PTCONTEST",
+  "title": "Women's Pro Basketball 3-Point Contest",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFFWEEKLEAD",
+  "title": "Weekly Fantasy Football Leader",
+  "frequency": "weekly"
+ },
+ {
+  "ticker": "KXWNBARAISE",
+  "title": "WNBA raise",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRECYDSRECORD",
+  "title": "NFL Regular Season Receiving Yards Record",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBAHIGHESTSCORING",
+  "title": "NBA Player with the Highest Scoring Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAXMASOPPONENT",
+  "title": "Pro Basketball Christmas Day Opponent",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLF10G",
+  "title": "NHL Goal in First 10 Minutes",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLGOAL",
+  "title": "NHL Goalscorer",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPREPACKSGP",
+  "title": "MVE NFL Pre Pack",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNHLNEXTTEAM",
+  "title": "NHL Next Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFIRSTSTART",
+  "title": "Pro Football First Start",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBABLK",
+  "title": "NBA Player Blocks",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2QBTTS",
+  "title": "Pro Football Both Teams to Score in 2nd Quarter",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBARECORD",
+  "title": "Pro Basketball Best/Worst Regular Season Record",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLNEXTCOACHOUT",
+  "title": "Next NFL Coach Out",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBARULE",
+  "title": "Pro Basketball Rule",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLNFCEAST",
+  "title": "National Football Conference East Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLCOMBO",
+  "title": "NFL COMBO",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNHL4NATIONS",
+  "title": "4 nations face off",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDIVISIONWINS",
+  "title": "Pro Football Division Total Wins",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFINBLOWOUT",
+  "title": "Pro Basketball Finals Blowout",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLREDZONEADS",
+  "title": "NFL Redzone ads",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNHLADAMS",
+  "title": "NHL Jack Adams Award",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLALLROOK",
+  "title": "NFL All Rookie Team",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAPLAYIN",
+  "title": "Which Team Will Make the Play-In Tournament",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLSERIESSCORE",
+  "title": "NHL Series Exact Score",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPRAPROT",
+  "title": "Pts + Reb + Ast Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLOT",
+  "title": "Pro Football Overtime",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASUMMERMVP",
+  "title": "Pro Basketball Summer League MVP",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLONGESTTD",
+  "title": "Pro Football Longest Touchdown",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAPLAYOFF",
+  "title": "WNBA Playoff Qualifiers",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLGAME",
+  "title": "NHL Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLOWNERSTAKE",
+  "title": "Next Pro Football Team to Sell Ownership Stake",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLADDERREC",
+  "title": "Receptions Ladder",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASHOOTINGSTARS",
+  "title": "Pro Basketball Shooting Stars Contest",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBAMVPCHAMP",
+  "title": "MVP to Win the NBA Finals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRETIRE",
+  "title": "NFL Retirement",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLAFCNORTH",
+  "title": "American Football Conference North Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLEVERYWEEKCOMPETE",
+  "title": "Pro Football Players to Play in Every Week of the Season",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBATOPPICK",
+  "title": "Pro Basketball Draft Lottery Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBACCUPMVP",
+  "title": "WNBA Commissioner's Cup MVP",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXTEAMSINNBAF",
+  "title": "Teams in NBA Finals",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLARGELEAD",
+  "title": "Pro Football Largest Lead",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDSTTD",
+  "title": "Pro Football D/ST Touchdown",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLFIRSTPICK",
+  "title": "First Pick in NFL Draft",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLRSHYDSPROT",
+  "title": "Rushing Yards Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNFLPTDS",
+  "title": "NFL leader passing TDs",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLGAMETO",
+  "title": "Pro Football Turnovers",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLPASSYDS",
+  "title": "Pro Football Passing Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-DET",
+  "title": "Pro football wins Detroit",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLTEAM1STDOWNS",
+  "title": "Pro Football Team 1st Downs",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2HTD",
+  "title": "2nd Half Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASUMMERSPREAD",
+  "title": "Pro Basketball Summer League Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLRSHYDS",
+  "title": "Pro Football Rushing Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSKC",
+  "title": "Pro football exact wins Kansas City",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLLADDERRSHYDS",
+  "title": "Rushing Yards Ladder",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAEUROPEANNOUNCE",
+  "title": "NBA Europe Inaugural Season Being Announced",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-ATL",
+  "title": "Pro football wins Atlanta",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWEEKCOMPETE",
+  "title": "NFL Player to Play in Week",
+  "frequency": "weekly"
+ },
+ {
+  "ticker": "KXNFL2HSPREAD",
+  "title": "Pro Football 2nd Half Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBALADDERPTS",
+  "title": "NBA Player Points Ladder",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPROOTY",
+  "title": "Pro Football Protector of the Year",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLROSS",
+  "title": "NHL Art Ross Trophy",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNHLOVERTIME",
+  "title": "NHL Overtime",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASERIESREBLEADER",
+  "title": "Pro Basketball Series Rebounds Leader",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASERIESGAMES",
+  "title": "NBA Series Total Games",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDEPTHPOSITIONCLEQB2",
+  "title": "QB2 CLE",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASERIESPTSSPREAD",
+  "title": "Pro Basketball Series Points Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASTADIUM",
+  "title": "NBA Stadium Completion",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXRECORDNFLBEST",
+  "title": "best football record",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLHOFINDUCTEES",
+  "title": "Pro Football Hall of Fame Inductees",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS",
+  "title": "Pro Football Wins",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPLAYOFFC",
+  "title": "Will both teams make the NFL Playoffs",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA1HTEAMTOTAL",
+  "title": "NBA 1st Half Team Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWEEKMOSTPASSYDS",
+  "title": "Weekly Most Passing Yards",
+  "frequency": "weekly"
+ },
+ {
+  "ticker": "KXNFLTEAMPTS",
+  "title": "Who will most/least points in Regular Season",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWEEKQBSTART",
+  "title": "NFL Week QB Starter",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2QTOTAL",
+  "title": "Pro Football 2nd Quarter Total",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXWNBA3QWINNER",
+  "title": "Women's Pro Basketball 3rd Quarter Winner",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXWNBASECONDTEAM",
+  "title": "Women's Pro Basketball Second Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNEXTTEAMNHL",
+  "title": "Next Team NHL",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2TD",
+  "title": "Pro Football Multiple Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLDRAFTTOP",
+  "title": "Pro Hockey Top Pick",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLNEXTTD",
+  "title": "Pro Football Next TD scorer",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBASTATLEADER",
+  "title": "NBA Regular Season League Leader",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFIRSTTIMECHAMP",
+  "title": "NBA First Time Champion",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWEEKHIGHSCORE",
+  "title": "NFL Highest Scoring Team of the Week",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBATOP3",
+  "title": "Pro Basketball Draft Lottery Top 3",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBA2H",
+  "title": "Women's Pro Basketball 2nd Half Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBALASTTOLOSE",
+  "title": "NBA Last Undefeated Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA4QWINNER",
+  "title": "NBA 4th Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAMVP",
+  "title": "WNBA Most Valuable Player",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBASSTARS",
+  "title": "Women's Pro Basketball Shooting Stars Contest",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBATRADE",
+  "title": "WNBA Players Traded",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL1PBTTS",
+  "title": "NHL Both Teams to Score in 1st Period",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLNFCSOUTH",
+  "title": "National Football Conference South Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAROOKIE2NDTEAM",
+  "title": "NBA All-Rookie 2nd Team",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA2HTOTAL",
+  "title": "Women's Pro Basketball 2nd Half Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAROY",
+  "title": "NBA Rookie of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAPLAYTOGETHER",
+  "title": "Pro Basketball Players to Play Together",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBANEXTCONTRACT",
+  "title": "Pro Basketball Next Contract Size",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDELAY",
+  "title": "NFL Weather Delay",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPIADVANCE",
+  "title": "NBA Play-In Team to Advance",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAAWARDFIN",
+  "title": "NBA Award Finalists",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSDET",
+  "title": "Pro football exact wins Detroit",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASEEDOU",
+  "title": "NBA Playoff Seed Over/Unders",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASEED",
+  "title": "NBA Playoff Seed",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSEASONPASSTDS",
+  "title": "Passing Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLOTWIN",
+  "title": "Pro Football Overtime Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2PTCONV",
+  "title": "Pro Football 2-Point Conversions",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXWNBASPREAD",
+  "title": "Women's Pro Basketball Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPR",
+  "title": "Pro Basketball Player Points + Rebounds",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNBABLK",
+  "title": "NBA BPG Leader",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSDEN",
+  "title": "Pro football exact wins Denver",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA2QWINNER",
+  "title": "NBA 2nd Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAFINALSMVP",
+  "title": "WNBA Finals MVP",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTEAMTOTAL",
+  "title": "Pro Football Team Total Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2QWINNER",
+  "title": "Pro Football 2nd Quarter Winner",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLGAMESPECIALS",
+  "title": "Pro Football Game Specials",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLINT",
+  "title": "Pro Football Interceptions",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBANEWCHAMP",
+  "title": "NBA First-Time Champion",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWEEKTIE",
+  "title": "NFL Weekly Tie",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBATEAMSALE",
+  "title": "Pro Basketball Team to be Sold",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAASSTARTERS",
+  "title": "NBA All-Star Starters",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTIE",
+  "title": "NFL Game to Tie",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPRA",
+  "title": "NBA Player Points + Rebounds + Assists",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPREPACK1Q1H",
+  "title": "MVE NFL Pre Pack",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNEXTCOACHOUTNBA",
+  "title": "Next coach out NBA",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTSELECT",
+  "title": "NFL Draft Exact Selection",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXRECORDNBABEST",
+  "title": "Best Pro Basketball Record",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLGPICKENSCONTRACT",
+  "title": "Pro Football George Picken's Next Contract Size",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAWORSTREC",
+  "title": "Women's Pro Basketball Worst Record",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL2H",
+  "title": "Pro Football 2nd Half",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDPOYSPECIALS",
+  "title": "NFL Defensive Player of the Year Specials",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLCAREERPASSTDS",
+  "title": "NFL Career Passing Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLPTS",
+  "title": "Pro Hockey Points",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBACUPGROUP",
+  "title": "NBA Cup Group Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAHALLOFFAME",
+  "title": "Pro Basketball Hall of Fame",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL4QSPREAD",
+  "title": "Pro Football 4th Quarter Spread",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBAFINALSMVP",
+  "title": "Finals MVP",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-DAL",
+  "title": "Pro football wins Dallas",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINSWEEK",
+  "title": "NFL wins by week",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBATRADE",
+  "title": "Pro Basketball Trade",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAESCALATORPTS",
+  "title": "NBA Player Points Escalator",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBA1QSPREAD",
+  "title": "Women's Pro Basketball 1st Quarter Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTEAMTD",
+  "title": "Pro Football Team Touchdowns",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBA2D",
+  "title": "NBA Player Double Double",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBARETURN",
+  "title": "Pro Basketball Player to Return",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSBMVPPOS",
+  "title": "Pro Football Championship MVP Position",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEQBTTS",
+  "title": "Pro Football Both Teams to Score in Every Quarter",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFTOU",
+  "title": "Pro Basketball Players Draft Position",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSEASONRSHYDS",
+  "title": "Rushing Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAPTSALLGAMES",
+  "title": "Pro Basketball Points in Every Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFTTOP15",
+  "title": "NBA Draft Top 15 Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBACENTRAL",
+  "title": "Pro Basketball Central Division Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBAAST",
+  "title": "Women's Pro Basketball Player Assists",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL1H",
+  "title": "Pro Football 1st Half Winner",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBACITYEXPAND",
+  "title": "NBA City Franchise Expansion",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTDPROT",
+  "title": "Pro Football Touchdowns Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDROY",
+  "title": "NFL Defensive Rookie of the Year",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAEXTENSION",
+  "title": "NBA Player Contract Extension",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAECFQUAL",
+  "title": "NBA Eastern Conference Finals Qualifiers",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA3PTPROT",
+  "title": "NBA Player Threes Protected",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAROTM",
+  "title": "NBA Rookie of the Month",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBADRAFT3",
+  "title": "WNBA Draft 3rd Pick",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLNFCNORTH",
+  "title": "National Football Conference North Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSNO",
+  "title": "Pro football exact wins New Orleans",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLLONGESTREC",
+  "title": "Longest Reception",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBACCUP",
+  "title": "WNBA Commissioner's Cup Winner",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAEAST",
+  "title": "Pro Basketball Eastern Conference Champion",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASUMMER",
+  "title": "Pro Basketball Summer League Champion",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBARISINGSTARS",
+  "title": "Pro Basketball Rising Stars Tournament",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBADRAFTTOP5",
+  "title": "WNBA Draft Top 5",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNFLAFCCHAMP",
+  "title": "American Football Conference Champion",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-CHI",
+  "title": "Pro football wins Chicago",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAPTS",
+  "title": "NBA Player Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBACONF",
+  "title": "NBA Conference to Win the Championship",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAPLAYOFFHOST",
+  "title": "Women's Pro Basketball Playoff Home Games",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWEEKMOSTRSHYDS",
+  "title": "Weekly Most Rushing Yards",
+  "frequency": "weekly"
+ },
+ {
+  "ticker": "KXNBAPA",
+  "title": "Pro Basketball Player Points + Assists",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAFTM",
+  "title": "NBA Player Free Throws Made",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLTSPEC",
+  "title": "NFL Team Specials",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSUPDRAFTPICK",
+  "title": "Will Player declare for supplemental draft",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL1QWINNER",
+  "title": "Pro Football 1st Quarter Winner",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBABENCHPTS",
+  "title": "NBA Bench Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAALLSTAR",
+  "title": "NBA All-Star game",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLDRAFT1",
+  "title": "NFL Draft First Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXWNBAREB",
+  "title": "Women's Pro Basketball Player Rebounds",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSACK",
+  "title": "Pro Football Sacks",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBACOY",
+  "title": "NBA Coach of the Year",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBAOT",
+  "title": "NBA Overtime",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLSERIESSPREAD",
+  "title": "NHL Series Game Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLPLAYOFFHOST",
+  "title": "Team to host a playoff game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTMATCHUP",
+  "title": "Pro Football Draft Matchup",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHL2OT",
+  "title": "NHL Double Overtime",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBAASGAME",
+  "title": "WNBA All Star Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBADRAFTTEAM",
+  "title": "Pro Basketball Team to Draft",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLTEAMTOTAL",
+  "title": "NHL Team Goals Scored During Game",
+  "frequency": "one_off"
+ },
+ {
+  "ticker": "KXNBAH2HPTS",
+  "title": "NBA Head-to-Head Points",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL3QBTTS",
+  "title": "Pro Football Both Teams to Score in 3rd Quarter",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLNEXTINT",
+  "title": "Pro Football Next Interception",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSDAL",
+  "title": "Pro football exact wins Dallas",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWINS-PIT",
+  "title": "Pro football wins Pittsburgh",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBATOJOINCBA",
+  "title": "NBA Players to Join the CBA",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNHLWINS",
+  "title": "NHL wins ",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLMOSTRSHYDS",
+  "title": "Pro Football Most Rushing Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFL1QSPREAD",
+  "title": "Pro Football 1st Quarter Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNCAAFFFFF",
+  "title": "NFL Draft Declare",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBAWEST1SEED",
+  "title": "NBA Western Conference 1 Seed",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBA2HTOTAL",
+  "title": "NBA 2nd Half Total",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXLEADERNBAAST",
+  "title": "NBA APG Leader",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBASERIESPTSLEADER",
+  "title": "Pro Basketball Series Points Leader",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWINS-LV",
+  "title": "Pro football wins Las Vegas",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLGAMESACK",
+  "title": "Pro Football Sacks",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLLONGESTPLAY",
+  "title": "NFL Longest Touchdown",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNBASPREAD",
+  "title": "NBA Spread",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLDRAFTOL",
+  "title": "Pro Football Offensive Line Drafted ",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSTB",
+  "title": "Pro football exact wins Tampa Bay",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNBANEWCHAMPION",
+  "title": "Pro Basketball New Champion",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLWPMOTY",
+  "title": "Walter Payton Man of the Year",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLEXACTWINSJAC",
+  "title": "Pro football exact wins Jacksonville",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXLEADERWNBAAST",
+  "title": "WNBA APG Leader",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLWEEKGAMEHIGH",
+  "title": "NFL Week Highest Scoring Game",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXNFLSEASONRUSHYDS",
+  "title": "Rushing Yards",
+  "frequency": "custom"
+ },
+ {
+  "ticker": "KXWNBADRAFT4",
+  "title": "WNBA Draft 4th Pick",
+  "frequency": "annual"
+ },
+ {
+  "ticker": "KXNFLDRAFTTEAMPOS",
+  "title": "Which team will draft a quarterback in specific round?",
+  "frequency": "custom"
+ }
+]
