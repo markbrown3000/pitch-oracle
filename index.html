@@ -171,6 +171,7 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
 .results details{background:var(--panel);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);margin-bottom:8px;overflow:hidden}
 .results summary{cursor:pointer;padding:11px 14px;font-weight:600;display:flex;justify-content:space-between;gap:10px}
 .results summary span{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--muted)}
+.rrow .ko{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .rrow{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:10px;align-items:center;padding:8px 14px;border-top:1px solid var(--line);font-size:13.5px}
 .rrow .sc{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .rrow .pk{font-size:12px;color:var(--muted);display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -637,8 +638,7 @@ const GROUPS=[
   ["scot","Scotland",["scot_prem","scot_champ","scot_l1","scot_l2"]],
   ["more","More of Europe",["eredivisie","belgium","primeira","super_lig","greece"]],
   ["rest","Rest of Europe",["austria","denmark","switzerland","poland","romania","norway","sweden","finland","ireland"]],
-  ["americas","Americas & Asia",["brazil","argentina","mexico","mls","japan","china"]],
-  ["cups","Cups",CUP_ORDER]];
+  ["americas","Americas & Asia",["brazil","argentina","mexico","mls","japan","china"]]];   // cups left out at Mark's request (too unpredictable); the cup code stays for the Claude version's refreshes
 const LEAGUE_ORDER=["epl","championship","league_one","league_two","national_league","la_liga","segunda","serie_a","serie_b","bundesliga","bundesliga_2","ligue_1","ligue_2","scot_prem","scot_champ","scot_l1","scot_l2","eredivisie","belgium","primeira","super_lig","greece","austria","denmark","switzerland","poland","romania","norway","sweden","finland","ireland","brazil","argentina","mexico","mls","japan","china"];
 const FAV_KEY="predictorFavs";
 let FAVS={teams:[],leagues:[]};try{const f=JSON.parse(localStorage.getItem(FAV_KEY)||"null");if(f&&Array.isArray(f.teams))FAVS={teams:f.teams,leagues:f.leagues||[]}}catch(e){}
@@ -1759,8 +1759,8 @@ function store(d){try{localStorage.setItem("predictorData",JSON.stringify(d))}ca
   try{const s={...d,predictions:Object.fromEntries(Object.entries(d.predictions||{}).filter(([k])=>!k.startsWith("backtest")))};localStorage.setItem("predictorData",JSON.stringify(s))}catch(e2){}}}
 function applyData(d,note){
   current=d;
-  state.leagues=d.leagues||{};state.cups=d.cups||{};
-  const P={};Object.values(d.predictions||{}).forEach(x=>{if(x&&x.items)Object.assign(P,x.items)});state.preds=P;
+  state.leagues=d.leagues||{};state.cups={};   // no cup ties on this site
+  const P={};Object.entries(d.predictions||{}).forEach(([k,x])=>{if(x&&x.items&&!k.startsWith("cups-"))for(const [id,v] of Object.entries(x.items))if(!(v&&v.cup))P[id]=v});state.preds=P;   // cup picks left out
   state.tuning=d.config||null;setTuning(state.tuning);
   if(state.tab!=="all"&&!state.leagues[state.tab])state.tab="all";
   if(!ALL_GROUPS().some(g=>g[0]===state.group))state.group="all";
