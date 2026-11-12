@@ -35,10 +35,11 @@ def best_of(text):
 def find_dates(text, year):
     """Every 'd Month [yyyy]' in text, as dates (year guessed when missing)."""
     out = []
-    for m in re.finditer(r"(\d{1,2})\s*(?:–\s*\d{1,2}\s*)?(January|February|March|April|May|June|July|August|September|October|November|December)(?:\s+(\d{4}))?", text or ""):
-        y = int(m.group(3)) if m.group(3) else year
-        try: out.append(datetime.date(y, MONTHS[m.group(2).lower()], int(m.group(1))))
-        except ValueError: pass
+    for m in re.finditer(r"(\d{1,2})\s*(?:[–-]\s*(\d{1,2})\s*)?(January|February|March|April|May|June|July|August|September|October|November|December)(?:\s+(\d{4}))?", text or ""):
+        y = int(m.group(4)) if m.group(4) else year
+        for dd in [m.group(1)] + ([m.group(2)] if m.group(2) else []):   # "14–22 November": both ends
+            try: out.append(datetime.date(y, MONTHS[m.group(3).lower()], int(dd)))
+            except ValueError: pass
     return out
 
 def event_range(text, title):
@@ -194,6 +195,36 @@ def parse_page(title, text):
             d = toks[i][2] or a0
             matches.append(dict(event=title, round="", section="", a=clean_name(na), b=clean_name(nb), sa=sa, sb=sb, bo=None, unit=None,
                                 date=d.isoformat() if d else None, avga=aa, avgb=ab, _pos=i))
+    # group stages (Grand Slam): before the results tables are posted, the group tables list who's in each group,
+    # so every pairing in a group is an upcoming match (round robin); pairs already in a results table are skipped
+    have = {frozenset((key(m["a"]), key(m["b"]))) for m in matches}
+    today = datetime.date.today()
+    for gi, (pos, h) in enumerate(heads):
+        g = re.fullmatch(r"Group ([A-Z]{1,2})", h)
+        if not g: continue
+        nxt = min([p for p, t in heads if p > pos] or [len(text)])
+        body = text[pos:nxt]
+        tbl = re.search(r"\{\|(.*?)\n\|\}", body, re.S)
+        if not tbl: continue
+        names = []
+        for ln in tbl.group(1).split("\n"):
+            if re.match(r"\s*\|\s*\d+\s*\|\|", ln):
+                f = FLAG.search(ln)
+                if f:
+                    n = clean_name(parse_flag(f.group(1))[0])
+                    if n and n.lower() not in ("tbd", "bye") and n not in names: names.append(n)
+        if not 3 <= len(names) <= 6: continue
+        bo, unit = best_of(re.sub(r"\{\{.*?\}\}", "", body))
+        if not bo: bo, unit = default_bo or 9, default_unit or "legs"
+        d = a0
+        if a0: d = min(max(today, a0), a0 + datetime.timedelta(days=3))
+        for i in range(len(names)):
+            for j in range(i + 1, len(names)):
+                pr = frozenset((key(names[i]), key(names[j])))
+                if pr in have: continue
+                have.add(pr)
+                matches.append(dict(event=title, round=h, section=h, a=names[i], b=names[j], sa=None, sb=None, bo=bo, unit=unit,
+                                    date=d.isoformat() if d else None, avga=None, avgb=None, group=True))
     # tables don't carry the format: take it from the nearest "best of N legs" in the page, or infer from the score
     for m in matches:
         if m["bo"] is None:

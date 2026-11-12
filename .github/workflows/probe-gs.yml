@@ -7,15 +7,12 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           pip install -q numpy && cd tools && python3 - <<'PY'
-          import re, collections, urllib.request, darts as E, darts_extra as DX
-          from darts_parse import parse_page
+          import re, collections, darts as E
+          from darts_parse import parse_page, event_range, best_of
           pg=E.fetch(["2025 Grand Slam of Darts","2026 Grand Slam of Darts"])
-          ms=parse_page("2025 Grand Slam of Darts", pg["2025 Grand Slam of Darts"])
-          print("2025 parsed", len(ms), collections.Counter((m["round"] or m["section"])[:20] for m in ms))
-          print([m for m in ms if "Group" in (m["round"] or m["section"] or "")][:3])
-          t=pg["2025 Grand Slam of Darts"]; i=t.find("====Group A"); print(t[i:i+3000])
-          t=pg["2026 Grand Slam of Darts"]; print("2026 head", t[:2500]); i=t.find("Qualif"); print(t[i:i+2500])
-          h=urllib.request.urlopen(urllib.request.Request("https://mastercaller.com/tournaments/grand-slam-of-darts/2025/results",headers=DX.UA)).read().decode()
-          toks=[(k,m.group(k).strip()) for m in DX.TOK.finditer(h) for k in m.groupdict() if m.group(k)]
-          print("mc2025", len(toks), collections.Counter(v for k,v in toks if k=="round")); print(toks[10:60])
+          t=pg["2026 Grand Slam of Darts"]
+          print("RANGE", event_range(t,"2026 Grand Slam of Darts"), "DEFBO", best_of(re.sub(r"\{\{.*?\}\}", "", t[:20000])))
+          for m in re.finditer(r"best of[^\n]{0,80}|first to[^\n]{0,80}", t, re.I): print("FMT", t[max(0,m.start()-150):m.end()].replace("\n"," "))
+          ms=parse_page("2026 Grand Slam of Darts", t); print("N", len(ms)); [print("M", m) for m in ms[:6]]
+          ms5=parse_page("2025 Grand Slam of Darts", pg["2025 Grand Slam of Darts"]); print("2025 N", len(ms5), sum(1 for m in ms5 if m.get("group")))
           PY
