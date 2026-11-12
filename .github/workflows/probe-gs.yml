@@ -5,16 +5,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pip install numpy scipy
       - run: |
-          cd tools && python3 - <<'PY'
-          import datetime, darts as E, darts_extra as DX, re, json
-          from darts_parse import parse_page, event_range
-          today=datetime.date.today()
-          ts=E.titles(today); print("GS titles:", [t for t in ts if "Grand" in t])
-          pg=E.fetch(["2026 Grand Slam of Darts"]); txt=pg.get("2026 Grand Slam of Darts","")
-          print("len", len(txt)); print("range", event_range(txt,"2026 Grand Slam of Darts"))
-          ms=parse_page("2026 Grand Slam of Darts", txt); print("parsed", len(ms)); [print(m) for m in ms[:5]]
-          i=txt.find("Group"); print(txt[i-200:i+4000]); print("PAGEHTML-WRITE"); open("/tmp/x","w")
-          x=DX.mc_upcoming("2026 Grand Slam of Darts",2026,datetime.date(2026,11,14)); print("mc", len(x)); [print(r) for r in x[:12]]
-          PY
+          mkdir -p probe
+          UA="Mozilla/5.0 (compatible; PitchOracle/1.0; +https://github.com/markbrown3000/pitch-oracle)"
+          for u in results fixtures schedule draw ""; do curl -sSL -A "$UA" -o "probe/mc_$u.html" -w "$u %{http_code} %{size_download} %{url_effective}\n" "https://mastercaller.com/tournaments/grand-slam-of-darts/2026/$u"; done
+          curl -sSL -A "$UA" -o probe/mc_2025.html -w "2025 %{http_code} %{size_download}\n" "https://mastercaller.com/tournaments/grand-slam-of-darts/2025/results"
+          curl -sSL -A "$UA" -o probe/mc_pcf.html -w "pcf %{http_code} %{size_download}\n" "https://mastercaller.com/tournaments/players-championship-finals/2026/results"
+      - uses: actions/upload-artifact@v4
+        with: {name: probe, path: probe}
