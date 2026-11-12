@@ -12,7 +12,7 @@ jobs:
           curl -sSL -A "$UA" -o probe/mc_2025.html -w "2025 %{http_code} %{size_download}\n" "https://mastercaller.com/tournaments/grand-slam-of-darts/2025/results"
           curl -sSL -A "$UA" -o probe/mc_pcf.html -w "pcf %{http_code} %{size_download}\n" "https://mastercaller.com/tournaments/players-championship-finals/2026/results"
       - run: |
-          cd tools && python3 - <<'PY'
+          pip install -q numpy && cd tools && python3 - <<'PY'
           import re, darts_extra as DX
           h=open("../probe/mc_results.html",encoding="utf-8",errors="replace").read()
           toks=[(k,m.group(k).strip()) for m in DX.TOK.finditer(h) for k in m.groupdict() if m.group(k)]
