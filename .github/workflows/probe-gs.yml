@@ -5,6 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: pip install numpy scipy
       - run: |
           cd tools && python3 - <<'PY'
           import datetime, darts as E, darts_extra as DX, re, json
@@ -14,6 +15,6 @@ jobs:
           pg=E.fetch(["2026 Grand Slam of Darts"]); txt=pg.get("2026 Grand Slam of Darts","")
           print("len", len(txt)); print("range", event_range(txt,"2026 Grand Slam of Darts"))
           ms=parse_page("2026 Grand Slam of Darts", txt); print("parsed", len(ms)); [print(m) for m in ms[:5]]
-          i=txt.find("Group"); print(txt[i-200:i+3500])
+          i=txt.find("Group"); print(txt[i-200:i+4000]); print("PAGEHTML-WRITE"); open("/tmp/x","w")
           x=DX.mc_upcoming("2026 Grand Slam of Darts",2026,datetime.date(2026,11,14)); print("mc", len(x)); [print(r) for r in x[:12]]
           PY
