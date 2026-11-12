@@ -1,0 +1,19 @@
+name: probe-gs
+on: workflow_dispatch
+jobs:
+  p:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          cd tools && python3 - <<'PY'
+          import datetime, darts as E, darts_extra as DX, re, json
+          from darts_parse import parse_page, event_range
+          today=datetime.date.today()
+          ts=E.titles(today); print("GS titles:", [t for t in ts if "Grand" in t])
+          pg=E.fetch(["2026 Grand Slam of Darts"]); txt=pg.get("2026 Grand Slam of Darts","")
+          print("len", len(txt)); print("range", event_range(txt,"2026 Grand Slam of Darts"))
+          ms=parse_page("2026 Grand Slam of Darts", txt); print("parsed", len(ms)); [print(m) for m in ms[:5]]
+          i=txt.find("Group"); print(txt[i-200:i+3500])
+          x=DX.mc_upcoming("2026 Grand Slam of Darts",2026,datetime.date(2026,11,14)); print("mc", len(x)); [print(r) for r in x[:12]]
+          PY
