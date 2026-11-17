@@ -173,8 +173,9 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
 .results summary span{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--muted)}
 .rrow .ko{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .rrow{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:10px;align-items:center;padding:8px 14px;border-top:1px solid var(--line);font-size:13.5px}
-.rrow .sc{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.rrow .pk{font-size:12px;color:var(--muted);display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rrow>div{min-width:0}
+.rrow .sc{display:block;overflow-wrap:anywhere}
+.rrow .pk{font-size:12px;color:var(--muted);display:block;overflow-wrap:anywhere}
 .rrow .res{font:600 11px/1 var(--body);letter-spacing:.06em;text-transform:uppercase;padding:4px 7px;border-radius:5px}
 .rrow .res.ok{background:var(--home);color:#fff}.rrow .res.no{background:var(--chip);color:var(--muted)}
 .sport{display:inline-flex;gap:0;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:4px;margin:0 0 14px}
@@ -272,6 +273,11 @@ a.btn{text-decoration:none;display:inline-flex;align-items:center}
 .ac-legs .mk{font-weight:700;text-align:center}
 .ac-legs .mk.y{color:var(--good)}.ac-legs .mk.n{color:var(--bad)}.ac-legs .mk.w{color:var(--muted)}
 .ac-legs .o{font:500 13px var(--mono);color:var(--muted)}
+.ac-books{margin-top:12px;border-top:1px solid var(--line);padding-top:10px}
+.ac-books ol{list-style:none;margin:6px 0 0;padding:0;display:grid;gap:3px}
+.ac-books li{display:flex;flex-wrap:wrap;justify-content:space-between;gap:2px 10px;font-size:13.5px;padding:3px 0}
+.ac-books li.top{font-weight:700}.ac-books li.top .o{color:var(--home)}
+.ac-books .o{font:500 13px var(--mono);color:var(--muted);font-variant-numeric:tabular-nums}
 .ac-legs small{color:var(--muted)}
 .ac-list{display:grid;gap:10px;margin-top:8px}
 
@@ -1476,6 +1482,9 @@ const fdB365=(r,c)=>{const h=fdNum(r["B365"+c+"H"]),d=fdNum(r["B365"+c+"D"]),a=f
 const fdNum=x=>{const v=parseFloat(x);return isFinite(v)?v:null};
 function fdProb(h,d,a){h=fdNum(h);d=fdNum(d);a=fdNum(a);if(!(h>1&&d>1&&a>1))return null;
   const ih=1/h,id=1/d,ia=1/a,t=ih+id+ia;return {h:+(100*ih/t).toFixed(1),d:+(100*id/t).toFixed(1),a:+(100*ia/t).toFixed(1)}}
+// each UK bookmaker football-data lists, for comparing acca prices
+const FD_BOOKS=[["B365","Bet365"],["SKB","Sky Bet"],["PP","Paddy Power"],["BFD","Betfred"],["BV","BetVictor"],["BW","Bwin"]];
+const fdBooks=r=>{const o={};FD_BOOKS.forEach(([c])=>{const h=fdNum(r[c+"H"])||fdNum(r[c+"CH"]),d=fdNum(r[c+"D"])||fdNum(r[c+"CD"]),a=fdNum(r[c+"A"])||fdNum(r[c+"CA"]);if(h>1&&d>1&&a>1)o[c]={h,d,a}});return Object.keys(o).length?o:null};
 const fdMax=(r,c)=>{const h=fdNum(r["Max"+c+"H"]),d=fdNum(r["Max"+c+"D"]),a=fdNum(r["Max"+c+"A"]);return h>1&&d>1&&a>1?{h,d,a}:null};
 const fdMaxOU=(r,c)=>{const o=fdNum(r["Max"+c+">2.5"]),u=fdNum(r["Max"+c+"<2.5"]);return o>1&&u>1?{o,u}:null};
 const fdB365OU=(r,c)=>{const o=fdNum(r["B365"+c+">2.5"]),u=fdNum(r["B365"+c+"<2.5"]);return o>1&&u>1?{o,u}:null};
@@ -1626,6 +1635,7 @@ function fdMerge(data,resultRows,fixtureRows){
       {const b=fdB365(r,"")||fdB365(r,"C");if(b)f.b365=b}
       {const b=fdB365OU(r,"")||fdB365OU(r,"C");if(b)f.b365ou=b}
       {const x=fdMax(r,"")||fdMax(r,"C");if(x)f.max=x;const xo=fdMaxOU(r,"")||fdMaxOU(r,"C");if(xo)f.maxou=xo}
+      {const bk=fdBooks(r);if(bk)f.books=bk}
       stats.fixtures++;
     });
     // drop fixtures that have now been played
@@ -2316,7 +2326,7 @@ function atBets(){
     if(!x.result||!["H","X","A"].includes(x.result.outcome)){
       if(x.backtest||!L||(x.start&&Date.parse(x.start)<now-4*864e5))continue; // cup ties have no Bet365 price in the data
       const f=L&&(L.fixtures||[]).find(ff=>ff.home===i.h&&ff.away===i.a);
-      wait.push({x,i,name,lg,date:x.start?keyFmt.format(new Date(x.start)):i.date,start:x.start,conf:x.conf,h:i.hn,a:i.an,odds:f?((at.price==="best"&&f.max?f.max:f.b365)||{})[OK[x.pick]]||null:null});seen.set(key,1);continue;
+      wait.push({x,i,name,lg,date:x.start?keyFmt.format(new Date(x.start)):i.date,start:x.start,conf:x.conf,h:i.hn,a:i.an,odds:f?((at.price==="best"&&f.max?f.max:f.b365)||{})[OK[x.pick]]||null:null,books:f&&f.books?Object.fromEntries(Object.entries(f.books).map(([k,v])=>[k,v[OK[x.pick]]])):null});seen.set(key,1);continue;
     }
     const day=Date.parse(i.date+"T12:00:00Z");
     const mt=L&&(L.matches||[]).find(mm=>mm.home===i.h&&mm.away===i.a&&Math.abs(Date.parse(mm.date+"T12:00:00Z")-day)<=3*864e5);
@@ -2414,8 +2424,16 @@ function acCard(next){
   if(started)c.append(el("p","bt-hint","These matches have kicked off. The acca moves into the running total once football-data.co.uk posts all six results, usually within a day or two."));
   else if(!next.full)c.append(el("p","bt-hint",next.count<6?`Only ${next.count} strong pick${next.count===1?"":"s"} that day so far, so no full acca yet.`:`Bet365 odds are in for ${next.priced} of these so far. The full acca odds appear once all six are priced.`));
   const ul=el("ul","ac-legs");next.legs.forEach(w=>{const li=el("li");li.append(el("span","mk w","•"));const t=el("span",null,w.name+" to win ");t.append(el("small",null,`${w.h} v ${w.a} · ${w.lg}`+(w.start?` · ${timeFmt.format(new Date(w.start))}`:"")+` · ${pct(w.conf)}`));li.append(t,el("span","o",w.odds?dec2(w.odds):"–"));ul.append(li)});c.append(ul);
+  let bestBook="Bet365";
+  if(!started&&next.legs.length===6){
+    const rows=FD_BOOKS.map(([c,nm])=>{const os=next.legs.map(w=>w.books&&w.books[c]);return os.every(o=>o>1)?{nm,odds:os.reduce((a,b)=>a*b,1)}:null}).filter(Boolean).sort((a,b)=>b.odds-a.odds);
+    if(rows.length){bestBook=rows[0].nm;const bx=el("div","ac-books");bx.append(el("div","label","Best acca price by bookmaker"));
+      const ul2=el("ol");rows.forEach((r,i)=>{const li=el("li",i?null:"top");li.append(el("span",null,r.nm),el("span","o",`${r.odds.toFixed(2)} · ${btG(at.stake)} wins ${btG(at.stake*(r.odds-1))}`));ul2.append(li)});bx.append(ul2);
+      const miss=FD_BOOKS.length-rows.length;
+      bx.append(el("p","bt-hint",`Prices from football-data.co.uk's latest odds posting (Tuesdays and Fridays), so they may have moved. Check for acca boosts or insurance on the day.`+(miss?` ${miss} bookmaker${miss===1?" doesn't":"s don't"} price all six legs in the data.`:"")));c.append(bx)}
+  }
   if(next.full&&!started){const b=el("button","btn ghost","Log this acca in Bets");b.type="button";b.style.marginTop="10px";
-    b.onclick=()=>btPrefill({d:next.date,e:`6-fold acca, ${next.legs.length} matches`,s:next.legs.map(w=>w.name).join(", "),o:odds.toFixed(2),m:"Accumulator",b:"Bet365",n:"Pitch Oracle strong-picks acca"});c.append(b)}
+    b.onclick=()=>btPrefill({d:next.date,e:`6-fold acca, ${next.legs.length} matches`,s:next.legs.map(w=>w.name).join(", "),o:odds.toFixed(2),m:"Accumulator",b:bestBook,n:"Pitch Oracle strong-picks acca"});c.append(b)}
   return c;
 }
 function acRender(done,wait){
